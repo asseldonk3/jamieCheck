@@ -1,0 +1,851 @@
+{
+  "offset": 0,
+  "numFound": 3,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 3,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 165.64,
+        "highestDiscount": 44,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": []
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "osEpQAoBogDmicnYeRLJFspyWV",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "osEpQAoBogDmicnYeRLJFspyWV",
+            "advertisementIdV3": "osEpQAoBogDmicnYeRLJFspyWV"
+          },
+          "shopItemId": 0,
+          "productId": "osEpQAoBogDmicnYeRLJFspyWV",
+          "ean": "",
+          "shopInfo": {
+            "id": 1,
+            "shopName": "bol.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 4200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/1.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-15T04:57:20+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "klantenservice@bol.com",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 1,
+            "shopItemId": 0,
+            "shopItemTitle": "Smoby Garden House - Speelhuis",
+            "shopItemDescription": "",
+            "shopItemVersion": "9300000023436905",
+            "shopName": "bol.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "osEpQAoBogDmicnYeRLJFspyWV",
+            "condition": "Nieuw",
+            "ean": "3032168104051",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://partner.bol.com/click/click?p=1&t=url&s=1126362&url=https%3a%2f%2fwww.bol.com%2fnl%2fnl%2fp%2fsmoby-garden-house-speelhuis%2f9300000023436905%2f",
+            "size": "",
+            "shopReviewScore": 4,
+            "shopReviewAmount": 39257,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 144,
+              "price": 165.64,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 233,
+              "price": 299.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "9300000023436905",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": "Smoby Garden House - Speelhuis - Met Spelfuncties",
+            "description": " Tuinhuis Garden HouseMet het Tuinhuis kan uw kind tuinieren leren terwijl hij geniet van zijn hut! Dit huisje is voorzien van 2 poorten, 2 ramen met luiken en 2 patrijspoorten. Het bevat een grote plantenbak, latwerk om potten op te hangen, een vogelvoederbak, een wateropvangbak met gieter en een nomadisch werkplan. Inclusief 3 gereedschappen, 6 potten, 1 leisteen, moestuinborden en een tuinboekje. Geschikt voor kinderen vanaf 2 jaar.",
+            "descriptionRaw": " <h2>Tuinhuis Garden House</h2><p>Met het Tuinhuis kan uw kind tuinieren leren terwijl hij geniet van zijn hut! Dit huisje is voorzien van 2 poorten, 2 ramen met luiken en 2 patrijspoorten. Het bevat een grote plantenbak, latwerk om potten op te hangen, een vogelvoederbak, een wateropvangbak met gieter en een nomadisch werkplan. Inclusief 3 gereedschappen, 6 potten, 1 leisteen, moestuinborden en een tuinboekje. Geschikt voor kinderen vanaf 2 jaar.</p>"
+          },
+          "priceHistory": {
+            "lowestPrice": 165.64
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 162.67
+          },
+          "title": "Smoby Garden House - Speelhuis",
+          "fixedTitle": "Smoby Garden House - Speelhuis",
+          "indexIdentifierTimeStamp": 1744737699,
+          "description": "Met het Tuinhuis kan uw kind tuinieren leren terwijl hij geniet van zijn hut! Voorzien van 2 poorten, 2 ramen met luiken en 2 patrijspoorten, het Garden House heeft ook veel spelfuncties: een grote plantenbak, een latwerk om kleine potten op te hangen en de vogelvoederbak, en een wateropvangbak met zijn gieter. Met een nomadisch werkplan kan uw kind alles hebben binnen handbereik dankzij de verschillende steunen en opbergruimtes! Veel accessoires zijn inbegrepen om de speelfuncties te verbeteren: 3 gereedschappen (schep, hark, dibbler), 6 potten, 1 leisteen om nota te nemen van uw aanplant, borden bedoeld voor de moestuin (met een leisteenstructuur om met krijt te schrijven) en een boekje van de kleine tuinman met 3 clips om labels of zaadzakjes aan op te hangen. U kunt uw huis lang in uw tuin houden dankzij zijn stabiele en resistente structuur en zijn anti-uv-behandeling die garandeert zekere robuustheid en beter kleurbehoud na verloop van tijd! Tuinieren heeft geen geheimen meer voor uw kind! Vanaf 2 jaar - Made in France",
+          "descriptionRaw": "Met het Tuinhuis kan uw kind tuinieren leren terwijl hij geniet van zijn hut! Voorzien van 2 poorten, 2 ramen met luiken en 2 patrijspoorten, het Garden House heeft ook veel spelfuncties: een grote plantenbak, een latwerk om kleine potten op te hangen en de vogelvoederbak, en een wateropvangbak met zijn gieter. Met een nomadisch werkplan kan uw kind alles hebben binnen handbereik dankzij de verschillende steunen en opbergruimtes! Veel accessoires zijn inbegrepen om de speelfuncties te verbeteren: 3 gereedschappen (schep, hark, dibbler), 6 potten, 1 leisteen om nota te nemen van uw aanplant, borden bedoeld voor de moestuin (met een leisteenstructuur om met krijt te schrijven) en een boekje van de kleine tuinman met 3 clips om labels of zaadzakjes aan op te hangen. U kunt uw huis lang in uw tuin houden dankzij zijn stabiele en resistente structuur en zijn anti-uv-behandeling die garandeert zekere robuustheid en beter kleurbehoud na verloop van tijd! Tuinieren heeft geen geheimen meer voor uw kind! Vanaf 2 jaar - Made in France",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "332-osEpQAoBogDmicnYeRLJFspyWV",
+          "categoryId": 9003101,
+          "mainCategoryId": 332,
+          "mainCategoryUrl": "speelgoed_spelletjes",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            1
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 971,
+                "width": 1197
+              },
+              "type": "mainImage",
+              "url": "osEpQAoBogDmicnYeRLJFspyWV/394/{size}/682d0ef104cfb94849d9d058a88a7d14/Speelhuisjes/Smoby-Garden-House-Speelhuis.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 1345,
+          "brandName": "Smoby",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 8051,
+          "popularityData": {
+            "clickFactor": 3272,
+            "webshopsRevenuePerClick": 1.77,
+            "roasPercentage": 10000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 23:00 uur besteld, volgende dag in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 46,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Smoby",
+              "values": [
+                {
+                  "id": 1345,
+                  "caption": "Smoby",
+                  "columnValue": "Smoby",
+                  "crawlable": true,
+                  "detailValue": "Smoby",
+                  "fullId": "46_1345",
+                  "sequence": 2528,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 47,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Bol.com",
+              "values": [
+                {
+                  "id": 1401,
+                  "caption": "Bol.com",
+                  "columnValue": "Bol.com",
+                  "crawlable": true,
+                  "detailValue": "Bol.com",
+                  "fullId": "47_1401",
+                  "sequence": 100,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2986,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Plastic",
+              "values": [
+                {
+                  "id": 401167,
+                  "caption": "Plastic",
+                  "columnValue": "Plastic",
+                  "crawlable": true,
+                  "detailValue": "Plastic",
+                  "fullId": "2986_401167",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3006,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Multicolor",
+              "values": [
+                {
+                  "id": 23805164,
+                  "caption": "Multicolor",
+                  "columnValue": "Multicolor",
+                  "crawlable": true,
+                  "detailValue": "Multicolor",
+                  "fullId": "3006_23805164",
+                  "sequence": 18,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-3032168104051",
+          "revenuePerClick": 0.02,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 165.64,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 8,
+            "rating": 98
+          },
+          "labels": [],
+          "discountPercentage": 44,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "discount",
+              "value": 44
+            }
+          ]
+        },
+        {
+          "id": "baNEXhzwCRL58ouATg529vDzAHw",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "baNEXhzwCRL58ouATg529vDzAHw",
+            "advertisementIdV3": "baNEXhzwCRL58ouATg529vDzAHw"
+          },
+          "shopItemId": 0,
+          "productId": "baNEXhzwCRL58ouATg529vDzAHw",
+          "ean": "",
+          "shopInfo": {
+            "id": 641578,
+            "shopName": "Hermie.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 6,
+            "productCount": 3104,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/641578.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-15T04:58:17+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 23550,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@hermie.eu",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 36,
+                "name": "Apple Pay"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 641578,
+            "shopItemId": 0,
+            "shopItemTitle": "Smoby Garden House speelhuisje - perfect voor de kleine (moes)tuinier!",
+            "shopItemDescription": "",
+            "shopItemVersion": "201801936",
+            "shopName": "Hermie.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "baNEXhzwCRL58ouATg529vDzAHw",
+            "condition": "Nieuw",
+            "ean": "3032168104051",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://hermie.com/nl-nl/201801936/smoby-garden-house-speelhuisje-perfect-voor-de-kleine-moes-tuinier?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 233,
+              "price": 354.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "201801936",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": "Smoby Garden House - Speelhuis - Met Spelfuncties",
+            "description": " Tuinhuis Garden HouseMet het Tuinhuis kan uw kind tuinieren leren terwijl hij geniet van zijn hut! Dit huisje is voorzien van 2 poorten, 2 ramen met luiken en 2 patrijspoorten. Het bevat een grote plantenbak, latwerk om potten op te hangen, een vogelvoederbak, een wateropvangbak met gieter en een nomadisch werkplan. Inclusief 3 gereedschappen, 6 potten, 1 leisteen, moestuinborden en een tuinboekje. Geschikt voor kinderen vanaf 2 jaar.",
+            "descriptionRaw": " <h2>Tuinhuis Garden House</h2><p>Met het Tuinhuis kan uw kind tuinieren leren terwijl hij geniet van zijn hut! Dit huisje is voorzien van 2 poorten, 2 ramen met luiken en 2 patrijspoorten. Het bevat een grote plantenbak, latwerk om potten op te hangen, een vogelvoederbak, een wateropvangbak met gieter en een nomadisch werkplan. Inclusief 3 gereedschappen, 6 potten, 1 leisteen, moestuinborden en een tuinboekje. Geschikt voor kinderen vanaf 2 jaar.</p>"
+          },
+          "priceHistory": {
+            "lowestPrice": 165.64
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 162.67
+          },
+          "title": "Smoby Garden House speelhuisje - perfect voor de kleine (moes)tuinier!",
+          "fixedTitle": "Smoby Garden House speelhuisje - perfect voor de kleine (moes)tuinier!",
+          "indexIdentifierTimeStamp": 1744737699,
+          "description": "Ontdek een nieuwe wereld van plezier voor je kleine tuinier met ons Smoby Garden House speelhuisje! Vind je jouw hummel vaak terug in je plantenbakken? Dan is dit Garden buitenspeelhuisje de oplossing om je planten te ontzien \u00e9n kan jouw kleine moestuinier zich helemaal uitleven in de tuin!&nbsp;&#129489;\u200d&#127806;Ons speelhuisje is voorzien van alle benodigde tools voor kleine tuiniers om hun eigen bloemen en groenten te planten en te verzorgen. Met een mini schop en hark kunnen kinderen hun creativiteit de vrije loop laten, en leren hoe ze voor hun eigen tuin moeten zorgen. Het plantenrekje biedt extra ruimte om bloemen en planten op te hangen, terwijl de wateropvangbak en gieter ervoor zorgen dat de planten voldoende water krijgen.Het Garden House speelhuisje heeft niet alleen praktische functies, maar is ook zeer mooi vormgegeven. Het huisje heeft twee deuren, twee ramen met luiken en twee patrijspoorten. Het is voorzien van een grote plantenbak en een latwerk waar je kleine spruit een aantal potjes aan kan ophangen. Ook is er een vogelvoederhuisje inbegrepen.Bovendien is het Garden speelhuisje zeer duurzaam. Het is gemaakt van een combinatie van geblazen plastic zijwanden en ge\u00efnjecteerde gevels, waardoor het stabiel en bestendig is. De kunststof onderdelen zijn behandeld tegen UV-straling voor een langere levensduur en kleurvastheid.Onze set wordt geleverd met alles wat je nodig hebt om aan de slag te gaan: 3 gereedschappen (schop, hark en plantenbak) en 6 potten. Bovendien is er een lei om je beplanting bij te houden, bordjes voor de moestuin en een tuiniersboekje met 3 clips om etiketten of zaadpakketten op te hangen. Met rekken en opbergruimte heb je alles binnen handbereik!Cre\u00eber een geweldige buitenruimte voor je kinderen met het Smoby Garden speelhuisje. Het zal hun creativiteit en verbeelding stimuleren, terwijl ze leren hoe ze voor hun eigen tuin kunnen zorgen. Bestel nu en maak van je achtertuin de ultieme speelplek voor je kinderen!&#128587;&nbsp;Tip van Marcel: breid het speelhuisje uit met nog allerlei leuke accessoires zoals een deurbel met geluid, picknicktafel of buitenkeuken!&nbsp;Geschikt voor kids vanaf 2 jaar.Over Smoby:Smoby is de nummer 1 voor jouw kids! Het maakt educatief speelgoed die de zintuigen en creativiteit stimuleert. Zo kunnen kinderen van 0 tot 10 jaar de wereld op een speelse manier ontdekken! Het speelgoed is gemaakt van duurzame kunststof en gerecycleerde topmaterialen&nbsp;",
+          "descriptionRaw": "<p><b>Ontdek een nieuwe wereld van plezier voor je kleine tuinier met ons Smoby Garden House speelhuisje! Vind je jouw hummel vaak terug in je plantenbakken? Dan is dit Garden buitenspeelhuisje de oplossing om je planten te ontzien \u00e9n kan jouw kleine moestuinier zich helemaal uitleven in de tuin!&nbsp;</b>&#129489;\u200d&#127806;<b><br></b></p><p>Ons speelhuisje is voorzien van alle benodigde tools voor kleine tuiniers om hun eigen bloemen en groenten te planten en te verzorgen. Met een <b>mini schop </b>en <b>hark</b> kunnen kinderen hun creativiteit de vrije loop laten, en leren hoe ze voor hun eigen tuin moeten zorgen. Het <b>plantenrekje </b>biedt extra ruimte om bloemen en planten op te hangen, terwijl de <b>wateropvangbak </b>en <b>gieter </b>ervoor zorgen dat de planten voldoende water krijgen.<br><br>Het Garden House speelhuisje heeft niet alleen praktische functies, maar is ook zeer mooi vormgegeven. Het huisje heeft twee deuren, twee ramen met luiken en twee patrijspoorten. Het is voorzien van een<b> grote plantenbak </b>en een latwerk waar je kleine spruit een aantal potjes aan kan ophangen. Ook is er een <b>vogelvoederhuisje </b>inbegrepen.<br><br>Bovendien is het Garden speelhuisje zeer duurzaam. Het is gemaakt van een combinatie van geblazen plastic zijwanden en ge\u00efnjecteerde gevels, waardoor het <b>stabiel en bestendig </b>is. De kunststof onderdelen zijn <b>behandeld tegen UV-straling</b> voor een langere levensduur en kleurvastheid.<br><br>Onze set wordt geleverd met alles wat je nodig hebt om aan de slag te gaan: <b>3 gereedschappen</b> (schop, hark en plantenbak) en <b>6 potten</b>. Bovendien is er een lei om je beplanting bij te houden, bordjes voor de moestuin en een tuiniersboekje met 3 clips om etiketten of zaadpakketten op te hangen. Met rekken en opbergruimte heb je alles binnen handbereik!<br><br>Cre\u00eber een geweldige buitenruimte voor je kinderen met het Smoby Garden speelhuisje. Het zal hun creativiteit en verbeelding stimuleren, terwijl ze leren hoe ze voor hun eigen tuin kunnen zorgen. Bestel nu en maak van je achtertuin de ultieme speelplek voor je kinderen!</p><p><b><i><br></i></b>&#128587;&nbsp;<b><i>Tip van Marcel:</i></b> breid het speelhuisje uit met nog allerlei leuke accessoires zoals een deurbel met geluid, picknicktafel of buitenkeuken!&nbsp;</p><p><i>Geschikt voor kids vanaf 2 jaar.</i></p><hr><p><strong><u>Over Smoby:<br></u></strong>Smoby is de nummer 1 voor jouw kids! Het maakt educatief speelgoed die de zintuigen en creativiteit stimuleert. Zo kunnen kinderen van 0 tot 10 jaar de wereld op een speelse manier ontdekken! Het speelgoed is gemaakt van duurzame kunststof en gerecycleerde topmaterialen&nbsp;</p><p><iframe frameborder=\"0\" src=\"//www.youtube.com/embed/nnNe7ojWcXw\" width=\"640\" height=\"360\" class=\"note-video-clip\" unselectable=\"on\"></iframe><br></p>",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "332-baNEXhzwCRL58ouATg529vDzAHw",
+          "categoryId": 9003101,
+          "mainCategoryId": 332,
+          "mainCategoryUrl": "speelgoed_spelletjes",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            641578
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1198,
+                "width": 1326
+              },
+              "type": "mainImage",
+              "url": "baNEXhzwCRL58ouATg529vDzAHw/394/{size}/a2bb3f558f58078615504bf8e041c830/Speelhuisjes/Smoby-Garden-House-speelhuisje-perfect-voor-de-kleine-(moes)tuinier!.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 1345,
+          "brandName": "Smoby",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 5014,
+          "popularityData": {
+            "clickFactor": 132,
+            "webshopsRevenuePerClick": 3,
+            "roasPercentage": 750
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 5 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 46,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Smoby",
+              "values": [
+                {
+                  "id": 1345,
+                  "caption": "Smoby",
+                  "columnValue": "Smoby",
+                  "crawlable": true,
+                  "detailValue": "Smoby",
+                  "fullId": "46_1345",
+                  "sequence": 2528,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3046,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "thema_speelgoed",
+              "value": "Buitenspeelgoed",
+              "values": [
+                {
+                  "id": 424698,
+                  "caption": "Buitenspeelgoed",
+                  "columnValue": "Buitenspeelgoed",
+                  "crawlable": true,
+                  "detailValue": "Buitenspeelgoed",
+                  "fullId": "3046_424698",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-3032168104051",
+          "revenuePerClick": 0.4,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 0,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 165.64,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 8,
+            "rating": 98
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "45YEaQYPJeXCCtafELj59ijTcsVx",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "45YEaQcuesiZ9JYnsnHYzQtccLMZ",
+            "advertisementIdV3": "45YEaQYPJeXCCtafELj59ijTcsVx"
+          },
+          "shopItemId": 0,
+          "productId": "45YEaQYPJeXCCtafELj59ijTcsVx",
+          "ean": "",
+          "shopInfo": {
+            "id": 652508,
+            "shopName": "Tradeinn.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 56760,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652508.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-15T04:58:10+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 38713,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 652508,
+            "shopItemId": 0,
+            "shopItemTitle": "Smoby Maxi Garden House Klein Huis",
+            "shopItemDescription": "",
+            "shopItemVersion": "17481218-139273495",
+            "shopName": "Tradeinn.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "45YEaQYPJeXCCtafELj59ijTcsVx",
+            "condition": "Nieuw",
+            "ean": "3032168104051",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://tnkdbf.tradeinn.com/ts/i5034776/tsc?tst=!!TIME_STAMP!!&amc=pricecomp.blbn.524673.534248.14347688&pid=139273495&rmd=3&typ=r&smc1=UUID_placeholder&smc5=GCLID_placeholder&trg=https%3A%2F%2Fwww.tradeinn.com%2Fkidinn%2Fnl%2Fsmoby-maxi-garden-house-klein-huis%2F139273495%2Fp%3Futm_medium%3Dbelboon%26id_producte%3D17481218%26country%3DNL",
+            "size": "",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 377,
+              "price": 565.49,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "17481218",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": "Smoby Garden House - Speelhuis - Met Spelfuncties",
+            "description": " Tuinhuis Garden HouseMet het Tuinhuis kan uw kind tuinieren leren terwijl hij geniet van zijn hut! Dit huisje is voorzien van 2 poorten, 2 ramen met luiken en 2 patrijspoorten. Het bevat een grote plantenbak, latwerk om potten op te hangen, een vogelvoederbak, een wateropvangbak met gieter en een nomadisch werkplan. Inclusief 3 gereedschappen, 6 potten, 1 leisteen, moestuinborden en een tuinboekje. Geschikt voor kinderen vanaf 2 jaar.",
+            "descriptionRaw": " <h2>Tuinhuis Garden House</h2><p>Met het Tuinhuis kan uw kind tuinieren leren terwijl hij geniet van zijn hut! Dit huisje is voorzien van 2 poorten, 2 ramen met luiken en 2 patrijspoorten. Het bevat een grote plantenbak, latwerk om potten op te hangen, een vogelvoederbak, een wateropvangbak met gieter en een nomadisch werkplan. Inclusief 3 gereedschappen, 6 potten, 1 leisteen, moestuinborden en een tuinboekje. Geschikt voor kinderen vanaf 2 jaar.</p>"
+          },
+          "priceHistory": {
+            "lowestPrice": 165.64
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 162.67
+          },
+          "title": "Smoby Maxi Garden House Klein Huis",
+          "fixedTitle": "Smoby Maxi Garden House Klein Huis",
+          "indexIdentifierTimeStamp": 1744737699,
+          "description": "Met het Tuinhuis kan uw kind leren tuinieren terwijl hij geniet van zijn hut! Uitgerust met 2 halve deuren, 2 ramen met paneelluiken en 2 patrijspoorten, heeft het tuinhuis ook veel speelfuncties: een echte plantenbak, een latwerk om enkele bloempotten en het vogelvoeder te bevestigen, en de regenton met zijn gieter . Met een mobiele werktafel heeft uw kind alle benodigde accessoires bij de hand dankzij de verschillende standaards en opbergruimtes! Veel accessoires zijn inbegrepen om speelfuncties op te fleuren: 3 gereedschappen (schep, hark, dribbel), 6 potten, een lei om aanplantingen te noteren, kleine spandoeken voor de moestuin (met een leisteenstructuur om met krijt te schrijven), en het kleine tuinboekje met 3 klemmen om etiketten of zaadzakjes aan op te hangen. Je zult je speelhuisje lang in je tuin kunnen houden dankzij de stabiele en stevige structuur en de anti-UV-behandeling die zorgt voor een goede weerstand en kleurvastheid in de loop van de tijd!",
+          "descriptionRaw": "Met het Tuinhuis kan uw kind leren tuinieren terwijl hij geniet van zijn hut! Uitgerust met 2 halve deuren, 2 ramen met paneelluiken en 2 patrijspoorten, heeft het tuinhuis ook veel speelfuncties: een echte plantenbak, een latwerk om enkele bloempotten en het vogelvoeder te bevestigen, en de regenton met zijn gieter . Met een mobiele werktafel heeft uw kind alle benodigde accessoires bij de hand dankzij de verschillende standaards en opbergruimtes! Veel accessoires zijn inbegrepen om speelfuncties op te fleuren: 3 gereedschappen (schep, hark, dribbel), 6 potten, een lei om aanplantingen te noteren, kleine spandoeken voor de moestuin (met een leisteenstructuur om met krijt te schrijven), en het kleine tuinboekje met 3 klemmen om etiketten of zaadzakjes aan op te hangen. Je zult je speelhuisje lang in je tuin kunnen houden dankzij de stabiele en stevige structuur en de anti-UV-behandeling die zorgt voor een goede weerstand en kleurvastheid in de loop van de tijd!",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "pim",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "332-45YEaQcuesiZ9JYnsnHYzQtccLMZ",
+          "categoryId": 9003101,
+          "mainCategoryId": 332,
+          "mainCategoryUrl": "speelgoed_spelletjes",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            652508
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 869,
+                "width": 967
+              },
+              "type": "mainImage",
+              "url": "45YEaQYPJeXCCtafELj59ijTcsVx/394/{size}/c0e65d8071c803480b59a25544073449/Speelhuisjes/Smoby-Maxi-Garden-House-Klein-Huis.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 972,
+                "width": 870
+              },
+              "type": "alternativeImage",
+              "url": "45YEaQYPJeXCCtafELj59ijTcsVx/15376/{size}/e7c485252218cde3f5636fcb5ba91de0/Speelhuisjes/Smoby-Maxi-Garden-House-Klein-Huis.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 767,
+                "width": 999
+              },
+              "type": "alternativeImage",
+              "url": "45YEaQYPJeXCCtafELj59ijTcsVx/15378/{size}/8c2b6a3da255fc2ad92f97c22bbf78fd/Speelhuisjes/Smoby-Maxi-Garden-House-Klein-Huis.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 919,
+                "width": 917
+              },
+              "type": "alternativeImage",
+              "url": "45YEaQYPJeXCCtafELj59ijTcsVx/15379/{size}/b1a048cccb2b46fb165349900b60d1b3/Speelhuisjes/Smoby-Maxi-Garden-House-Klein-Huis.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 1345,
+          "brandName": "Smoby",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 16,
+          "popularityData": {
+            "clickFactor": 15,
+            "webshopsRevenuePerClick": 0.07,
+            "roasPercentage": 1600
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "12 werkdagen",
+          "deliveryTimeSort": 5,
+          "deliveryCosts": 104.99,
+          "facets": [
+            {
+              "id": 46,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Smoby",
+              "values": [
+                {
+                  "id": 1345,
+                  "caption": "Smoby",
+                  "columnValue": "Smoby",
+                  "crawlable": true,
+                  "detailValue": "Smoby",
+                  "fullId": "46_1345",
+                  "sequence": 2528,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-3032168104051",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 2,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 165.64,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 8,
+            "rating": 98
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

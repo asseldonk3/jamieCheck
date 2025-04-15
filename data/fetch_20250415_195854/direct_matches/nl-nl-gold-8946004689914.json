@@ -1,0 +1,360 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 32.99,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": []
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3G6ftwk9DmkdnKbYr7Fkezu1bxhH",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3G6ftwk9DmkdnKbYr7Fkezu1bxhH",
+            "advertisementIdV3": "3G6ftwk9DmkdnKbYr7Fkezu1bxhH"
+          },
+          "shopItemId": 968947478,
+          "productId": "3G6ftwk9DmkdnKbYr7Fkezu1bxhH",
+          "ean": "",
+          "shopInfo": {
+            "id": 16034,
+            "shopName": "Drogist.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 3,
+            "productCount": 75046,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/16034.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-15T05:02:26+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Drogist.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 2016,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 16034,
+            "shopItemId": 968947478,
+            "shopItemTitle": "Voltaren Emulgel extra sterk 2,32% gel - nieuwe dop 150 Gram",
+            "shopItemDescription": "",
+            "shopItemVersion": "160042",
+            "shopName": "Drogist.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3G6ftwk9DmkdnKbYr7Fkezu1bxhH",
+            "condition": "Nieuw",
+            "ean": "8946004689914",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.drogist.nl/voltaren-emulgel-extra-sterk-232-gel-nieuwe-dop-150-gram.htm?channable=004ab86964003136303034327c&utm_campaign=feed&utm_content=Gezondheid%20%3E%20Geneesmiddelen%20%3E%20Spieren%20%26%20Gewrichten%20%3E%20Gewrichten%20%3E%20Uitwendig%20Gebruik%20Voltaren&utm_source=beslist&utm_medium=cpc&utm_term=160042",
+            "size": "",
+            "shopReviewScore": 9.4,
+            "shopReviewAmount": 85784,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 21,
+              "price": 32.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "160042",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 25.23
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Voltaren Emulgel extra sterk 2,32% gel - nieuwe dop 150gr",
+          "fixedTitle": "Voltaren Emulgel extra sterk 2,32% gel 150gr",
+          "indexIdentifierTimeStamp": 1744738412,
+          "description": "Voltaren Emulgel extra sterk 2,32% gel - nieuwe dop 150gr op voorraad. Voor 23:00 besteld, morgen in huis. Profiteer van gratis verzending.",
+          "descriptionRaw": "Voltaren Emulgel extra sterk 2,32% gel - nieuwe dop 150gr op voorraad. Voor 23:00 besteld, morgen in huis. Profiteer van gratis verzending.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1147534280,
+          "gtinGroupId": "286-3G6ftwk9DmkdnKbYr7Fkezu1bxhH",
+          "categoryId": 9002302,
+          "mainCategoryId": 286,
+          "mainCategoryUrl": "gezond_mooi",
+          "csvId": 1229508180936,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            16034
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 207,
+                "width": 378
+              },
+              "type": "mainImage",
+              "url": "3G6ftwk9DmkdnKbYr7Fkezu1bxhH/394/{size}/71d65c2c0ad8c60090f40ffa705e3f8a/Spierbalsems/Voltaren-Emulgel-extra-sterk-2%2c32%25-gel-150gr.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 252185,
+          "brandName": "Voltaren",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2023-02-16 00:00:00",
+          "popularity": 24142,
+          "popularityData": {
+            "clickFactor": 419,
+            "webshopsRevenuePerClick": 5.53,
+            "roasPercentage": 900
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 23:00 uur besteld, morgen in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 114,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Voltaren",
+              "values": [
+                {
+                  "id": 252185,
+                  "caption": "Voltaren",
+                  "columnValue": "Voltaren",
+                  "crawlable": true,
+                  "detailValue": "Voltaren",
+                  "fullId": "114_252185",
+                  "sequence": 3598,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 115,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Drogist.nl",
+              "values": [
+                {
+                  "id": 1296939,
+                  "caption": "Drogist.nl",
+                  "columnValue": "Drogist.nl",
+                  "crawlable": true,
+                  "detailValue": "Drogist.nl",
+                  "fullId": "115_1296939",
+                  "sequence": 214,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4710,
+              "name": "Toediening",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "t_toediening",
+              "value": "Gel",
+              "values": [
+                {
+                  "id": 9287228,
+                  "caption": "Gel",
+                  "columnValue": "Gel",
+                  "crawlable": true,
+                  "detailValue": "Gel",
+                  "fullId": "4710_9287228",
+                  "sequence": 10,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6245,
+              "name": "Inhoud",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "inhoud_ml",
+              "value": "150 gr",
+              "values": [
+                {
+                  "id": 23754875,
+                  "caption": "150 gr",
+                  "columnValue": "150 gr",
+                  "crawlable": false,
+                  "detailValue": "150 gr",
+                  "fullId": "6245_23754875",
+                  "sequence": 93,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6414,
+              "name": "Productlijn",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pl_geneesmiddelen",
+              "value": "Emulgel Extra Sterk",
+              "values": [
+                {
+                  "id": 23754967,
+                  "caption": "Emulgel Extra Sterk",
+                  "columnValue": "Emulgel Extra Sterk",
+                  "crawlable": true,
+                  "detailValue": "Emulgel Extra Sterk",
+                  "fullId": "6414_23754967",
+                  "sequence": 72,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "16034-160042",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8946004689914",
+          "revenuePerClick": 0.61,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 32.99,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 9.4,
+              "amount": 85784
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

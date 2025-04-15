@@ -1,0 +1,1076 @@
+{
+  "offset": 0,
+  "numFound": 24,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 24,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 86.99,
+        "highestDiscount": 20,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": []
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3vdRdYvuPC1GAHtML6P8YB7gXPXP",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3vdRdYwAvWMMLhvnnQJvfvC9Hi6R",
+            "advertisementIdV3": "3vdRdYvuPC1GAHtML6P8YB7gXPXP"
+          },
+          "shopItemId": 0,
+          "productId": "3vdRdYvuPC1GAHtML6P8YB7gXPXP",
+          "ean": "",
+          "shopInfo": {
+            "id": 650705,
+            "shopName": "Stradava.eu",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "WW",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": false,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 12,
+            "productCount": 480000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/650705.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-15T05:40:30+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 25961,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "klantenservice@twaiko.eu",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 1,
+                "name": "Q-Shop"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 650705,
+            "shopItemId": 0,
+            "shopItemTitle": "Narciso Rodriguez voor Her EDP 50 ml",
+            "shopItemDescription": "",
+            "shopItemVersion": "1346064-7629390",
+            "shopName": "Stradava.eu",
+            "shopType": "WW",
+            "productIdentifier": "",
+            "productIdV3": "3vdRdYvuPC1GAHtML6P8YB7gXPXP",
+            "condition": "Nieuw",
+            "ean": "3423470890136",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.stradava.eu/nl/narciso-rodriguez-voor-her-edp-50-ml/p/1346064?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "",
+            "shopReviewScore": 6.78,
+            "shopReviewAmount": 16,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 55,
+              "price": 86.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "1346064",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "939-29000",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 52.19
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 52.73
+          },
+          "title": "Narciso Rodriguez voor Her EDP 50 ml",
+          "fixedTitle": "Narciso Rodriguez voor Her EDP 50 ml",
+          "indexIdentifierTimeStamp": 1744739950,
+          "description": "Narciso Rodriguez voor Her EDP 50 ml",
+          "descriptionRaw": "Narciso Rodriguez voor Her EDP 50 ml",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "29000-3vdRdYwAvWMMLhvnnQJvfvC9Hi6R",
+          "categoryId": 9000239,
+          "mainCategoryId": 29000,
+          "mainCategoryUrl": "parfum_aftershave",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 24,
+          "shopIds": [
+            650705
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 631
+              },
+              "type": "mainImage",
+              "url": "pim/3423470890136/394/{size}/e716ff256f7ab41438dab08891c9743b/Parfums/Narciso-Rodriguez-voor-Her-EDP-50-ml.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 859,
+                "width": 978
+              },
+              "type": "alternativeImage",
+              "url": "pim/3423470890136/15376/{size}/ffc6759ef86a2f4f9e367c93afaeebda/Parfums/Narciso-Rodriguez-voor-Her-EDP-50-ml.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 847,
+                "width": 927
+              },
+              "type": "alternativeImage",
+              "url": "pim/3423470890136/15377/{size}/d6d5397aba7745cd85360508b11d0de9/Parfums/Narciso-Rodriguez-voor-Her-EDP-50-ml.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 959,
+                "width": 953
+              },
+              "type": "alternativeImage",
+              "url": "pim/3423470890136/15378/{size}/f1bcedcb2a73274ffa42bced5db0a0d8/Parfums/Narciso-Rodriguez-voor-Her-EDP-50-ml.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 422845,
+          "brandName": "Narciso Rodriguez",
+          "brandRank": 23,
+          "brandRelativeDemandLabel": "C",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 2,
+          "popularityData": {
+            "clickFactor": 1,
+            "webshopsRevenuePerClick": 0.03,
+            "roasPercentage": 850
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "5 - 9 werkdagen",
+          "deliveryTimeSort": 5,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3027,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Narciso Rodriguez",
+              "values": [
+                {
+                  "id": 422845,
+                  "caption": "Narciso Rodriguez",
+                  "columnValue": "Narciso Rodriguez",
+                  "crawlable": true,
+                  "detailValue": "Narciso Rodriguez",
+                  "fullId": "3027_422845",
+                  "sequence": 1143,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3028,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Stradava.eu",
+              "values": [
+                {
+                  "id": 23593994,
+                  "caption": "Stradava.eu",
+                  "columnValue": "Stradava.eu",
+                  "crawlable": true,
+                  "detailValue": "Stradava.eu",
+                  "fullId": "3028_23593994",
+                  "sequence": 566,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3039,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "geslacht_parfum",
+              "value": "Damesgeuren",
+              "values": [
+                {
+                  "id": 422880,
+                  "caption": "Dames",
+                  "columnValue": "Damesgeuren",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3039_422880",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3441,
+              "name": "Inhoud",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "inhoud_parfum_ml",
+              "value": "50 ml",
+              "values": [
+                {
+                  "id": 616561,
+                  "caption": "50 ml",
+                  "columnValue": "50 ml",
+                  "crawlable": true,
+                  "detailValue": "50 ml",
+                  "fullId": "3441_616561",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": {
+              "brandId": 422845,
+              "categoryId": 9000239,
+              "isDisplayGuaranteed": true,
+              "origin": 101,
+              "shopId": 650705,
+              "uuid": "7e14d911-e0d5-4ece-bdd4-64da8df49d1a",
+              "value": 15.5
+            }
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-3423470890136",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 2,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 59.89,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "APLUS",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": {
+            "bestRating": 100,
+            "count": 94,
+            "rating": 94
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "beslistWarranty"
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "25BguewyqXP2tY36hUtxYcnw4mnH",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "25BguewyqXP2tY36hUtxYcnw4mnH",
+            "advertisementIdV3": "25BguewyqXP2tY36hUtxYcnw4mnH"
+          },
+          "shopItemId": 0,
+          "productId": "25BguewyqXP2tY36hUtxYcnw4mnH",
+          "ean": "",
+          "shopInfo": {
+            "id": 652620,
+            "shopName": "Iciparisxl.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652620.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-15T05:40:25+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 38179,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 36,
+                "name": "Apple Pay"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 652620,
+            "shopItemId": 0,
+            "shopItemTitle": "Narciso Rodriguez Eau De Parfum Narciso Rodriguez - For Her Eau De Parfum  - 50 ML",
+            "shopItemDescription": "",
+            "shopItemVersion": "291253",
+            "shopName": "Iciparisxl.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "25BguewyqXP2tY36hUtxYcnw4mnH",
+            "condition": "Nieuw",
+            "ean": "3423470890136",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.awin1.com/cread.php?force_transparent=true&awinmid=16319&clickref=UUID_placeholder&pref2=GCLID_placeholder&awinaffid=375899&platform=tp&networkref1=gclid_GCLID_placeholder&ued=https%3a%2f%2fwww.iciparisxl.nl%2fnarciso-rodriguez%2ffor-her%2feau-de-parfum%2fp%2fBP_664178%3fvarSel%3d291253",
+            "size": "",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 55,
+              "price": 88.8,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 89,
+              "price": 111,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "291253",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "939-29000",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 52.19
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 52.73
+          },
+          "title": "Narciso Rodriguez Eau De Parfum Narciso Rodriguez - For Her Eau De Parfum  - 50 ML",
+          "fixedTitle": "Narciso Rodriguez Eau De Parfum Narciso Rodriguez - For Her Eau De Parfum  - 50 ML",
+          "indexIdentifierTimeStamp": 1744739950,
+          "description": "HET PARFUM: Narciso Rodriguez For her eau de parfum is een eerbetoon, gemaakt als een geschenk aan de vrouw. For her eau de parfum biedt een reis naar het heart of musc om de vele en subtiele facetten ervan te ontdekken. Het heart of musc blijft de stralende ziel van het dames parfum en ontwikkelt al zijn sensualiteit en verfijning op een pastelroze achtergrond. Een vleugje roos en een perzikkleurig gevoel zorgen voor een fluweelzachte textuur, terwijl een sluier van zacht amber en hout mysterie en diepte toevoegt aan de samenstelling. For her eau de parfum is een omhullende geur, een intieme overeenkomst tussen een vrouw en haar parfum. Narciso For her eau de parfum veroorzaakt een verbazingwekkend gevoel van harmonie op de huid. De eenvoud en puurheid, de mysterieuze intriges en de sensualiteit betovert. DE FLACON Narciso Rodriguez brengt zijn designfilosofie naar de flacon. De moderne, eenvoudige, glanzende flacon is ontdaan van toeters en bellen. De zachtroze lak is verfijnd en",
+          "descriptionRaw": "HET PARFUM: Narciso Rodriguez For her eau de parfum is een eerbetoon, gemaakt als een geschenk aan de vrouw. For her eau de parfum biedt een reis naar het heart of musc om de vele en subtiele facetten ervan te ontdekken. Het heart of musc blijft de stralende ziel van het dames parfum en ontwikkelt al zijn sensualiteit en verfijning op een pastelroze achtergrond. Een vleugje roos en een perzikkleurig gevoel zorgen voor een fluweelzachte textuur, terwijl een sluier van zacht amber en hout mysterie en diepte toevoegt aan de samenstelling. For her eau de parfum is een omhullende geur, een intieme overeenkomst tussen een vrouw en haar parfum. Narciso For her eau de parfum veroorzaakt een verbazingwekkend gevoel van harmonie op de huid. De eenvoud en puurheid, de mysterieuze intriges en de sensualiteit betovert. DE FLACON Narciso Rodriguez brengt zijn designfilosofie naar de flacon. De moderne, eenvoudige, glanzende flacon is ontdaan van toeters en bellen. De zachtroze lak is verfijnd en",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "29000-25BguewyqXP2tY36hUtxYcnw4mnH",
+          "categoryId": 9000239,
+          "mainCategoryId": 29000,
+          "mainCategoryUrl": "parfum_aftershave",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 24,
+          "shopIds": [
+            652620
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 631
+              },
+              "type": "mainImage",
+              "url": "pim/3423470890136/394/{size}/e716ff256f7ab41438dab08891c9743b/Parfums/Narciso-Rodriguez-Eau-De-Parfum-Narciso-Rodriguez-For-Her-Eau-De-Parfum-50-ML.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 859,
+                "width": 978
+              },
+              "type": "alternativeImage",
+              "url": "pim/3423470890136/15376/{size}/ffc6759ef86a2f4f9e367c93afaeebda/Parfums/Narciso-Rodriguez-Eau-De-Parfum-Narciso-Rodriguez-For-Her-Eau-De-Parfum-50-ML.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 847,
+                "width": 927
+              },
+              "type": "alternativeImage",
+              "url": "pim/3423470890136/15377/{size}/d6d5397aba7745cd85360508b11d0de9/Parfums/Narciso-Rodriguez-Eau-De-Parfum-Narciso-Rodriguez-For-Her-Eau-De-Parfum-50-ML.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 959,
+                "width": 953
+              },
+              "type": "alternativeImage",
+              "url": "pim/3423470890136/15378/{size}/f1bcedcb2a73274ffa42bced5db0a0d8/Parfums/Narciso-Rodriguez-Eau-De-Parfum-Narciso-Rodriguez-For-Her-Eau-De-Parfum-50-ML.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 967,
+                "width": 953
+              },
+              "type": "alternativeImage",
+              "url": "25BguewyqXP2tY36hUtxYcnw4mnH/15379/{size}/81e7b11f5a91a26695a3f86fe747d2e1/Parfums/Narciso-Rodriguez-Eau-De-Parfum-Narciso-Rodriguez-For-Her-Eau-De-Parfum-50-ML.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 422845,
+          "brandName": "Narciso Rodriguez",
+          "brandRank": 23,
+          "brandRelativeDemandLabel": "C",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 2800
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 2 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3027,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Narciso Rodriguez",
+              "values": [
+                {
+                  "id": 422845,
+                  "caption": "Narciso Rodriguez",
+                  "columnValue": "Narciso Rodriguez",
+                  "crawlable": true,
+                  "detailValue": "Narciso Rodriguez",
+                  "fullId": "3027_422845",
+                  "sequence": 1143,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3028,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Iciparisxl.nl",
+              "values": [
+                {
+                  "id": 1432727,
+                  "caption": "Iciparisxl.nl",
+                  "columnValue": "Iciparisxl.nl",
+                  "crawlable": true,
+                  "detailValue": "Iciparisxl.nl",
+                  "fullId": "3028_1432727",
+                  "sequence": 260,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3039,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "geslacht_parfum",
+              "value": "Damesgeuren",
+              "values": [
+                {
+                  "id": 422880,
+                  "caption": "Dames",
+                  "columnValue": "Damesgeuren",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3039_422880",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3432,
+              "name": "Collectie",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_parfum",
+              "value": "Narciso",
+              "values": [
+                {
+                  "id": 15904335,
+                  "caption": "Narciso",
+                  "columnValue": "Narciso",
+                  "crawlable": true,
+                  "detailValue": "Narciso",
+                  "fullId": "3432_15904335",
+                  "sequence": 1168,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3441,
+              "name": "Inhoud",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "inhoud_parfum_ml",
+              "value": "50 ml",
+              "values": [
+                {
+                  "id": 616561,
+                  "caption": "50 ml",
+                  "columnValue": "50 ml",
+                  "crawlable": true,
+                  "detailValue": "50 ml",
+                  "fullId": "3441_616561",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-3423470890136",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 0,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 59.89,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "APLUS",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": {
+            "bestRating": 100,
+            "count": 94,
+            "rating": 94
+          },
+          "labels": [],
+          "discountPercentage": 20,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 20
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        },
+        {
+          "id": "FHQ7BbH2EH4YHGz6vTJcgonxs7M",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "FHQ7BVcLK63B9FNVbgkiqy9ifSo",
+            "advertisementIdV3": "FHQ7BbH2EH4YHGz6vTJcgonxs7M"
+          },
+          "shopItemId": 0,
+          "productId": "FHQ7BbH2EH4YHGz6vTJcgonxs7M",
+          "ean": "",
+          "shopInfo": {
+            "id": 240913,
+            "shopName": "Beautyplaza.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 8,
+            "productCount": 22000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/240913.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-15T05:40:32+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 9118,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "webshop@hairandbodybeauty.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 34,
+                "name": "Billink "
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 240913,
+            "shopItemId": 0,
+            "shopItemTitle": "Narciso Rodriguez For Her Eau de Parfum 50ml",
+            "shopItemDescription": "",
+            "shopItemVersion": "3423470890136-130495",
+            "shopName": "Beautyplaza.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "FHQ7BbH2EH4YHGz6vTJcgonxs7M",
+            "condition": "Nieuw",
+            "ean": "3423470890136",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.beautyplaza.com/nl-nl/p/for-her-eau-de-parfum/90985/?utm_campaign=GeurenParfums%20DamesBestsellers&utm_content=3423470890136&utm_source=beslist&utm_medium=cpc&utm_term=Narciso%20Rodriguez",
+            "size": "",
+            "shopReviewScore": 5.8,
+            "shopReviewAmount": 61,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 55,
+              "price": 88.8,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 89,
+              "price": 111,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "3423470890136",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "939-29000",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 52.19
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 52.73
+          },
+          "title": "Narciso Rodriguez For Her Eau de Parfum 50ml",
+          "fixedTitle": "Narciso Rodriguez For Her Eau de Parfum 50ml",
+          "indexIdentifierTimeStamp": 1744739950,
+          "description": "Narciso Rodriguez For her eau de parfum is een eerbetoon, gemaakt als een geschenk voor vrouwen. For her eau de parfum biedt een reis naar het hart van de muskus om de vele en subtiele facetten ervan te ontdekken. Het hart van de muskus blijft de stralende ziel van het dames parfum en ontwikkelt al zijn sensualiteit en verfijning op een pastelroze achtergrond. Een vleugje roos en een perzikkleurig gevoel zorgen voor een fluweelzachte textuur, terwijl een sluier van zacht amber en hout mysterie en diepte toevoegt aan de samenstelling. For her eau de parfum is een omhullende geur, een intieme overeenkomst tussen een vrouw en haar parfum. Narciso For her eau de parfum veroorzaakt een verbazingwekkend gevoel van harmonie op de huid. De eenvoud en puurheid, de mysterieuze intriges en de sensualiteit betovert. De fles is de uitdrukking van een classicisme ontdaan van al het overbodige om een tijdloze moderniteit te bereiken, een royale en toch sobere, discrete en gesuggereerde sensualiteit.  Voor een verslavend ritueel en een intensieve geurbeleving: -Gebruik de For her douchgel -Breng de For her bodylotion aan -Breng de For her deodorant aan -Spray de For her eau de parfum op de pulspunten -Gebruik het For her haarparfum voor een nog intensere geursensatieTopnoten: Bloemig RozeHartnoot: Zacht amberig;Basisnoten: Zinnelijk hout. Ingredienten: ALCOHOL, PARFUM (FRAGRANCE), AQUA (WATER), BENZYL SALICYLATE, BUTYL METHOXYDIBENZOYLMETHANE, LINALOOL, LIMONENE, BENZYL ALCOHOL, CITRONELLOL, HEXYL CINNAMAL, GERANIOL, BHT, CINNAMYL ALCOHOL, HYDROXYCITRONELLAL, BENZYL BENZOATE, FARNESOL, CITRAL, ISOEUGENOL, CI 17200 (RED 33), CI 60730 (EXT. VIOLET 2), CI 19140 (YELLOW 5)",
+          "descriptionRaw": "Narciso Rodriguez For her eau de parfum is een eerbetoon, gemaakt als een geschenk voor vrouwen. For her eau de parfum biedt een reis naar het hart van de muskus om de vele en subtiele facetten ervan te ontdekken. Het hart van de muskus blijft de stralende ziel van het dames parfum en ontwikkelt al zijn sensualiteit en verfijning op een pastelroze achtergrond. Een vleugje roos en een perzikkleurig gevoel zorgen voor een fluweelzachte textuur, terwijl een sluier van zacht amber en hout mysterie en diepte toevoegt aan de samenstelling. For her eau de parfum is een omhullende geur, een intieme overeenkomst tussen een vrouw en haar parfum. Narciso For her eau de parfum veroorzaakt een verbazingwekkend gevoel van harmonie op de huid. De eenvoud en puurheid, de mysterieuze intriges en de sensualiteit betovert.<br/> De fles is de uitdrukking van een classicisme ontdaan van al het overbodige om een tijdloze moderniteit te bereiken, een royale en toch sobere, discrete en gesuggereerde sensualiteit.<br/> <br/> Voor een verslavend ritueel en een intensieve geurbeleving:<br/> -Gebruik de For her douchgel<br/> -Breng de For her bodylotion aan<br/> -Breng de For her deodorant aan<br/> -Spray de For her eau de parfum op de pulspunten<br/> -Gebruik het For her haarparfum voor een nog intensere geursensatie<br/><br/>Topnoten: Bloemig Roze<br/>Hartnoot: Zacht amberig;<br/>Basisnoten: Zinnelijk hout.<br/> Ingredienten: ALCOHOL, PARFUM (FRAGRANCE), AQUA (WATER), BENZYL SALICYLATE, BUTYL METHOXYDIBENZOYLMETHANE, LINALOOL, LIMONENE, BENZYL ALCOHOL, CITRONELLOL, HEXYL CINNAMAL, GERANIOL, BHT, CINNAMYL ALCOHOL, HYDROXYCITRONELLAL, BENZYL BENZOATE, FARNESOL, CITRAL, ISOEUGENOL, CI 17200 (RED 33), CI 60730 (EXT. VIOLET 2), CI 19140 (YELLOW 5)",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "29000-FHQ7BVcLK63B9FNVbgkiqy9ifSo",
+          "categoryId": 9000239,
+          "mainCategoryId": 29000,
+          "mainCategoryUrl": "parfum_aftershave",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 24,
+          "shopIds": [
+            240913
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 631
+              },
+              "type": "mainImage",
+              "url": "pim/3423470890136/394/{size}/e716ff256f7ab41438dab08891c9743b/Parfums/Narciso-Rodriguez-For-Her-Eau-de-Parfum-50ml.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 859,
+                "width": 978
+              },
+              "type": "alternativeImage",
+              "url": "pim/3423470890136/15376/{size}/ffc6759ef86a2f4f9e367c93afaeebda/Parfums/Narciso-Rodriguez-For-Her-Eau-de-Parfum-50ml.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 847,
+                "width": 927
+              },
+              "type": "alternativeImage",
+              "url": "pim/3423470890136/15377/{size}/d6d5397aba7745cd85360508b11d0de9/Parfums/Narciso-Rodriguez-For-Her-Eau-de-Parfum-50ml.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 959,
+                "width": 953
+              },
+              "type": "alternativeImage",
+              "url": "pim/3423470890136/15378/{size}/f1bcedcb2a73274ffa42bced5db0a0d8/Parfums/Narciso-Rodriguez-For-Her-Eau-de-Parfum-50ml.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 422845,
+          "brandName": "Narciso Rodriguez",
+          "brandRank": 23,
+          "brandRelativeDemandLabel": "C",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 1000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 17:00 uur besteld, volgende dag in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3027,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Narciso Rodriguez",
+              "values": [
+                {
+                  "id": 422845,
+                  "caption": "Narciso Rodriguez",
+                  "columnValue": "Narciso Rodriguez",
+                  "crawlable": true,
+                  "detailValue": "Narciso Rodriguez",
+                  "fullId": "3027_422845",
+                  "sequence": 1143,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3028,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Beautyplaza.com",
+              "values": [
+                {
+                  "id": 23809691,
+                  "caption": "Beautyplaza.com",
+                  "columnValue": "Beautyplaza.com",
+                  "crawlable": true,
+                  "detailValue": "Beautyplaza.com",
+                  "fullId": "3028_23809691",
+                  "sequence": 746,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3039,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "geslacht_parfum",
+              "value": "Damesgeuren",
+              "values": [
+                {
+                  "id": 422880,
+                  "caption": "Dames",
+                  "columnValue": "Damesgeuren",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3039_422880",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3441,
+              "name": "Inhoud",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "inhoud_parfum_ml",
+              "value": "50 ml",
+              "values": [
+                {
+                  "id": 616561,
+                  "caption": "50 ml",
+                  "columnValue": "50 ml",
+                  "crawlable": true,
+                  "detailValue": "50 ml",
+                  "fullId": "3441_616561",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-3423470890136",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 1,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 59.89,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "APLUS",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": {
+            "bestRating": 100,
+            "count": 94,
+            "rating": 94
+          },
+          "labels": [],
+          "discountPercentage": 20,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 20
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

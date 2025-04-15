@@ -1,0 +1,387 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 49.99,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": []
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "fh6FzorvdoJapoLjehsNdPvTJXW",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "fh6G1LLWWJkVCSNP8bmuqVfZHF6",
+            "advertisementIdV3": "fh6FzorvdoJapoLjehsNdPvTJXW"
+          },
+          "shopItemId": 0,
+          "productId": "fh6FzorvdoJapoLjehsNdPvTJXW",
+          "ean": "",
+          "shopInfo": {
+            "id": 647727,
+            "shopName": "Proshop.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 12,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/647727.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-15T03:23:59+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 28518,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "support@proshop.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 6,
+                "name": "DPD"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 647727,
+            "shopItemId": 0,
+            "shopItemTitle": "Philips Senseo Original ECO Cashmere Grijs HD6552/32",
+            "shopItemDescription": "",
+            "shopItemVersion": "2883988-2883988_2f701924b4eb",
+            "shopName": "Proshop.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "fh6FzorvdoJapoLjehsNdPvTJXW",
+            "condition": "Nieuw",
+            "ean": "8710103950141",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.proshop.nl/Koffie-Espresso/Philips-Senseo-Original-ECO-Cashmere-Grijs-HD655232/2883988?utm_source=beslist&utm_medium=cpc&utm_campaign=pricesite",
+            "size": "",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 49.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "2883988",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 43.9
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 69
+          },
+          "title": "Philips Senseo Original ECO Cashmere Grijs HD6552/32",
+          "fixedTitle": "Philips Senseo Original ECO Cashmere Grijs HD6552/32",
+          "indexIdentifierTimeStamp": 1744737658,
+          "description": "Koffiemachine, voor koffiepads, 1450 watt, 0.7 liter, CoffeeBoost, CremaPlus, grijs Krijg een intensere koffie-ervaring met de Crema Plus en coffee boost technologie van Senseo Original ECO. Bovendien is de productie en functionaliteit van Original ECO gericht op duurzaamheid. De Crema Plus technologie zorgt voor een heerlijke fluweelzachte crema-laag. Met behulp van 45 aroma-nozzles verspreidt de coffee boost technologie het hete water gelijkmatig door elke SENSEO\u00ae koffiepad. Senseo Original ECO kan zowel een kopje als een mok koffie in minder dan een minuut maken. Onze meest duurzame machine tot nu toe.",
+          "descriptionRaw": "Koffiemachine, voor koffiepads, 1450 watt, 0.7 liter, CoffeeBoost, CremaPlus, grijs Krijg een intensere koffie-ervaring met de Crema Plus en coffee boost technologie van Senseo Original ECO. Bovendien is de productie en functionaliteit van Original ECO gericht op duurzaamheid. De Crema Plus technologie zorgt voor een heerlijke fluweelzachte crema-laag. Met behulp van 45 aroma-nozzles verspreidt de coffee boost technologie het hete water gelijkmatig door elke SENSEO\u00ae koffiepad. Senseo Original ECO kan zowel een kopje als een mok koffie in minder dan een minuut maken. Onze meest duurzame machine tot nu toe.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "12000-fh6G1LLWWJkVCSNP8bmuqVfZHF6",
+          "categoryId": 9005311,
+          "mainCategoryId": 12000,
+          "mainCategoryUrl": "huishoudelijke_apparatuur",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 2,
+          "shopIds": [
+            647727
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 469,
+                "width": 364
+              },
+              "type": "mainImage",
+              "url": "fh6FzorvdoJapoLjehsNdPvTJXW/394/{size}/32a10721a655f5d5c6a03a2199be0ef8/Koffiezetapparaten/Philips-Senseo-Original-ECO-Cashmere-Grijs-HD6552-32.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 704,
+          "brandName": "Philips",
+          "brandRank": 1,
+          "brandRelativeDemandLabel": "A",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 50849,
+          "popularityData": {
+            "clickFactor": 1384,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 6.99,
+          "facets": [
+            {
+              "id": 17,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Philips",
+              "values": [
+                {
+                  "id": 704,
+                  "caption": "Philips",
+                  "columnValue": "Philips",
+                  "crawlable": true,
+                  "detailValue": "Philips",
+                  "fullId": "17_704",
+                  "sequence": 2180,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2133,
+              "name": "Type",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type_koffiezetter",
+              "value": "Koffiepadmachines",
+              "values": [
+                {
+                  "id": 5583343,
+                  "caption": "Koffiepadmachines / Koffiepadapparaten",
+                  "columnValue": "Koffiepadmachines",
+                  "crawlable": true,
+                  "detailValue": "Koffiepadmachines / Koffiepadapparaten",
+                  "fullId": "2133_5583343",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2137,
+              "name": "Compatibel",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "compatibel_koffie",
+              "value": "Senseo",
+              "values": [
+                {
+                  "id": 3597874,
+                  "caption": "Senseo",
+                  "columnValue": "Senseo",
+                  "crawlable": true,
+                  "detailValue": "Senseo",
+                  "fullId": "2137_3597874",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3829,
+              "name": "Productlijn",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "productlijn_koffiezetapparaat",
+              "value": "Senseo Original",
+              "values": [
+                {
+                  "id": 5067154,
+                  "caption": "Senseo Original",
+                  "columnValue": "Senseo Original",
+                  "crawlable": true,
+                  "detailValue": "Senseo Original",
+                  "fullId": "3829_5067154",
+                  "sequence": 87,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5785,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Grijs",
+              "values": [
+                {
+                  "id": 23804084,
+                  "caption": "Grijze",
+                  "columnValue": "Grijs",
+                  "crawlable": true,
+                  "detailValue": "Grijze",
+                  "fullId": "5785_23804084",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5838,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Proshop.nl",
+              "values": [
+                {
+                  "id": 23809152,
+                  "caption": "Proshop.nl",
+                  "columnValue": "Proshop.nl",
+                  "crawlable": true,
+                  "detailValue": "Proshop.nl",
+                  "fullId": "5838_23809152",
+                  "sequence": 549,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6302,
+              "name": "Conditie",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "conditie_keuken",
+              "value": "Nieuw",
+              "values": [
+                {
+                  "id": 23597874,
+                  "caption": "Nieuw",
+                  "columnValue": "Nieuw",
+                  "crawlable": true,
+                  "detailValue": "Nieuw",
+                  "fullId": "6302_23597874",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8710103950141",
+          "revenuePerClick": 0.25,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 49.99,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

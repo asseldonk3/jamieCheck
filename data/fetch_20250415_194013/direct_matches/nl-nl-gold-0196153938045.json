@@ -1,0 +1,1843 @@
+{
+  "offset": 0,
+  "numFound": 2,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 2,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 44.99,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 16389766,
+                "caption": "Maat 38,5",
+                "columnValue": "38,5",
+                "crawlable": true,
+                "detailValue": "Maat 38,5",
+                "fullId": "3081_16389766",
+                "sequence": 67,
+                "urlName": null
+              },
+              {
+                "id": 430808,
+                "caption": "Maat 40",
+                "columnValue": "40",
+                "crawlable": true,
+                "detailValue": "Maat 40",
+                "fullId": "3081_430808",
+                "sequence": 75,
+                "urlName": null
+              },
+              {
+                "id": 430809,
+                "caption": "Maat 41",
+                "columnValue": "41",
+                "crawlable": true,
+                "detailValue": "Maat 41",
+                "fullId": "3081_430809",
+                "sequence": 80,
+                "urlName": null
+              },
+              {
+                "id": 16389770,
+                "caption": "Maat 42,5",
+                "columnValue": "42,5",
+                "crawlable": true,
+                "detailValue": "Maat 42,5",
+                "fullId": "3081_16389770",
+                "sequence": 85,
+                "urlName": null
+              },
+              {
+                "id": 430812,
+                "caption": "Maat 44",
+                "columnValue": "44",
+                "crawlable": true,
+                "detailValue": "Maat 44",
+                "fullId": "3081_430812",
+                "sequence": 93,
+                "urlName": null
+              },
+              {
+                "id": 430813,
+                "caption": "Maat 45",
+                "columnValue": "45",
+                "crawlable": true,
+                "detailValue": "Maat 45",
+                "fullId": "3081_430813",
+                "sequence": 98,
+                "urlName": null
+              },
+              {
+                "id": 430814,
+                "caption": "Maat 46",
+                "columnValue": "46",
+                "crawlable": true,
+                "detailValue": "Maat 46",
+                "fullId": "3081_430814",
+                "sequence": 103,
+                "urlName": null
+              },
+              {
+                "id": 23435450,
+                "caption": "Maat 47,5",
+                "columnValue": "47,5",
+                "crawlable": true,
+                "detailValue": "Maat 47,5",
+                "fullId": "3081_23435450",
+                "sequence": 110,
+                "urlName": null
+              },
+              {
+                "id": 23435451,
+                "caption": "Maat 48,5",
+                "columnValue": "48,5",
+                "crawlable": true,
+                "detailValue": "Maat 48,5",
+                "fullId": "3081_23435451",
+                "sequence": 115,
+                "urlName": null
+              },
+              {
+                "id": 430817,
+                "caption": "Maat 49",
+                "columnValue": "49",
+                "crawlable": true,
+                "detailValue": "Maat 49",
+                "fullId": "3081_430817",
+                "sequence": 118,
+                "urlName": null
+              },
+              {
+                "id": 430818,
+                "caption": "Maat 50",
+                "columnValue": "50",
+                "crawlable": true,
+                "detailValue": "Maat 50",
+                "fullId": "3081_430818",
+                "sequence": 122,
+                "urlName": null
+              },
+              {
+                "id": 430819,
+                "caption": "Maat 51",
+                "columnValue": "51",
+                "crawlable": true,
+                "detailValue": "Maat 51",
+                "fullId": "3081_430819",
+                "sequence": 126,
+                "urlName": null
+              },
+              {
+                "id": 430820,
+                "caption": "Maat 52",
+                "columnValue": "52",
+                "crawlable": true,
+                "detailValue": "Maat 52",
+                "fullId": "3081_430820",
+                "sequence": 130,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3zj3wuoDx37RB2jq4vBxqZk3L8Xk",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3zj3wug3cbm8mrNu752KtYnCdFus",
+            "advertisementIdV3": "3zj3wug3cbm8mrNu752KtYnCdFus"
+          },
+          "shopItemId": 0,
+          "productId": "3zj3wuoDx37RB2jq4vBxqZk3L8Xk",
+          "ean": "",
+          "shopInfo": {
+            "id": 655318,
+            "shopName": "Footlocker.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/655318.png",
+            "coolingOffPeriod": 28,
+            "activeSince": "2025-04-15T01:46:20+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 39988,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 655318,
+            "shopItemId": 0,
+            "shopItemTitle": "Nike Offcourt Adjust Heren Schoenen - Zwart - Maat: 48.5 - Mesh/Synthetisch - Foot Locker",
+            "shopItemDescription": "",
+            "shopItemVersion": "314311160304140-DQ9624-001",
+            "shopName": "Footlocker.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3zj3wubUED6jJZ48eR1JfqiSJS9T",
+            "condition": "Nieuw",
+            "ean": "0196153938090",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.awin1.com/cread.php?force_transparent=true&awinmid=16092&clickref=UUID_placeholder&pref2=GCLID_placeholder&awinaffid=375899&platform=tp&networkref1=gclid_GCLID_placeholder&ued=https%3a%2f%2fwww.footlocker.nl%2fnl%2fproduct%2f%7e%2f314311160304.html%3fchannable%3d0422b469640033313433313131363033303431343016",
+            "size": "48.5",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 44.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "314311160304140",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 34.9
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 44.99
+          },
+          "title": "Nike Offcourt Adjust Heren Schoenen - Zwart - Maat: 38.5 - Mesh/Synthetisch - Foot Locker",
+          "fixedTitle": "Nike Offcourt Adjust Heren Schoenen - Zwart - Maat: 38.5 - Mesh/Synthetisch - Foot Locker",
+          "indexIdentifierTimeStamp": 1744738921,
+          "description": "Slippers met verstelbare pasvorm, voor na de wedstrijd, het boodschappen doen en ga zo maar door. Met de verstelbare, gewatteerde band kun je de pasvorm perfect aanpassen. De lichte middenzool met foam biedt optimaal comfort voor je voeten. Pluspunten De voorgevormde inlegzool houdt je voet perfect op zijn plek. Foam met twee dichtheden voor een lichtgewicht demping. Klittenbandsluiting van zacht materiaal voor extra comfort. Het logo fungeert tegelijk als lipje om makkelijk de klittenbandsluiting te openen. Buitenzool met draaipuntpatroon voor stevigheid en grip.",
+          "descriptionRaw": "Slippers met verstelbare pasvorm, voor na de wedstrijd, het boodschappen doen en ga zo maar door. Met de verstelbare, gewatteerde band kun je de pasvorm perfect aanpassen. De lichte middenzool met foam biedt optimaal comfort voor je voeten. Pluspunten De voorgevormde inlegzool houdt je voet perfect op zijn plek. Foam met twee dichtheden voor een lichtgewicht demping. Klittenbandsluiting van zacht materiaal voor extra comfort. Het logo fungeert tegelijk als lipje om makkelijk de klittenbandsluiting te openen. Buitenzool met draaipuntpatroon voor stevigheid en grip.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-3zj3wug3cbm8mrNu752KtYnCdFus",
+          "categoryId": 9000648,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 2,
+          "shopIds": [
+            655318
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 209,
+                "width": 607
+              },
+              "type": "mainImage",
+              "url": "3zj3wuoDx37RB2jq4vBxqZk3L8Xk/394/{size}/dee3170063915f775eccc487f248898a/Badslippers/Nike-Offcourt-Adjust-Heren-Schoenen-Zwart-Maat%3a-38.5-Mesh-Synthetisch-Foot-Locker.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wuoDx37RB2jq4vBxqZk3L8Xk",
+              "value": "38.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wusF1ryh4NuS32QWP7TqnBTx",
+              "value": "42.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wutmQorLVPvnhP9dkzc4eTZy",
+              "value": "51.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wumkkqz5bvhRdotetUkork6k",
+              "value": "41",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wubUED6jJZ48eR1JfqiSJS9T",
+              "value": "48.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wuwtr6rKpxmFKc1ua2zcHPwn",
+              "value": "52.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wusNVYhqXL9JNzsKHt9cauek",
+              "value": "47.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wuXjHvUnBaKhxjSabfV2tdY9",
+              "value": "45",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wubZRBhsZEpGWVT2ga79asrW",
+              "value": "44",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wuqcmZBa6EwkGuguYESJBwXe",
+              "value": "46",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wumWfpMm1CaCUBu1XL3RkUWq",
+              "value": "49.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 16389766,
+                  "caption": "Maat 38,5",
+                  "columnValue": "38,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 38,5",
+                  "fullId": "3081_16389766",
+                  "sequence": 67,
+                  "urlName": null,
+                  "productIdV3": "3zj3wuoDx37RB2jq4vBxqZk3L8Xk",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "3zj3wumkkqz5bvhRdotetUkork6k",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 16389770,
+                  "caption": "Maat 42,5",
+                  "columnValue": "42,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 42,5",
+                  "fullId": "3081_16389770",
+                  "sequence": 85,
+                  "urlName": null,
+                  "productIdV3": "3zj3wusF1ryh4NuS32QWP7TqnBTx",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430812,
+                  "caption": "Maat 44",
+                  "columnValue": "44",
+                  "crawlable": true,
+                  "detailValue": "Maat 44",
+                  "fullId": "3081_430812",
+                  "sequence": 93,
+                  "urlName": null,
+                  "productIdV3": "3zj3wubZRBhsZEpGWVT2ga79asrW",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430813,
+                  "caption": "Maat 45",
+                  "columnValue": "45",
+                  "crawlable": true,
+                  "detailValue": "Maat 45",
+                  "fullId": "3081_430813",
+                  "sequence": 98,
+                  "urlName": null,
+                  "productIdV3": "3zj3wuXjHvUnBaKhxjSabfV2tdY9",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430814,
+                  "caption": "Maat 46",
+                  "columnValue": "46",
+                  "crawlable": true,
+                  "detailValue": "Maat 46",
+                  "fullId": "3081_430814",
+                  "sequence": 103,
+                  "urlName": null,
+                  "productIdV3": "3zj3wuqcmZBa6EwkGuguYESJBwXe",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23435450,
+                  "caption": "Maat 47,5",
+                  "columnValue": "47,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 47,5",
+                  "fullId": "3081_23435450",
+                  "sequence": 110,
+                  "urlName": null,
+                  "productIdV3": "3zj3wusNVYhqXL9JNzsKHt9cauek",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23435451,
+                  "caption": "Maat 48,5",
+                  "columnValue": "48,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 48,5",
+                  "fullId": "3081_23435451",
+                  "sequence": 115,
+                  "urlName": null,
+                  "productIdV3": "3zj3wubUED6jJZ48eR1JfqiSJS9T",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430817,
+                  "caption": "Maat 49",
+                  "columnValue": "49",
+                  "crawlable": true,
+                  "detailValue": "Maat 49",
+                  "fullId": "3081_430817",
+                  "sequence": 118,
+                  "urlName": null,
+                  "productIdV3": "3zj3wumWfpMm1CaCUBu1XL3RkUWq",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430819,
+                  "caption": "Maat 51",
+                  "columnValue": "51",
+                  "crawlable": true,
+                  "detailValue": "Maat 51",
+                  "fullId": "3081_430819",
+                  "sequence": 126,
+                  "urlName": null,
+                  "productIdV3": "3zj3wutmQorLVPvnhP9dkzc4eTZy",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430820,
+                  "caption": "Maat 52",
+                  "columnValue": "52",
+                  "crawlable": true,
+                  "detailValue": "Maat 52",
+                  "fullId": "3081_430820",
+                  "sequence": 130,
+                  "urlName": null,
+                  "productIdV3": "3zj3wuwtr6rKpxmFKc1ua2zcHPwn",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431107,
+          "brandName": "Nike",
+          "brandRank": 1,
+          "brandRelativeDemandLabel": "A",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 9,
+          "popularityData": {
+            "clickFactor": 8,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 5500
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "2 - 4 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 3.99,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "38,5",
+              "values": [
+                {
+                  "id": 16389766,
+                  "caption": "Maat 38,5",
+                  "columnValue": "38,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 38,5",
+                  "fullId": "3081_16389766",
+                  "sequence": 67,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                },
+                {
+                  "id": 16389770,
+                  "caption": "Maat 42,5",
+                  "columnValue": "42,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 42,5",
+                  "fullId": "3081_16389770",
+                  "sequence": 85,
+                  "urlName": null
+                },
+                {
+                  "id": 430812,
+                  "caption": "Maat 44",
+                  "columnValue": "44",
+                  "crawlable": true,
+                  "detailValue": "Maat 44",
+                  "fullId": "3081_430812",
+                  "sequence": 93,
+                  "urlName": null
+                },
+                {
+                  "id": 430813,
+                  "caption": "Maat 45",
+                  "columnValue": "45",
+                  "crawlable": true,
+                  "detailValue": "Maat 45",
+                  "fullId": "3081_430813",
+                  "sequence": 98,
+                  "urlName": null
+                },
+                {
+                  "id": 430814,
+                  "caption": "Maat 46",
+                  "columnValue": "46",
+                  "crawlable": true,
+                  "detailValue": "Maat 46",
+                  "fullId": "3081_430814",
+                  "sequence": 103,
+                  "urlName": null
+                },
+                {
+                  "id": 23435450,
+                  "caption": "Maat 47,5",
+                  "columnValue": "47,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 47,5",
+                  "fullId": "3081_23435450",
+                  "sequence": 110,
+                  "urlName": null
+                },
+                {
+                  "id": 23435451,
+                  "caption": "Maat 48,5",
+                  "columnValue": "48,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 48,5",
+                  "fullId": "3081_23435451",
+                  "sequence": 115,
+                  "urlName": null
+                },
+                {
+                  "id": 430817,
+                  "caption": "Maat 49",
+                  "columnValue": "49",
+                  "crawlable": true,
+                  "detailValue": "Maat 49",
+                  "fullId": "3081_430817",
+                  "sequence": 118,
+                  "urlName": null
+                },
+                {
+                  "id": 430819,
+                  "caption": "Maat 51",
+                  "columnValue": "51",
+                  "crawlable": true,
+                  "detailValue": "Maat 51",
+                  "fullId": "3081_430819",
+                  "sequence": 126,
+                  "urlName": null
+                },
+                {
+                  "id": 430820,
+                  "caption": "Maat 52",
+                  "columnValue": "52",
+                  "crawlable": true,
+                  "detailValue": "Maat 52",
+                  "fullId": "3081_430820",
+                  "sequence": 130,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Nike",
+              "values": [
+                {
+                  "id": 431107,
+                  "caption": "Nike",
+                  "columnValue": "Nike",
+                  "crawlable": true,
+                  "detailValue": "Nike",
+                  "fullId": "3078_431107",
+                  "sequence": 2105,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Footlocker.nl",
+              "values": [
+                {
+                  "id": 23747625,
+                  "caption": "Footlocker.nl",
+                  "columnValue": "Footlocker.nl",
+                  "crawlable": true,
+                  "detailValue": "Footlocker.nl",
+                  "fullId": "3079_23747625",
+                  "sequence": 601,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 430776,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3080_430776",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 430827,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3082_430827",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Mesh",
+              "values": [
+                {
+                  "id": 10392043,
+                  "caption": "Mesh",
+                  "columnValue": "Mesh",
+                  "crawlable": true,
+                  "detailValue": "Mesh",
+                  "fullId": "3083_10392043",
+                  "sequence": 27,
+                  "urlName": null
+                },
+                {
+                  "id": 430861,
+                  "caption": "Synthetisch",
+                  "columnValue": "Synthetisch",
+                  "crawlable": true,
+                  "detailValue": "Synthetisch",
+                  "fullId": "3083_430861",
+                  "sequence": 36,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Klittenband",
+              "values": [
+                {
+                  "id": 430981,
+                  "caption": "Met klittenband",
+                  "columnValue": "Klittenband",
+                  "crawlable": true,
+                  "detailValue": "Met klittenband",
+                  "fullId": "3090_430981",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 19955980,
+                  "caption": "Zonder veters",
+                  "columnValue": "Zonder veters",
+                  "crawlable": true,
+                  "detailValue": "Zonder veters",
+                  "fullId": "3090_19955980",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3513,
+              "name": "Productlijn",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_serie",
+              "value": "Nike Court",
+              "values": [
+                {
+                  "id": 20129362,
+                  "caption": "Nike Court",
+                  "columnValue": "Nike Court",
+                  "crawlable": true,
+                  "detailValue": "Nike Court",
+                  "fullId": "3513_20129362",
+                  "sequence": 884,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 18892715,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "4550_18892715",
+                  "sequence": 16,
+                  "urlName": null
+                },
+                {
+                  "id": 23538157,
+                  "caption": "Lichtgewicht",
+                  "columnValue": "Lichtgewicht",
+                  "crawlable": true,
+                  "detailValue": "Lichtgewicht",
+                  "fullId": "4550_23538157",
+                  "sequence": 21,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-0196153938045",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 1,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 44.99,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        },
+        {
+          "id": "4HXuRXGa89chvPxoPUJDsui5X36D",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "4HXuRXASwgjzvHJe8pQFCka3NpkY",
+            "advertisementIdV3": "4HXuRXASwgjzvHJe8pQFCka3NpkY"
+          },
+          "shopItemId": 0,
+          "productId": "4HXuRXGa89chvPxoPUJDsui5X36D",
+          "ean": "",
+          "shopInfo": {
+            "id": 642283,
+            "shopName": "Nike.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 6,
+            "productCount": 13000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/642283.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-15T01:46:18+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 23222,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@nike.be",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 642283,
+            "shopItemId": 0,
+            "shopItemTitle": "Nike Offcourt Adjust Slippers voor heren - Zwart",
+            "shopItemDescription": "",
+            "shopItemVersion": "00196153938045-DQ9624-001_Zwart-DQ9624",
+            "shopName": "Nike.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "4HXuRXcB2EPRJ98qKPJuYFXFDbMG",
+            "condition": "Nieuw",
+            "ean": "0196153938045",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.awin1.com/cread.php?force_transparent=true&awinmid=16332&clickref=UUID_placeholder&pref2=GCLID_placeholder&awinaffid=375899&platform=tp&networkref1=gclid_GCLID_placeholder&ued=https%3a%2f%2fwww.nike.com%2fnl%2ft%2foffcourt-adjust-slippers-heren-BDRcJd%2fDQ9624-001%3fclickref%3d",
+            "size": "42.5",
+            "shopReviewScore": 4.4,
+            "shopReviewAmount": 105,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 44.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "00196153938045",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 34.9
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 44.99
+          },
+          "title": "Nike Offcourt Adjust Slippers voor heren - Zwart",
+          "fixedTitle": "Nike Offcourt Adjust Slippers voor heren - Zwart",
+          "indexIdentifierTimeStamp": 1744738921,
+          "description": "Slippers met verstelbare pasvorm, voor na de wedstrijd, het boodschappen doen en ga zo maar door. Met de verstelbare, gewatteerde band kun je de pasvorm perfect aanpassen. De lichte middenzool met foam biedt optimaal comfort voor je voeten. Pluspunten:De voorgevormde inlegzool houdt je voet perfect op zijn plek.Foam met twee dichtheden voor een lichtgewicht demping.Klittenbandsluiting van zacht materiaal voor extra comfort.Het logo fungeert tegelijk als lipje om makkelijk de klittenbandsluiting te openen.Buitenzool met draaipuntpatroon voor stevigheid en grip.",
+          "descriptionRaw": "Slippers met verstelbare pasvorm, voor na de wedstrijd, het boodschappen doen en ga zo maar door. Met de verstelbare, gewatteerde band kun je de pasvorm perfect aanpassen. De lichte middenzool met foam biedt optimaal comfort voor je voeten. Pluspunten:De voorgevormde inlegzool houdt je voet perfect op zijn plek.Foam met twee dichtheden voor een lichtgewicht demping.Klittenbandsluiting van zacht materiaal voor extra comfort.Het logo fungeert tegelijk als lipje om makkelijk de klittenbandsluiting te openen.Buitenzool met draaipuntpatroon voor stevigheid en grip.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-4HXuRXASwgjzvHJe8pQFCka3NpkY",
+          "categoryId": 9000648,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 2,
+          "shopIds": [
+            642283
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1143,
+                "width": 2113
+              },
+              "type": "mainImage",
+              "url": "4HXuRXGa89chvPxoPUJDsui5X36D/394/{size}/b00fbca1eb4d37dcc137a29726721442/Badslippers/Nike-Offcourt-Adjust-Slippers-voor-heren-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1143,
+                "width": 2113
+              },
+              "type": "alternativeImage",
+              "url": "4HXuRXGa89chvPxoPUJDsui5X36D/15376/{size}/b00fbca1eb4d37dcc137a29726721442/Badslippers/Nike-Offcourt-Adjust-Slippers-voor-heren-Zwart.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXGa89chvPxoPUJDsui5X36D",
+              "value": "51.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXKwt3nz6cgvpunf1AnZuvn4",
+              "value": "49.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXcB2EPRJ98qKPJuYFXFDbMG",
+              "value": "42.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXWPwopfj6DufPGx9GUoEstw",
+              "value": "45",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXEcxtvE2ytNJDXtLnzkmwTy",
+              "value": "44",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXR4LpNUPWyiMgUGgsNMEefV",
+              "value": "46",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXYth4tzPFwSuwbUkVbjQ3rX",
+              "value": "40",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXeNUhn5vY2dcwXLxXuSn5XT",
+              "value": "48.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXbgm8S9LG85FUZZHHKxiKXH",
+              "value": "38.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXRaxEamGp9TeqU4zDDmMMvV",
+              "value": "50.5",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXb1BBAaDaS2vPfjR7MfQPad",
+              "value": "41",
+              "available": true,
+              "price": 44.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 16389766,
+                  "caption": "Maat 38,5",
+                  "columnValue": "38,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 38,5",
+                  "fullId": "3081_16389766",
+                  "sequence": 67,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXbgm8S9LG85FUZZHHKxiKXH",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXYth4tzPFwSuwbUkVbjQ3rX",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXb1BBAaDaS2vPfjR7MfQPad",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 16389770,
+                  "caption": "Maat 42,5",
+                  "columnValue": "42,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 42,5",
+                  "fullId": "3081_16389770",
+                  "sequence": 85,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXcB2EPRJ98qKPJuYFXFDbMG",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430812,
+                  "caption": "Maat 44",
+                  "columnValue": "44",
+                  "crawlable": true,
+                  "detailValue": "Maat 44",
+                  "fullId": "3081_430812",
+                  "sequence": 93,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXEcxtvE2ytNJDXtLnzkmwTy",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430813,
+                  "caption": "Maat 45",
+                  "columnValue": "45",
+                  "crawlable": true,
+                  "detailValue": "Maat 45",
+                  "fullId": "3081_430813",
+                  "sequence": 98,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXWPwopfj6DufPGx9GUoEstw",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430814,
+                  "caption": "Maat 46",
+                  "columnValue": "46",
+                  "crawlable": true,
+                  "detailValue": "Maat 46",
+                  "fullId": "3081_430814",
+                  "sequence": 103,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXR4LpNUPWyiMgUGgsNMEefV",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23435451,
+                  "caption": "Maat 48,5",
+                  "columnValue": "48,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 48,5",
+                  "fullId": "3081_23435451",
+                  "sequence": 115,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXeNUhn5vY2dcwXLxXuSn5XT",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430817,
+                  "caption": "Maat 49",
+                  "columnValue": "49",
+                  "crawlable": true,
+                  "detailValue": "Maat 49",
+                  "fullId": "3081_430817",
+                  "sequence": 118,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXKwt3nz6cgvpunf1AnZuvn4",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430818,
+                  "caption": "Maat 50",
+                  "columnValue": "50",
+                  "crawlable": true,
+                  "detailValue": "Maat 50",
+                  "fullId": "3081_430818",
+                  "sequence": 122,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXRaxEamGp9TeqU4zDDmMMvV",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430819,
+                  "caption": "Maat 51",
+                  "columnValue": "51",
+                  "crawlable": true,
+                  "detailValue": "Maat 51",
+                  "fullId": "3081_430819",
+                  "sequence": 126,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXGa89chvPxoPUJDsui5X36D",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431107,
+          "brandName": "Nike",
+          "brandRank": 1,
+          "brandRelativeDemandLabel": "A",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 4509,
+          "popularityData": {
+            "clickFactor": 156,
+            "webshopsRevenuePerClick": 2.84,
+            "roasPercentage": 1000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "2 - 4 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 5,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Nike",
+              "values": [
+                {
+                  "id": 431107,
+                  "caption": "Nike",
+                  "columnValue": "Nike",
+                  "crawlable": true,
+                  "detailValue": "Nike",
+                  "fullId": "3078_431107",
+                  "sequence": 2105,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Nike.nl",
+              "values": [
+                {
+                  "id": 19244264,
+                  "caption": "Nike.nl",
+                  "columnValue": "Nike.nl",
+                  "crawlable": true,
+                  "detailValue": "Nike.nl",
+                  "fullId": "3079_19244264",
+                  "sequence": 1249,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 430776,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3080_430776",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "38,5",
+              "values": [
+                {
+                  "id": 16389766,
+                  "caption": "Maat 38,5",
+                  "columnValue": "38,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 38,5",
+                  "fullId": "3081_16389766",
+                  "sequence": 67,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                },
+                {
+                  "id": 16389770,
+                  "caption": "Maat 42,5",
+                  "columnValue": "42,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 42,5",
+                  "fullId": "3081_16389770",
+                  "sequence": 85,
+                  "urlName": null
+                },
+                {
+                  "id": 430812,
+                  "caption": "Maat 44",
+                  "columnValue": "44",
+                  "crawlable": true,
+                  "detailValue": "Maat 44",
+                  "fullId": "3081_430812",
+                  "sequence": 93,
+                  "urlName": null
+                },
+                {
+                  "id": 430813,
+                  "caption": "Maat 45",
+                  "columnValue": "45",
+                  "crawlable": true,
+                  "detailValue": "Maat 45",
+                  "fullId": "3081_430813",
+                  "sequence": 98,
+                  "urlName": null
+                },
+                {
+                  "id": 430814,
+                  "caption": "Maat 46",
+                  "columnValue": "46",
+                  "crawlable": true,
+                  "detailValue": "Maat 46",
+                  "fullId": "3081_430814",
+                  "sequence": 103,
+                  "urlName": null
+                },
+                {
+                  "id": 23435451,
+                  "caption": "Maat 48,5",
+                  "columnValue": "48,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 48,5",
+                  "fullId": "3081_23435451",
+                  "sequence": 115,
+                  "urlName": null
+                },
+                {
+                  "id": 430817,
+                  "caption": "Maat 49",
+                  "columnValue": "49",
+                  "crawlable": true,
+                  "detailValue": "Maat 49",
+                  "fullId": "3081_430817",
+                  "sequence": 118,
+                  "urlName": null
+                },
+                {
+                  "id": 430818,
+                  "caption": "Maat 50",
+                  "columnValue": "50",
+                  "crawlable": true,
+                  "detailValue": "Maat 50",
+                  "fullId": "3081_430818",
+                  "sequence": 122,
+                  "urlName": null
+                },
+                {
+                  "id": 430819,
+                  "caption": "Maat 51",
+                  "columnValue": "51",
+                  "crawlable": true,
+                  "detailValue": "Maat 51",
+                  "fullId": "3081_430819",
+                  "sequence": 126,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 430827,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3082_430827",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Klittenband",
+              "values": [
+                {
+                  "id": 430981,
+                  "caption": "Met klittenband",
+                  "columnValue": "Klittenband",
+                  "crawlable": true,
+                  "detailValue": "Met klittenband",
+                  "fullId": "3090_430981",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 19955980,
+                  "caption": "Zonder veters",
+                  "columnValue": "Zonder veters",
+                  "crawlable": true,
+                  "detailValue": "Zonder veters",
+                  "fullId": "3090_19955980",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3513,
+              "name": "Productlijn",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_serie",
+              "value": "Nike Court",
+              "values": [
+                {
+                  "id": 20129362,
+                  "caption": "Nike Court",
+                  "columnValue": "Nike Court",
+                  "crawlable": true,
+                  "detailValue": "Nike Court",
+                  "fullId": "3513_20129362",
+                  "sequence": 884,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 18892715,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "4550_18892715",
+                  "sequence": 16,
+                  "urlName": null
+                },
+                {
+                  "id": 23538157,
+                  "caption": "Lichtgewicht",
+                  "columnValue": "Lichtgewicht",
+                  "crawlable": true,
+                  "detailValue": "Lichtgewicht",
+                  "fullId": "4550_23538157",
+                  "sequence": 21,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "642283-DQ9624",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-0196153938045",
+          "revenuePerClick": 0.28,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 44.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

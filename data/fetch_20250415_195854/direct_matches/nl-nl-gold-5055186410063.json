@@ -1,0 +1,962 @@
+{
+  "offset": 0,
+  "numFound": 3,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 3,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 20.49,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": []
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3G6ftwMWwQW9yXL75xZQ7c31eHke",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3G6ftwMWwQW9yXL75xZQ7c31eHke",
+            "advertisementIdV3": "3G6ftwMWwQW9yXL75xZQ7c31eHke"
+          },
+          "shopItemId": 968949131,
+          "productId": "3G6ftwMWwQW9yXL75xZQ7c31eHke",
+          "ean": "",
+          "shopInfo": {
+            "id": 16034,
+            "shopName": "Drogist.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 3,
+            "productCount": 75046,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/16034.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-15T05:02:26+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Drogist.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 2016,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 16034,
+            "shopItemId": 968949131,
+            "shopItemTitle": "Hibiscrub Chloorhexidine 500ml",
+            "shopItemDescription": "",
+            "shopItemVersion": "57323",
+            "shopName": "Drogist.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3G6ftwMWwQW9yXL75xZQ7c31eHke",
+            "condition": "Nieuw",
+            "ean": "5055186410063",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.drogist.nl/hibiscrub-chloorhexidine-500ml.htm?channable=004ab86964003537333233f5&utm_campaign=feed&utm_content=Gezondheid%20%3E%20Geneesmiddelen%20%3E%20Overige%20geneesmiddelen%20Hibiscrub&utm_source=beslist&utm_medium=cpc&utm_term=57323",
+            "size": "",
+            "shopReviewScore": 9.4,
+            "shopReviewAmount": 85784,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 13,
+              "price": 20.49,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "57323",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": "Hibiscrub Chloorhexidine 40mg/ml",
+            "description": "Hibiscrub  De werkzame stof in Hibiscrub is chloorhexidine. Chloorhexidine is een ontsmettend middel.Hibiscrub is een rode, heldere, gebruiksklare oplossing die uitwendig kan worden gebruikt als:   Ontsmettingmiddel voor de handen voor een operatie Ontsmettingmiddel voor de huid op de plaats waar geopereerd wordt ",
+            "descriptionRaw": "Hibiscrub <p> De werkzame stof in Hibiscrub is chloorhexidine. Chloorhexidine is een ontsmettend middel.Hibiscrub is een rode, heldere, gebruiksklare oplossing die uitwendig kan worden gebruikt als: </p> <ul> <li>Ontsmettingmiddel voor de handen voor een operatie</li> <li>Ontsmettingmiddel voor de huid op de plaats waar geopereerd wordt</li> </ul>"
+          },
+          "priceHistory": {
+            "lowestPrice": 20.49
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Hibiscrub Chloorhexidine 500ml",
+          "fixedTitle": "Hibiscrub Chloorhexidine 500ml",
+          "indexIdentifierTimeStamp": 1744739942,
+          "description": "Hibiscrub Chloorhexidine 500ml op voorraad. Voor 23:00 besteld, morgen in huis. Profiteer van gratis verzending.",
+          "descriptionRaw": "Hibiscrub Chloorhexidine 500ml op voorraad. Voor 23:00 besteld, morgen in huis. Profiteer van gratis verzending.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1147535937,
+          "gtinGroupId": "286-3G6ftwMWwQW9yXL75xZQ7c31eHke",
+          "categoryId": 9002298,
+          "mainCategoryId": 286,
+          "mainCategoryUrl": "gezond_mooi",
+          "csvId": 1229508182593,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 4,
+          "shopIds": [
+            16034
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 646,
+                "width": 261
+              },
+              "type": "mainImage",
+              "url": "pim/5055186410063/394/{size}/676dad3e1a6095f3ed5a76e4daf643bc/Keeltabletten/Hibiscrub-Chloorhexidine-500ml.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 799,
+                "width": 319
+              },
+              "type": "alternativeImage",
+              "url": "pim/5055186410063/15376/{size}/25de66db083d7407a34b5535f7f12302/Keeltabletten/Hibiscrub-Chloorhexidine-500ml.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 8411543,
+          "brandName": "Hibiscrub",
+          "brandRank": 974,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2023-02-16 00:00:00",
+          "popularity": 62521,
+          "popularityData": {
+            "clickFactor": 757,
+            "webshopsRevenuePerClick": 7.92,
+            "roasPercentage": 900
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 23:00 uur besteld, morgen in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 114,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Hibiscrub",
+              "values": [
+                {
+                  "id": 8411543,
+                  "caption": "Hibiscrub",
+                  "columnValue": "Hibiscrub",
+                  "crawlable": false,
+                  "detailValue": "Hibiscrub",
+                  "fullId": "114_8411543",
+                  "sequence": 1475,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 115,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Drogist.nl",
+              "values": [
+                {
+                  "id": 1296939,
+                  "caption": "Drogist.nl",
+                  "columnValue": "Drogist.nl",
+                  "crawlable": true,
+                  "detailValue": "Drogist.nl",
+                  "fullId": "115_1296939",
+                  "sequence": 214,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6245,
+              "name": "Inhoud",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "inhoud_ml",
+              "value": "500 ml",
+              "values": [
+                {
+                  "id": 23591319,
+                  "caption": "500 ml",
+                  "columnValue": "500 ml",
+                  "crawlable": true,
+                  "detailValue": "500 ml",
+                  "fullId": "6245_23591319",
+                  "sequence": 24,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "16034-57323",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-5055186410063",
+          "revenuePerClick": 0.88,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 20.49,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "shopReviewScore",
+              "score": 9.4,
+              "amount": 85784
+            }
+          ]
+        },
+        {
+          "id": "2nc8Tx7nnqtEbg13B8bduSXhcdET",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2nc8Tx7nnqtEbg13B8bduSXhcdET",
+            "advertisementIdV3": "2nc8Tx7nnqtEbg13B8bduSXhcdET"
+          },
+          "shopItemId": 969774180,
+          "productId": "2nc8Tx7nnqtEbg13B8bduSXhcdET",
+          "ean": "",
+          "shopInfo": {
+            "id": 604288,
+            "shopName": "Merkala.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "WW",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": false,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 6,
+            "productCount": 3500,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/604288.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-15T05:02:33+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 19093,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@merkala.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 27,
+                "name": "Webshop Keurmerk"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 604288,
+            "shopItemId": 969774180,
+            "shopItemTitle": "Hibiscrub oplossing 500ml",
+            "shopItemDescription": "",
+            "shopItemVersion": "2742",
+            "shopName": "Merkala.nl",
+            "shopType": "WW",
+            "productIdentifier": "",
+            "productIdV3": "2nc8Tx7nnqtEbg13B8bduSXhcdET",
+            "condition": "Nieuw",
+            "ean": "5055186410063",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.merkala.nl/hibiscrub-oplossing-500ml.html?utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslist",
+            "size": "",
+            "shopReviewScore": 9.2,
+            "shopReviewAmount": 260,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 21,
+              "price": 22.7,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "2742",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": "Hibiscrub Chloorhexidine 40mg/ml",
+            "description": "Hibiscrub  De werkzame stof in Hibiscrub is chloorhexidine. Chloorhexidine is een ontsmettend middel.Hibiscrub is een rode, heldere, gebruiksklare oplossing die uitwendig kan worden gebruikt als:   Ontsmettingmiddel voor de handen voor een operatie Ontsmettingmiddel voor de huid op de plaats waar geopereerd wordt ",
+            "descriptionRaw": "Hibiscrub <p> De werkzame stof in Hibiscrub is chloorhexidine. Chloorhexidine is een ontsmettend middel.Hibiscrub is een rode, heldere, gebruiksklare oplossing die uitwendig kan worden gebruikt als: </p> <ul> <li>Ontsmettingmiddel voor de handen voor een operatie</li> <li>Ontsmettingmiddel voor de huid op de plaats waar geopereerd wordt</li> </ul>"
+          },
+          "priceHistory": {
+            "lowestPrice": 20.49
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Hibiscrub oplossing 500ml",
+          "fixedTitle": "Hibiscrub oplossing 500ml",
+          "indexIdentifierTimeStamp": 1744739942,
+          "description": "Productomschrijving van de Hibiscrub oplossing 500ml Hibiscrub is een rode, heldere oplossing op basis van chloorhexidine, speciaal ontwikkeld voor effectieve ontsmetting van de huid. Deze 500ml Hibiscrub oplossing is direct klaar voor gebruik en ideaal voor zowel medische professionals als thuisgebruik. Hibiscrub scrub is een krachtig huidontsmettingsmiddel en is bijzonder effectief in het voorbereiden van handen en huid voor operaties, waarbij het bescherming biedt tegen een breed spectrum van bacteri\u00ebn, gisten en schimmels. Dankzij de actieve component, chloorhexidine, biedt Hibiscrub langdurige antibacteri\u00eble werking. Dit maakt het een betrouwbare keuze voor het verminderen van het risico op kruisinfecties. Hibiscrub is gebruiksvriendelijk en wordt geleverd in een verpakking van 500ml, ideaal voor zowel professioneel als thuisgebruik. Let op: Hibiscrub wordt geleverd zonder doseerpompje. Productspecificaties van de Hibiscrub oplossing 500ml Producttype: Huidontsmettingsmiddel Actief ingredi\u00ebnt: Chloorhexidine Kleur: Rood Consistentie: Heldere oplossing Gebruiksklaar: Ja Verpakkingsgrootte: 500ml Registratienummer (RVG): 10156 Merkala is officieel online aanbieder van medicijnen Dit product valt onder de geneesmiddelenwet en wordt verkocht via onze drogisterij.",
+          "descriptionRaw": "Productomschrijving van de Hibiscrub oplossing 500ml Hibiscrub is een rode, heldere oplossing op basis van chloorhexidine, speciaal ontwikkeld voor effectieve ontsmetting van de huid. Deze 500ml Hibiscrub oplossing is direct klaar voor gebruik en ideaal voor zowel medische professionals als thuisgebruik. Hibiscrub scrub is een krachtig huidontsmettingsmiddel en is bijzonder effectief in het voorbereiden van handen en huid voor operaties, waarbij het bescherming biedt tegen een breed spectrum van bacteri\u00ebn, gisten en schimmels. Dankzij de actieve component, chloorhexidine, biedt Hibiscrub langdurige antibacteri\u00eble werking. Dit maakt het een betrouwbare keuze voor het verminderen van het risico op kruisinfecties. Hibiscrub is gebruiksvriendelijk en wordt geleverd in een verpakking van 500ml, ideaal voor zowel professioneel als thuisgebruik. Let op: Hibiscrub wordt geleverd zonder doseerpompje. Productspecificaties van de Hibiscrub oplossing 500ml Producttype: Huidontsmettingsmiddel Actief ingredi\u00ebnt: Chloorhexidine Kleur: Rood Consistentie: Heldere oplossing Gebruiksklaar: Ja Verpakkingsgrootte: 500ml Registratienummer (RVG): 10156 Merkala is officieel online aanbieder van medicijnen Dit product valt onder de geneesmiddelenwet en wordt verkocht via onze drogisterij.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1171557452,
+          "gtinGroupId": "286-2nc8Tx7nnqtEbg13B8bduSXhcdET",
+          "categoryId": 9002298,
+          "mainCategoryId": 286,
+          "mainCategoryUrl": "gezond_mooi",
+          "csvId": 1229532204108,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 4,
+          "shopIds": [
+            604288
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 646,
+                "width": 261
+              },
+              "type": "mainImage",
+              "url": "pim/5055186410063/394/{size}/676dad3e1a6095f3ed5a76e4daf643bc/Keeltabletten/Hibiscrub-oplossing-500ml.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 799,
+                "width": 319
+              },
+              "type": "alternativeImage",
+              "url": "pim/5055186410063/15376/{size}/25de66db083d7407a34b5535f7f12302/Keeltabletten/Hibiscrub-oplossing-500ml.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 8411543,
+          "brandName": "Hibiscrub",
+          "brandRank": 974,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-02-28 00:00:00",
+          "popularity": 155,
+          "popularityData": {
+            "clickFactor": 40,
+            "webshopsRevenuePerClick": 0.14,
+            "roasPercentage": 550
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Voor 21:00 uur besteld, dezelfde dag verzonden. ",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 4.95,
+          "facets": [
+            {
+              "id": 114,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Hibiscrub",
+              "values": [
+                {
+                  "id": 8411543,
+                  "caption": "Hibiscrub",
+                  "columnValue": "Hibiscrub",
+                  "crawlable": false,
+                  "detailValue": "Hibiscrub",
+                  "fullId": "114_8411543",
+                  "sequence": 1475,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 115,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Merkala.nl",
+              "values": [
+                {
+                  "id": 15080903,
+                  "caption": "Merkala.nl",
+                  "columnValue": "Merkala.nl",
+                  "crawlable": true,
+                  "detailValue": "Merkala.nl",
+                  "fullId": "115_15080903",
+                  "sequence": 519,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3000,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Rood",
+              "values": [
+                {
+                  "id": 400968,
+                  "caption": "Rode",
+                  "columnValue": "Rood",
+                  "crawlable": true,
+                  "detailValue": "Rode",
+                  "fullId": "3000_400968",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3705,
+              "name": "Lichaamsdeel",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "lichaamsdeel_drogisterij",
+              "value": "Handen",
+              "values": [
+                {
+                  "id": 7456034,
+                  "caption": "Hand",
+                  "columnValue": "Handen",
+                  "crawlable": true,
+                  "detailValue": "Hand",
+                  "fullId": "3705_7456034",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "604288-2742",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": {
+              "brandId": 8411543,
+              "categoryId": 9002271,
+              "isDisplayGuaranteed": false,
+              "origin": 101,
+              "shopId": 604288,
+              "uuid": "1e45bf16-de08-4182-ab4d-7ef1003a452c",
+              "value": 12.5
+            }
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-5055186410063",
+          "revenuePerClick": 0.03,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 2,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 20.49,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "shopReviewScore",
+              "score": 9.2,
+              "amount": 260
+            },
+            {
+              "type": "beslistWarranty"
+            }
+          ]
+        },
+        {
+          "id": "2PuJM1YyrPacbZhxorwWwra74JR1",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2PuJM1YyrPacbZhxorwWwra74JR1",
+            "advertisementIdV3": "2PuJM1YyrPacbZhxorwWwra74JR1"
+          },
+          "shopItemId": 0,
+          "productId": "2PuJM1YyrPacbZhxorwWwra74JR1",
+          "ean": "",
+          "shopInfo": {
+            "id": 597860,
+            "shopName": "Medischevakhandel.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": true,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 7,
+            "productCount": 2700,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/597860.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-15T05:02:31+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Medischevakhandel.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 20878,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 597860,
+            "shopItemId": 0,
+            "shopItemTitle": "Hibiscrub chloorhexidine 40 mg/ml UAD 500 ml",
+            "shopItemDescription": "",
+            "shopItemVersion": "120029478",
+            "shopName": "Medischevakhandel.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2PuJM1YyrPacbZhxorwWwra74JR1",
+            "condition": "Nieuw",
+            "ean": "5055186410063",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.medischevakhandel.nl/nl/hibiscrub-chloorhexidine-40-mg-ml-uad-500-ml?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "",
+            "shopReviewScore": 4.6,
+            "shopReviewAmount": 12,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 21,
+              "price": 29.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "120029478",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": "Hibiscrub Chloorhexidine 40mg/ml",
+            "description": "Hibiscrub  De werkzame stof in Hibiscrub is chloorhexidine. Chloorhexidine is een ontsmettend middel.Hibiscrub is een rode, heldere, gebruiksklare oplossing die uitwendig kan worden gebruikt als:   Ontsmettingmiddel voor de handen voor een operatie Ontsmettingmiddel voor de huid op de plaats waar geopereerd wordt ",
+            "descriptionRaw": "Hibiscrub <p> De werkzame stof in Hibiscrub is chloorhexidine. Chloorhexidine is een ontsmettend middel.Hibiscrub is een rode, heldere, gebruiksklare oplossing die uitwendig kan worden gebruikt als: </p> <ul> <li>Ontsmettingmiddel voor de handen voor een operatie</li> <li>Ontsmettingmiddel voor de huid op de plaats waar geopereerd wordt</li> </ul>"
+          },
+          "priceHistory": {
+            "lowestPrice": 20.49
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Hibiscrub chloorhexidine 40 mg/ml UAD 500 ml",
+          "fixedTitle": "Hibiscrub chloorhexidine 40 mg/ml UAD 500 ml",
+          "indexIdentifierTimeStamp": 1744739942,
+          "description": "TE GEBRUIKEN BIJ  Hibiscrub is een rode, heldere, gebruiksklare oplossing die uitwendig kan worden gebruikt als:- ontsmettingmiddel voor de handen voor een operatie- ontsmettingmiddel voor de huid op de plaats waar geopereerd wordt.  NIET TE GEBRUIKEN BIJ  AU bent allergisch voor een van de stoffen in dit medicijn.\u00a0 Hibiscrub bevat sojaolie. Dit middel niet gebruiken indien u allergisch bent voor pinda's of soja.  DOSERING Hibiscrub mag alleen op de huid worden gebruikt. Hibiscrub is klaar voor direct gebruik. De gebruikelijke dosering is:  Handendesinfectie voor een operatie:Handen en onderarmen met water bevochtigen en vervolgens gedurende een minuut goed inwrijven met 5 ml onverdunde Hibiscrub. Hierna de nagels borstelen en handen en onderarmen afspoelen. Tenslotte, gedurende twee minuten, opnieuw met 5 ml onverdunde Hibiscrub inwrijven en daarna de handen en onderarmen weer zorgvuldig afspoelen en afdrogen. Desinfectie van het operatiegebied voor een operatie:Na het scheren van het operatieveld dient de huid van de pati\u00ebnt, gedurende twee minuten, zorgvuldig met Hibiscrub te worden ingewreven. Gebruik voldoende, bij voorkeur steriel, water om schuimvorming te verkrijgen. Verwijder het schuim en droog af met een steriel gaasje. Direct voor de operatie wordt het operatieveld op de gebruikelijke wijze gedesinfecteerd.  BIJSLUITERLees voor gebruik de bijsluiter op De Geneesmiddeleninformatiebank, zoek op naam of het RVG nummer. REGISTRATIEGEGEVENSEAN code: 5055186410063RVG nummer: 10156GENEESMIDDELLet op: dit is een geneesmiddel uitsluitend verkrijgbaar via Apotheek en Drogist (UAD). We adviseren je dit product alleen te gebruiken als je goed ge\u00efnformeerd bent.VERDERE INFORMATIEVoor meer aanvullende informatie verwijzen we je naar:  Geneesmiddeleninformatiebank van medicijnautoriteit CBG Apotheek.nl Thuisarts.nl",
+          "descriptionRaw": "TE GEBRUIKEN BIJ  Hibiscrub is een rode, heldere, gebruiksklare oplossing die uitwendig kan worden gebruikt als:- ontsmettingmiddel voor de handen voor een operatie- ontsmettingmiddel voor de huid op de plaats waar geopereerd wordt.  NIET TE GEBRUIKEN BIJ  AU bent allergisch voor een van de stoffen in dit medicijn.\u00a0 Hibiscrub bevat sojaolie. Dit middel niet gebruiken indien u allergisch bent voor pinda's of soja.  DOSERING Hibiscrub mag alleen op de huid worden gebruikt. Hibiscrub is klaar voor direct gebruik. De gebruikelijke dosering is:  Handendesinfectie voor een operatie:Handen en onderarmen met water bevochtigen en vervolgens gedurende een minuut goed inwrijven met 5 ml onverdunde Hibiscrub. Hierna de nagels borstelen en handen en onderarmen afspoelen. Tenslotte, gedurende twee minuten, opnieuw met 5 ml onverdunde Hibiscrub inwrijven en daarna de handen en onderarmen weer zorgvuldig afspoelen en afdrogen. Desinfectie van het operatiegebied voor een operatie:Na het scheren van het operatieveld dient de huid van de pati\u00ebnt, gedurende twee minuten, zorgvuldig met Hibiscrub te worden ingewreven. Gebruik voldoende, bij voorkeur steriel, water om schuimvorming te verkrijgen. Verwijder het schuim en droog af met een steriel gaasje. Direct voor de operatie wordt het operatieveld op de gebruikelijke wijze gedesinfecteerd.  BIJSLUITERLees voor gebruik de bijsluiter op De Geneesmiddeleninformatiebank, zoek op naam of het RVG nummer. REGISTRATIEGEGEVENSEAN code: 5055186410063RVG nummer: 10156GENEESMIDDELLet op: dit is een geneesmiddel uitsluitend verkrijgbaar via Apotheek en Drogist (UAD). We adviseren je dit product alleen te gebruiken als je goed ge\u00efnformeerd bent.VERDERE INFORMATIEVoor meer aanvullende informatie verwijzen we je naar:  Geneesmiddeleninformatiebank van medicijnautoriteit CBG Apotheek.nl Thuisarts.nl",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "pim",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "286-2PuJM1YyrPacbZhxorwWwra74JR1",
+          "categoryId": 9002298,
+          "mainCategoryId": 286,
+          "mainCategoryUrl": "gezond_mooi",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 4,
+          "shopIds": [
+            597860
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 646,
+                "width": 261
+              },
+              "type": "mainImage",
+              "url": "pim/5055186410063/394/{size}/676dad3e1a6095f3ed5a76e4daf643bc/Keeltabletten/Hibiscrub-chloorhexidine-40-mg-ml-UAD-500-ml.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 799,
+                "width": 319
+              },
+              "type": "alternativeImage",
+              "url": "pim/5055186410063/15376/{size}/25de66db083d7407a34b5535f7f12302/Keeltabletten/Hibiscrub-chloorhexidine-40-mg-ml-UAD-500-ml.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 8411543,
+          "brandName": "Hibiscrub",
+          "brandRank": 974,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 21,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 7.99,
+          "facets": [
+            {
+              "id": 114,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Hibiscrub",
+              "values": [
+                {
+                  "id": 8411543,
+                  "caption": "Hibiscrub",
+                  "columnValue": "Hibiscrub",
+                  "crawlable": false,
+                  "detailValue": "Hibiscrub",
+                  "fullId": "114_8411543",
+                  "sequence": 1475,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 115,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Medischevakhandel.nl",
+              "values": [
+                {
+                  "id": 19249542,
+                  "caption": "Medischevakhandel.nl",
+                  "columnValue": "Medischevakhandel.nl",
+                  "crawlable": true,
+                  "detailValue": "Medischevakhandel.nl",
+                  "fullId": "115_19249542",
+                  "sequence": 511,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4666,
+              "name": "Dosering",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "d_geneesmiddel",
+              "value": "40 mg",
+              "values": [
+                {
+                  "id": 9236541,
+                  "caption": "40 mg",
+                  "columnValue": "40 mg",
+                  "crawlable": true,
+                  "detailValue": "40 mg",
+                  "fullId": "4666_9236541",
+                  "sequence": 19,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6245,
+              "name": "Inhoud",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "inhoud_ml",
+              "value": "500 ml",
+              "values": [
+                {
+                  "id": 23591319,
+                  "caption": "500 ml",
+                  "columnValue": "500 ml",
+                  "crawlable": true,
+                  "detailValue": "500 ml",
+                  "fullId": "6245_23591319",
+                  "sequence": 24,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-5055186410063",
+          "revenuePerClick": 0.22,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 1,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 20.49,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

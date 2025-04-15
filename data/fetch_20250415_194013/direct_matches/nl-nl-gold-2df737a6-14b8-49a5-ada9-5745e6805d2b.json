@@ -1,0 +1,2194 @@
+{
+  "offset": 0,
+  "numFound": 3,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 3,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 41.62,
+        "highestDiscount": 19,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 430804,
+                "caption": "Maat 36",
+                "columnValue": "36",
+                "crawlable": true,
+                "detailValue": "Maat 36",
+                "fullId": "3081_430804",
+                "sequence": 55,
+                "urlName": null
+              },
+              {
+                "id": 430805,
+                "caption": "Maat 37",
+                "columnValue": "37",
+                "crawlable": true,
+                "detailValue": "Maat 37",
+                "fullId": "3081_430805",
+                "sequence": 60,
+                "urlName": null
+              },
+              {
+                "id": 430806,
+                "caption": "Maat 38",
+                "columnValue": "38",
+                "crawlable": true,
+                "detailValue": "Maat 38",
+                "fullId": "3081_430806",
+                "sequence": 65,
+                "urlName": null
+              },
+              {
+                "id": 430807,
+                "caption": "Maat 39",
+                "columnValue": "39",
+                "crawlable": true,
+                "detailValue": "Maat 39",
+                "fullId": "3081_430807",
+                "sequence": 70,
+                "urlName": null
+              },
+              {
+                "id": 430808,
+                "caption": "Maat 40",
+                "columnValue": "40",
+                "crawlable": true,
+                "detailValue": "Maat 40",
+                "fullId": "3081_430808",
+                "sequence": 75,
+                "urlName": null
+              },
+              {
+                "id": 430809,
+                "caption": "Maat 41",
+                "columnValue": "41",
+                "crawlable": true,
+                "detailValue": "Maat 41",
+                "fullId": "3081_430809",
+                "sequence": 80,
+                "urlName": null
+              },
+              {
+                "id": 430810,
+                "caption": "Maat 42",
+                "columnValue": "42",
+                "crawlable": true,
+                "detailValue": "Maat 42",
+                "fullId": "3081_430810",
+                "sequence": 84,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "a5ms6jTGeQRdJvTeiEXzNMf4fU7",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "a5ms6JUZuxWW4N82Y4tAHS7Bw56",
+            "advertisementIdV3": "a5ms6JUZuxWW4N82Y4tAHS7Bw56"
+          },
+          "shopItemId": 0,
+          "productId": "a5ms6jTGeQRdJvTeiEXzNMf4fU7",
+          "ean": "",
+          "shopInfo": {
+            "id": 651560,
+            "shopName": "Amazon Partners",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/651560.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-15T01:46:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22562,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 651560,
+            "shopItemId": 0,
+            "shopItemTitle": "Jana Dames 8-24464-42 Pumps, Donkerblauw, 41 EU",
+            "shopItemDescription": "",
+            "shopItemVersion": "B0C6DSPY83-B0C6FBH1WF-Navy-B0C6FBH1WF",
+            "shopName": "Amazon Partners",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "a5ms6YkwyLweZcjCt7Li5eABhdc",
+            "condition": "Nieuw",
+            "ean": "4064224804949",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.amazon.nl/dp/B0C6DSPY83/ref=asc_df_B0C6DSPY831744614000000/?tag=beslistmpnl-21&creative=380333&creativeASIN=B0C6DSPY83&linkCode=asn&ascsubtag=UUID_placeholder",
+            "size": "41",
+            "shopReviewScore": 4.8,
+            "shopReviewAmount": 595,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 41.62,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "B0C6DSPY83",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "2df737a6-14b8-49a5-ada9-5745e6805d2b",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 39.86
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 32.5
+          },
+          "title": "Jana Dames 8-24464-42 Pumps, Donkerblauw, 37 EU",
+          "fixedTitle": "Jana Dames 8-24464-42 Pumps, Donkerblauw, 37 EU",
+          "indexIdentifierTimeStamp": 1744738891,
+          "description": "Brede pasvorm: de standaard extra breedte geeft de voet meer ruimte voor beweging en zorgt zo voor een aangenaam draagcomfort. Optimale pasvorm: door hun H-breedte zijn de schoenen bijzonder geschikt voor brede voeten. Ze passen zich ideaal aan de voetvorm aan en zorgen zo voor een comfortabel draaggevoel, zonder te knellen. Veganistisch: de schoenen bestaan voor 100% uit materialen van niet-dierlijke oorsprong. In plaats daarvan zijn ze gemaakt van hoogwaardige veganistische stoffen die qua kwaliteit niets te wensen overlaten. ELEGANTE RAFINESE: De elegante schoenen zijn de perfecte keuze voor chique gelegenheden. De hoogwaardige schoenen met hak garanderen een glamoureuze look en hoog comfort. JANA: Trendy designs van hoogwaardige materialen tegen aantrekkelijke prijzen \u2013 dat onderscheidt de comfortabele comfortabele schoenen van Jana De veelzijdige schoenmodellen combineren dankzij hun aangename pasvorm en innovatieve technologie\u00ebn een hoog draagcomfort met actuele modetrends.",
+          "descriptionRaw": "Brede pasvorm: de standaard extra breedte geeft de voet meer ruimte voor beweging en zorgt zo voor een aangenaam draagcomfort. Optimale pasvorm: door hun H-breedte zijn de schoenen bijzonder geschikt voor brede voeten. Ze passen zich ideaal aan de voetvorm aan en zorgen zo voor een comfortabel draaggevoel, zonder te knellen. Veganistisch: de schoenen bestaan voor 100% uit materialen van niet-dierlijke oorsprong. In plaats daarvan zijn ze gemaakt van hoogwaardige veganistische stoffen die qua kwaliteit niets te wensen overlaten. ELEGANTE RAFINESE: De elegante schoenen zijn de perfecte keuze voor chique gelegenheden. De hoogwaardige schoenen met hak garanderen een glamoureuze look en hoog comfort. JANA: Trendy designs van hoogwaardige materialen tegen aantrekkelijke prijzen \u2013 dat onderscheidt de comfortabele comfortabele schoenen van Jana De veelzijdige schoenmodellen combineren dankzij hun aangename pasvorm en innovatieve technologie\u00ebn een hoog draagcomfort met actuele modetrends.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "none",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-a5ms6JUZuxWW4N82Y4tAHS7Bw56",
+          "categoryId": 9000615,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            651560
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1124,
+                "width": 1455
+              },
+              "type": "mainImage",
+              "url": "pim/4064224804901/394/{size}/4a7ecc3ec058be255698a24536bdb7d1/Pumps/Jana-Dames-8-24464-42-Pumps%2c-Donkerblauw%2c-37-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 766,
+                "width": 1499
+              },
+              "type": "alternativeImage",
+              "url": "pim/4064224804901/15376/{size}/d04910b9dbe2ec3fd7c340508382cf72/Pumps/Jana-Dames-8-24464-42-Pumps%2c-Donkerblauw%2c-37-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1124,
+                "width": 616
+              },
+              "type": "alternativeImage",
+              "url": "pim/4064224804901/15377/{size}/2bec081b305c40bc5be149ce5c0e1195/Pumps/Jana-Dames-8-24464-42-Pumps%2c-Donkerblauw%2c-37-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1124,
+                "width": 765
+              },
+              "type": "alternativeImage",
+              "url": "pim/4064224804901/15378/{size}/f94bd2e74d003bdeb686f00e111225a9/Pumps/Jana-Dames-8-24464-42-Pumps%2c-Donkerblauw%2c-37-EU.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6jTGeQRdJvTeiEXzNMf4fU7",
+              "value": "37",
+              "available": true,
+              "price": 40.87,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6aD9ktkF4mWBZ3WZpN1WWBW",
+              "value": "39",
+              "available": true,
+              "price": 46.34,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6HgW1W5Cw2ND1KEunDbD1nC",
+              "value": "38",
+              "available": true,
+              "price": 40.33,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6YkwyLweZcjCt7Li5eABhdc",
+              "value": "41",
+              "available": true,
+              "price": 41.62,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6maKvvvzpXS1T4aQmYGppz1",
+              "value": "40",
+              "available": true,
+              "price": 40.33,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "a5ms6jTGeQRdJvTeiEXzNMf4fU7",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 40.87,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "a5ms6HgW1W5Cw2ND1KEunDbD1nC",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 40.33,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "a5ms6aD9ktkF4mWBZ3WZpN1WWBW",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 46.34,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "a5ms6maKvvvzpXS1T4aQmYGppz1",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 40.33,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "a5ms6YkwyLweZcjCt7Li5eABhdc",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 41.62,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 432028,
+          "brandName": "Jana",
+          "brandRank": 305,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-08 00:00:00",
+          "popularity": 35,
+          "popularityData": {
+            "clickFactor": 9,
+            "webshopsRevenuePerClick": 3.97,
+            "roasPercentage": 6600
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op voorraad",
+          "deliveryTimeSort": 8,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Jana",
+              "values": [
+                {
+                  "id": 432028,
+                  "caption": "Jana",
+                  "columnValue": "Jana",
+                  "crawlable": true,
+                  "detailValue": "Jana",
+                  "fullId": "3078_432028",
+                  "sequence": 1472,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Blauw",
+              "values": [
+                {
+                  "id": 430773,
+                  "caption": "Blauwe",
+                  "columnValue": "Blauw",
+                  "crawlable": true,
+                  "detailValue": "Blauwe",
+                  "fullId": "3080_430773",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4217,
+              "name": "Kleurtint blauw",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "kleurtint_blauw",
+              "value": "Donkerblauw",
+              "values": [
+                {
+                  "id": 6826871,
+                  "caption": "Donkerblauwe",
+                  "columnValue": "Donkerblauw",
+                  "crawlable": true,
+                  "detailValue": "Donkerblauwe",
+                  "fullId": "4217_6826871",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Brede voeten",
+              "values": [
+                {
+                  "id": 15482619,
+                  "caption": "Brede voeten",
+                  "columnValue": "Brede voeten",
+                  "crawlable": true,
+                  "detailValue": "Brede voeten",
+                  "fullId": "4550_15482619",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "H",
+              "values": [
+                {
+                  "id": 16475783,
+                  "caption": "Wijdte H",
+                  "columnValue": "H",
+                  "crawlable": true,
+                  "detailValue": "Wijdte H",
+                  "fullId": "5211_16475783",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6291,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Vegan",
+              "values": [
+                {
+                  "id": 23597223,
+                  "caption": "Vegan",
+                  "columnValue": "Vegan",
+                  "crawlable": true,
+                  "detailValue": "Vegan",
+                  "fullId": "6291_23597223",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "651560-B0C6FBH1WF",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-2df737a6-14b8-49a5-ada9-5745e6805d2b",
+          "revenuePerClick": 0.06,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 2,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 40.33,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 19,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 19
+            }
+          ]
+        },
+        {
+          "id": "2NqyCBLz7MQ1f3TNBEULEF5YxKEK",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2NqyCAv1Qcx6Xnu2Z4JgQAA15aqJ",
+            "advertisementIdV3": "2NqyCAv1Qcx6Xnu2Z4JgQAA15aqJ"
+          },
+          "shopItemId": 0,
+          "productId": "2NqyCBLz7MQ1f3TNBEULEF5YxKEK",
+          "ean": "",
+          "shopInfo": {
+            "id": 512098,
+            "shopName": "Amazon.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 3200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/512098.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-15T01:46:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Amazon.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22562,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 512098,
+            "shopItemId": 0,
+            "shopItemTitle": "Jana Dames 8-24464-42 Pumps, Donkerblauw, 42 EU",
+            "shopItemDescription": "",
+            "shopItemVersion": "B0C6DSZTM3-B0C6FBH1WF-Navy-B0C6FBH1WF",
+            "shopName": "Amazon.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2NqyCBDVmiUiAzxSY72hp8gKYXQY",
+            "condition": "Nieuw",
+            "ean": "4064224874720",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.amazon.nl/dp/B0C6DSZTM3/ref=asc_df_B0C6DSZTM3/?creative=380333&creativeASIN=B0C6DSZTM3&linkCode=asn&tag=beslistnl20-21&ascsubtag=UUID_placeholder",
+            "size": "42",
+            "shopReviewScore": 4.2,
+            "shopReviewAmount": 686,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 34,
+              "price": 47.23,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 34,
+              "price": 49.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "B0C6DSZTM3",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "2df737a6-14b8-49a5-ada9-5745e6805d2b",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 39.86
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 32.5
+          },
+          "title": "Jana Dames 8-24464-42 Pumps, Donkerblauw, 37 EU",
+          "fixedTitle": "Jana Dames 8-24464-42 Pumps, Donkerblauw, 36 EU",
+          "indexIdentifierTimeStamp": 1744738891,
+          "description": "Brede pasvorm: de standaard extra breedte geeft de voet meer ruimte voor beweging en zorgt zo voor een aangenaam draagcomfort. Optimale pasvorm: door hun H-breedte zijn de schoenen bijzonder geschikt voor brede voeten. Ze passen zich ideaal aan de voetvorm aan en zorgen zo voor een comfortabel draaggevoel, zonder te knellen. Veganistisch: de schoenen bestaan voor 100% uit materialen van niet-dierlijke oorsprong. In plaats daarvan zijn ze gemaakt van hoogwaardige veganistische stoffen die qua kwaliteit niets te wensen overlaten. ELEGANTE RAFINESE: De elegante schoenen zijn de perfecte keuze voor chique gelegenheden. De hoogwaardige schoenen met hak garanderen een glamoureuze look en hoog comfort. JANA: Trendy designs van hoogwaardige materialen tegen aantrekkelijke prijzen \u2013 dat onderscheidt de comfortabele comfortabele schoenen van Jana De veelzijdige schoenmodellen combineren dankzij hun aangename pasvorm en innovatieve technologie\u00ebn een hoog draagcomfort met actuele modetrends.",
+          "descriptionRaw": "Brede pasvorm: de standaard extra breedte geeft de voet meer ruimte voor beweging en zorgt zo voor een aangenaam draagcomfort. Optimale pasvorm: door hun H-breedte zijn de schoenen bijzonder geschikt voor brede voeten. Ze passen zich ideaal aan de voetvorm aan en zorgen zo voor een comfortabel draaggevoel, zonder te knellen. Veganistisch: de schoenen bestaan voor 100% uit materialen van niet-dierlijke oorsprong. In plaats daarvan zijn ze gemaakt van hoogwaardige veganistische stoffen die qua kwaliteit niets te wensen overlaten. ELEGANTE RAFINESE: De elegante schoenen zijn de perfecte keuze voor chique gelegenheden. De hoogwaardige schoenen met hak garanderen een glamoureuze look en hoog comfort. JANA: Trendy designs van hoogwaardige materialen tegen aantrekkelijke prijzen \u2013 dat onderscheidt de comfortabele comfortabele schoenen van Jana De veelzijdige schoenmodellen combineren dankzij hun aangename pasvorm en innovatieve technologie\u00ebn een hoog draagcomfort met actuele modetrends.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-2NqyCAv1Qcx6Xnu2Z4JgQAA15aqJ",
+          "categoryId": 9000610,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            512098
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1124,
+                "width": 1455
+              },
+              "type": "mainImage",
+              "url": "pim/4064224804895/394/{size}/4a7ecc3ec058be255698a24536bdb7d1/Pumps/Jana-Dames-8-24464-42-Pumps%2c-Donkerblauw%2c-36-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 766,
+                "width": 1499
+              },
+              "type": "alternativeImage",
+              "url": "pim/4064224804895/15376/{size}/d04910b9dbe2ec3fd7c340508382cf72/Pumps/Jana-Dames-8-24464-42-Pumps%2c-Donkerblauw%2c-36-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1124,
+                "width": 616
+              },
+              "type": "alternativeImage",
+              "url": "pim/4064224804895/15377/{size}/2bec081b305c40bc5be149ce5c0e1195/Pumps/Jana-Dames-8-24464-42-Pumps%2c-Donkerblauw%2c-36-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1124,
+                "width": 765
+              },
+              "type": "alternativeImage",
+              "url": "pim/4064224804895/15378/{size}/f94bd2e74d003bdeb686f00e111225a9/Pumps/Jana-Dames-8-24464-42-Pumps%2c-Donkerblauw%2c-36-EU.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCBLz7MQ1f3TNBEULEF5YxKEK",
+              "value": "37",
+              "available": true,
+              "price": 40.87,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCBBjzTtLGoJQi5HJoh5uQ9wi",
+              "value": "39",
+              "available": true,
+              "price": 46.34,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCB8ukd5NvhhV9cydU64JYAPW",
+              "value": "36",
+              "available": true,
+              "price": 40.89,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCAuDLiVfEfZGjXZ39ewV6fYQ",
+              "value": "38",
+              "available": true,
+              "price": 40.33,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCBAHngLXgJ9djQM8wxN45MPp",
+              "value": "41",
+              "available": true,
+              "price": 41.62,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCBP7AdvX2Z4LXyJNeeGAiUkD",
+              "value": "40",
+              "available": true,
+              "price": 40.33,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCBDVmiUiAzxSY72hp8gKYXQY",
+              "value": "42",
+              "available": true,
+              "price": 47.23,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430804,
+                  "caption": "Maat 36",
+                  "columnValue": "36",
+                  "crawlable": true,
+                  "detailValue": "Maat 36",
+                  "fullId": "3081_430804",
+                  "sequence": 55,
+                  "urlName": null,
+                  "productIdV3": "2NqyCB8ukd5NvhhV9cydU64JYAPW",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 40.89,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "2NqyCBLz7MQ1f3TNBEULEF5YxKEK",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 40.87,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "2NqyCAuDLiVfEfZGjXZ39ewV6fYQ",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 40.33,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "2NqyCBBjzTtLGoJQi5HJoh5uQ9wi",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 46.34,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "2NqyCBP7AdvX2Z4LXyJNeeGAiUkD",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 40.33,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "2NqyCBAHngLXgJ9djQM8wxN45MPp",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 41.62,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "2NqyCBDVmiUiAzxSY72hp8gKYXQY",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 47.23,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 432028,
+          "brandName": "Jana",
+          "brandRank": 305,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-08 00:00:00",
+          "popularity": 208,
+          "popularityData": {
+            "clickFactor": 20,
+            "webshopsRevenuePerClick": 2.11,
+            "roasPercentage": 1100
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Jana",
+              "values": [
+                {
+                  "id": 432028,
+                  "caption": "Jana",
+                  "columnValue": "Jana",
+                  "crawlable": true,
+                  "detailValue": "Jana",
+                  "fullId": "3078_432028",
+                  "sequence": 1472,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Amazon.nl",
+              "values": [
+                {
+                  "id": 19275875,
+                  "caption": "Amazon.nl",
+                  "columnValue": "Amazon.nl",
+                  "crawlable": true,
+                  "detailValue": "Amazon.nl",
+                  "fullId": "3079_19275875",
+                  "sequence": 53,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Blauw",
+              "values": [
+                {
+                  "id": 430773,
+                  "caption": "Blauwe",
+                  "columnValue": "Blauw",
+                  "crawlable": true,
+                  "detailValue": "Blauwe",
+                  "fullId": "3080_430773",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "36",
+              "values": [
+                {
+                  "id": 430804,
+                  "caption": "Maat 36",
+                  "columnValue": "36",
+                  "crawlable": true,
+                  "detailValue": "Maat 36",
+                  "fullId": "3081_430804",
+                  "sequence": 55,
+                  "urlName": null
+                },
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4217,
+              "name": "Kleurtint blauw",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "kleurtint_blauw",
+              "value": "Donkerblauw",
+              "values": [
+                {
+                  "id": 6826871,
+                  "caption": "Donkerblauwe",
+                  "columnValue": "Donkerblauw",
+                  "crawlable": true,
+                  "detailValue": "Donkerblauwe",
+                  "fullId": "4217_6826871",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Brede voeten",
+              "values": [
+                {
+                  "id": 15482619,
+                  "caption": "Brede voeten",
+                  "columnValue": "Brede voeten",
+                  "crawlable": true,
+                  "detailValue": "Brede voeten",
+                  "fullId": "4550_15482619",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "H",
+              "values": [
+                {
+                  "id": 16475783,
+                  "caption": "Wijdte H",
+                  "columnValue": "H",
+                  "crawlable": true,
+                  "detailValue": "Wijdte H",
+                  "fullId": "5211_16475783",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6291,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Vegan",
+              "values": [
+                {
+                  "id": 23597223,
+                  "caption": "Vegan",
+                  "columnValue": "Vegan",
+                  "crawlable": true,
+                  "detailValue": "Vegan",
+                  "fullId": "6291_23597223",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "512098-B0C6FBH1WF",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-2df737a6-14b8-49a5-ada9-5745e6805d2b",
+          "revenuePerClick": 0.19,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 40.33,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 19,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 19
+            }
+          ]
+        },
+        {
+          "id": "4KXbjznkBfXurZvRJiTbxveBma31",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "4KXbjzqjtSrSUCFTvnB1TH8eiik2",
+            "advertisementIdV3": "4KXbjzqjtSrSUCFTvnB1TH8eiik2"
+          },
+          "shopItemId": 0,
+          "productId": "4KXbjznkBfXurZvRJiTbxveBma31",
+          "ean": "",
+          "shopInfo": {
+            "id": 83182,
+            "shopName": "Your-look-for-less.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 8,
+            "productCount": 13000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/83182.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-15T01:46:23+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Your-look-for-less.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 8943,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 83182,
+            "shopItemId": 0,
+            "shopItemTitle": "Dames pumps in donkerblauw",
+            "shopItemDescription": "",
+            "shopItemVersion": "101656_38-179261-101656",
+            "shopName": "Your-look-for-less.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "4KXbjzsby2TKUPZaqtZMc43CRvW5",
+            "condition": "Nieuw",
+            "ean": "4064224804918",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.your-look-for-less.nl/p/179261?size=38?gw=955419419&ecc=419&utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslist",
+            "size": "38",
+            "shopReviewScore": 8.6,
+            "shopReviewAmount": 5275,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 50,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "101656_38",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "2df737a6-14b8-49a5-ada9-5745e6805d2b",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 39.86
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 32.5
+          },
+          "title": "Dames pumps in donkerblauw",
+          "fixedTitle": "Dames pumps in donkerblauw",
+          "indexIdentifierTimeStamp": 1744738891,
+          "description": "Deze pumps van Jana bieden dankzij de speciale wijdte voor stevige voeten veel ruimte voor comfort. Bovenwerk van imitatieleer en textiel. Binnenwerk van textiel. Met klittenbandsluiting. Comfortabele, flexibele TR-zool met hak van ca. 3 cm. Wijdte H.",
+          "descriptionRaw": "Deze pumps van Jana bieden dankzij de speciale wijdte voor stevige voeten veel ruimte voor comfort. Bovenwerk van imitatieleer en textiel. Binnenwerk van textiel. Met klittenbandsluiting. Comfortabele, flexibele TR-zool met hak van ca. 3 cm. Wijdte H.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-4KXbjzqjtSrSUCFTvnB1TH8eiik2",
+          "categoryId": 9000615,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            83182
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1124,
+                "width": 1455
+              },
+              "type": "mainImage",
+              "url": "pim/4064224804901/394/{size}/4a7ecc3ec058be255698a24536bdb7d1/Pumps/Dames-pumps-in-donkerblauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 766,
+                "width": 1499
+              },
+              "type": "alternativeImage",
+              "url": "pim/4064224804901/15376/{size}/d04910b9dbe2ec3fd7c340508382cf72/Pumps/Dames-pumps-in-donkerblauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1124,
+                "width": 616
+              },
+              "type": "alternativeImage",
+              "url": "pim/4064224804901/15377/{size}/2bec081b305c40bc5be149ce5c0e1195/Pumps/Dames-pumps-in-donkerblauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1124,
+                "width": 765
+              },
+              "type": "alternativeImage",
+              "url": "pim/4064224804901/15378/{size}/f94bd2e74d003bdeb686f00e111225a9/Pumps/Dames-pumps-in-donkerblauw.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjznkBfXurZvRJiTbxveBma31",
+              "value": "39",
+              "available": true,
+              "price": 50,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjznw2bp92LPNQ3n3mz1gZvv3",
+              "value": "42",
+              "available": true,
+              "price": 50,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzsby2TKUPZaqtZMc43CRvW5",
+              "value": "38",
+              "available": true,
+              "price": 50,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzvo5EF1A4ScdqJk2SeQMoHW",
+              "value": "37",
+              "available": true,
+              "price": 50,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzg2TJRVLcdWQ3EmKkwPyVaQ",
+              "value": "40",
+              "available": true,
+              "price": 50,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzxtKaPDB8XKdfJTepif1ukq",
+              "value": "41",
+              "available": true,
+              "price": 50,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzvo5EF1A4ScdqJk2SeQMoHW",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 50,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzsby2TKUPZaqtZMc43CRvW5",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 50,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "4KXbjznkBfXurZvRJiTbxveBma31",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 50,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzg2TJRVLcdWQ3EmKkwPyVaQ",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 50,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzxtKaPDB8XKdfJTepif1ukq",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 50,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "4KXbjznw2bp92LPNQ3n3mz1gZvv3",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 50,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 432028,
+          "brandName": "Jana",
+          "brandRank": 305,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-08 00:00:00",
+          "popularity": 5408,
+          "popularityData": {
+            "clickFactor": 209,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Pre-order",
+          "deliveryTimeSort": 6,
+          "deliveryCosts": 5.5,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Jana",
+              "values": [
+                {
+                  "id": 432028,
+                  "caption": "Jana",
+                  "columnValue": "Jana",
+                  "crawlable": true,
+                  "detailValue": "Jana",
+                  "fullId": "3078_432028",
+                  "sequence": 1472,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Your-look-for-less.nl",
+              "values": [
+                {
+                  "id": 4045408,
+                  "caption": "Your-look-for-less.nl",
+                  "columnValue": "Your-look-for-less.nl",
+                  "crawlable": true,
+                  "detailValue": "Your-look-for-less.nl",
+                  "fullId": "3079_4045408",
+                  "sequence": 2077,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Blauw",
+              "values": [
+                {
+                  "id": 430773,
+                  "caption": "Blauwe",
+                  "columnValue": "Blauw",
+                  "crawlable": true,
+                  "detailValue": "Blauwe",
+                  "fullId": "3080_430773",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Imitatieleer",
+              "values": [
+                {
+                  "id": 430842,
+                  "caption": "Imitatieleren",
+                  "columnValue": "Imitatieleer",
+                  "crawlable": true,
+                  "detailValue": "Imitatieleren",
+                  "fullId": "3083_430842",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 430862,
+                  "caption": "Textiel",
+                  "columnValue": "Textiel",
+                  "crawlable": true,
+                  "detailValue": "Textiel",
+                  "fullId": "3083_430862",
+                  "sequence": 38,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Klittenband",
+              "values": [
+                {
+                  "id": 430981,
+                  "caption": "Met klittenband",
+                  "columnValue": "Klittenband",
+                  "crawlable": true,
+                  "detailValue": "Met klittenband",
+                  "fullId": "3090_430981",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 19955980,
+                  "caption": "Zonder veters",
+                  "columnValue": "Zonder veters",
+                  "crawlable": true,
+                  "detailValue": "Zonder veters",
+                  "fullId": "3090_19955980",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4217,
+              "name": "Kleurtint blauw",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "kleurtint_blauw",
+              "value": "Donkerblauw",
+              "values": [
+                {
+                  "id": 6826871,
+                  "caption": "Donkerblauwe",
+                  "columnValue": "Donkerblauw",
+                  "crawlable": true,
+                  "detailValue": "Donkerblauwe",
+                  "fullId": "4217_6826871",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Brede voeten",
+              "values": [
+                {
+                  "id": 15482619,
+                  "caption": "Brede voeten",
+                  "columnValue": "Brede voeten",
+                  "crawlable": true,
+                  "detailValue": "Brede voeten",
+                  "fullId": "4550_15482619",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "H",
+              "values": [
+                {
+                  "id": 16475783,
+                  "caption": "Wijdte H",
+                  "columnValue": "H",
+                  "crawlable": true,
+                  "detailValue": "Wijdte H",
+                  "fullId": "5211_16475783",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "83182-101656",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-2df737a6-14b8-49a5-ada9-5745e6805d2b",
+          "revenuePerClick": 0.25,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 40.33,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 8.6,
+              "amount": 5275
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

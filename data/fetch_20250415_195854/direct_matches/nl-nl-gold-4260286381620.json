@@ -1,0 +1,939 @@
+{
+  "offset": 0,
+  "numFound": 4,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 4,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 24.09,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": []
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "toPJT71VWaDRgqw4F76ZuiPuVyb",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "toPJT71VWaDRgqw4F76ZuiPuVyb",
+            "advertisementIdV3": "toPJT71VWaDRgqw4F76ZuiPuVyb"
+          },
+          "shopItemId": 0,
+          "productId": "toPJT71VWaDRgqw4F76ZuiPuVyb",
+          "ean": "",
+          "shopInfo": {
+            "id": 596800,
+            "shopName": "AllesTegenOngedierte.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": true,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 7,
+            "productCount": 2300,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/596800.png",
+            "coolingOffPeriod": 61,
+            "activeSince": "2025-04-15T04:04:39+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 19937,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@allestegenbloedluis.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 6,
+                "name": "DPD"
+              },
+              {
+                "id": 2,
+                "name": "FedEx"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 596800,
+            "shopItemId": 0,
+            "shopItemTitle": "Isotronic 2 Eye Duiven en vogel verjager",
+            "shopItemDescription": "",
+            "shopItemVersion": "ATO-2438",
+            "shopName": "AllesTegenOngedierte.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "toPJT71VWaDRgqw4F76ZuiPuVyb",
+            "condition": "Nieuw",
+            "ean": "4260286381620",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "http://www.allestegenongedierte.nl/isotronic-2-eye-duiven-en-vogel-verjager.html?id=274110103&utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslist",
+            "size": "",
+            "shopReviewScore": 7,
+            "shopReviewAmount": 65,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 21,
+              "price": 24.09,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "ATO-2438",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 20.07
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 20.07
+          },
+          "title": "Isotronic 2 Eye Duiven en vogel verjager",
+          "fixedTitle": "Isotronic 2 Eye Duiven en vogel verjager",
+          "indexIdentifierTimeStamp": 1744737622,
+          "description": "De Isotronic 2 Eye Duiven en vogel verjager verjaagt alle soorten vogels met niet hoorbare elektromagnetische pulsen. Deze verstoren de vogels waardoor ze wegblijven. Doordat de pulsen vari\u00ebren en werken met een interval, ontstaat er geen gewenning bij de vogels.\n\n Werkt op 6 AAA batterijen (inbegrepen) en heeft een bereik tot 50 vierkante meter.\n\n \u00a0\n\n Merk\n\n Isotronic\n\n \u00a0\n\n Samenvattend\n\n Stille verjager van vogels\n\n Tot 50 vierkante meter bereik\n\n Werkt op 6 AAA batterijen\n\n \u00a0\n\n Snel van het vogelprobleem af met de Isotronic 2 Eye Duiven en vogel verjager.",
+          "descriptionRaw": "De Isotronic 2 Eye Duiven en vogel verjager verjaagt alle soorten vogels met niet hoorbare elektromagnetische pulsen. Deze verstoren de vogels waardoor ze wegblijven. Doordat de pulsen vari\u00ebren en werken met een interval, ontstaat er geen gewenning bij de vogels.\n\n Werkt op 6 AAA batterijen (inbegrepen) en heeft een bereik tot 50 vierkante meter.\n\n \u00a0\n\n Merk\n\n Isotronic\n\n \u00a0\n\n Samenvattend\n\n Stille verjager van vogels\n\n Tot 50 vierkante meter bereik\n\n Werkt op 6 AAA batterijen\n\n \u00a0\n\n Snel van het vogelprobleem af met de Isotronic 2 Eye Duiven en vogel verjager.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "36000-toPJT71VWaDRgqw4F76ZuiPuVyb",
+          "categoryId": 9003137,
+          "mainCategoryId": 36000,
+          "mainCategoryUrl": "tuin_accessoires",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 4,
+          "shopIds": [
+            596800
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 788
+              },
+              "type": "mainImage",
+              "url": "pim/4260286381620/394/{size}/10dcfe8c17dc95d9fa1b1c29883ad6c7/Vogelverschrikkers/Isotronic-2-Eye-Duiven-en-vogel-verjager.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1089,
+                "width": 717
+              },
+              "type": "alternativeImage",
+              "url": "pim/4260286381620/15376/{size}/a631d5ea1156b4cf5afd33a2d6ad457f/Vogelverschrikkers/Isotronic-2-Eye-Duiven-en-vogel-verjager.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 504677,
+          "brandName": "Isotronic",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 78792,
+          "popularityData": {
+            "clickFactor": 1071,
+            "webshopsRevenuePerClick": 3.47,
+            "roasPercentage": 600
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 22:00 uur besteld, morgen in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 5.95,
+          "facets": [
+            {
+              "id": 3252,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "AllesTegenOngedierte.nl",
+              "values": [
+                {
+                  "id": 16963542,
+                  "caption": "AllesTegenOngedierte.nl",
+                  "columnValue": "AllesTegenOngedierte.nl",
+                  "crawlable": true,
+                  "detailValue": "AllesTegenOngedierte.nl",
+                  "fullId": "3252_16963542",
+                  "sequence": 31,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3253,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Isotronic",
+              "values": [
+                {
+                  "id": 504677,
+                  "caption": "Isotronic",
+                  "columnValue": "Isotronic",
+                  "crawlable": true,
+                  "detailValue": "Isotronic",
+                  "fullId": "3253_504677",
+                  "sequence": 796,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4344,
+              "name": "Methode",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "m_ongediertebestrijding",
+              "value": "Elektrisch",
+              "values": [
+                {
+                  "id": 7175099,
+                  "caption": "Elektrisch",
+                  "columnValue": "Elektrisch",
+                  "crawlable": true,
+                  "detailValue": "Elektrisch",
+                  "fullId": "4344_7175099",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6105,
+              "name": "Soort vogel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "soort_vogel",
+              "value": "Duiven",
+              "values": [
+                {
+                  "id": 23581333,
+                  "caption": "Duiven",
+                  "columnValue": "Duiven",
+                  "crawlable": true,
+                  "detailValue": "Duiven",
+                  "fullId": "6105_23581333",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-4260286381620",
+          "revenuePerClick": 0.58,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 24.09,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 4,
+            "rating": 81
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        },
+        {
+          "id": "a5ms6GvuZjz9m1Ybf2H7HqLYDAx",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "a5ms6RDrXvjjrxXVzpnYUH1vgfc",
+            "advertisementIdV3": "a5ms6GvuZjz9m1Ybf2H7HqLYDAx"
+          },
+          "shopItemId": 0,
+          "productId": "a5ms6GvuZjz9m1Ybf2H7HqLYDAx",
+          "ean": "",
+          "shopInfo": {
+            "id": 651560,
+            "shopName": "Amazon Partners",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/651560.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-15T04:04:03+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22562,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 651560,
+            "shopItemId": 0,
+            "shopItemTitle": "ISOTRONIC Mobiele duiven/vogelverschrikker met ultrasoon geluid met aan-uitschakelaar voor schuren, tuin, auto en garage; bijzonder hoge tonen, wisselfrequentie tegen gewenningseffect",
+            "shopItemDescription": "",
+            "shopItemVersion": "B07BB1W4RC-B07BB1W4RC-wit-B07BB1W4RC",
+            "shopName": "Amazon Partners",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "a5ms6GvuZjz9m1Ybf2H7HqLYDAx",
+            "condition": "Nieuw",
+            "ean": "4260286381620",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.amazon.nl/dp/B07BB1W4RC/ref=asc_df_B07BB1W4RC?ie=UTF8&condition=new&tag=beslistmpnl-21&creative=380345&creativeASIN=B07BB1W4RC&linkCode=asm&ascsubtag=UUID_placeholder",
+            "size": "",
+            "shopReviewScore": 4.8,
+            "shopReviewAmount": 595,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 44.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "B07BB1W4RC",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 20.07
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 20.07
+          },
+          "title": "ISOTRONIC Mobiele duiven/vogelverschrikker met ultrasoon geluid met aan-uitschakelaar voor schuren, tuin, auto en garage; bijzonder hoge tonen, wisselfrequentie tegen gewenningseffect",
+          "fixedTitle": "ISOTRONIC Mobiele duiven/vogelverschrikker met ultrasoon geluid met aan-uitschakelaar voor schuren, tuin, auto en garage; bijzonder hoge tonen, wisselfrequentie tegen gewenningseffect",
+          "indexIdentifierTimeStamp": 1744737622,
+          "description": "Compacte duiven- en vogelverjager - de ultrasone afweer is mobiel inzetbaar. Een set batterijen (6 x AAA micro, niet meegeleverd) heeft een levensduur van maximaal 3 maanden. Extra hoge tonen: Het apparaat zendt in intervallen (met elk ca. 2 seconden in- en ca. 4 seconden uitschakeltijd) hoge tonen uit. De signalen zijn voor mensen niet hoorbaar, maar werken storend voor duiven en vogels. Anti-gewenningseffect. Door de wisselfrequentie wordt het gewenningseffect verminderd, de afweerfunctie wordt niet onderbroken. Om dieren te verdrijven die een vaste plaats hebben, kunnen 7 - 14 dagen verstrijken. Sterk genoeg: het werkingsbereik is ongeveer 50 vierkante meter per apparaat. De duiven- en vogelverschrikker is bijzonder geschikt voor buiten. Maximale werking: door aanvullende elektromagnetische, zeer diepe signalen raken de dieren extra verward.",
+          "descriptionRaw": "Compacte duiven- en vogelverjager - de ultrasone afweer is mobiel inzetbaar. Een set batterijen (6 x AAA micro, niet meegeleverd) heeft een levensduur van maximaal 3 maanden. Extra hoge tonen: Het apparaat zendt in intervallen (met elk ca. 2 seconden in- en ca. 4 seconden uitschakeltijd) hoge tonen uit. De signalen zijn voor mensen niet hoorbaar, maar werken storend voor duiven en vogels. Anti-gewenningseffect. Door de wisselfrequentie wordt het gewenningseffect verminderd, de afweerfunctie wordt niet onderbroken. Om dieren te verdrijven die een vaste plaats hebben, kunnen 7 - 14 dagen verstrijken. Sterk genoeg: het werkingsbereik is ongeveer 50 vierkante meter per apparaat. De duiven- en vogelverschrikker is bijzonder geschikt voor buiten. Maximale werking: door aanvullende elektromagnetische, zeer diepe signalen raken de dieren extra verward.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "36000-a5ms6RDrXvjjrxXVzpnYUH1vgfc",
+          "categoryId": 9001480,
+          "mainCategoryId": 36000,
+          "mainCategoryUrl": "tuin_accessoires",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 4,
+          "shopIds": [
+            651560
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 788
+              },
+              "type": "mainImage",
+              "url": "pim/4260286381620/394/{size}/10dcfe8c17dc95d9fa1b1c29883ad6c7/Hondenverjagers/ISOTRONIC-Mobiele-duiven-vogelverschrikker-met-ultrasoon-geluid-met-aan-uitschakelaar-voor-schuren%2c-.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1089,
+                "width": 717
+              },
+              "type": "alternativeImage",
+              "url": "pim/4260286381620/15376/{size}/a631d5ea1156b4cf5afd33a2d6ad457f/Hondenverjagers/ISOTRONIC-Mobiele-duiven-vogelverschrikker-met-ultrasoon-geluid-met-aan-uitschakelaar-voor-schuren%2c-.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 504677,
+          "brandName": "Isotronic",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 2,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 3.13,
+            "roasPercentage": 6600
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op voorraad",
+          "deliveryTimeSort": 8,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3252,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Amazon.nl",
+              "values": [
+                {
+                  "id": 19275832,
+                  "caption": "Amazon.nl",
+                  "columnValue": "Amazon.nl",
+                  "crawlable": true,
+                  "detailValue": "Amazon.nl",
+                  "fullId": "3252_19275832",
+                  "sequence": 40,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3253,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Isotronic",
+              "values": [
+                {
+                  "id": 504677,
+                  "caption": "Isotronic",
+                  "columnValue": "Isotronic",
+                  "crawlable": true,
+                  "detailValue": "Isotronic",
+                  "fullId": "3253_504677",
+                  "sequence": 796,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3255,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 504039,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3255_504039",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "651560-B07BB1W4RC",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-4260286381620",
+          "revenuePerClick": 0.05,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 24.09,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 4,
+            "rating": 81
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "FPozPqPT9XRek9yu6RwzJhwGZZc",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "FPozPqPT9XRek9yu6RwzJhwGZZc",
+            "advertisementIdV3": "FPozPqPT9XRek9yu6RwzJhwGZZc"
+          },
+          "shopItemId": 839597125,
+          "productId": "FPozPqPT9XRek9yu6RwzJhwGZZc",
+          "ean": "",
+          "shopInfo": {
+            "id": 643089,
+            "shopName": "Lampenmanie.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 6,
+            "productCount": 37000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/643089.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-15T04:04:38+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24091,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "helpdesk@lampenmanie.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 643089,
+            "shopItemId": 839597125,
+            "shopItemTitle": "Vogelverjager 1W/6xAAA",
+            "shopItemDescription": "",
+            "shopItemVersion": "148102",
+            "shopName": "Lampenmanie.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "FPozPqPT9XRek9yu6RwzJhwGZZc",
+            "condition": "Nieuw",
+            "ean": "4260286381620",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.lampenmanie.nl/vogelverjager-1w-6xaaa/?utm_campaign=bestliste_Isotronic&utm_content=LC3459&utm_medium=product&utm_source=beslist",
+            "size": "",
+            "shopReviewScore": 5.8,
+            "shopReviewAmount": 141,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 49.9,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "148102",
+            "bidLabel": ""
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 20.07
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 20.07
+          },
+          "title": "Vogelverjager 1W/6xAAA",
+          "fixedTitle": "Vogelverjager 1W/6xAAA",
+          "indexIdentifierTimeStamp": 1744737622,
+          "description": "Batterij-aangedreven vogel en duiven verjager. De dieren weten niet hoe ze moeten wennen aan de intervalstraling met veranderende richting, dus het apparaat biedt u constante bescherming. LED-indicator. Intervalalarm met veranderende richting. Milieuvriendelijk - onschadelijk voor mensen. Bereik: ongeveer 50 m\u00b2. 2 sec. AAN / 4 sec. UIT. Voeding: 6 x AAA (niet meegeleverd).",
+          "descriptionRaw": "Batterij-aangedreven vogel en duiven verjager. De dieren weten niet hoe ze moeten wennen aan de intervalstraling met veranderende richting, dus het apparaat biedt u constante bescherming. LED-indicator. Intervalalarm met veranderende richting. Milieuvriendelijk - onschadelijk voor mensen. Bereik: ongeveer 50 m\u00b2. 2 sec. AAN / 4 sec. UIT. Voeding: 6 x AAA (niet meegeleverd).",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1171962861,
+          "gtinGroupId": "36000-FPozPqPT9XRek9yu6RwzJhwGZZc",
+          "categoryId": 9003137,
+          "mainCategoryId": 36000,
+          "mainCategoryUrl": "tuin_accessoires",
+          "csvId": 154619994618861,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 4,
+          "shopIds": [
+            643089
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 788
+              },
+              "type": "mainImage",
+              "url": "pim/4260286381620/394/{size}/10dcfe8c17dc95d9fa1b1c29883ad6c7/Vogelverschrikkers/Vogelverjager-1W-6xAAA.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1089,
+                "width": 717
+              },
+              "type": "alternativeImage",
+              "url": "pim/4260286381620/15376/{size}/a631d5ea1156b4cf5afd33a2d6ad457f/Vogelverschrikkers/Vogelverjager-1W-6xAAA.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 504677,
+          "brandName": "Isotronic",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 25,
+          "popularityData": {
+            "clickFactor": 24,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 650
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 - 6 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 8.9,
+          "facets": [
+            {
+              "id": 3252,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Lampenmanie.nl",
+              "values": [
+                {
+                  "id": 20077500,
+                  "caption": "Lampenmanie.nl",
+                  "columnValue": "Lampenmanie.nl",
+                  "crawlable": true,
+                  "detailValue": "Lampenmanie.nl",
+                  "fullId": "3252_20077500",
+                  "sequence": 473,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3253,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Isotronic",
+              "values": [
+                {
+                  "id": 504677,
+                  "caption": "Isotronic",
+                  "columnValue": "Isotronic",
+                  "crawlable": true,
+                  "detailValue": "Isotronic",
+                  "fullId": "3253_504677",
+                  "sequence": 796,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3255,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 504039,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3255_504039",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4344,
+              "name": "Methode",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "m_ongediertebestrijding",
+              "value": "Elektrisch",
+              "values": [
+                {
+                  "id": 7175099,
+                  "caption": "Elektrisch",
+                  "columnValue": "Elektrisch",
+                  "crawlable": true,
+                  "detailValue": "Elektrisch",
+                  "fullId": "4344_7175099",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6105,
+              "name": "Soort vogel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "soort_vogel",
+              "value": "Duiven",
+              "values": [
+                {
+                  "id": 23581333,
+                  "caption": "Duiven",
+                  "columnValue": "Duiven",
+                  "crawlable": true,
+                  "detailValue": "Duiven",
+                  "fullId": "6105_23581333",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "643089-148102",
+          "relatedSiblingDetails": {
+            "id": null,
+            "detail": null,
+            "isTopDetail": null,
+            "value": "Wit"
+          },
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-4260286381620",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 2,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 24.09,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 4,
+            "rating": 81
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}
