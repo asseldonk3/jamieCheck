@@ -15,7 +15,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from reportlab.lib.pagesizes import letter, A4
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image, Table, TableStyle
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image, Table, TableStyle, PageBreak
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib import colors
 
@@ -334,18 +334,26 @@ class ProductAnalyzer:
             return None
         
         try:
-            # Create document
-            doc = SimpleDocTemplate(str(output_file), pagesize=A4)
+            # Create document with custom page size and margins
+            doc = SimpleDocTemplate(
+                str(output_file), 
+                pagesize=A4,
+                rightMargin=30,
+                leftMargin=30,
+                topMargin=30,
+                bottomMargin=30
+            )
             styles = getSampleStyleSheet()
             
-            # Create custom styles
+            # Create custom styles with better typography
             title_style = ParagraphStyle(
                 'ReportTitle',
                 parent=styles['Heading1'],
-                fontSize=24,
+                fontSize=22,
                 textColor=colors.darkblue,
-                spaceAfter=12,
-                alignment=1  # Center alignment
+                spaceAfter=16,
+                alignment=1,  # Center alignment
+                fontName='Helvetica-Bold'
             )
             
             heading2_style = ParagraphStyle(
@@ -353,24 +361,34 @@ class ProductAnalyzer:
                 parent=styles['Heading2'],
                 fontSize=18,
                 textColor=colors.darkblue,
-                spaceBefore=12,
-                spaceAfter=6
+                spaceBefore=14,
+                spaceAfter=10,
+                fontName='Helvetica-Bold'
             )
             
             heading3_style = ParagraphStyle(
                 'Heading3',
                 parent=styles['Heading3'],
-                fontSize=14,
+                fontSize=16,
                 textColor=colors.darkblue,
                 spaceBefore=10,
-                spaceAfter=4
+                spaceAfter=6,
+                fontName='Helvetica-Bold'
             )
             
             url_style = ParagraphStyle(
                 'URLStyle',
                 parent=styles['Normal'],
                 textColor=colors.blue,
-                fontSize=10
+                fontSize=10,
+                spaceAfter=15
+            )
+            
+            normal_style = ParagraphStyle(
+                'CustomNormal',
+                parent=styles['Normal'],
+                fontSize=11,
+                leading=14
             )
             
             # Content elements
@@ -417,12 +435,16 @@ class ProductAnalyzer:
             ]))
             
             elements.append(summary_table)
-            elements.append(Spacer(1, 30))
+            elements.append(Spacer(1, 20))
             
-            # Individual product sections
+            # Page break after summary
             elements.append(Paragraph("Product Details", heading2_style))
-            elements.append(Spacer(1, 15))
+            elements.append(Spacer(1, 5))
+            elements.append(Paragraph("Each product is shown on a separate page with analysis results.", normal_style))
+            elements.append(Spacer(1, 5))
+            elements.append(PageBreak())
             
+            # Individual product sections - one per page
             for result in self.analysis_results:
                 # Product title
                 product_id = result.get('product_id', 'Unknown')
@@ -436,55 +458,134 @@ class ProductAnalyzer:
                     url_text = f'<a href="{url}">{url}</a>'
                     elements.append(Paragraph(url_text, url_style))
                 
-                elements.append(Spacer(1, 10))
-                
                 # Create a table for product details
                 screenshot_path = result.get('screenshot_path')
                 has_shop_with_many_sizes = result.get('has_shop_with_many_sizes', False)
                 
+                # Format the analysis text with better styling
+                analysis_text = f"""
+                <b>Multiple Images:</b> {'Yes' if result.get('has_multiple_images') else 'No'}<br/>
+                <b>Size in Title:</b> {'Yes' if result.get('has_size_in_title') else 'No'}<br/>
+                <b>Has Reviews:</b> {'Yes' if result.get('has_reviews') else 'No'}<br/>
+                <b>Min 1 offer met >5 maten:</b> {'Yes' if has_shop_with_many_sizes else 'No'}<br/>
+                """
+                
+                # Add shop size counts if available
+                shop_counts = result.get('shop_size_counts', {})
+                if shop_counts:
+                    analysis_text += "<br/><b>Shop Size Counts:</b><br/>"
+                    for shop, count in shop_counts.items():
+                        analysis_text += f"• {shop}: {count} sizes<br/>"
+                
                 # Check if screenshot exists
                 if screenshot_path and os.path.exists(screenshot_path):
-                    # Resize image to fit in the document
-                    img = Image(screenshot_path, width=250, height=160)
-                    
-                    # Format the analysis text with better styling
-                    analysis_text = f"""
-                    <b>Multiple Images:</b> {'Yes' if result.get('has_multiple_images') else 'No'}<br/>
-                    <b>Size in Title:</b> {'Yes' if result.get('has_size_in_title') else 'No'}<br/>
-                    <b>Has Reviews:</b> {'Yes' if result.get('has_reviews') else 'No'}<br/>
-                    <b>Min 1 offer met >5 maten:</b> {'Yes' if has_shop_with_many_sizes else 'No'}<br/>
-                    """
-                    
-                    # Add shop size counts if available
-                    shop_counts = result.get('shop_size_counts', {})
-                    if shop_counts:
-                        analysis_text += "<br/><b>Shop Size Counts:</b><br/>"
-                        for shop, count in shop_counts.items():
-                            analysis_text += f"• {shop}: {count} sizes<br/>"
+                    # Larger image size for better visibility
+                    img = Image(screenshot_path, width=400, height=250)
                     
                     details_data = [
                         ["Screenshot", "Analysis"],
-                        [img, Paragraph(analysis_text, styles['Normal'])]
+                        [img, Paragraph(analysis_text, normal_style)]
                     ]
                 else:
-                    # Format the analysis text with better styling
-                    analysis_text = f"""
-                    <b>Multiple Images:</b> {'Yes' if result.get('has_multiple_images') else 'No'}<br/>
-                    <b>Size in Title:</b> {'Yes' if result.get('has_size_in_title') else 'No'}<br/>
-                    <b>Has Reviews:</b> {'Yes' if result.get('has_reviews') else 'No'}<br/>
-                    <b>Min 1 offer met >5 maten:</b> {'Yes' if has_shop_with_many_sizes else 'No'}<br/>
-                    """
-                    
-                    # Add shop size counts if available
-                    shop_counts = result.get('shop_size_counts', {})
-                    if shop_counts:
-                        analysis_text += "<br/><b>Shop Size Counts:</b><br/>"
-                        for shop, count in shop_counts.items():
-                            analysis_text += f"• {shop}: {count} sizes<br/>"
-                    
                     details_data = [
                         ["Screenshot", "Analysis"],
-                        ["Not available", Paragraph(analysis_text, styles['Normal'])]
+                        ["Not available", Paragraph(analysis_text, normal_style)]
                     ]
                 
-                details_table = Table(details_data, colWidths=[300, 200])
+                # Use more space for the screenshot (70%) and less for the text (30%)
+                details_table = Table(details_data, colWidths=[400, 130])
+                details_table.setStyle(TableStyle([
+                    ('VALIGN', (0, 0), (-1, -1), 'TOP'),
+                    ('GRID', (0, 0), (-1, -1), 1, colors.grey),
+                    ('BACKGROUND', (0, 0), (-1, 0), colors.darkblue),
+                    ('TEXTCOLOR', (0, 0), (-1, 0), colors.white),
+                    ('FONTNAME', (0, 0), (-1, 0), 'Helvetica-Bold'),
+                    ('PADDING', (0, 0), (-1, -1), 8),
+                    ('ALIGN', (0, 0), (-1, 0), 'CENTER'),
+                ]))
+                
+                elements.append(details_table)
+                
+                # Add a page break after each product (except the last one)
+                if result != self.analysis_results[-1]:
+                    elements.append(PageBreak())
+            
+            # Add page numbers
+            def add_page_number(canvas, doc):
+                page_num = canvas.getPageNumber()
+                text = f"Page {page_num}"
+                canvas.setFont("Helvetica", 9)
+                canvas.setFillColor(colors.grey)
+                canvas.drawRightString(doc.pagesize[0] - 30, 30, text)
+                
+                # Add report title to each page header
+                if page_num > 1:  # Skip the first page which already has the title
+                    canvas.setFont("Helvetica-Bold", 10)
+                    canvas.setFillColor(colors.darkblue)
+                    canvas.drawString(30, doc.pagesize[1] - 30, "Product Analysis Report")
+            
+            # Build the PDF with page numbers
+            doc.build(elements, onFirstPage=add_page_number, onLaterPages=add_page_number)
+            print(f"PDF report generated at {output_file}")
+            return output_file
+        
+        except Exception as e:
+            print(f"Error generating PDF report: {str(e)}")
+            return None
+    
+    def close(self):
+        """Close the webdriver and clean up."""
+        if self.driver:
+            self.driver.quit()
+            self.driver = None
+
+
+def analyze_products_from_file(input_file, output_dir="analysis"):
+    """
+    Analyze products from a JSON file and generate a report.
+    
+    Args:
+        input_file: Path to the JSON file containing product data
+        output_dir: Directory to store analysis output
+        
+    Returns:
+        Path to the generated PDF report
+    """
+    try:
+        # Load product data
+        with open(input_file, 'r') as f:
+            products_data = json.load(f)
+        
+        # Initialize analyzer
+        analyzer = ProductAnalyzer(output_dir)
+        
+        # Analyze products
+        analyzer.analyze_products(products_data)
+        
+        # Generate report
+        pdf_path = analyzer.generate_pdf_report()
+        
+        # Clean up
+        analyzer.close()
+        
+        return pdf_path
+    
+    except Exception as e:
+        print(f"Error analyzing products from file: {str(e)}")
+        return None
+
+
+if __name__ == "__main__":
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Analyze product pages and generate a report')
+    parser.add_argument('--input', type=str, required=True, help='Input JSON file with product data')
+    parser.add_argument('--output-dir', type=str, default='analysis', help='Output directory for analysis results')
+    
+    args = parser.parse_args()
+    
+    pdf_path = analyze_products_from_file(args.input, args.output_dir)
+    if pdf_path:
+        print(f"Analysis complete. PDF report saved to: {pdf_path}")
+    else:
+        print("Analysis failed. See error messages above for details.") 
