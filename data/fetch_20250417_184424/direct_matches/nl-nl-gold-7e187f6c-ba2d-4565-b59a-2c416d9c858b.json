@@ -1,0 +1,2264 @@
+{
+  "offset": 0,
+  "numFound": 13,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 13,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 27.99,
+        "highestDiscount": 50,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3161,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_jassen_jurken_pakken",
+            "values": [
+              {
+                "id": 471770,
+                "caption": "Maat XS",
+                "columnValue": "XS",
+                "crawlable": true,
+                "detailValue": "Maat XS",
+                "fullId": "3161_471770",
+                "sequence": 3,
+                "urlName": null
+              },
+              {
+                "id": 471771,
+                "caption": "Maat S",
+                "columnValue": "S",
+                "crawlable": true,
+                "detailValue": "Maat S",
+                "fullId": "3161_471771",
+                "sequence": 5,
+                "urlName": null
+              },
+              {
+                "id": 471772,
+                "caption": "Maat M",
+                "columnValue": "M",
+                "crawlable": true,
+                "detailValue": "Maat M",
+                "fullId": "3161_471772",
+                "sequence": 7,
+                "urlName": null
+              },
+              {
+                "id": 471773,
+                "caption": "Maat L",
+                "columnValue": "L",
+                "crawlable": true,
+                "detailValue": "Maat L",
+                "fullId": "3161_471773",
+                "sequence": 9,
+                "urlName": null
+              },
+              {
+                "id": 471775,
+                "caption": "Maat XXL",
+                "columnValue": "XXL",
+                "crawlable": true,
+                "detailValue": "Maat XXL",
+                "fullId": "3161_471775",
+                "sequence": 13,
+                "urlName": null
+              }
+            ]
+          },
+          {
+            "id": 3155,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_bovenkleding",
+            "values": [
+              {
+                "id": 471667,
+                "caption": "Maat XS",
+                "columnValue": "XS",
+                "crawlable": true,
+                "detailValue": "Maat XS",
+                "fullId": "3155_471667",
+                "sequence": 3,
+                "urlName": null
+              },
+              {
+                "id": 471668,
+                "caption": "Maat S",
+                "columnValue": "S",
+                "crawlable": true,
+                "detailValue": "Maat S",
+                "fullId": "3155_471668",
+                "sequence": 5,
+                "urlName": null
+              },
+              {
+                "id": 471669,
+                "caption": "Maat M",
+                "columnValue": "M",
+                "crawlable": true,
+                "detailValue": "Maat M",
+                "fullId": "3155_471669",
+                "sequence": 7,
+                "urlName": null
+              },
+              {
+                "id": 471670,
+                "caption": "Maat L",
+                "columnValue": "L",
+                "crawlable": true,
+                "detailValue": "Maat L",
+                "fullId": "3155_471670",
+                "sequence": 9,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3B1Zs5G1q2Aw8eBSLDHArX4Tuhbn",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3B1Zs4z3ngaLAMkfYQJik9fV2ocP",
+            "advertisementIdV3": "3B1Zs4z3ngaLAMkfYQJik9fV2ocP"
+          },
+          "shopItemId": 0,
+          "productId": "3B1Zs5G1q2Aw8eBSLDHArX4Tuhbn",
+          "ean": "",
+          "shopInfo": {
+            "id": 651931,
+            "shopName": "Daka.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/651931.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:15+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 37954,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 651931,
+            "shopItemId": 0,
+            "shopItemTitle": "Vero Moda Jesmilo 3/4 Loose Blazer",
+            "shopItemDescription": "",
+            "shopItemVersion": "997504-082988_1",
+            "shopName": "Daka.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3B1Zs5McHKD4sxrK3qcftx46nLp7",
+            "condition": "Nieuw",
+            "ean": "5715366873445",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://pla.daisycon.io/csd/?si=7290&li=1765148&wi=382479&pid=f34db7a7d6859e18f804c3e17c34ba0a&force_domain=true&dl=https%3a%2f%2fwww.daka.nl%2fvero-moda-vmjesmilo-3-4-loose-blazer-wvn-ga-n-sku_082988%3Fchannable%3D030b446964003939373530341b&ws=UUID_placeholder",
+            "size": "M",
+            "shopReviewScore": 9.2,
+            "shopReviewAmount": 22235,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 21,
+              "price": 27.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 34,
+              "price": 39.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "997504",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "7e187f6c-ba2d-4565-b59a-2c416d9c858b",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 17.93
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 17.44
+          },
+          "title": "Vero Moda Jesmilo 3/4 Loose Blazer",
+          "fixedTitle": "Vero Moda Jesmilo 3/4 Loose Blazer",
+          "indexIdentifierTimeStamp": 1744908269,
+          "description": "Bekijk deze Vero Moda Jesmilo 3/4 Loose Blazer Bovenkleding Dames online op Daka.nl. Gemaakt van Viscose/Linnen. Beschikbaar in kleur Grijs.",
+          "descriptionRaw": "Bekijk deze Vero Moda Jesmilo 3/4 Loose Blazer Bovenkleding Dames online op Daka.nl. Gemaakt van Viscose/Linnen. Beschikbaar in kleur Grijs.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-3B1Zs4z3ngaLAMkfYQJik9fV2ocP",
+          "categoryId": 9000762,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 14,
+          "shopIds": [
+            651931
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 902
+              },
+              "type": "mainImage",
+              "url": "pim/5715366873421/394/{size}/e32d276b80921a69c6f528e5c3af4993/Blazers/Vero-Moda-Jesmilo-3-4-Loose-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 697
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15376/{size}/be555d047bdc22803b66ad27a0d00f55/Blazers/Vero-Moda-Jesmilo-3-4-Loose-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1198,
+                "width": 920
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15377/{size}/1a20619ad7b5151b703057e3dc6081d6/Blazers/Vero-Moda-Jesmilo-3-4-Loose-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1198,
+                "width": 796
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15378/{size}/7b7c9036b01977bf7227b28e022b4868/Blazers/Vero-Moda-Jesmilo-3-4-Loose-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1169,
+                "width": 794
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15379/{size}/febf921ede4e0158ffa2a58306554e0c/Blazers/Vero-Moda-Jesmilo-3-4-Loose-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 799
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15380/{size}/4721154d4eeccf4e684fe3c25036db05/Blazers/Vero-Moda-Jesmilo-3-4-Loose-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1190,
+                "width": 895
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15381/{size}/eeef344fc84207b86e1eba74abb5271c/Blazers/Vero-Moda-Jesmilo-3-4-Loose-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1198,
+                "width": 811
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15382/{size}/9b92e7b6ba3de69ca5574715baf082d8/Blazers/Vero-Moda-Jesmilo-3-4-Loose-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 1199,
+                "width": 840
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15383/{size}/04632c4d398dab51f3ad15ba267100b1/Blazers/Vero-Moda-Jesmilo-3-4-Loose-Blazer.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3B1Zs5G1q2Aw8eBSLDHArX4Tuhbn",
+              "value": "L",
+              "available": false,
+              "price": 27.99,
+              "blockedStatus": 8,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3B1Zs4vriGgxQVYRHZu2VYL1x9rV",
+              "value": "XXL",
+              "available": true,
+              "price": 27.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3B1Zs4uo6xpbweW2R6UagDtM5uL1",
+              "value": "XS",
+              "available": true,
+              "price": 27.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3B1Zs5DtdTcnoHke2fWoBm5WVzCc",
+              "value": "XL",
+              "available": false,
+              "price": 19.99,
+              "blockedStatus": 8,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3B1Zs5MEBrQBbxMS1sQ391KZs9gF",
+              "value": "S",
+              "available": false,
+              "price": 27.99,
+              "blockedStatus": 8,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3B1Zs5McHKD4sxrK3qcftx46nLp7",
+              "value": "M",
+              "available": true,
+              "price": 27.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null,
+                  "productIdV3": "3B1Zs4uo6xpbweW2R6UagDtM5uL1",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 21,
+                    "price": 27.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "3B1Zs5McHKD4sxrK3qcftx46nLp7",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 21,
+                    "price": 27.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null,
+                  "productIdV3": "3B1Zs4vriGgxQVYRHZu2VYL1x9rV",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 21,
+                    "price": 27.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 480474,
+          "brandName": "Vero Moda",
+          "brandRank": 12,
+          "brandRelativeDemandLabel": "C",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-09 00:00:00",
+          "popularity": 6,
+          "popularityData": {
+            "clickFactor": 1,
+            "webshopsRevenuePerClick": 0.64,
+            "roasPercentage": 3300
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 5 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 4.95,
+          "facets": [
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Viscose",
+              "values": [
+                {
+                  "id": 242269,
+                  "caption": "Viscose",
+                  "columnValue": "Viscose",
+                  "crawlable": true,
+                  "detailValue": "Viscose",
+                  "fullId": "2624_242269",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 242273,
+                  "caption": "Linnen",
+                  "columnValue": "Linnen",
+                  "crawlable": true,
+                  "detailValue": "Linnen",
+                  "fullId": "2624_242273",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "XS",
+              "values": [
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Vero Moda",
+              "values": [
+                {
+                  "id": 480474,
+                  "caption": "Vero Moda",
+                  "columnValue": "Vero Moda",
+                  "crawlable": true,
+                  "detailValue": "Vero Moda",
+                  "fullId": "48_480474",
+                  "sequence": 2707,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Daka.nl",
+              "values": [
+                {
+                  "id": 23797287,
+                  "caption": "Daka.nl",
+                  "columnValue": "Daka.nl",
+                  "crawlable": true,
+                  "detailValue": "Daka.nl",
+                  "fullId": "49_23797287",
+                  "sequence": 160,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Grijs",
+              "values": [
+                {
+                  "id": 401017,
+                  "caption": "Grijze",
+                  "columnValue": "Grijs",
+                  "crawlable": true,
+                  "detailValue": "Grijze",
+                  "fullId": "3003_401017",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 7092954,
+                  "caption": "Winter",
+                  "columnValue": "Winterkleding",
+                  "crawlable": true,
+                  "detailValue": "Winter",
+                  "fullId": "3114_7092954",
+                  "sequence": 19,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Natuurlijk materiaal",
+              "values": [
+                {
+                  "id": 23597271,
+                  "caption": "Natuurlijk materiaal",
+                  "columnValue": "Natuurlijk materiaal",
+                  "crawlable": true,
+                  "detailValue": "Natuurlijk materiaal",
+                  "fullId": "6290_23597271",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-7e187f6c-ba2d-4565-b59a-2c416d9c858b",
+          "revenuePerClick": 0.02,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 20.99,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 1,
+            "rating": 80
+          },
+          "labels": [],
+          "discountPercentage": 50,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 9.2,
+              "amount": 22235
+            },
+            {
+              "type": "discount",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "id": "a5ms6iy57ApQum3swykz7ajPq1q",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "a5ms6j9T8QXPVLjusTdYiT6brfC",
+            "advertisementIdV3": "a5ms6j9T8QXPVLjusTdYiT6brfC"
+          },
+          "shopItemId": 0,
+          "productId": "a5ms6iy57ApQum3swykz7ajPq1q",
+          "ean": "",
+          "shopInfo": {
+            "id": 651560,
+            "shopName": "Amazon Partners",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/651560.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22562,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 651560,
+            "shopItemId": 0,
+            "shopItemTitle": "VERO MODA VMJESMILO 3/4 Loose WVN GA NOOS Blazer, Silver Lining, S, Zilvervoering., S",
+            "shopItemDescription": "",
+            "shopItemVersion": "B0B1VT6YMR-B0DBLYWLB2-Zilvervoering.-B0DBLYWLB2",
+            "shopName": "Amazon Partners",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "a5ms6iy57ApQum3swykz7ajPq1q",
+            "condition": "Nieuw",
+            "ean": "5715366873438",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.amazon.nl/dp/B0B1VT6YMR/ref=asc_df_B0B1VT6YMR1744786800000/?tag=beslistmpnl-21&creative=380333&creativeASIN=B0B1VT6YMR&linkCode=asn&ascsubtag=UUID_placeholder",
+            "size": "S",
+            "shopReviewScore": 4.8,
+            "shopReviewAmount": 595,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 34.87,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "B0B1VT6YMR",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "7e187f6c-ba2d-4565-b59a-2c416d9c858b",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 17.93
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 17.44
+          },
+          "title": "VERO MODA VMJESMILO 3/4 Loose WVN GA NOOS Blazer, Silver Lining, S, Zilvervoering., S",
+          "fixedTitle": "VERO MODA VMJESMILO 3/4 Loose WVN GA NOOS Blazer, Silver Lining, S, Zilvervoering., S",
+          "indexIdentifierTimeStamp": 1744908269,
+          "description": "Blazer voor dames van het Deense merk Vero Moda Gemaakt met Lenzing Ecovero. Dit product is gemaakt van viscose-vezels van het merk Lenzing Ecovero. Hiervoor wordt pulp gewonnen uit hout - uit verantwoord beheerde bossen - gewonnen wordt. De productie van deze viscose vezels vermindert de invloed op het milieu.",
+          "descriptionRaw": "Blazer voor dames van het Deense merk Vero Moda Gemaakt met Lenzing Ecovero. Dit product is gemaakt van viscose-vezels van het merk Lenzing Ecovero. Hiervoor wordt pulp gewonnen uit hout - uit verantwoord beheerde bossen - gewonnen wordt. De productie van deze viscose vezels vermindert de invloed op het milieu.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-a5ms6j9T8QXPVLjusTdYiT6brfC",
+          "categoryId": 9000762,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 14,
+          "shopIds": [
+            651560
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 902
+              },
+              "type": "mainImage",
+              "url": "pim/5715366873438/394/{size}/e32d276b80921a69c6f528e5c3af4993/Blazers/VERO-MODA-VMJESMILO-3-4-Loose-WVN-GA-NOOS-Blazer%2c-Silver-Lining%2c-S%2c-Zilvervoering.%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 697
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873438/15376/{size}/be555d047bdc22803b66ad27a0d00f55/Blazers/VERO-MODA-VMJESMILO-3-4-Loose-WVN-GA-NOOS-Blazer%2c-Silver-Lining%2c-S%2c-Zilvervoering.%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1198,
+                "width": 917
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873438/15377/{size}/6288c1df7d6c5de1c57a4160a2975deb/Blazers/VERO-MODA-VMJESMILO-3-4-Loose-WVN-GA-NOOS-Blazer%2c-Silver-Lining%2c-S%2c-Zilvervoering.%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1198,
+                "width": 796
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873438/15378/{size}/7b7c9036b01977bf7227b28e022b4868/Blazers/VERO-MODA-VMJESMILO-3-4-Loose-WVN-GA-NOOS-Blazer%2c-Silver-Lining%2c-S%2c-Zilvervoering.%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1169,
+                "width": 794
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873438/15379/{size}/febf921ede4e0158ffa2a58306554e0c/Blazers/VERO-MODA-VMJESMILO-3-4-Loose-WVN-GA-NOOS-Blazer%2c-Silver-Lining%2c-S%2c-Zilvervoering.%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 799
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873438/15380/{size}/4721154d4eeccf4e684fe3c25036db05/Blazers/VERO-MODA-VMJESMILO-3-4-Loose-WVN-GA-NOOS-Blazer%2c-Silver-Lining%2c-S%2c-Zilvervoering.%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1190,
+                "width": 895
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873438/15381/{size}/eeef344fc84207b86e1eba74abb5271c/Blazers/VERO-MODA-VMJESMILO-3-4-Loose-WVN-GA-NOOS-Blazer%2c-Silver-Lining%2c-S%2c-Zilvervoering.%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1198,
+                "width": 811
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873438/15382/{size}/9b92e7b6ba3de69ca5574715baf082d8/Blazers/VERO-MODA-VMJESMILO-3-4-Loose-WVN-GA-NOOS-Blazer%2c-Silver-Lining%2c-S%2c-Zilvervoering.%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 1199,
+                "width": 815
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873438/15383/{size}/d2fef7ede9cf0da90cb55123ef5a14a4/Blazers/VERO-MODA-VMJESMILO-3-4-Loose-WVN-GA-NOOS-Blazer%2c-Silver-Lining%2c-S%2c-Zilvervoering.%2c-S.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6iy57ApQum3swykz7ajPq1q",
+              "value": "S",
+              "available": true,
+              "price": 34.87,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6eLFbo9bETS84GwKFy7JxLy",
+              "value": "M",
+              "available": true,
+              "price": 34.85,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6W7cPuaWqeY4EGVusKjYca2",
+              "value": "L",
+              "available": true,
+              "price": 34.87,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null,
+                  "productIdV3": "a5ms6iy57ApQum3swykz7ajPq1q",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 34.87,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "a5ms6eLFbo9bETS84GwKFy7JxLy",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 34.85,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "a5ms6W7cPuaWqeY4EGVusKjYca2",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 34.87,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 480474,
+          "brandName": "Vero Moda",
+          "brandRank": 12,
+          "brandRelativeDemandLabel": "C",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-15 00:00:00",
+          "popularity": 2,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 1.99,
+            "roasPercentage": 6600
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op voorraad",
+          "deliveryTimeSort": 8,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Viscose",
+              "values": [
+                {
+                  "id": 242269,
+                  "caption": "Viscose",
+                  "columnValue": "Viscose",
+                  "crawlable": true,
+                  "detailValue": "Viscose",
+                  "fullId": "2624_242269",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 242273,
+                  "caption": "Linnen",
+                  "columnValue": "Linnen",
+                  "crawlable": true,
+                  "detailValue": "Linnen",
+                  "fullId": "2624_242273",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "S",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Vero Moda",
+              "values": [
+                {
+                  "id": 480474,
+                  "caption": "Vero Moda",
+                  "columnValue": "Vero Moda",
+                  "crawlable": true,
+                  "detailValue": "Vero Moda",
+                  "fullId": "48_480474",
+                  "sequence": 2707,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zilver",
+              "values": [
+                {
+                  "id": 401018,
+                  "caption": "Zilveren",
+                  "columnValue": "Zilver",
+                  "crawlable": true,
+                  "detailValue": "Zilveren",
+                  "fullId": "3003_401018",
+                  "sequence": 13,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Avondkleding",
+              "values": [
+                {
+                  "id": 5113788,
+                  "caption": "Avond",
+                  "columnValue": "Avondkleding",
+                  "crawlable": true,
+                  "detailValue": "Avond",
+                  "fullId": "3114_5113788",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 7092954,
+                  "caption": "Winter",
+                  "columnValue": "Winterkleding",
+                  "crawlable": true,
+                  "detailValue": "Winter",
+                  "fullId": "3114_7092954",
+                  "sequence": 19,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4743,
+              "name": "Productlijn",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pl_kleding",
+              "value": "Vero Moda NOOS",
+              "values": [
+                {
+                  "id": 23585734,
+                  "caption": "Vero Moda NOOS",
+                  "columnValue": "Vero Moda NOOS",
+                  "crawlable": true,
+                  "detailValue": "Vero Moda NOOS",
+                  "fullId": "4743_23585734",
+                  "sequence": 575,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "EcoVero",
+              "values": [
+                {
+                  "id": 23597276,
+                  "caption": "EcoVero",
+                  "columnValue": "EcoVero",
+                  "crawlable": true,
+                  "detailValue": "EcoVero",
+                  "fullId": "6290_23597276",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "651560-B0DBLYWLB2",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-7e187f6c-ba2d-4565-b59a-2c416d9c858b",
+          "revenuePerClick": 0.03,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 0,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 20.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 1,
+            "rating": 80
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "2YemmUoMcqwREmt7ztus1K3RAn84",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2YemmUh2QmRCRi9C18zk2pToCJq1",
+            "advertisementIdV3": "2YemmUh2QmRCRi9C18zk2pToCJq1"
+          },
+          "shopItemId": 0,
+          "productId": "2YemmUoMcqwREmt7ztus1K3RAn84",
+          "ean": "",
+          "shopInfo": {
+            "id": 652142,
+            "shopName": "Peek-cloppenburg.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 3,
+            "productCount": 53000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652142.png",
+            "coolingOffPeriod": 62,
+            "activeSince": "2025-04-17T08:25:14+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 38258,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 652142,
+            "shopItemId": 0,
+            "shopItemTitle": "Loose fit blouse in een mix van viscose en linnen, model 'JESMILO'",
+            "shopItemDescription": "",
+            "shopItemVersion": "40729714334-10279700Zand-10279700",
+            "shopName": "Peek-cloppenburg.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2YemmV2TMWcp42zsMjs4AjzsU8bA",
+            "condition": "Nieuw",
+            "ean": "5715366873452",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.awin1.com/cread.php?force_transparent=true&awinmid=18464&clickref=UUID_placeholder&pref2=GCLID_placeholder&awinaffid=375899&platform=tp&networkref1=gclid_GCLID_placeholder&ued=https%3a%2f%2fwww.peek-cloppenburg.nl%2fnl%2fp%2fvero-moda-loose-fit-blouse-in-een-mix-van-viscose-en-linnen-model-jesmilo-zand-1389870%2f%3futm_campaign%3dDamen_Bekleidung_Blazer_Kurzblazer%26utm_content%3dVeroModa",
+            "size": "L",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 39.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "40729714334",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "7e187f6c-ba2d-4565-b59a-2c416d9c858b",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 17.93
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 17.44
+          },
+          "title": "Loose fit blouse in een mix van viscose en linnen, model 'JESMILO'",
+          "fixedTitle": "Blazer van een mix van viscose en linnen met 3/4-mouwen, model 'JESMILO'",
+          "indexIdentifierTimeStamp": 1744908269,
+          "description": "Korte blazer van Vero Moda voor dames;Model 'Jesmilo';Look: All-over motief;Pasvorm: Loose fit;Kraagmodel: Reverskraag;Motief: gestreept;Sluiting: zonder sluiting;Mouwvorm: 3/4-mouw;Mouwboord: vaste omslag;Gelegenheid: Vrije tijd;Zakken: gestileerde strookzakken;Materiaalverwerking: Geweven stof;Materiaal: Mix van viscose en linnen;Ruglengte bij maat S: 63 cm;Borstomvang bij maat S: 49 cm;Schouderbreedte bij maat S: 39 cm;Mouwlengte bij maat S: 45 cm",
+          "descriptionRaw": "Korte blazer van Vero Moda voor dames;Model 'Jesmilo';Look: All-over motief;Pasvorm: Loose fit;Kraagmodel: Reverskraag;Motief: gestreept;Sluiting: zonder sluiting;Mouwvorm: 3/4-mouw;Mouwboord: vaste omslag;Gelegenheid: Vrije tijd;Zakken: gestileerde strookzakken;Materiaalverwerking: Geweven stof;Materiaal: Mix van viscose en linnen;Ruglengte bij maat S: 63 cm;Borstomvang bij maat S: 49 cm;Schouderbreedte bij maat S: 39 cm;Mouwlengte bij maat S: 45 cm",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-2YemmUh2QmRCRi9C18zk2pToCJq1",
+          "categoryId": 9000762,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 14,
+          "shopIds": [
+            652142
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 902
+              },
+              "type": "mainImage",
+              "url": "pim/5715366873421/394/{size}/e32d276b80921a69c6f528e5c3af4993/Blazers/Blazer-van-een-mix-van-viscose-en-linnen-met-3-4-mouwen%2c-model-%27JESMILO%27.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 697
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15376/{size}/be555d047bdc22803b66ad27a0d00f55/Blazers/Blazer-van-een-mix-van-viscose-en-linnen-met-3-4-mouwen%2c-model-%27JESMILO%27.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1198,
+                "width": 920
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15377/{size}/1a20619ad7b5151b703057e3dc6081d6/Blazers/Blazer-van-een-mix-van-viscose-en-linnen-met-3-4-mouwen%2c-model-%27JESMILO%27.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1198,
+                "width": 796
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15378/{size}/7b7c9036b01977bf7227b28e022b4868/Blazers/Blazer-van-een-mix-van-viscose-en-linnen-met-3-4-mouwen%2c-model-%27JESMILO%27.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1169,
+                "width": 794
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15379/{size}/febf921ede4e0158ffa2a58306554e0c/Blazers/Blazer-van-een-mix-van-viscose-en-linnen-met-3-4-mouwen%2c-model-%27JESMILO%27.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 799
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15380/{size}/4721154d4eeccf4e684fe3c25036db05/Blazers/Blazer-van-een-mix-van-viscose-en-linnen-met-3-4-mouwen%2c-model-%27JESMILO%27.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1190,
+                "width": 895
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15381/{size}/eeef344fc84207b86e1eba74abb5271c/Blazers/Blazer-van-een-mix-van-viscose-en-linnen-met-3-4-mouwen%2c-model-%27JESMILO%27.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1198,
+                "width": 811
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15382/{size}/9b92e7b6ba3de69ca5574715baf082d8/Blazers/Blazer-van-een-mix-van-viscose-en-linnen-met-3-4-mouwen%2c-model-%27JESMILO%27.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 1199,
+                "width": 840
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715366873421/15383/{size}/04632c4d398dab51f3ad15ba267100b1/Blazers/Blazer-van-een-mix-van-viscose-en-linnen-met-3-4-mouwen%2c-model-%27JESMILO%27.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2YemmUoMcqwREmt7ztus1K3RAn84",
+              "value": "M",
+              "available": true,
+              "price": 39.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2YemmUwW6vAknHy3ziiKKvTf1UH5",
+              "value": "XS",
+              "available": true,
+              "price": 29.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2YemmUhZFwdbGefiKjShQgAJXuzD",
+              "value": "XS",
+              "available": true,
+              "price": 39.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2YemmUpB5hhbwSTKhPe1cWer8gd5",
+              "value": "S",
+              "available": true,
+              "price": 39.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2YemmV2TMWcp42zsMjs4AjzsU8bA",
+              "value": "L",
+              "available": true,
+              "price": 39.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null,
+                  "productIdV3": "2YemmUwW6vAknHy3ziiKKvTf1UH5",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 21,
+                    "price": 29.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null,
+                  "productIdV3": "2YemmUhZFwdbGefiKjShQgAJXuzD",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null,
+                  "productIdV3": "2YemmUpB5hhbwSTKhPe1cWer8gd5",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "2YemmUoMcqwREmt7ztus1K3RAn84",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "2YemmV2TMWcp42zsMjs4AjzsU8bA",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            },
+            {
+              "id": 3155,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_bovenkleding",
+              "values": [
+                {
+                  "id": 471667,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3155_471667",
+                  "sequence": 3,
+                  "urlName": null,
+                  "productIdV3": "2YemmUhZFwdbGefiKjShQgAJXuzD",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471668,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3155_471668",
+                  "sequence": 5,
+                  "urlName": null,
+                  "productIdV3": "2YemmUpB5hhbwSTKhPe1cWer8gd5",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471669,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3155_471669",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "2YemmUoMcqwREmt7ztus1K3RAn84",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471670,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3155_471670",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "2YemmV2TMWcp42zsMjs4AjzsU8bA",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 480474,
+          "brandName": "Vero Moda",
+          "brandRank": 12,
+          "brandRelativeDemandLabel": "C",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-15 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.59,
+            "roasPercentage": 5500
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "2 - 4 dagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 4.9,
+          "facets": [
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "XS",
+              "values": [
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Vero Moda",
+              "values": [
+                {
+                  "id": 480474,
+                  "caption": "Vero Moda",
+                  "columnValue": "Vero Moda",
+                  "crawlable": true,
+                  "detailValue": "Vero Moda",
+                  "fullId": "48_480474",
+                  "sequence": 2707,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Peek-Cloppenburg.nl",
+              "values": [
+                {
+                  "id": 23598686,
+                  "caption": "Peek-Cloppenburg.nl",
+                  "columnValue": "Peek-Cloppenburg.nl",
+                  "crawlable": true,
+                  "detailValue": "Peek-Cloppenburg.nl",
+                  "fullId": "49_23598686",
+                  "sequence": 584,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Camel",
+              "values": [
+                {
+                  "id": 5798160,
+                  "caption": "Camel",
+                  "columnValue": "Camel",
+                  "crawlable": true,
+                  "detailValue": "Camel",
+                  "fullId": "3003_5798160",
+                  "sequence": 19,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3115,
+              "name": "Soort hals",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_hals_trui_shirt",
+              "value": "Reverskraag",
+              "values": [
+                {
+                  "id": 13826892,
+                  "caption": "met reverskraag",
+                  "columnValue": "Reverskraag",
+                  "crawlable": true,
+                  "detailValue": "met reverskraag",
+                  "fullId": "3115_13826892",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3155,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_bovenkleding",
+              "value": "XS",
+              "values": [
+                {
+                  "id": 471667,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3155_471667",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 471668,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3155_471668",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471669,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3155_471669",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471670,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3155_471670",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met mouwen",
+              "values": [
+                {
+                  "id": 15836705,
+                  "caption": "Met mouwen",
+                  "columnValue": "Met mouwen",
+                  "crawlable": true,
+                  "detailValue": "Met mouwen",
+                  "fullId": "3730_15836705",
+                  "sequence": 58,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4017,
+              "name": "Print",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "pr_kleding",
+              "value": "Strepen",
+              "values": [
+                {
+                  "id": 6129060,
+                  "caption": "Strepen",
+                  "columnValue": "Strepen",
+                  "crawlable": true,
+                  "detailValue": "Strepen",
+                  "fullId": "4017_6129060",
+                  "sequence": 41,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4158,
+              "name": "Soort mouw",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_mouw",
+              "value": "Driekwart mouwen",
+              "values": [
+                {
+                  "id": 6510252,
+                  "caption": "Driekwart mouwen",
+                  "columnValue": "Driekwart mouwen",
+                  "crawlable": true,
+                  "detailValue": "Driekwart mouwen",
+                  "fullId": "4158_6510252",
+                  "sequence": 10,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Natuurlijk materiaal",
+              "values": [
+                {
+                  "id": 23597271,
+                  "caption": "Natuurlijk materiaal",
+                  "columnValue": "Natuurlijk materiaal",
+                  "crawlable": true,
+                  "detailValue": "Natuurlijk materiaal",
+                  "fullId": "6290_23597271",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Viscose",
+              "values": [
+                {
+                  "id": 242269,
+                  "caption": "Viscose",
+                  "columnValue": "Viscose",
+                  "crawlable": true,
+                  "detailValue": "Viscose",
+                  "fullId": "2624_242269",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 242273,
+                  "caption": "Linnen",
+                  "columnValue": "Linnen",
+                  "crawlable": true,
+                  "detailValue": "Linnen",
+                  "fullId": "2624_242273",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Winterkleding",
+              "values": [
+                {
+                  "id": 7092954,
+                  "caption": "Winter",
+                  "columnValue": "Winterkleding",
+                  "crawlable": true,
+                  "detailValue": "Winter",
+                  "fullId": "3114_7092954",
+                  "sequence": 19,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4729,
+              "name": "Pasvorm",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pasvorm",
+              "value": "Regular fit",
+              "values": [
+                {
+                  "id": 9343450,
+                  "caption": "Regular fit",
+                  "columnValue": "Regular fit",
+                  "crawlable": true,
+                  "detailValue": "Regular fit",
+                  "fullId": "4729_9343450",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "652142-10279700",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-7e187f6c-ba2d-4565-b59a-2c416d9c858b",
+          "revenuePerClick": 0.01,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 2,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 20.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 1,
+            "rating": 80
+          },
+          "labels": [],
+          "discountPercentage": 25,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "discount",
+              "value": 25
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

@@ -1,0 +1,1005 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 45,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3155,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_bovenkleding",
+            "values": [
+              {
+                "id": 471646,
+                "caption": "Maat 36",
+                "columnValue": "36",
+                "crawlable": true,
+                "detailValue": "Maat 36",
+                "fullId": "3155_471646",
+                "sequence": 24,
+                "urlName": null
+              },
+              {
+                "id": 471647,
+                "caption": "Maat 38",
+                "columnValue": "38",
+                "crawlable": true,
+                "detailValue": "Maat 38",
+                "fullId": "3155_471647",
+                "sequence": 26,
+                "urlName": null
+              },
+              {
+                "id": 471648,
+                "caption": "Maat 40",
+                "columnValue": "40",
+                "crawlable": true,
+                "detailValue": "Maat 40",
+                "fullId": "3155_471648",
+                "sequence": 28,
+                "urlName": null
+              },
+              {
+                "id": 471649,
+                "caption": "Maat 42",
+                "columnValue": "42",
+                "crawlable": true,
+                "detailValue": "Maat 42",
+                "fullId": "3155_471649",
+                "sequence": 30,
+                "urlName": null
+              },
+              {
+                "id": 471650,
+                "caption": "Maat 44",
+                "columnValue": "44",
+                "crawlable": true,
+                "detailValue": "Maat 44",
+                "fullId": "3155_471650",
+                "sequence": 32,
+                "urlName": null
+              },
+              {
+                "id": 471651,
+                "caption": "Maat 46",
+                "columnValue": "46",
+                "crawlable": true,
+                "detailValue": "Maat 46",
+                "fullId": "3155_471651",
+                "sequence": 34,
+                "urlName": null
+              },
+              {
+                "id": 471652,
+                "caption": "Maat 48",
+                "columnValue": "48",
+                "crawlable": true,
+                "detailValue": "Maat 48",
+                "fullId": "3155_471652",
+                "sequence": 36,
+                "urlName": null
+              },
+              {
+                "id": 471653,
+                "caption": "Maat 50",
+                "columnValue": "50",
+                "crawlable": true,
+                "detailValue": "Maat 50",
+                "fullId": "3155_471653",
+                "sequence": 38,
+                "urlName": null
+              },
+              {
+                "id": 471654,
+                "caption": "Maat 52",
+                "columnValue": "52",
+                "crawlable": true,
+                "detailValue": "Maat 52",
+                "fullId": "3155_471654",
+                "sequence": 39,
+                "urlName": null
+              },
+              {
+                "id": 471655,
+                "caption": "Maat 54",
+                "columnValue": "54",
+                "crawlable": true,
+                "detailValue": "Maat 54",
+                "fullId": "3155_471655",
+                "sequence": 40,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "4KXbjzkAfG1yPVJoj6Nv9QbnRnGy",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "4KXbjzrox4vVANvsiUxUbTXcwNu1",
+            "advertisementIdV3": "4KXbjzrox4vVANvsiUxUbTXcwNu1"
+          },
+          "shopItemId": 0,
+          "productId": "4KXbjzkAfG1yPVJoj6Nv9QbnRnGy",
+          "ean": "",
+          "shopInfo": {
+            "id": 83182,
+            "shopName": "Your-look-for-less.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 8,
+            "productCount": 13000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/83182.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T00:50:00+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Your-look-for-less.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 8943,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 83182,
+            "shopItemId": 0,
+            "shopItemTitle": "Dames Vest in donkertaupe",
+            "shopItemDescription": "",
+            "shopItemVersion": "515364_46-178418-515364",
+            "shopName": "Your-look-for-less.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "4KXbjzfujAcbQ4zZ8uYZVgkHeTxS",
+            "condition": "Nieuw",
+            "ean": "8858929818990",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.your-look-for-less.nl/p/178418?size=46?gw=955419419&ecc=419&utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslist",
+            "size": "46",
+            "shopReviewScore": 8.6,
+            "shopReviewAmount": 5275,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 45,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "515364_46",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 45
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Dames Vest in donkertaupe",
+          "fixedTitle": "Dames Vest in donkertaupe",
+          "indexIdentifierTimeStamp": 1744876569,
+          "description": "Een vest als dit zou elke vrouw in haar kast moet hebben! Met opstaande kraag die ook als platte kraag kan worden gedragen en praktische 2-wegritssluiting. Het voorpand in een chique geribbelde look is versierd met een aantrekkelijk breipatroon. De lange mouwen en het rugpand zijn gemaakt van gladde, zachte single-jersey. Hoogwaardig in model gebreid. Ondersteunt het initiatief Cotton made in Africa.",
+          "descriptionRaw": "Een vest als dit zou elke vrouw in haar kast moet hebben! Met opstaande kraag die ook als platte kraag kan worden gedragen en praktische 2-wegritssluiting. Het voorpand in een chique geribbelde look is versierd met een aantrekkelijk breipatroon. De lange mouwen en het rugpand zijn gemaakt van gladde, zachte single-jersey. Hoogwaardig in model gebreid. Ondersteunt het initiatief Cotton made in Africa.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-4KXbjzrox4vVANvsiUxUbTXcwNu1",
+          "categoryId": 9000727,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            83182
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 3199,
+                "width": 2362
+              },
+              "type": "mainImage",
+              "url": "4KXbjzkAfG1yPVJoj6Nv9QbnRnGy/394/{size}/4af53dd829f8b8a9376c3b209494218d/Vesten/Dames-Vest-in-donkertaupe.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 3199,
+                "width": 1768
+              },
+              "type": "alternativeImage",
+              "url": "4KXbjzkAfG1yPVJoj6Nv9QbnRnGy/15376/{size}/a9577e5ff20024c4d7bcd7ddaacb1f46/Vesten/Dames-Vest-in-donkertaupe.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 3199,
+                "width": 2362
+              },
+              "type": "alternativeImage",
+              "url": "4KXbjzkAfG1yPVJoj6Nv9QbnRnGy/15377/{size}/4af53dd829f8b8a9376c3b209494218d/Vesten/Dames-Vest-in-donkertaupe.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 3103,
+                "width": 1906
+              },
+              "type": "alternativeImage",
+              "url": "4KXbjzkAfG1yPVJoj6Nv9QbnRnGy/15378/{size}/d41358f2803ea64371ffd10dc76bdf0c/Vesten/Dames-Vest-in-donkertaupe.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzkAfG1yPVJoj6Nv9QbnRnGy",
+              "value": "38",
+              "available": true,
+              "price": 45,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzfujAcbQ4zZ8uYZVgkHeTxS",
+              "value": "46",
+              "available": true,
+              "price": 45,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzddbzwMMKkBJcWdQEY43YeQ",
+              "value": "52",
+              "available": true,
+              "price": 45,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbk13SdyKKLm4ZLxv1qrDmQacf",
+              "value": "54",
+              "available": true,
+              "price": 45,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzp9fYLhAF4o7esPm46V3GJB",
+              "value": "50",
+              "available": true,
+              "price": 45,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbk14uDedgTyy2fUHCa2nbMCy8",
+              "value": "48",
+              "available": true,
+              "price": 45,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzz44WyAho67woHci9EqBKUW",
+              "value": "36",
+              "available": true,
+              "price": 45,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbk135DoJPoXJGQjGQFAn1MbU5",
+              "value": "44",
+              "available": true,
+              "price": 45,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzuHW1Px7Q2k9HCvRKoWieYn",
+              "value": "42",
+              "available": true,
+              "price": 45,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzrrokLUVo1Jo9jHLhDq2fRJ",
+              "value": "40",
+              "available": true,
+              "price": 45,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3155,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_bovenkleding",
+              "values": [
+                {
+                  "id": 471646,
+                  "caption": "Maat 36",
+                  "columnValue": "36",
+                  "crawlable": true,
+                  "detailValue": "Maat 36",
+                  "fullId": "3155_471646",
+                  "sequence": 24,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzz44WyAho67woHci9EqBKUW",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 45,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471647,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3155_471647",
+                  "sequence": 26,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzkAfG1yPVJoj6Nv9QbnRnGy",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 45,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471648,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3155_471648",
+                  "sequence": 28,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzrrokLUVo1Jo9jHLhDq2fRJ",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 45,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471649,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3155_471649",
+                  "sequence": 30,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzuHW1Px7Q2k9HCvRKoWieYn",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 45,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471650,
+                  "caption": "Maat 44",
+                  "columnValue": "44",
+                  "crawlable": true,
+                  "detailValue": "Maat 44",
+                  "fullId": "3155_471650",
+                  "sequence": 32,
+                  "urlName": null,
+                  "productIdV3": "4KXbk135DoJPoXJGQjGQFAn1MbU5",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 45,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471651,
+                  "caption": "Maat 46",
+                  "columnValue": "46",
+                  "crawlable": true,
+                  "detailValue": "Maat 46",
+                  "fullId": "3155_471651",
+                  "sequence": 34,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzfujAcbQ4zZ8uYZVgkHeTxS",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 45,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471652,
+                  "caption": "Maat 48",
+                  "columnValue": "48",
+                  "crawlable": true,
+                  "detailValue": "Maat 48",
+                  "fullId": "3155_471652",
+                  "sequence": 36,
+                  "urlName": null,
+                  "productIdV3": "4KXbk14uDedgTyy2fUHCa2nbMCy8",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 45,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471653,
+                  "caption": "Maat 50",
+                  "columnValue": "50",
+                  "crawlable": true,
+                  "detailValue": "Maat 50",
+                  "fullId": "3155_471653",
+                  "sequence": 38,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzp9fYLhAF4o7esPm46V3GJB",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 45,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471654,
+                  "caption": "Maat 52",
+                  "columnValue": "52",
+                  "crawlable": true,
+                  "detailValue": "Maat 52",
+                  "fullId": "3155_471654",
+                  "sequence": 39,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzddbzwMMKkBJcWdQEY43YeQ",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 45,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471655,
+                  "caption": "Maat 54",
+                  "columnValue": "54",
+                  "crawlable": true,
+                  "detailValue": "Maat 54",
+                  "fullId": "3155_471655",
+                  "sequence": 40,
+                  "urlName": null,
+                  "productIdV3": "4KXbk13SdyKKLm4ZLxv1qrDmQacf",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 45,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-30 00:00:00",
+          "popularity": 3762,
+          "popularityData": {
+            "clickFactor": 110,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Pre-order",
+          "deliveryTimeSort": 6,
+          "deliveryCosts": 5.5,
+          "facets": [
+            {
+              "id": 3155,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_bovenkleding",
+              "value": "36",
+              "values": [
+                {
+                  "id": 471646,
+                  "caption": "Maat 36",
+                  "columnValue": "36",
+                  "crawlable": true,
+                  "detailValue": "Maat 36",
+                  "fullId": "3155_471646",
+                  "sequence": 24,
+                  "urlName": null
+                },
+                {
+                  "id": 471647,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3155_471647",
+                  "sequence": 26,
+                  "urlName": null
+                },
+                {
+                  "id": 471648,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3155_471648",
+                  "sequence": 28,
+                  "urlName": null
+                },
+                {
+                  "id": 471649,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3155_471649",
+                  "sequence": 30,
+                  "urlName": null
+                },
+                {
+                  "id": 471650,
+                  "caption": "Maat 44",
+                  "columnValue": "44",
+                  "crawlable": true,
+                  "detailValue": "Maat 44",
+                  "fullId": "3155_471650",
+                  "sequence": 32,
+                  "urlName": null
+                },
+                {
+                  "id": 471651,
+                  "caption": "Maat 46",
+                  "columnValue": "46",
+                  "crawlable": true,
+                  "detailValue": "Maat 46",
+                  "fullId": "3155_471651",
+                  "sequence": 34,
+                  "urlName": null
+                },
+                {
+                  "id": 471652,
+                  "caption": "Maat 48",
+                  "columnValue": "48",
+                  "crawlable": true,
+                  "detailValue": "Maat 48",
+                  "fullId": "3155_471652",
+                  "sequence": 36,
+                  "urlName": null
+                },
+                {
+                  "id": 471653,
+                  "caption": "Maat 50",
+                  "columnValue": "50",
+                  "crawlable": true,
+                  "detailValue": "Maat 50",
+                  "fullId": "3155_471653",
+                  "sequence": 38,
+                  "urlName": null
+                },
+                {
+                  "id": 471654,
+                  "caption": "Maat 52",
+                  "columnValue": "52",
+                  "crawlable": true,
+                  "detailValue": "Maat 52",
+                  "fullId": "3155_471654",
+                  "sequence": 39,
+                  "urlName": null
+                },
+                {
+                  "id": 471655,
+                  "caption": "Maat 54",
+                  "columnValue": "54",
+                  "crawlable": true,
+                  "detailValue": "Maat 54",
+                  "fullId": "3155_471655",
+                  "sequence": 40,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Your-look-for-less.nl",
+              "values": [
+                {
+                  "id": 4043426,
+                  "caption": "Your-look-for-less.nl",
+                  "columnValue": "Your-look-for-less.nl",
+                  "crawlable": true,
+                  "detailValue": "Your-look-for-less.nl",
+                  "fullId": "49_4043426",
+                  "sequence": 898,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Katoen",
+              "values": [
+                {
+                  "id": 242265,
+                  "caption": "Katoenen",
+                  "columnValue": "Katoen",
+                  "crawlable": true,
+                  "detailValue": "Katoenen",
+                  "fullId": "2624_242265",
+                  "sequence": 8,
+                  "urlName": null
+                },
+                {
+                  "id": 242271,
+                  "caption": "Acryl",
+                  "columnValue": "Acryl",
+                  "crawlable": true,
+                  "detailValue": "Acryl",
+                  "fullId": "2624_242271",
+                  "sequence": 31,
+                  "urlName": null
+                },
+                {
+                  "id": 23467178,
+                  "caption": "Jersey",
+                  "columnValue": "Jersey",
+                  "crawlable": true,
+                  "detailValue": "Jersey",
+                  "fullId": "2624_23467178",
+                  "sequence": 44,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Taupe",
+              "values": [
+                {
+                  "id": 476319,
+                  "caption": "Taupe",
+                  "columnValue": "Taupe",
+                  "crawlable": true,
+                  "detailValue": "Taupe",
+                  "fullId": "3003_476319",
+                  "sequence": 18,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Winterkleding",
+              "values": [
+                {
+                  "id": 7092954,
+                  "caption": "Winter",
+                  "columnValue": "Winterkleding",
+                  "crawlable": true,
+                  "detailValue": "Winter",
+                  "fullId": "3114_7092954",
+                  "sequence": 19,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3115,
+              "name": "Soort hals",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_hals_trui_shirt",
+              "value": "Kraag",
+              "values": [
+                {
+                  "id": 578353,
+                  "caption": "met kraag",
+                  "columnValue": "Kraag",
+                  "crawlable": true,
+                  "detailValue": "met kraag",
+                  "fullId": "3115_578353",
+                  "sequence": 10,
+                  "urlName": null
+                },
+                {
+                  "id": 23597390,
+                  "caption": "met opstaande kraag",
+                  "columnValue": "Opstaande kraag",
+                  "crawlable": true,
+                  "detailValue": "met opstaande kraag",
+                  "fullId": "3115_23597390",
+                  "sequence": 21,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Gebreid",
+              "values": [
+                {
+                  "id": 19257042,
+                  "caption": "Gebreide",
+                  "columnValue": "Gebreid",
+                  "crawlable": true,
+                  "detailValue": "Gebreide",
+                  "fullId": "3730_19257042",
+                  "sequence": 28,
+                  "urlName": null
+                },
+                {
+                  "id": 15836705,
+                  "caption": "Met mouwen",
+                  "columnValue": "Met mouwen",
+                  "crawlable": true,
+                  "detailValue": "Met mouwen",
+                  "fullId": "3730_15836705",
+                  "sequence": 58,
+                  "urlName": null
+                },
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4158,
+              "name": "Soort mouw",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_mouw",
+              "value": "Lange mouwen",
+              "values": [
+                {
+                  "id": 6510251,
+                  "caption": "Lange mouwen",
+                  "columnValue": "Lange mouwen",
+                  "crawlable": true,
+                  "detailValue": "Lange mouwen",
+                  "fullId": "4158_6510251",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Natuurlijk materiaal",
+              "values": [
+                {
+                  "id": 23597271,
+                  "caption": "Natuurlijk materiaal",
+                  "columnValue": "Natuurlijk materiaal",
+                  "crawlable": true,
+                  "detailValue": "Natuurlijk materiaal",
+                  "fullId": "6290_23597271",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "83182-515364",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8858929818952",
+          "revenuePerClick": 0.25,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 45,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": "C",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 8.6,
+              "amount": 5275
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

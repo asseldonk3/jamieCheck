@@ -1,0 +1,2025 @@
+{
+  "offset": 0,
+  "numFound": 9,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 9,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 37.99,
+        "highestDiscount": 5,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3157,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_broeken",
+            "values": [
+              {
+                "id": 472888,
+                "caption": "Maat XS",
+                "columnValue": "XS",
+                "crawlable": true,
+                "detailValue": "Maat XS",
+                "fullId": "3157_472888",
+                "sequence": 73,
+                "urlName": null
+              },
+              {
+                "id": 472889,
+                "caption": "Maat S",
+                "columnValue": "S",
+                "crawlable": true,
+                "detailValue": "Maat S",
+                "fullId": "3157_472889",
+                "sequence": 75,
+                "urlName": null
+              },
+              {
+                "id": 472890,
+                "caption": "Maat M",
+                "columnValue": "M",
+                "crawlable": true,
+                "detailValue": "Maat M",
+                "fullId": "3157_472890",
+                "sequence": 77,
+                "urlName": null
+              },
+              {
+                "id": 472891,
+                "caption": "Maat L",
+                "columnValue": "L",
+                "crawlable": true,
+                "detailValue": "Maat L",
+                "fullId": "3157_472891",
+                "sequence": 79,
+                "urlName": null
+              },
+              {
+                "id": 472892,
+                "caption": "Maat XL",
+                "columnValue": "XL",
+                "crawlable": true,
+                "detailValue": "Maat XL",
+                "fullId": "3157_472892",
+                "sequence": 81,
+                "urlName": null
+              },
+              {
+                "id": 472893,
+                "caption": "Maat XXL",
+                "columnValue": "XXL",
+                "crawlable": true,
+                "detailValue": "Maat XXL",
+                "fullId": "3157_472893",
+                "sequence": 83,
+                "urlName": null
+              },
+              {
+                "id": 23810791,
+                "caption": "Maat XXXL",
+                "columnValue": "3XL",
+                "crawlable": true,
+                "detailValue": "Maat XXXL",
+                "fullId": "3157_23810791",
+                "sequence": 84,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "W2tjgpCmxJzKKaABo1Sdk9it6A3",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "W2tjgQ8CzE6Bjy4MEZdHhnT66Br",
+            "advertisementIdV3": "W2tjgQ8CzE6Bjy4MEZdHhnT66Br"
+          },
+          "shopItemId": 0,
+          "productId": "W2tjgpCmxJzKKaABo1Sdk9it6A3",
+          "ean": "",
+          "shopInfo": {
+            "id": 519715,
+            "shopName": "Intersporttwinsport.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 6,
+            "productCount": 32785,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/519715.png",
+            "coolingOffPeriod": 100,
+            "activeSince": "2025-04-17T08:25:16+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 19614,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "Davey@twinsport.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 519715,
+            "shopItemId": 0,
+            "shopItemTitle": "Mac in a Sac Full Zip Regenbroek",
+            "shopItemDescription": "",
+            "shopItemVersion": "261633-990-L-261633-990",
+            "shopName": "Intersporttwinsport.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "W2tjgpCmxJzKKaABo1Sdk9it6A3",
+            "condition": "Nieuw",
+            "ean": "5060703484359",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.intersporttwinsport.nl/mac-in-a-sac-full-zip-regenbroek-zwart-zzb-black/96279?utm_campaign=Mac+in+a+Sac&utm_content=&utm_source=beslist&utm_medium=cpc&utm_term=",
+            "size": "L",
+            "shopReviewScore": 4.8,
+            "shopReviewAmount": 78,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 34,
+              "price": 37.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 34,
+              "price": 39.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "261633-990-L",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "14215277-fc85-480f-a636-bd369a35d53d",
+            "title": "Mac in a Sac Full Zipper Regenbroek Zwart",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 37.97
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 37.97
+          },
+          "title": "Mac in a Sac Full Zip Regenbroek",
+          "fixedTitle": "Mac in a Sac Full Zip Regenbroek",
+          "indexIdentifierTimeStamp": 1744908277,
+          "description": "Het aantrekken van een regenbroek kan soms een uitdaging zijn, vooral als je je schoenen aan wilt houden. Maar met de Mac in a Sac Full Zipper regenbroek heb je de ideale oplossing. Deze regenbroek beschikt over een handige ritssluiting aan beide zijden, waardoor je deze eenvoudig aan en uit kunt trekken. Deze broek is praktisch en gebruiksvriendelijk, zelfs in lastige situaties. Bovendien zorgt het elastiek in de taille ervoor dat de broek perfect op zijn plaats blijft zitten.\n\n\n\n\n Producteigenschappen:\n\n  \n * Handige ritssluiting aan beide zijden voor eenvoudig aan- en uittrekken \n * Praktisch en gebruiksvriendelijk ontwerp \n * Elastiek in de taille voor een goede pasvorm \n Bij Twinsport houden we je altijd up-to-date met de laatste trends en handige accessoires. Bestel je regenbroek vandaag nog en maak je klaar voor elk weer! Kom langs in een van onze winkels voor persoonlijk advies van onze specialisten.",
+          "descriptionRaw": "Het aantrekken van een regenbroek kan soms een uitdaging zijn, vooral als je je schoenen aan wilt houden. Maar met de Mac in a Sac Full Zipper regenbroek heb je de ideale oplossing. Deze regenbroek beschikt over een handige ritssluiting aan beide zijden, waardoor je deze eenvoudig aan en uit kunt trekken. Deze broek is praktisch en gebruiksvriendelijk, zelfs in lastige situaties. Bovendien zorgt het elastiek in de taille ervoor dat de broek perfect op zijn plaats blijft zitten.\n\n\n\n\n Producteigenschappen:\n\n  \n * Handige ritssluiting aan beide zijden voor eenvoudig aan- en uittrekken \n * Praktisch en gebruiksvriendelijk ontwerp \n * Elastiek in de taille voor een goede pasvorm \n Bij Twinsport houden we je altijd up-to-date met de laatste trends en handige accessoires. Bestel je regenbroek vandaag nog en maak je klaar voor elk weer! Kom langs in een van onze winkels voor persoonlijk advies van onze specialisten.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-W2tjgQ8CzE6Bjy4MEZdHhnT66Br",
+          "categoryId": 9000781,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 9,
+          "shopIds": [
+            519715
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 492
+              },
+              "type": "mainImage",
+              "url": "pim/5060703484342/394/{size}/82aaaf7953e86d80f9a19dd145d90f8b/Regenbroeken/Mac-in-a-Sac-Full-Zip-Regenbroek.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 279
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484342/15376/{size}/2d8a1b961ad5b32f7d87ce31caf7a974/Regenbroeken/Mac-in-a-Sac-Full-Zip-Regenbroek.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484342/15377/{size}/04da1520e5a804494a68319e9a802f8f/Regenbroeken/Mac-in-a-Sac-Full-Zip-Regenbroek.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1039,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484342/15378/{size}/ca650b43a00da9544dca144cc86ff5a5/Regenbroeken/Mac-in-a-Sac-Full-Zip-Regenbroek.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1139,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484342/15379/{size}/0e2a5a3dac723fb830d5850255449f04/Regenbroeken/Mac-in-a-Sac-Full-Zip-Regenbroek.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 477
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484342/15380/{size}/c60fae309a4314df44b463240be1cdfa/Regenbroeken/Mac-in-a-Sac-Full-Zip-Regenbroek.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "W2tjgpCmxJzKKaABo1Sdk9it6A3",
+              "value": "L",
+              "available": true,
+              "price": 37.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "W2tjgJt91vijXiriSSSLZqoKbNm",
+              "value": "M",
+              "available": true,
+              "price": 37.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3157,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_broeken",
+              "values": [
+                {
+                  "id": 472890,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3157_472890",
+                  "sequence": 77,
+                  "urlName": null,
+                  "productIdV3": "W2tjgJt91vijXiriSSSLZqoKbNm",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 37.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 472891,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3157_472891",
+                  "sequence": 79,
+                  "urlName": null,
+                  "productIdV3": "W2tjgpCmxJzKKaABo1Sdk9it6A3",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 37.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 8296565,
+          "brandName": "Mac in a Sac",
+          "brandRank": 1114,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-16 00:00:00",
+          "popularity": 119,
+          "popularityData": {
+            "clickFactor": 6,
+            "webshopsRevenuePerClick": 0.92,
+            "roasPercentage": 750
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 16:00 besteld, dezelfde dag verzonden",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 4.99,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Mac in a Sac",
+              "values": [
+                {
+                  "id": 8296565,
+                  "caption": "Mac in a Sac",
+                  "columnValue": "Mac in a Sac",
+                  "crawlable": true,
+                  "detailValue": "Mac in a Sac",
+                  "fullId": "48_8296565",
+                  "sequence": 1608,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Intersporttwinsport.nl",
+              "values": [
+                {
+                  "id": 19248687,
+                  "caption": "Intersporttwinsport.nl",
+                  "columnValue": "Intersporttwinsport.nl",
+                  "crawlable": true,
+                  "detailValue": "Intersporttwinsport.nl",
+                  "fullId": "49_19248687",
+                  "sequence": 367,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 401012,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3003_401012",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23544691,
+                  "caption": "Unisex",
+                  "columnValue": "Unisex",
+                  "crawlable": true,
+                  "detailValue": "Unisex",
+                  "fullId": "3110_23544691",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Regenkleding",
+              "values": [
+                {
+                  "id": 5294357,
+                  "caption": "Regen",
+                  "columnValue": "Regenkleding",
+                  "crawlable": true,
+                  "detailValue": "Regen",
+                  "fullId": "3114_5294357",
+                  "sequence": 12,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3157,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_broeken",
+              "value": "M",
+              "values": [
+                {
+                  "id": 472890,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3157_472890",
+                  "sequence": 77,
+                  "urlName": null
+                },
+                {
+                  "id": 472891,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3157_472891",
+                  "sequence": 79,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met rits",
+              "values": [
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Outdoorkleding",
+              "values": [
+                {
+                  "id": 5340891,
+                  "caption": "Outdoor",
+                  "columnValue": "Outdoorkleding",
+                  "crawlable": true,
+                  "detailValue": "Outdoor",
+                  "fullId": "3875_5340891",
+                  "sequence": 10,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-14215277-fc85-480f-a636-bd369a35d53d",
+          "revenuePerClick": 0.12,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 37.99,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": {
+            "bestRating": 100,
+            "count": 72,
+            "rating": 64
+          },
+          "labels": [],
+          "discountPercentage": 5,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "discount",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "id": "36tqqbt8bXbHtPtqg5i1TLqLL95L",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "36tqqbvUwLaN1Ww5QJhuYv1KcA3M",
+            "advertisementIdV3": "36tqqbvUwLaN1Ww5QJhuYv1KcA3M"
+          },
+          "shopItemId": 0,
+          "productId": "36tqqbt8bXbHtPtqg5i1TLqLL95L",
+          "ean": "",
+          "shopInfo": {
+            "id": 645782,
+            "shopName": "Kampeerhalroden.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 7,
+            "productCount": 10000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/645782.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:19+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 26812,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 645782,
+            "shopItemId": 0,
+            "shopItemTitle": "Mac in a Sac Regenbroek Full Zip",
+            "shopItemDescription": "",
+            "shopItemVersion": "018d9cb5fb05702e8f0797f50defb721-regenbroek_full_zip-Zwart-regenbroek_full_zip",
+            "shopName": "Kampeerhalroden.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "36tqqc1FEAW5qBdMbZ3tW2mCjbA3",
+            "condition": "Nieuw",
+            "ean": "5060703484335",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.kampeerhalroden.nl/mac-in-a-sac-regenbroek-full-zip/271111?utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslist",
+            "size": "S",
+            "shopReviewScore": 6.6,
+            "shopReviewAmount": 7,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 44.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "018d9cb5fb05702e8f0797f50defb721",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "14215277-fc85-480f-a636-bd369a35d53d",
+            "title": "Mac in a Sac Full Zipper Regenbroek - Zwart",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 37.97
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 37.97
+          },
+          "title": "Mac in a Sac Regenbroek Full Zip",
+          "fixedTitle": "Mac in a Sac Regenbroek Full Zip",
+          "indexIdentifierTimeStamp": 1744908277,
+          "description": "Ontdek de ultieme bescherming tegen regen met de Mac in a Sac Full Zip regenbroek. Volledige rits voor gemak, ademend en waterdicht - blijf droog in stijl!",
+          "descriptionRaw": "Ontdek de ultieme bescherming tegen regen met de Mac in a Sac Full Zip regenbroek. Volledige rits voor gemak, ademend en waterdicht - blijf droog in stijl!",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1209060183,
+          "gtinGroupId": "137-36tqqbvUwLaN1Ww5QJhuYv1KcA3M",
+          "categoryId": 9000781,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": 589619579735,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 9,
+          "shopIds": [
+            645782
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 492
+              },
+              "type": "mainImage",
+              "url": "pim/5060703484335/394/{size}/82aaaf7953e86d80f9a19dd145d90f8b/Regenbroeken/Mac-in-a-Sac-Regenbroek-Full-Zip.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 279
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484335/15376/{size}/2d8a1b961ad5b32f7d87ce31caf7a974/Regenbroeken/Mac-in-a-Sac-Regenbroek-Full-Zip.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1039,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484335/15377/{size}/ca650b43a00da9544dca144cc86ff5a5/Regenbroeken/Mac-in-a-Sac-Regenbroek-Full-Zip.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484335/15378/{size}/04da1520e5a804494a68319e9a802f8f/Regenbroeken/Mac-in-a-Sac-Regenbroek-Full-Zip.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1139,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484335/15379/{size}/0e2a5a3dac723fb830d5850255449f04/Regenbroeken/Mac-in-a-Sac-Regenbroek-Full-Zip.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 477
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484335/15380/{size}/c60fae309a4314df44b463240be1cdfa/Regenbroeken/Mac-in-a-Sac-Regenbroek-Full-Zip.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "36tqqbt8bXbHtPtqg5i1TLqLL95L",
+              "value": "XL",
+              "available": true,
+              "price": 44.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "36tqqc3r44yRxiq6eZjsnnidUm1H",
+              "value": "XXL",
+              "available": true,
+              "price": 44.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "36tqqcFMpouU2DPQRFQ2KTqs9nxE",
+              "value": "3XL",
+              "available": true,
+              "price": 44.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "36tqqbibDj8uB7ZNLL2sNtuLiGdL",
+              "value": "M",
+              "available": true,
+              "price": 44.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "36tqqc1FEAW5qBdMbZ3tW2mCjbA3",
+              "value": "S",
+              "available": true,
+              "price": 44.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "36tqqbzKc2KkmyfP3GutL9xyMypn",
+              "value": "L",
+              "available": true,
+              "price": 44.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3157,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_broeken",
+              "values": [
+                {
+                  "id": 472889,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3157_472889",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "36tqqc1FEAW5qBdMbZ3tW2mCjbA3",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 472890,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3157_472890",
+                  "sequence": 77,
+                  "urlName": null,
+                  "productIdV3": "36tqqbibDj8uB7ZNLL2sNtuLiGdL",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 472891,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3157_472891",
+                  "sequence": 79,
+                  "urlName": null,
+                  "productIdV3": "36tqqbzKc2KkmyfP3GutL9xyMypn",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 472892,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3157_472892",
+                  "sequence": 81,
+                  "urlName": null,
+                  "productIdV3": "36tqqbt8bXbHtPtqg5i1TLqLL95L",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 472893,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3157_472893",
+                  "sequence": 83,
+                  "urlName": null,
+                  "productIdV3": "36tqqc3r44yRxiq6eZjsnnidUm1H",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810791,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3157_23810791",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "36tqqcFMpouU2DPQRFQ2KTqs9nxE",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 8296565,
+          "brandName": "Mac in a Sac",
+          "brandRank": 1114,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-04-24 00:00:00",
+          "popularity": 9,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.48,
+            "roasPercentage": 800
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 17:00 uur besteld, volgende dag in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 4.95,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Mac in a Sac",
+              "values": [
+                {
+                  "id": 8296565,
+                  "caption": "Mac in a Sac",
+                  "columnValue": "Mac in a Sac",
+                  "crawlable": true,
+                  "detailValue": "Mac in a Sac",
+                  "fullId": "48_8296565",
+                  "sequence": 1608,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Kampeerhalroden.nl",
+              "values": [
+                {
+                  "id": 23757920,
+                  "caption": "Kampeerhalroden.nl",
+                  "columnValue": "Kampeerhalroden.nl",
+                  "crawlable": true,
+                  "detailValue": "Kampeerhalroden.nl",
+                  "fullId": "49_23757920",
+                  "sequence": 389,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 401012,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3003_401012",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 5294357,
+                  "caption": "Regen",
+                  "columnValue": "Regenkleding",
+                  "crawlable": true,
+                  "detailValue": "Regen",
+                  "fullId": "3114_5294357",
+                  "sequence": 12,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3157,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_broeken",
+              "value": "S",
+              "values": [
+                {
+                  "id": 472889,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3157_472889",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 472890,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3157_472890",
+                  "sequence": 77,
+                  "urlName": null
+                },
+                {
+                  "id": 472891,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3157_472891",
+                  "sequence": 79,
+                  "urlName": null
+                },
+                {
+                  "id": 472892,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3157_472892",
+                  "sequence": 81,
+                  "urlName": null
+                },
+                {
+                  "id": 472893,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3157_472893",
+                  "sequence": 83,
+                  "urlName": null
+                },
+                {
+                  "id": 23810791,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3157_23810791",
+                  "sequence": 84,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Ademend",
+              "values": [
+                {
+                  "id": 23500774,
+                  "caption": "Ademende",
+                  "columnValue": "Ademend",
+                  "crawlable": true,
+                  "detailValue": "Ademende",
+                  "fullId": "3730_23500774",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                },
+                {
+                  "id": 7424575,
+                  "caption": "Waterdichte",
+                  "columnValue": "Waterdicht",
+                  "crawlable": true,
+                  "detailValue": "Waterdichte",
+                  "fullId": "3730_7424575",
+                  "sequence": 106,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "645782-regenbroek_full_zip",
+          "relatedSiblingDetails": {
+            "id": null,
+            "detail": null,
+            "isTopDetail": null,
+            "value": "Zwart"
+          },
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-14215277-fc85-480f-a636-bd369a35d53d",
+          "revenuePerClick": 0.06,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 37.99,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": {
+            "bestRating": 100,
+            "count": 72,
+            "rating": 64
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        },
+        {
+          "id": "osEp8rpwo1FBhvQWhVCcPEbwHu",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "osEpKfWGJKRj7rjmg6YFsmQsq2",
+            "advertisementIdV3": "osEpKfWGJKRj7rjmg6YFsmQsq2"
+          },
+          "shopItemId": 1171077824,
+          "productId": "osEp8rpwo1FBhvQWhVCcPEbwHu",
+          "ean": "",
+          "shopInfo": {
+            "id": 1,
+            "shopName": "bol.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 4200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/1.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:23:12+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "klantenservice@bol.com",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 1,
+            "shopItemId": 1171077824,
+            "shopItemTitle": "Mac in a Sac Full Zipper Regenbroek - Zwart - Maat S",
+            "shopItemDescription": "",
+            "shopItemVersion": "9200000131849582-9200000131849581-Zwart-9200000131849581",
+            "shopName": "bol.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "osEpF1dpmW6fQQPJWx67PE2AWu",
+            "condition": "Nieuw",
+            "ean": "5060703484335",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://partner.bol.com/click/click?p=1&t=url&s=1126362&url=https%3a%2f%2fwww.bol.com%2fnl%2fnl%2fp%2fmac-in-a-sac-full-zipper-regenbroek-zwart-maat-s%2f9200000131849582%2f",
+            "size": "S",
+            "shopReviewScore": 4,
+            "shopReviewAmount": 39257,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 49.44,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "9200000131849582",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "14215277-fc85-480f-a636-bd369a35d53d",
+            "title": "Mac in a Sac Full Zipper Regenbroek - Zwart",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 37.97
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 37.97
+          },
+          "title": "Mac in a Sac Full Zipper Regenbroek - Zwart - Maat M",
+          "fixedTitle": "Mac in a Sac Full Zipper Regenbroek - Zwart - Maat XS",
+          "indexIdentifierTimeStamp": 1744908277,
+          "description": "Het aantrekken van een regenbroek gaat niet altijd even gemakkelijk. Zeker wanneer u daarbij uw schoenen aan wilt houden kan het knap lastig zijn om de broek aan of uit te trekken. Gelukkig biedt de Mac in a Sac Full Zipper regenbroek uitkomst. Deze regenbroek is namelijk uitgevoerd met een ritssluiting aan beide zijdes. Doordat de rits twee richtingen op bewogen kan worden, is deze broek zeer praktisch en gebruiksvriendelijk. De Mac in a Sac Full Zip regenbroek is daarnaast uitgevoerd met elastiek in de taille, stormflap over de ritsen en velcro sluiting rondom de enkels zodat de regenbroek goed blijft zitten.- Makkelijk dragend lichtgewichtpolyester regenbroek- 100% waterdicht (10.000mm) doorgeplakte naden- Ademend (8000gsm) en winddicht- Elastiek in de taille2 way zipper- Stormflap over ritsen- Reflectiestrepen over de volledigelengte van de ritsen- Verstevigd zitvlak beschermd debroek tegen slijtage- Met klittenband verstelbarebeenpijpen- Klein op te rollen in bijgeleverdopbergzakje- Maten van S tot XXXL- Alleen verkrijgbaar in de kleur zwart- Buitenbeenlengte 107 cm",
+          "descriptionRaw": "Het aantrekken van een regenbroek gaat niet altijd even gemakkelijk. Zeker wanneer u daarbij uw schoenen aan wilt houden kan het knap lastig zijn om de broek aan of uit te trekken. Gelukkig biedt de Mac in a Sac Full Zipper regenbroek uitkomst. Deze regenbroek is namelijk uitgevoerd met een ritssluiting aan beide zijdes. Doordat de rits twee richtingen op bewogen kan worden, is deze broek zeer praktisch en gebruiksvriendelijk. De Mac in a Sac Full Zip regenbroek is daarnaast uitgevoerd met elastiek in de taille, stormflap over de ritsen en velcro sluiting rondom de enkels zodat de regenbroek goed blijft zitten.- Makkelijk dragend lichtgewichtpolyester regenbroek- 100% waterdicht (10.000mm) doorgeplakte naden- Ademend (8000gsm) en winddicht- Elastiek in de taille2 way zipper- Stormflap over ritsen- Reflectiestrepen over de volledigelengte van de ritsen- Verstevigd zitvlak beschermd debroek tegen slijtage- Met klittenband verstelbarebeenpijpen- Klein op te rollen in bijgeleverdopbergzakje- Maten van S tot XXXL- Alleen verkrijgbaar in de kleur zwart- Buitenbeenlengte 107 cm",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1174729218,
+          "gtinGroupId": "137-osEpKfWGJKRj7rjmg6YFsmQsq2",
+          "categoryId": 9000781,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": 589585248770,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 9,
+          "shopIds": [
+            1
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 492
+              },
+              "type": "mainImage",
+              "url": "pim/5060703484328/394/{size}/82aaaf7953e86d80f9a19dd145d90f8b/Regenbroeken/Mac-in-a-Sac-Full-Zipper-Regenbroek-Zwart-Maat-XS.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 279
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484328/15376/{size}/2d8a1b961ad5b32f7d87ce31caf7a974/Regenbroeken/Mac-in-a-Sac-Full-Zipper-Regenbroek-Zwart-Maat-XS.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1139,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484328/15377/{size}/0e2a5a3dac723fb830d5850255449f04/Regenbroeken/Mac-in-a-Sac-Full-Zipper-Regenbroek-Zwart-Maat-XS.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1039,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484328/15378/{size}/ca650b43a00da9544dca144cc86ff5a5/Regenbroeken/Mac-in-a-Sac-Full-Zipper-Regenbroek-Zwart-Maat-XS.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1199,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484328/15379/{size}/04da1520e5a804494a68319e9a802f8f/Regenbroeken/Mac-in-a-Sac-Full-Zipper-Regenbroek-Zwart-Maat-XS.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 477
+              },
+              "type": "alternativeImage",
+              "url": "pim/5060703484328/15380/{size}/c60fae309a4314df44b463240be1cdfa/Regenbroeken/Mac-in-a-Sac-Full-Zipper-Regenbroek-Zwart-Maat-XS.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEp8rpwo1FBhvQWhVCcPEbwHu",
+              "value": "M",
+              "available": true,
+              "price": 44.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEpMyiKxrtKxR3SdrBYWydrt7",
+              "value": "L",
+              "available": true,
+              "price": 44.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEpF1dpmW6fQQPJWx67PE2AWu",
+              "value": "S",
+              "available": true,
+              "price": 49.44,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEp9hboVLXwwsjGtjWopxBcS8",
+              "value": "XXXL",
+              "available": true,
+              "price": 44.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEpTWL6YSwb931kKGt1xzvBDF",
+              "value": "XL",
+              "available": true,
+              "price": 44.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEpWX7aJ7mYLiyjQjQbd5tHsN",
+              "value": "XS",
+              "available": true,
+              "price": 49.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEozrNsQk1bgzhuvjN2ULgHYg",
+              "value": "XXL",
+              "available": true,
+              "price": 44.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3157,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_broeken",
+              "values": [
+                {
+                  "id": 472888,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3157_472888",
+                  "sequence": 73,
+                  "urlName": null,
+                  "productIdV3": "osEpWX7aJ7mYLiyjQjQbd5tHsN",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 472889,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3157_472889",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "osEpF1dpmW6fQQPJWx67PE2AWu",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.44,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 472890,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3157_472890",
+                  "sequence": 77,
+                  "urlName": null,
+                  "productIdV3": "osEp8rpwo1FBhvQWhVCcPEbwHu",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 472891,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3157_472891",
+                  "sequence": 79,
+                  "urlName": null,
+                  "productIdV3": "osEpMyiKxrtKxR3SdrBYWydrt7",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 472892,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3157_472892",
+                  "sequence": 81,
+                  "urlName": null,
+                  "productIdV3": "osEpTWL6YSwb931kKGt1xzvBDF",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 472893,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3157_472893",
+                  "sequence": 83,
+                  "urlName": null,
+                  "productIdV3": "osEozrNsQk1bgzhuvjN2ULgHYg",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810791,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3157_23810791",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "osEp9hboVLXwwsjGtjWopxBcS8",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 8296565,
+          "brandName": "Mac in a Sac",
+          "brandRank": 1114,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2023-06-14 00:00:00",
+          "popularity": 7,
+          "popularityData": {
+            "clickFactor": 6,
+            "webshopsRevenuePerClick": 0.48,
+            "roasPercentage": 10000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 17:00 uur besteld, volgende dag in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Mac in a Sac",
+              "values": [
+                {
+                  "id": 8296565,
+                  "caption": "Mac in a Sac",
+                  "columnValue": "Mac in a Sac",
+                  "crawlable": true,
+                  "detailValue": "Mac in a Sac",
+                  "fullId": "48_8296565",
+                  "sequence": 1608,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Bol.com",
+              "values": [
+                {
+                  "id": 401410,
+                  "caption": "Bol.com",
+                  "columnValue": "Bol.com",
+                  "crawlable": true,
+                  "detailValue": "Bol.com",
+                  "fullId": "49_401410",
+                  "sequence": 108,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 401012,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3003_401012",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23544691,
+                  "caption": "Unisex",
+                  "columnValue": "Unisex",
+                  "crawlable": true,
+                  "detailValue": "Unisex",
+                  "fullId": "3110_23544691",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 5294357,
+                  "caption": "Regen",
+                  "columnValue": "Regenkleding",
+                  "crawlable": true,
+                  "detailValue": "Regen",
+                  "fullId": "3114_5294357",
+                  "sequence": 12,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3157,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_broeken",
+              "value": "XS",
+              "values": [
+                {
+                  "id": 472888,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3157_472888",
+                  "sequence": 73,
+                  "urlName": null
+                },
+                {
+                  "id": 472889,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3157_472889",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 472890,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3157_472890",
+                  "sequence": 77,
+                  "urlName": null
+                },
+                {
+                  "id": 472891,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3157_472891",
+                  "sequence": 79,
+                  "urlName": null
+                },
+                {
+                  "id": 472892,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3157_472892",
+                  "sequence": 81,
+                  "urlName": null
+                },
+                {
+                  "id": 472893,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3157_472893",
+                  "sequence": 83,
+                  "urlName": null
+                },
+                {
+                  "id": 23810791,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3157_23810791",
+                  "sequence": 84,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met rits",
+              "values": [
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "1-9200000131849581",
+          "relatedSiblingDetails": {
+            "id": null,
+            "detail": null,
+            "isTopDetail": null,
+            "value": "Zwart"
+          },
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-14215277-fc85-480f-a636-bd369a35d53d",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 2,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 37.99,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": {
+            "bestRating": 100,
+            "count": 72,
+            "rating": 64
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

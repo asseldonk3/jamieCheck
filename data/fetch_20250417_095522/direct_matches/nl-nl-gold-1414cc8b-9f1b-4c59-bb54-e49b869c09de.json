@@ -1,0 +1,1932 @@
+{
+  "offset": 0,
+  "numFound": 3,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 3,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 49.04,
+        "highestDiscount": 45,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3152,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_badpakken_bikini",
+            "values": [
+              {
+                "id": 471411,
+                "caption": "Maat 38",
+                "columnValue": "38",
+                "crawlable": true,
+                "detailValue": "Maat 38",
+                "fullId": "3152_471411",
+                "sequence": 24,
+                "urlName": null
+              },
+              {
+                "id": 471412,
+                "caption": "Maat 40",
+                "columnValue": "40",
+                "crawlable": true,
+                "detailValue": "Maat 40",
+                "fullId": "3152_471412",
+                "sequence": 25,
+                "urlName": null
+              },
+              {
+                "id": 471413,
+                "caption": "Maat 42",
+                "columnValue": "42",
+                "crawlable": true,
+                "detailValue": "Maat 42",
+                "fullId": "3152_471413",
+                "sequence": 26,
+                "urlName": null
+              },
+              {
+                "id": 471414,
+                "caption": "Maat 44",
+                "columnValue": "44",
+                "crawlable": true,
+                "detailValue": "Maat 44",
+                "fullId": "3152_471414",
+                "sequence": 27,
+                "urlName": null
+              },
+              {
+                "id": 471415,
+                "caption": "Maat 46",
+                "columnValue": "46",
+                "crawlable": true,
+                "detailValue": "Maat 46",
+                "fullId": "3152_471415",
+                "sequence": 28,
+                "urlName": null
+              }
+            ]
+          },
+          {
+            "id": 3798,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_bh_body",
+            "values": [
+              {
+                "id": 23810682,
+                "caption": "D",
+                "columnValue": "D",
+                "crawlable": true,
+                "detailValue": "D",
+                "fullId": "3798_23810682",
+                "sequence": 71,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "osEp3kfimXxJf4BsG86jb6PLcX",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "osEpExLatmK5Qt63kNzWSDJCks",
+            "advertisementIdV3": "osEpExLatmK5Qt63kNzWSDJCks"
+          },
+          "shopItemId": 0,
+          "productId": "osEp3kfimXxJf4BsG86jb6PLcX",
+          "ean": "",
+          "shopInfo": {
+            "id": 1,
+            "shopName": "bol.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 4200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/1.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-16T00:48:18+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "klantenservice@bol.com",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 1,
+            "shopItemId": 0,
+            "shopItemTitle": "Triumph Summer Allure OP 01 Dames Badpak - Zwart Combi - Maat D44",
+            "shopItemDescription": "",
+            "shopItemVersion": "9300000169381749-9300000169381824-Zwart-9300000169381824",
+            "shopName": "bol.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "osEp3kfimXxJf4BsG86jb6PLcX",
+            "condition": "Nieuw",
+            "ean": "7613108520689",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://partner.bol.com/click/click?p=1&t=url&s=1126362&url=https%3a%2f%2fwww.bol.com%2fnl%2fnl%2fp%2ftriumph-summer-allure-op-01-dames-badpak-zwart-combi-maat-d44%2f9300000169381749%2f",
+            "size": "D44",
+            "shopReviewScore": 4,
+            "shopReviewAmount": 39257,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 34,
+              "price": 49.04,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 89,
+              "price": 90,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "9300000169381749",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "1414cc8b-9f1b-4c59-bb54-e49b869c09de",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 26.47
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 31.05
+          },
+          "title": "Triumph Summer Allure OP 01 Dames Badpak - Zwart Combi - Maat D44",
+          "fixedTitle": "Triumph Summer Allure OP 01 Dames Badpak - Zwart Combi - Maat B38",
+          "indexIdentifierTimeStamp": 1744876530,
+          "description": "Zomerse uitvoering van ons best verkochte corrigerend badpak met voorgevormde cups, getooid met levendige zomerprints en stof met plooien. Een elastische onderbusteband geeft de juiste steun en pasvorm tot een F-cup.",
+          "descriptionRaw": "Zomerse uitvoering van ons best verkochte corrigerend badpak met voorgevormde cups, getooid met levendige zomerprints en stof met plooien. Een elastische onderbusteband geeft de juiste steun en pasvorm tot een F-cup.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-osEpExLatmK5Qt63kNzWSDJCks",
+          "categoryId": 9000853,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            1
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 1083
+              },
+              "type": "mainImage",
+              "url": "pim/7613108514718/394/{size}/03eece4c82ac3d97a17f5eae4422b60b/Badpakken/Triumph-Summer-Allure-OP-01-Dames-Badpak-Zwart-Combi-Maat-B38.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEp3kfimXxJf4BsG86jb6PLcX",
+              "value": "D44",
+              "available": true,
+              "price": 49.04,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEp39Ndo3BNZLk6EthHa5AaKJ",
+              "value": "C40",
+              "available": true,
+              "price": 50,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEpUrEs2AFseV3Mg8K4BaZSVJ",
+              "value": "B38",
+              "available": true,
+              "price": 61.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEp6LhFHPYVQQyE3ZL6PdNXqR",
+              "value": "C42",
+              "available": true,
+              "price": 49.04,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEp2fT9vSrsh9atYPagSwTj2P",
+              "value": "E40",
+              "available": true,
+              "price": 90,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEoz7K6sn2UNge7TBmuezKNLe",
+              "value": "B46",
+              "available": true,
+              "price": 79.12,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEpR9uWzsW1LNkhH6xPZgaMti",
+              "value": "B42",
+              "available": true,
+              "price": 64.1,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEpQPJFwjiSKWENqNtXkykc85",
+              "value": "C46",
+              "available": true,
+              "price": 79.12,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3152,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_badpakken_bikini",
+              "values": [
+                {
+                  "id": 471411,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3152_471411",
+                  "sequence": 24,
+                  "urlName": null,
+                  "productIdV3": "osEpUrEs2AFseV3Mg8K4BaZSVJ",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 90,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 61.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471412,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3152_471412",
+                  "sequence": 25,
+                  "urlName": null,
+                  "productIdV3": "osEp39Ndo3BNZLk6EthHa5AaKJ",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 90,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 50,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471412,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3152_471412",
+                  "sequence": 25,
+                  "urlName": null,
+                  "productIdV3": "osEp2fT9vSrsh9atYPagSwTj2P",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 90,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471413,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3152_471413",
+                  "sequence": 26,
+                  "urlName": null,
+                  "productIdV3": "osEp6LhFHPYVQQyE3ZL6PdNXqR",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 90,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 49.04,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471413,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3152_471413",
+                  "sequence": 26,
+                  "urlName": null,
+                  "productIdV3": "osEpR9uWzsW1LNkhH6xPZgaMti",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 90,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 64.1,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471414,
+                  "caption": "Maat 44",
+                  "columnValue": "44",
+                  "crawlable": true,
+                  "detailValue": "Maat 44",
+                  "fullId": "3152_471414",
+                  "sequence": 27,
+                  "urlName": null,
+                  "productIdV3": "osEp3kfimXxJf4BsG86jb6PLcX",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 90,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 49.04,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471415,
+                  "caption": "Maat 46",
+                  "columnValue": "46",
+                  "crawlable": true,
+                  "detailValue": "Maat 46",
+                  "fullId": "3152_471415",
+                  "sequence": 28,
+                  "urlName": null,
+                  "productIdV3": "osEoz7K6sn2UNge7TBmuezKNLe",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 90,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 79.12,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471415,
+                  "caption": "Maat 46",
+                  "columnValue": "46",
+                  "crawlable": true,
+                  "detailValue": "Maat 46",
+                  "fullId": "3152_471415",
+                  "sequence": 28,
+                  "urlName": null,
+                  "productIdV3": "osEpQPJFwjiSKWENqNtXkykc85",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 90,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 79.12,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 84851,
+          "brandName": "Triumph",
+          "brandRank": 81,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-16 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 1,
+            "webshopsRevenuePerClick": 1.36,
+            "roasPercentage": 10000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "voor 2025-04-15 23:59:00.0 besteld, morgen in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Triumph",
+              "values": [
+                {
+                  "id": 84851,
+                  "caption": "Triumph",
+                  "columnValue": "Triumph",
+                  "crawlable": true,
+                  "detailValue": "Triumph",
+                  "fullId": "48_84851",
+                  "sequence": 2641,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Bol.com",
+              "values": [
+                {
+                  "id": 401410,
+                  "caption": "Bol.com",
+                  "columnValue": "Bol.com",
+                  "crawlable": true,
+                  "detailValue": "Bol.com",
+                  "fullId": "49_401410",
+                  "sequence": 108,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 401012,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3003_401012",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Corrigerende kleding",
+              "values": [
+                {
+                  "id": 432487,
+                  "caption": "Corrigerende",
+                  "columnValue": "Corrigerende kleding",
+                  "crawlable": true,
+                  "detailValue": "Corrigerende",
+                  "fullId": "3114_432487",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 468980,
+                  "caption": "Badmode",
+                  "columnValue": "Badmode",
+                  "crawlable": true,
+                  "detailValue": "Badmode",
+                  "fullId": "3114_468980",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 8049145,
+                  "caption": "Strand",
+                  "columnValue": "Strandkleding",
+                  "crawlable": true,
+                  "detailValue": "Strand",
+                  "fullId": "3114_8049145",
+                  "sequence": 25,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3152,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_badpakken_bikini",
+              "value": "38",
+              "values": [
+                {
+                  "id": 471411,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3152_471411",
+                  "sequence": 24,
+                  "urlName": null
+                },
+                {
+                  "id": 471412,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3152_471412",
+                  "sequence": 25,
+                  "urlName": null
+                },
+                {
+                  "id": 471413,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3152_471413",
+                  "sequence": 26,
+                  "urlName": null
+                },
+                {
+                  "id": 471414,
+                  "caption": "Maat 44",
+                  "columnValue": "44",
+                  "crawlable": true,
+                  "detailValue": "Maat 44",
+                  "fullId": "3152_471414",
+                  "sequence": 27,
+                  "urlName": null
+                },
+                {
+                  "id": 471415,
+                  "caption": "Maat 46",
+                  "columnValue": "46",
+                  "crawlable": true,
+                  "detailValue": "Maat 46",
+                  "fullId": "3152_471415",
+                  "sequence": 28,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met elastiek onderaan",
+              "values": [
+                {
+                  "id": 19254132,
+                  "caption": "Met elastiek onderaan",
+                  "columnValue": "Met elastiek onderaan",
+                  "crawlable": true,
+                  "detailValue": "Met elastiek onderaan",
+                  "fullId": "3730_19254132",
+                  "sequence": 51,
+                  "urlName": null
+                },
+                {
+                  "id": 13826894,
+                  "caption": "Pliss\u00e9",
+                  "columnValue": "Pliss\u00e9",
+                  "crawlable": true,
+                  "detailValue": "Pliss\u00e9",
+                  "fullId": "3730_13826894",
+                  "sequence": 87,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3812,
+              "name": "Soort",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type_badpak",
+              "value": "Corrigerende badpakken",
+              "values": [
+                {
+                  "id": 4850295,
+                  "caption": "Corrigerende badpakken",
+                  "columnValue": "Corrigerende badpakken",
+                  "crawlable": true,
+                  "detailValue": "Corrigerende badpakken",
+                  "fullId": "3812_4850295",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Zwemkleding",
+              "values": [
+                {
+                  "id": 6394557,
+                  "caption": "Zwem",
+                  "columnValue": "Zwemkleding",
+                  "crawlable": true,
+                  "detailValue": "Zwem",
+                  "fullId": "3875_6394557",
+                  "sequence": 18,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4759,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_badpakken",
+              "value": "Voorgevormd",
+              "values": [
+                {
+                  "id": 9532702,
+                  "caption": "Voorgevormd",
+                  "columnValue": "Voorgevormd",
+                  "crawlable": true,
+                  "detailValue": "Voorgevormd",
+                  "fullId": "4759_9532702",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 9532704,
+                  "caption": "Onderbuste-elastiek",
+                  "columnValue": "Onderbuste-elastiek",
+                  "crawlable": true,
+                  "detailValue": "Onderbuste-elastiek",
+                  "fullId": "4759_9532704",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 15596203,
+                  "caption": "Grote cupmaat",
+                  "columnValue": "Grote cupmaat",
+                  "crawlable": true,
+                  "detailValue": "Grote cupmaat",
+                  "fullId": "4759_15596203",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "1-9300000169381824",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-1414cc8b-9f1b-4c59-bb54-e49b869c09de",
+          "revenuePerClick": 0.01,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 2,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 49.04,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 45,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "discount",
+              "value": 45
+            }
+          ]
+        },
+        {
+          "id": "2UVfhxKC2nKbjYoT775DAqeToKcJ",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2UVfhxCiEuWQNP37ZBBdrnDie31o",
+            "advertisementIdV3": "2UVfhxCiEuWQNP37ZBBdrnDie31o"
+          },
+          "shopItemId": 0,
+          "productId": "2UVfhxKC2nKbjYoT775DAqeToKcJ",
+          "ean": "",
+          "shopInfo": {
+            "id": 642665,
+            "shopName": "LaRedoute.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 5,
+            "productCount": 80000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/642665.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-16T00:50:01+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@LaRedoute.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 1675,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 642665,
+            "shopItemId": 0,
+            "shopItemTitle": "Badpak Summer Allure TRIUMPH.  materiaal. Maten 42D FR - 40D EU. Zwart kleur",
+            "shopItemDescription": "",
+            "shopItemVersion": "35033808300010009722724-3503380831",
+            "shopName": "LaRedoute.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2UVfhx1gf2L9E4xzK3kEgfxSmZhi",
+            "condition": "Nieuw",
+            "ean": "7613108520665",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.laredoute.nl/ppdp/prod-350338083.aspx?dim1=1&dim2=9&cod=CDP00119978NL",
+            "size": "42D FR - 40D EU",
+            "shopReviewScore": 4.2,
+            "shopReviewAmount": 100,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 55,
+              "price": 55,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 89,
+              "price": 100,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "35033808300010009722724",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "1414cc8b-9f1b-4c59-bb54-e49b869c09de",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 26.47
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 31.05
+          },
+          "title": "Badpak Summer Allure TRIUMPH.  materiaal. Maten 46C  FR - 44C EU. Zwart kleur",
+          "fixedTitle": "Badpak Summer Allure TRIUMPH.  materiaal. Maten 46C  FR - 44C EU. Zwart kleur",
+          "indexIdentifierTimeStamp": 1744876530,
+          "description": "Badpak Summer Allure TRIUMPH. Maten 46C  FR - 44C EU. bedrukt zwart/ecru kleur. Een zomerversie van onze best verkopende gewatteerde badpak, versierd met felle zomerprints en gefronste stof.Details\u00a0\u2022\u00a0\u00a0Badpak\u00a0\u2022\u00a0\u00a0Vaste schouderbandjes\u00a0\u2022\u00a0\u00a0Met binnencups\u00a0\u2022\u00a0\u00a0Zonder beugels\u00a0\u2022\u00a0\u00a0Bedrukt motief\u00a0\u2022\u00a0\u00a0Een elastische strook onder de buste zorgt voor ondersteuning en een goede pasvorm tot een F-cup.Samenstelling en onderhoud\u00a0\u2022\u00a0\u00a077% polyamide, 23% elasthan\u00a0\u2022\u00a0\u00a0Ten minste 50% gerecycled polyamide\u00a0\u2022\u00a0\u00a0Onderhoud : zie etiket\u00a0\u2022\u00a0\u00a0RECYCLED POLYAMIDE. Het gebruik van recycled polyamide betekent het behoud van bepaalde hulpbronnen en minder afval.\u00a0\u2022\u00a0\u00a0OEKO-TEX\u00ae Standard 100. Het OEKO-TEX\u00ae Standard 100 certificaat controleert textielproducten op schadelijke stoffen via een onafhankelijk, internationaal label.",
+          "descriptionRaw": "Badpak Summer Allure TRIUMPH. Maten 46C  FR - 44C EU. bedrukt zwart/ecru kleur. Een zomerversie van onze best verkopende gewatteerde badpak, versierd met felle zomerprints en gefronste stof.Details\u00a0\u2022\u00a0\u00a0Badpak\u00a0\u2022\u00a0\u00a0Vaste schouderbandjes\u00a0\u2022\u00a0\u00a0Met binnencups\u00a0\u2022\u00a0\u00a0Zonder beugels\u00a0\u2022\u00a0\u00a0Bedrukt motief\u00a0\u2022\u00a0\u00a0Een elastische strook onder de buste zorgt voor ondersteuning en een goede pasvorm tot een F-cup.Samenstelling en onderhoud\u00a0\u2022\u00a0\u00a077% polyamide, 23% elasthan\u00a0\u2022\u00a0\u00a0Ten minste 50% gerecycled polyamide\u00a0\u2022\u00a0\u00a0Onderhoud : zie etiket\u00a0\u2022\u00a0\u00a0RECYCLED POLYAMIDE. Het gebruik van recycled polyamide betekent het behoud van bepaalde hulpbronnen en minder afval.\u00a0\u2022\u00a0\u00a0OEKO-TEX\u00ae Standard 100. Het OEKO-TEX\u00ae Standard 100 certificaat controleert textielproducten op schadelijke stoffen via een onafhankelijk, internationaal label.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-2UVfhxCiEuWQNP37ZBBdrnDie31o",
+          "categoryId": 9000853,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            642665
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 1083
+              },
+              "type": "mainImage",
+              "url": "2UVfhx1gf2L9E4xzK3kEgfxSmZhi/394/{size}/eca12a81786678d92e33bdc603050255/Badpakken/Badpak-Summer-Allure-TRIUMPH.-materiaal.-Maten-46C-FR-44C-EU.-Zwart-kleur.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 1083
+              },
+              "type": "alternativeImage",
+              "url": "2UVfhx1gf2L9E4xzK3kEgfxSmZhi/15376/{size}/fd6e1420e0dac6f1556a2dd687002c0d/Badpakken/Badpak-Summer-Allure-TRIUMPH.-materiaal.-Maten-46C-FR-44C-EU.-Zwart-kleur.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 1096
+              },
+              "type": "alternativeImage",
+              "url": "2UVfhx1gf2L9E4xzK3kEgfxSmZhi/15377/{size}/0a1c3bbc03ee0965f74f019e7422e411/Badpakken/Badpak-Summer-Allure-TRIUMPH.-materiaal.-Maten-46C-FR-44C-EU.-Zwart-kleur.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1006,
+                "width": 505
+              },
+              "type": "alternativeImage",
+              "url": "2UVfhx1gf2L9E4xzK3kEgfxSmZhi/15378/{size}/aeec89493f9737c2b0d7c586eb4c3ed8/Badpakken/Badpak-Summer-Allure-TRIUMPH.-materiaal.-Maten-46C-FR-44C-EU.-Zwart-kleur.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhxKC2nKbjYoT775DAqeToKcJ",
+              "value": "46C  FR - 44C EU",
+              "available": false,
+              "price": 55,
+              "blockedStatus": 12,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhx1gf2L9E4xzK3kEgfxSmZhi",
+              "value": "42D FR - 40D EU",
+              "available": true,
+              "price": 55,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhx29f9DDuTc6rspbMjigoN8o",
+              "value": "40D FR - 38D EU",
+              "available": true,
+              "price": 55,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhxHyVfH9oL1ZScbvcgGmt6ih",
+              "value": "44D FR - 42D EU",
+              "available": false,
+              "price": 55,
+              "blockedStatus": 12,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3152,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_badpakken_bikini",
+              "values": [
+                {
+                  "id": 471411,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3152_471411",
+                  "sequence": 24,
+                  "urlName": null,
+                  "productIdV3": "2UVfhx29f9DDuTc6rspbMjigoN8o",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 100,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 55,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471412,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3152_471412",
+                  "sequence": 25,
+                  "urlName": null,
+                  "productIdV3": "2UVfhx1gf2L9E4xzK3kEgfxSmZhi",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 100,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 55,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 84851,
+          "brandName": "Triumph",
+          "brandRank": 81,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-16 00:00:00",
+          "popularity": 9894,
+          "popularityData": {
+            "clickFactor": 280,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 - 7 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 2.99,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Triumph",
+              "values": [
+                {
+                  "id": 84851,
+                  "caption": "Triumph",
+                  "columnValue": "Triumph",
+                  "crawlable": true,
+                  "detailValue": "Triumph",
+                  "fullId": "48_84851",
+                  "sequence": 2641,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "LaRedoute.nl",
+              "values": [
+                {
+                  "id": 19249715,
+                  "caption": "LaRedoute.nl",
+                  "columnValue": "LaRedoute.nl",
+                  "crawlable": true,
+                  "detailValue": "LaRedoute.nl",
+                  "fullId": "49_19249715",
+                  "sequence": 433,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Nylon",
+              "values": [
+                {
+                  "id": 242266,
+                  "caption": "Nylon",
+                  "columnValue": "Nylon",
+                  "crawlable": true,
+                  "detailValue": "Nylon",
+                  "fullId": "2624_242266",
+                  "sequence": 55,
+                  "urlName": null
+                },
+                {
+                  "id": 12237446,
+                  "caption": "Polyamide",
+                  "columnValue": "Polyamide",
+                  "crawlable": true,
+                  "detailValue": "Polyamide",
+                  "fullId": "2624_12237446",
+                  "sequence": 57,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 401012,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3003_401012",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Badmode",
+              "values": [
+                {
+                  "id": 468980,
+                  "caption": "Badmode",
+                  "columnValue": "Badmode",
+                  "crawlable": true,
+                  "detailValue": "Badmode",
+                  "fullId": "3114_468980",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 8049145,
+                  "caption": "Strand",
+                  "columnValue": "Strandkleding",
+                  "crawlable": true,
+                  "detailValue": "Strand",
+                  "fullId": "3114_8049145",
+                  "sequence": 25,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3152,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_badpakken_bikini",
+              "value": "38",
+              "values": [
+                {
+                  "id": 471411,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3152_471411",
+                  "sequence": 24,
+                  "urlName": null
+                },
+                {
+                  "id": 471412,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3152_471412",
+                  "sequence": 25,
+                  "urlName": null
+                },
+                {
+                  "id": 471413,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3152_471413",
+                  "sequence": 26,
+                  "urlName": null
+                },
+                {
+                  "id": 471414,
+                  "caption": "Maat 44",
+                  "columnValue": "44",
+                  "crawlable": true,
+                  "detailValue": "Maat 44",
+                  "fullId": "3152_471414",
+                  "sequence": 27,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Zwemkleding",
+              "values": [
+                {
+                  "id": 6394557,
+                  "caption": "Zwem",
+                  "columnValue": "Zwemkleding",
+                  "crawlable": true,
+                  "detailValue": "Zwem",
+                  "fullId": "3875_6394557",
+                  "sequence": 18,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4759,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_badpakken",
+              "value": "Onderbuste-elastiek",
+              "values": [
+                {
+                  "id": 9532704,
+                  "caption": "Onderbuste-elastiek",
+                  "columnValue": "Onderbuste-elastiek",
+                  "crawlable": true,
+                  "detailValue": "Onderbuste-elastiek",
+                  "fullId": "4759_9532704",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 15596203,
+                  "caption": "Grote cupmaat",
+                  "columnValue": "Grote cupmaat",
+                  "crawlable": true,
+                  "detailValue": "Grote cupmaat",
+                  "fullId": "4759_15596203",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 15596204,
+                  "caption": "Kleine cupmaat",
+                  "columnValue": "Kleine cupmaat",
+                  "crawlable": true,
+                  "detailValue": "Kleine cupmaat",
+                  "fullId": "4759_15596204",
+                  "sequence": 10,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-1414cc8b-9f1b-4c59-bb54-e49b869c09de",
+          "revenuePerClick": 0.26,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 0,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 49.04,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 44,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 44
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        },
+        {
+          "id": "2NqyCBFH4pdjwrkdtXx91CRoKN5n",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2NqyCB81XFeSyWYgnuwAmBzk96L4",
+            "advertisementIdV3": "2NqyCB81XFeSyWYgnuwAmBzk96L4"
+          },
+          "shopItemId": 0,
+          "productId": "2NqyCBFH4pdjwrkdtXx91CRoKN5n",
+          "ean": "",
+          "shopInfo": {
+            "id": 512098,
+            "shopName": "Amazon.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 3200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/512098.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T00:48:18+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Amazon.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22562,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 512098,
+            "shopItemId": 0,
+            "shopItemTitle": "Triumph Summer Allure OP 01 Black Combination, Black Combination, 38/D",
+            "shopItemDescription": "",
+            "shopItemVersion": "B0C78ND86X-B0DQ675L4V-Black Combination-B0DQ675L4V",
+            "shopName": "Amazon.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2NqyCB7BFRbyBaEjSotMT45yS76n",
+            "condition": "Nieuw",
+            "ean": "7613108520658",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.amazon.nl/dp/B0C78ND86X/ref=asc_df_B0C78ND86X/?creative=380333&creativeASIN=B0C78ND86X&linkCode=asn&tag=beslistnl20-21&ascsubtag=UUID_placeholder",
+            "size": "38 / D",
+            "shopReviewScore": 4.2,
+            "shopReviewAmount": 686,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 55,
+              "price": 55.77,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "B0C78ND86X",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "1414cc8b-9f1b-4c59-bb54-e49b869c09de",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 26.47
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 31.05
+          },
+          "title": "Triumph Summer Allure OP 01 Black Combination, Black Combination",
+          "fixedTitle": "Triumph Summer Allure OP 01 Black Combination, Black Combination, 38/D",
+          "indexIdentifierTimeStamp": 1744876530,
+          "description": "Summer Allure OP 01 Black Combination",
+          "descriptionRaw": "Summer Allure OP 01 Black Combination",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-2NqyCB81XFeSyWYgnuwAmBzk96L4",
+          "categoryId": 9000853,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            512098
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 481,
+                "width": 246
+              },
+              "type": "mainImage",
+              "url": "pim/7613108520658/394/{size}/211613736bc9ce644dbef2672e2717dc/Badpakken/Triumph-Summer-Allure-OP-01-Black-Combination%2c-Black-Combination%2c-38-D.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCBFH4pdjwrkdtXx91CRoKN5n",
+              "value": "42 / D",
+              "available": true,
+              "price": 58.78,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCB7BFRbyBaEjSotMT45yS76n",
+              "value": "38 / D",
+              "available": true,
+              "price": 55.77,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3152,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_badpakken_bikini",
+              "values": [
+                {
+                  "id": 471413,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3152_471413",
+                  "sequence": 26,
+                  "urlName": null,
+                  "productIdV3": "2NqyCBFH4pdjwrkdtXx91CRoKN5n",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.78,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            },
+            {
+              "id": 3798,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_bh_body",
+              "values": [
+                {
+                  "id": 23810682,
+                  "caption": "D",
+                  "columnValue": "D",
+                  "crawlable": true,
+                  "detailValue": "D",
+                  "fullId": "3798_23810682",
+                  "sequence": 71,
+                  "urlName": null,
+                  "productIdV3": "2NqyCB7BFRbyBaEjSotMT45yS76n",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 55.77,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 84851,
+          "brandName": "Triumph",
+          "brandRank": 81,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-16 00:00:00",
+          "popularity": 4,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 1.63,
+            "roasPercentage": 1100
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Triumph",
+              "values": [
+                {
+                  "id": 84851,
+                  "caption": "Triumph",
+                  "columnValue": "Triumph",
+                  "crawlable": true,
+                  "detailValue": "Triumph",
+                  "fullId": "48_84851",
+                  "sequence": 2641,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Amazon.nl",
+              "values": [
+                {
+                  "id": 19275880,
+                  "caption": "Amazon.nl",
+                  "columnValue": "Amazon.nl",
+                  "crawlable": true,
+                  "detailValue": "Amazon.nl",
+                  "fullId": "49_19275880",
+                  "sequence": 29,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 401012,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3003_401012",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Badmode",
+              "values": [
+                {
+                  "id": 468980,
+                  "caption": "Badmode",
+                  "columnValue": "Badmode",
+                  "crawlable": true,
+                  "detailValue": "Badmode",
+                  "fullId": "3114_468980",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 468982,
+                  "caption": "Ondermode",
+                  "columnValue": "Ondermode",
+                  "crawlable": true,
+                  "detailValue": "Ondermode",
+                  "fullId": "3114_468982",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 8049145,
+                  "caption": "Strand",
+                  "columnValue": "Strandkleding",
+                  "crawlable": true,
+                  "detailValue": "Strand",
+                  "fullId": "3114_8049145",
+                  "sequence": 25,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3152,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_badpakken_bikini",
+              "value": "42",
+              "values": [
+                {
+                  "id": 471413,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3152_471413",
+                  "sequence": 26,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3798,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_bh_body",
+              "value": "D",
+              "values": [
+                {
+                  "id": 23810682,
+                  "caption": "D",
+                  "columnValue": "D",
+                  "crawlable": true,
+                  "detailValue": "D",
+                  "fullId": "3798_23810682",
+                  "sequence": 71,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "512098-B0DQ675L4V",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-1414cc8b-9f1b-4c59-bb54-e49b869c09de",
+          "revenuePerClick": 0.15,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 49.04,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

@@ -1,0 +1,1654 @@
+{
+  "offset": 0,
+  "numFound": 6,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 6,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 89.99,
+        "highestDiscount": 40,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 16389765,
+                "caption": "Maat 37,5",
+                "columnValue": "37,5",
+                "crawlable": true,
+                "detailValue": "Maat 37,5",
+                "fullId": "3081_16389765",
+                "sequence": 62,
+                "urlName": null
+              },
+              {
+                "id": 430807,
+                "caption": "Maat 39",
+                "columnValue": "39",
+                "crawlable": true,
+                "detailValue": "Maat 39",
+                "fullId": "3081_430807",
+                "sequence": 70,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3ukXo23mD8SGEgLMGXwUp72hbS6i",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3ukXo1uJRKCGuiHJJbQLMgJCrD3H",
+            "advertisementIdV3": "3ukXo1uJRKCGuiHJJbQLMgJCrD3H"
+          },
+          "shopItemId": 0,
+          "productId": "3ukXo23mD8SGEgLMGXwUp72hbS6i",
+          "ean": "",
+          "shopInfo": {
+            "id": 645072,
+            "shopName": "DGMoutlet.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 10,
+            "productCount": 16000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/645072.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:50:08+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 26199,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@dgmoutlet.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 645072,
+            "shopItemId": 0,
+            "shopItemTitle": "Waldlaufer K-funky - maat 39 - Dames Veterschoenen Schwarz 668001-402 Zwart",
+            "shopItemDescription": "",
+            "shopItemVersion": "108143-128920-dgmoutlet-nl-Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart-aanbieding-korting-sale",
+            "shopName": "DGMoutlet.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3ukXo23mD8SGEgLMGXwUp72hbS6i",
+            "condition": "Nieuw",
+            "ean": "4099595768842",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.dgmoutlet.nl/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart-108143?number=4099595768842&utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "39",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 89,
+              "price": 89.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 144,
+              "price": 149.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "108143-128920",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "e2d582fe-a2e7-4e06-ae5a-eb3db0d6efac",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 89.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 89.99
+          },
+          "title": "Waldlaufer K-funky - maat 39 - Dames Veterschoenen Schwarz 668001-402 Zwart",
+          "fixedTitle": "Waldlaufer K-funky - maat 39 - Dames Veterschoenen Schwarz 668001-402 Zwart",
+          "indexIdentifierTimeStamp": 1744874722,
+          "description": "\n",
+          "descriptionRaw": "<ul class=\"product-small-specs product-small-specs--large\" style=\"box-sizing: inherit; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; font-size: 14px; color: #121212; font-family: graphik, arial, helvetica, sans-serif;\">\n<li style=\"box-sizing: inherit; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-3ukXo1uJRKCGuiHJJbQLMgJCrD3H",
+          "categoryId": 9003073,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 6,
+          "shopIds": [
+            645072
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 665,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/4099595768842/394/{size}/85d77e1deceb8540eeddab0137139faf/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15376/{size}/19b519b017034f83002f1306c0f26b19/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 1148
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15377/{size}/28f20d9f71b9f0b0aba8ce515f046f12/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 619,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15378/{size}/3c9ccc463c4cb5782e6e7c72775d2672/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 706,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15379/{size}/242aa3b354d97efa1ccd3ce34eca21e4/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 832,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15380/{size}/b1435be17b37416ead2dd5f5cbcdf9f7/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15381/{size}/85f0ff1825298e1b01b393d7604602b0/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 1163
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15382/{size}/baabee6bc22dafef7e26d889bea3b565/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 645,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15383/{size}/6587475818045f9e82a40de8356a5346/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 637,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15384/{size}/b46e96b3214338c9446b18dd3ca98ec9/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 976,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15385/{size}/047312fa7af39930f6f048c07ca3a5e5/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage11",
+              "size": {
+                "height": 549,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15386/{size}/1a9eea63a06af55a5481801ea6953e53/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage12",
+              "size": {
+                "height": 817,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15387/{size}/4c314a4af76b53c44c2a631832a07000/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3ukXo23mD8SGEgLMGXwUp72hbS6i",
+              "value": "39",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "3ukXo23mD8SGEgLMGXwUp72hbS6i",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-16 00:00:00",
+          "popularity": 9,
+          "popularityData": {
+            "clickFactor": 1,
+            "webshopsRevenuePerClick": 0.25,
+            "roasPercentage": 1000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 dag",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "39",
+              "values": [
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "DGMoutlet.nl",
+              "values": [
+                {
+                  "id": 23809545,
+                  "caption": "DGMoutlet.nl",
+                  "columnValue": "DGMoutlet.nl",
+                  "crawlable": true,
+                  "detailValue": "DGMoutlet.nl",
+                  "fullId": "3079_23809545",
+                  "sequence": 2191,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Veter",
+              "values": [
+                {
+                  "id": 430982,
+                  "caption": "Met veters",
+                  "columnValue": "Veter",
+                  "crawlable": true,
+                  "detailValue": "Met veters",
+                  "fullId": "3090_430982",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "K",
+              "values": [
+                {
+                  "id": 16475786,
+                  "caption": "Wijdte K",
+                  "columnValue": "K",
+                  "crawlable": true,
+                  "detailValue": "Wijdte K",
+                  "fullId": "5211_16475786",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-e2d582fe-a2e7-4e06-ae5a-eb3db0d6efac",
+          "revenuePerClick": 0.03,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 89.99,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 40,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 40
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "2DE9sYN5cy1T6JkBWUETB3eMmybd",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2DE9sYFvbUrm124xnSidcRHCmtcN",
+            "advertisementIdV3": "2DE9sYFvbUrm124xnSidcRHCmtcN"
+          },
+          "shopItemId": 0,
+          "productId": "2DE9sYN5cy1T6JkBWUETB3eMmybd",
+          "ean": "",
+          "shopInfo": {
+            "id": 649558,
+            "shopName": "Sportdeal.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 11,
+            "productCount": 250000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/649558.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:50:07+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 33741,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@sportdeal.com",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 3,
+                "name": "UPS"
+              },
+              {
+                "id": 7,
+                "name": "GLS"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 649558,
+            "shopItemId": 0,
+            "shopItemTitle": "Waldlaufer K-funky - maat 39 - Dames Veterschoenen Schwarz 668001-402 Zwart",
+            "shopItemDescription": "",
+            "shopItemVersion": "DYSCNHRX-DYSCNHRXzwart-DYSCNHRX",
+            "shopName": "Sportdeal.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2DE9sYN5cy1T6JkBWUETB3eMmybd",
+            "condition": "Nieuw",
+            "ean": "4099595768842",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.sportdeal.nl/waldlaufer-k-funky-maat-39-dames-veterschoenen-schwarz-668001-402-zwart-4099595768842?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "39",
+            "shopReviewScore": 4.2,
+            "shopReviewAmount": 37,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 89,
+              "price": 99.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "DYSCNHRX",
+            "bidLabel": ""
+          },
+          "pim": {
+            "groupId": "e2d582fe-a2e7-4e06-ae5a-eb3db0d6efac",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 89.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 89.99
+          },
+          "title": "Waldlaufer K-funky - maat 39 - Dames Veterschoenen Schwarz 668001-402 Zwart",
+          "fixedTitle": "Waldlaufer K-funky - maat 39 - Dames Veterschoenen Schwarz 668001-402 Zwart",
+          "indexIdentifierTimeStamp": 1744874722,
+          "description": "",
+          "descriptionRaw": "<ul class=\"product-small-specs product-small-specs--large\" style=\"box-sizing: inherit; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; font-size: 14px; color: #121212; font-family: graphik, arial, helvetica, sans-serif;\"><li style=\"box-sizing: inherit; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-2DE9sYFvbUrm124xnSidcRHCmtcN",
+          "categoryId": 9003073,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 6,
+          "shopIds": [
+            649558
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 665,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/4099595768842/394/{size}/85d77e1deceb8540eeddab0137139faf/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15376/{size}/19b519b017034f83002f1306c0f26b19/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 1148
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15377/{size}/28f20d9f71b9f0b0aba8ce515f046f12/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 619,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15378/{size}/3c9ccc463c4cb5782e6e7c72775d2672/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 706,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15379/{size}/242aa3b354d97efa1ccd3ce34eca21e4/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 832,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15380/{size}/b1435be17b37416ead2dd5f5cbcdf9f7/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15381/{size}/85f0ff1825298e1b01b393d7604602b0/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 1163
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15382/{size}/baabee6bc22dafef7e26d889bea3b565/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 645,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15383/{size}/6587475818045f9e82a40de8356a5346/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 637,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15384/{size}/b46e96b3214338c9446b18dd3ca98ec9/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 976,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15385/{size}/047312fa7af39930f6f048c07ca3a5e5/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage11",
+              "size": {
+                "height": 549,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15386/{size}/1a9eea63a06af55a5481801ea6953e53/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage12",
+              "size": {
+                "height": 817,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768842/15387/{size}/4c314a4af76b53c44c2a631832a07000/Casual-schoenen/Waldlaufer-K-funky-maat-39-Dames-Veterschoenen-Schwarz-668001-402-Zwart.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2DE9sYN5cy1T6JkBWUETB3eMmybd",
+              "value": "39",
+              "available": true,
+              "price": 99.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "2DE9sYN5cy1T6JkBWUETB3eMmybd",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 99.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-16 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 800
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 werkdag",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "39",
+              "values": [
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Sportdeal.nl",
+              "values": [
+                {
+                  "id": 23598425,
+                  "caption": "Sportdeal.nl",
+                  "columnValue": "Sportdeal.nl",
+                  "crawlable": true,
+                  "detailValue": "Sportdeal.nl",
+                  "fullId": "3079_23598425",
+                  "sequence": 1673,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Veter",
+              "values": [
+                {
+                  "id": 430982,
+                  "caption": "Met veters",
+                  "columnValue": "Veter",
+                  "crawlable": true,
+                  "detailValue": "Met veters",
+                  "fullId": "3090_430982",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "K",
+              "values": [
+                {
+                  "id": 16475786,
+                  "caption": "Wijdte K",
+                  "columnValue": "K",
+                  "crawlable": true,
+                  "detailValue": "Wijdte K",
+                  "fullId": "5211_16475786",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "649558-DYSCNHRX",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-e2d582fe-a2e7-4e06-ae5a-eb3db0d6efac",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 2,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 89.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "osEp1jDYw3k7f8EFy6rzzu2SxN",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "osEpT1v8EbanXrvkudV2eZ4k4d",
+            "advertisementIdV3": "osEpT1v8EbanXrvkudV2eZ4k4d"
+          },
+          "shopItemId": 0,
+          "productId": "osEp1jDYw3k7f8EFy6rzzu2SxN",
+          "ean": "",
+          "shopInfo": {
+            "id": 1,
+            "shopName": "bol.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 4200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/1.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T01:49:26+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "klantenservice@bol.com",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 1,
+            "shopItemId": 0,
+            "shopItemTitle": "Waldl\u00e4ufer Combi K Rits Sneaker Sneakers - Leer - Dames - Zwart - Maat 37,5",
+            "shopItemDescription": "",
+            "shopItemVersion": "9300000180146362-9300000188861105-Zwart-9300000188861105",
+            "shopName": "bol.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "osEp1jDYw3k7f8EFy6rzzu2SxN",
+            "condition": "Nieuw",
+            "ean": "4099595768811",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://partner.bol.com/click/click?p=1&t=url&s=1126362&url=https%3a%2f%2fwww.bol.com%2fnl%2fnl%2fp%2fwaldlaufer-dames-zwart-sneakers-maat-37-5%2f9300000180146362%2f",
+            "size": "37.5",
+            "shopReviewScore": 4,
+            "shopReviewAmount": 39257,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 89,
+              "price": 104.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 144,
+              "price": 149,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "9300000180146362",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "e2d582fe-a2e7-4e06-ae5a-eb3db0d6efac",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 89.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 89.99
+          },
+          "title": "Waldl\u00e4ufer Combi K Rits Sneaker Sneakers - Leer - Dames - Zwart - Maat 37,5",
+          "fixedTitle": "Waldl\u00e4ufer Combi K Rits Sneaker Sneakers - Leer - Dames - Zwart - Maat 37,5",
+          "indexIdentifierTimeStamp": 1744874722,
+          "description": "Waldlaufer Sneakers Dames Combi K Rits Sneaker, Maat: 37,5, Materiaal: Leer, Kleur: Zwart",
+          "descriptionRaw": "Waldlaufer Sneakers <br />Dames Combi K Rits Sneaker, Maat: 37,5, Materiaal: Leer, Kleur: Zwart",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-osEpT1v8EbanXrvkudV2eZ4k4d",
+          "categoryId": 9000608,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 6,
+          "shopIds": [
+            1
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 549,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/4099595768811/394/{size}/1a9eea63a06af55a5481801ea6953e53/Sneakers/Waldl%c3%a4ufer-Combi-K-Rits-Sneaker-Sneakers-Leer-Dames-Zwart-Maat-37%2c5.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 706,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15376/{size}/242aa3b354d97efa1ccd3ce34eca21e4/Sneakers/Waldl%c3%a4ufer-Combi-K-Rits-Sneaker-Sneakers-Leer-Dames-Zwart-Maat-37%2c5.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15377/{size}/19b519b017034f83002f1306c0f26b19/Sneakers/Waldl%c3%a4ufer-Combi-K-Rits-Sneaker-Sneakers-Leer-Dames-Zwart-Maat-37%2c5.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 1148
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15378/{size}/28f20d9f71b9f0b0aba8ce515f046f12/Sneakers/Waldl%c3%a4ufer-Combi-K-Rits-Sneaker-Sneakers-Leer-Dames-Zwart-Maat-37%2c5.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 619,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15379/{size}/3c9ccc463c4cb5782e6e7c72775d2672/Sneakers/Waldl%c3%a4ufer-Combi-K-Rits-Sneaker-Sneakers-Leer-Dames-Zwart-Maat-37%2c5.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 832,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15380/{size}/b1435be17b37416ead2dd5f5cbcdf9f7/Sneakers/Waldl%c3%a4ufer-Combi-K-Rits-Sneaker-Sneakers-Leer-Dames-Zwart-Maat-37%2c5.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15381/{size}/85f0ff1825298e1b01b393d7604602b0/Sneakers/Waldl%c3%a4ufer-Combi-K-Rits-Sneaker-Sneakers-Leer-Dames-Zwart-Maat-37%2c5.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 1163
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15382/{size}/baabee6bc22dafef7e26d889bea3b565/Sneakers/Waldl%c3%a4ufer-Combi-K-Rits-Sneaker-Sneakers-Leer-Dames-Zwart-Maat-37%2c5.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 645,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15383/{size}/6587475818045f9e82a40de8356a5346/Sneakers/Waldl%c3%a4ufer-Combi-K-Rits-Sneaker-Sneakers-Leer-Dames-Zwart-Maat-37%2c5.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 611,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15384/{size}/579676fd16a230f03602286389588e18/Sneakers/Waldl%c3%a4ufer-Combi-K-Rits-Sneaker-Sneakers-Leer-Dames-Zwart-Maat-37%2c5.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 529,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15385/{size}/35ce9b29607a6f5e103b74ee56ea39fc/Sneakers/Waldl%c3%a4ufer-Combi-K-Rits-Sneaker-Sneakers-Leer-Dames-Zwart-Maat-37%2c5.jpg"
+            },
+            {
+              "imageType": "alternativeImage11",
+              "size": {
+                "height": 817,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15386/{size}/4c314a4af76b53c44c2a631832a07000/Sneakers/Waldl%c3%a4ufer-Combi-K-Rits-Sneaker-Sneakers-Leer-Dames-Zwart-Maat-37%2c5.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEp1jDYw3k7f8EFy6rzzu2SxN",
+              "value": "37.5",
+              "available": true,
+              "price": 104.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 16389765,
+                  "caption": "Maat 37,5",
+                  "columnValue": "37,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 37,5",
+                  "fullId": "3081_16389765",
+                  "sequence": 62,
+                  "urlName": null,
+                  "productIdV3": "osEp1jDYw3k7f8EFy6rzzu2SxN",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 104.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431351,
+          "brandName": "Waldl\u00e4ufer",
+          "brandRank": 117,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-16 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 1.34,
+            "roasPercentage": 10000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "onbekend",
+          "deliveryTimeSort": 8,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Waldl\u00e4ufer",
+              "values": [
+                {
+                  "id": 431351,
+                  "caption": "Waldl\u00e4ufer",
+                  "columnValue": "Waldl\u00e4ufer",
+                  "crawlable": true,
+                  "detailValue": "Waldl\u00e4ufer",
+                  "fullId": "3078_431351",
+                  "sequence": 3213,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Bol.com",
+              "values": [
+                {
+                  "id": 1333828,
+                  "caption": "Bol.com",
+                  "columnValue": "Bol.com",
+                  "crawlable": true,
+                  "detailValue": "Bol.com",
+                  "fullId": "3079_1333828",
+                  "sequence": 232,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37,5",
+              "values": [
+                {
+                  "id": 16389765,
+                  "caption": "Maat 37,5",
+                  "columnValue": "37,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 37,5",
+                  "fullId": "3081_16389765",
+                  "sequence": 62,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Rits",
+              "values": [
+                {
+                  "id": 431495,
+                  "caption": "Met rits",
+                  "columnValue": "Rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3090_431495",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "K",
+              "values": [
+                {
+                  "id": 16475786,
+                  "caption": "Wijdte K",
+                  "columnValue": "K",
+                  "crawlable": true,
+                  "detailValue": "Wijdte K",
+                  "fullId": "5211_16475786",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Sportief",
+              "values": [
+                {
+                  "id": 23580856,
+                  "caption": "Sportieve",
+                  "columnValue": "Sportief",
+                  "crawlable": true,
+                  "detailValue": "Sportieve",
+                  "fullId": "6097_23580856",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "1-9300000188861105",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-e2d582fe-a2e7-4e06-ae5a-eb3db0d6efac",
+          "revenuePerClick": 0.01,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 1,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 89.99,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 29,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 29
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

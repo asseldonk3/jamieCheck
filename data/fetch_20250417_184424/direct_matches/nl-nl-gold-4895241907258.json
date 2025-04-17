@@ -1,0 +1,720 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 37.4,
+        "highestDiscount": 45,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3798,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_bh_body",
+            "values": [
+              {
+                "id": 4695704,
+                "caption": "70C",
+                "columnValue": "70C",
+                "crawlable": true,
+                "detailValue": "70C",
+                "fullId": "3798_4695704",
+                "sequence": 23,
+                "urlName": null
+              },
+              {
+                "id": 4695711,
+                "caption": "70D",
+                "columnValue": "70D",
+                "crawlable": true,
+                "detailValue": "70D",
+                "fullId": "3798_4695711",
+                "sequence": 31,
+                "urlName": null
+              },
+              {
+                "id": 4695712,
+                "caption": "75D",
+                "columnValue": "75D",
+                "crawlable": true,
+                "detailValue": "75D",
+                "fullId": "3798_4695712",
+                "sequence": 32,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "2UVfhx82421PMZhPyf6MgyjaP5Tz",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2UVfhxKkdySBsqbJjnu3ALjJhi6r",
+            "advertisementIdV3": "2UVfhxKkdySBsqbJjnu3ALjJhi6r"
+          },
+          "shopItemId": 0,
+          "productId": "2UVfhx82421PMZhPyf6MgyjaP5Tz",
+          "ean": "",
+          "shopInfo": {
+            "id": 642665,
+            "shopName": "LaRedoute.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 5,
+            "productCount": 80000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/642665.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:25:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@LaRedoute.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 1675,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 642665,
+            "shopItemId": 0,
+            "shopItemTitle": "BH eco fabrics Sublime SCANDALE ECO LINGERIE. Polyamide materiaal. Maten 90D FR - 75D EU. Wit kleur",
+            "shopItemDescription": "",
+            "shopItemVersion": "35025252200010013738523-3502525221",
+            "shopName": "LaRedoute.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2UVfhx82421PMZhPyf6MgyjaP5Tz",
+            "condition": "Nieuw",
+            "ean": "4895241907258",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.laredoute.nl/ppdp/prod-350252522.aspx?dim1=1&dim2=13&cod=CDP00119978NL",
+            "size": "90D FR - 75D EU",
+            "shopReviewScore": 4.2,
+            "shopReviewAmount": 100,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 34,
+              "price": 37.4,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 55,
+              "price": 68,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "35025252200010013738523",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 37.4
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "BH eco fabrics Sublime SCANDALE ECO LINGERIE. Polyamide materiaal. Maten 90D FR - 75D EU. Wit kleur",
+          "fixedTitle": "BH eco fabrics Sublime SCANDALE ECO LINGERIE. Polyamide materiaal. Maten 85C FR - 70C EU. Wit kleur",
+          "indexIdentifierTimeStamp": 1744908323,
+          "description": "BH eco fabrics Sublime SCANDALE ECO LINGERIE. Maten 90D FR - 75D EU. Wit kleur. Details\u00a0\u2022\u00a0\u00a0Foulard \u00a0\u2022\u00a0\u00a0Met binnencups\u00a0\u2022\u00a0\u00a0Zonder beugels\u00a0\u2022\u00a0\u00a0Kanten boord en doorschijnende elastische tule gecombineerd in een sensuele cups\u00a0\u2022\u00a0\u00a0Strook in microvezel gevoerd met spacer voor meer comfortSamenstelling en onderhoud\u00a0\u2022\u00a0\u00a0Voornaamste stof : 81% polyamide, 19% elasthan\u00a0\u2022\u00a0\u00a0Voering : 92% polyester, 8% elasthan\u00a0\u2022\u00a0\u00a0Onderhoud : zie etiket\u00a0\u2022\u00a0\u00a0OEKO-TEX\u00ae Standard 100. Het OEKO-TEX\u00ae Standard 100 certificaat controleert textielproducten op schadelijke stoffen via een onafhankelijk, internationaal label.",
+          "descriptionRaw": "BH eco fabrics Sublime SCANDALE ECO LINGERIE. Maten 90D FR - 75D EU. Wit kleur. Details\u00a0\u2022\u00a0\u00a0Foulard \u00a0\u2022\u00a0\u00a0Met binnencups\u00a0\u2022\u00a0\u00a0Zonder beugels\u00a0\u2022\u00a0\u00a0Kanten boord en doorschijnende elastische tule gecombineerd in een sensuele cups\u00a0\u2022\u00a0\u00a0Strook in microvezel gevoerd met spacer voor meer comfortSamenstelling en onderhoud\u00a0\u2022\u00a0\u00a0Voornaamste stof : 81% polyamide, 19% elasthan\u00a0\u2022\u00a0\u00a0Voering : 92% polyester, 8% elasthan\u00a0\u2022\u00a0\u00a0Onderhoud : zie etiket\u00a0\u2022\u00a0\u00a0OEKO-TEX\u00ae Standard 100. Het OEKO-TEX\u00ae Standard 100 certificaat controleert textielproducten op schadelijke stoffen via een onafhankelijk, internationaal label.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-2UVfhxKkdySBsqbJjnu3ALjJhi6r",
+          "categoryId": 9005056,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            642665
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 973
+              },
+              "type": "mainImage",
+              "url": "2UVfhx82421PMZhPyf6MgyjaP5Tz/394/{size}/ebb5d527b3f5af46a38f64f1c36eff8e/Bralettes/BH-eco-fabrics-Sublime-SCANDALE-ECO-LINGERIE.-Polyamide-materiaal.-Maten-85C-FR-70C-EU.-Wit-kleur.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 972
+              },
+              "type": "alternativeImage",
+              "url": "2UVfhx82421PMZhPyf6MgyjaP5Tz/15377/{size}/e6c953d870aa8a8b5ee3099ede2c4094/Bralettes/BH-eco-fabrics-Sublime-SCANDALE-ECO-LINGERIE.-Polyamide-materiaal.-Maten-85C-FR-70C-EU.-Wit-kleur.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 975
+              },
+              "type": "alternativeImage",
+              "url": "2UVfhx82421PMZhPyf6MgyjaP5Tz/15378/{size}/83c2939e3948ec12a289215c73bc9036/Bralettes/BH-eco-fabrics-Sublime-SCANDALE-ECO-LINGERIE.-Polyamide-materiaal.-Maten-85C-FR-70C-EU.-Wit-kleur.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhx82421PMZhPyf6MgyjaP5Tz",
+              "value": "90D FR - 75D EU",
+              "available": true,
+              "price": 37.4,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhx99aF3phGiq3g9Bt85oNtqG",
+              "value": "85D FR - 70D EU",
+              "available": true,
+              "price": 37.4,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhxTaToMBkkkEAFUhfQoHGE76",
+              "value": "85C FR - 70C EU",
+              "available": true,
+              "price": 37.4,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhxUjz1RBuUj29SAsUnb7MZSk",
+              "value": "90E FR - 75E EU",
+              "available": false,
+              "price": 37.4,
+              "blockedStatus": 12,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3798,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_bh_body",
+              "values": [
+                {
+                  "id": 4695704,
+                  "caption": "70C",
+                  "columnValue": "70C",
+                  "crawlable": true,
+                  "detailValue": "70C",
+                  "fullId": "3798_4695704",
+                  "sequence": 23,
+                  "urlName": null,
+                  "productIdV3": "2UVfhxTaToMBkkkEAFUhfQoHGE76",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 68,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 37.4,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695711,
+                  "caption": "70D",
+                  "columnValue": "70D",
+                  "crawlable": true,
+                  "detailValue": "70D",
+                  "fullId": "3798_4695711",
+                  "sequence": 31,
+                  "urlName": null,
+                  "productIdV3": "2UVfhx99aF3phGiq3g9Bt85oNtqG",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 68,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 37.4,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695712,
+                  "caption": "75D",
+                  "columnValue": "75D",
+                  "crawlable": true,
+                  "detailValue": "75D",
+                  "fullId": "3798_4695712",
+                  "sequence": 32,
+                  "urlName": null,
+                  "productIdV3": "2UVfhx82421PMZhPyf6MgyjaP5Tz",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 68,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 37.4,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-31 00:00:00",
+          "popularity": 3330,
+          "popularityData": {
+            "clickFactor": 96,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 - 7 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 2.99,
+          "facets": [
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "LaRedoute.nl",
+              "values": [
+                {
+                  "id": 19249715,
+                  "caption": "LaRedoute.nl",
+                  "columnValue": "LaRedoute.nl",
+                  "crawlable": true,
+                  "detailValue": "LaRedoute.nl",
+                  "fullId": "49_19249715",
+                  "sequence": 433,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 242263,
+                  "caption": "Elasthan",
+                  "columnValue": "Elasthan",
+                  "crawlable": true,
+                  "detailValue": "Elasthan",
+                  "fullId": "2624_242263",
+                  "sequence": 41,
+                  "urlName": null
+                },
+                {
+                  "id": 12237448,
+                  "caption": "Microfiber",
+                  "columnValue": "Microfiber",
+                  "crawlable": true,
+                  "detailValue": "Microfiber",
+                  "fullId": "2624_12237448",
+                  "sequence": 51,
+                  "urlName": null
+                },
+                {
+                  "id": 242266,
+                  "caption": "Nylon",
+                  "columnValue": "Nylon",
+                  "crawlable": true,
+                  "detailValue": "Nylon",
+                  "fullId": "2624_242266",
+                  "sequence": 55,
+                  "urlName": null
+                },
+                {
+                  "id": 12237446,
+                  "caption": "Polyamide",
+                  "columnValue": "Polyamide",
+                  "crawlable": true,
+                  "detailValue": "Polyamide",
+                  "fullId": "2624_12237446",
+                  "sequence": 57,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 401013,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3003_401013",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 468981,
+                  "caption": "Nachtmode",
+                  "columnValue": "Nachtmode",
+                  "crawlable": true,
+                  "detailValue": "Nachtmode",
+                  "fullId": "3114_468981",
+                  "sequence": 6,
+                  "urlName": null
+                },
+                {
+                  "id": 468982,
+                  "caption": "Ondermode",
+                  "columnValue": "Ondermode",
+                  "crawlable": true,
+                  "detailValue": "Ondermode",
+                  "fullId": "3114_468982",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 23558183,
+                  "caption": "Sexy",
+                  "columnValue": "Sexy kleding",
+                  "crawlable": true,
+                  "detailValue": "Sexy",
+                  "fullId": "3114_23558183",
+                  "sequence": 42,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Biologisch",
+              "values": [
+                {
+                  "id": 23578282,
+                  "caption": "Biologisch",
+                  "columnValue": "Biologisch",
+                  "crawlable": true,
+                  "detailValue": "Biologisch",
+                  "fullId": "3730_23578282",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 23597955,
+                  "caption": "Doorschijnende",
+                  "columnValue": "Doorschijnend",
+                  "crawlable": true,
+                  "detailValue": "Doorschijnende",
+                  "fullId": "3730_23597955",
+                  "sequence": 21,
+                  "urlName": null
+                },
+                {
+                  "id": 7390526,
+                  "caption": "Gevoerde",
+                  "columnValue": "Gevoerd",
+                  "crawlable": true,
+                  "detailValue": "Gevoerde",
+                  "fullId": "3730_7390526",
+                  "sequence": 32,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3798,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_bh_body",
+              "value": "70C",
+              "values": [
+                {
+                  "id": 4695704,
+                  "caption": "70C",
+                  "columnValue": "70C",
+                  "crawlable": true,
+                  "detailValue": "70C",
+                  "fullId": "3798_4695704",
+                  "sequence": 23,
+                  "urlName": null
+                },
+                {
+                  "id": 4695711,
+                  "caption": "70D",
+                  "columnValue": "70D",
+                  "crawlable": true,
+                  "detailValue": "70D",
+                  "fullId": "3798_4695711",
+                  "sequence": 31,
+                  "urlName": null
+                },
+                {
+                  "id": 4695712,
+                  "caption": "75D",
+                  "columnValue": "75D",
+                  "crawlable": true,
+                  "detailValue": "75D",
+                  "fullId": "3798_4695712",
+                  "sequence": 32,
+                  "urlName": null
+                },
+                {
+                  "id": 4695718,
+                  "caption": "75E",
+                  "columnValue": "75E",
+                  "crawlable": true,
+                  "detailValue": "75E",
+                  "fullId": "3798_4695718",
+                  "sequence": 41,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6322,
+              "name": "Soort",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_bh",
+              "value": "Zonder beugel",
+              "values": [
+                {
+                  "id": 23734683,
+                  "caption": "zonder beugel",
+                  "columnValue": "Zonder beugel",
+                  "crawlable": true,
+                  "detailValue": "zonder beugel",
+                  "fullId": "6322_23734683",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-4895241907258",
+          "revenuePerClick": 0.25,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 37.4,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "C",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 45,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "discount",
+              "value": 45
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

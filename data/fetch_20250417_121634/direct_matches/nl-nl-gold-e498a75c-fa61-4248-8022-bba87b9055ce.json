@@ -1,0 +1,1261 @@
+{
+  "offset": 0,
+  "numFound": 2,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 2,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 69.95,
+        "highestDiscount": 6,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3161,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_jassen_jurken_pakken",
+            "values": [
+              {
+                "id": 471771,
+                "caption": "Maat S",
+                "columnValue": "S",
+                "crawlable": true,
+                "detailValue": "Maat S",
+                "fullId": "3161_471771",
+                "sequence": 5,
+                "urlName": null
+              },
+              {
+                "id": 471772,
+                "caption": "Maat M",
+                "columnValue": "M",
+                "crawlable": true,
+                "detailValue": "Maat M",
+                "fullId": "3161_471772",
+                "sequence": 7,
+                "urlName": null
+              },
+              {
+                "id": 471773,
+                "caption": "Maat L",
+                "columnValue": "L",
+                "crawlable": true,
+                "detailValue": "Maat L",
+                "fullId": "3161_471773",
+                "sequence": 9,
+                "urlName": null
+              },
+              {
+                "id": 471774,
+                "caption": "Maat XL",
+                "columnValue": "XL",
+                "crawlable": true,
+                "detailValue": "Maat XL",
+                "fullId": "3161_471774",
+                "sequence": 11,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "URtpHGhvwjFfcPT8myhsABeDCDx",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "URtpGxJvpx3mEom4SpDP9hiTSCu",
+            "advertisementIdV3": "URtpGxJvpx3mEom4SpDP9hiTSCu"
+          },
+          "shopItemId": 0,
+          "productId": "URtpHGhvwjFfcPT8myhsABeDCDx",
+          "ean": "",
+          "shopInfo": {
+            "id": 651809,
+            "shopName": "Voetbalfanshop.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 9,
+            "productCount": 700,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/651809.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:25:24+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 21771,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@morefootballs.com",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 651809,
+            "shopItemId": 0,
+            "shopItemTitle": "Real Madrid heren trainingspak 24/25 - Maat S",
+            "shopItemDescription": "",
+            "shopItemVersion": "191241-RM2CHP23-191240",
+            "shopName": "Voetbalfanshop.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "URtpHCpanfYia7WszaFj1kfMDTv",
+            "condition": "Nieuw",
+            "ean": "8435613241618",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.voetbalfanshop.nl/real-madrid-heren-trainingspak-24-25/?attribute_pa_maat=s&utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "S",
+            "shopReviewScore": 9,
+            "shopReviewAmount": 129,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 55,
+              "price": 69.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "191241",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "e498a75c-fa61-4248-8022-bba87b9055ce",
+            "title": "Real Madrid Trainingspak Heren 2025 t/ Voetbal Trainingspakken Voetbalkleding % Polyester",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 64.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 67.45
+          },
+          "title": "Real Madrid heren trainingspak 24/25 - Maat M",
+          "fixedTitle": "Real Madrid heren trainingspak 24/25 - Maat S",
+          "indexIdentifierTimeStamp": 1744885014,
+          "description": "Real Madrid trainingspak voor volwassenen\nAls supporter van Real Madrid kan dit trainingspak voor heren niet ontbreken in jouw collectie! Met dit trainingspak ontstaat er namelijk geen verwarring over jouw favoriete voetbalclub! Dit Real Madrid trainingspak is donkerblauw van kleur waarvan de bovenhelft van het vest wit is. Op het vest vind je op de rechterborstzijde de clubnaam voluit geschreven. Op de linkerborstzijde vind je het Real Madrid logo. Op beide mouwen vind je een blauwe tape met de clubnaam doorlopend als print. Op de trainingsbroek vind je het Real Madrid logo aan de rechterzijde. Je waardevolle spullen kan je zowel kwijt in de insteekzakken van de broek als van het vest. Tevens maak je dit trainingspak gemakkelijk schoon vanwege de polyester samenstelling. Zo kan je gerust je ding doen in dit Real Madrid trainingspak voor volwassenen! Kortom, laat je liefde voor Real Madrid zien met dit trainingspak!\nKenmerken Real Madrid trainingspak voor",
+          "descriptionRaw": "<h2>Real Madrid trainingspak voor volwassenen</h2>\n<p>Als supporter van Real Madrid kan dit trainingspak voor heren niet ontbreken in jouw collectie! Met dit trainingspak ontstaat er namelijk geen verwarring over jouw favoriete voetbalclub! Dit Real Madrid trainingspak is donkerblauw van kleur waarvan de bovenhelft van het vest wit is. Op het vest vind je op de rechterborstzijde de clubnaam voluit geschreven. Op de linkerborstzijde vind je het Real Madrid logo. Op beide mouwen vind je een blauwe tape met de clubnaam doorlopend als print. Op de trainingsbroek vind je het Real Madrid logo aan de rechterzijde. Je waardevolle spullen kan je zowel kwijt in de insteekzakken van de broek als van het vest. Tevens maak je dit trainingspak gemakkelijk schoon vanwege de polyester samenstelling. Zo kan je gerust je ding doen in dit Real Madrid trainingspak voor volwassenen! Kortom, laat je liefde voor Real Madrid zien met dit trainingspak!</p>\n<h3>Kenmerken Real Madrid trainingspak voor",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-URtpGxJvpx3mEom4SpDP9hiTSCu",
+          "categoryId": 9000666,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            651809
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1073,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/8435613241618/394/{size}/47a7effeea30e864e5a06d29bdd15c60/Trainingspakken/Real-Madrid-heren-trainingspak-24-25-Maat-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241618/15376/{size}/6bd812cd8a674eba7614b44d64f86bde/Trainingspakken/Real-Madrid-heren-trainingspak-24-25-Maat-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 1088
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241618/15377/{size}/d24df32b7e7f6d9d522623b851901323/Trainingspakken/Real-Madrid-heren-trainingspak-24-25-Maat-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1197,
+                "width": 1167
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241618/15378/{size}/275649d1d45951c432be62f1ae90ec90/Trainingspakken/Real-Madrid-heren-trainingspak-24-25-Maat-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1198,
+                "width": 962
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241618/15379/{size}/01729a4622a699a4d8903d32a2d8e1e6/Trainingspakken/Real-Madrid-heren-trainingspak-24-25-Maat-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 389
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241618/15380/{size}/2e00d03d59d39d01b35d355c567ba8b7/Trainingspakken/Real-Madrid-heren-trainingspak-24-25-Maat-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1181,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241618/15381/{size}/f848cc0d587bcafd5bce64ebe4054399/Trainingspakken/Real-Madrid-heren-trainingspak-24-25-Maat-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1181,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241618/15382/{size}/c8f23212475fdc5bf8b43e53f77eea45/Trainingspakken/Real-Madrid-heren-trainingspak-24-25-Maat-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 1199,
+                "width": 539
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241618/15383/{size}/a065744a22ab94fbc0ddc2bb15ca5bc0/Trainingspakken/Real-Madrid-heren-trainingspak-24-25-Maat-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 1199,
+                "width": 539
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241618/15384/{size}/ade60ad40bc010dc6e84563a7e6bbedb/Trainingspakken/Real-Madrid-heren-trainingspak-24-25-Maat-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 1198,
+                "width": 755
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241618/15385/{size}/feea2011f8d41f225f3715093eb8ffcd/Trainingspakken/Real-Madrid-heren-trainingspak-24-25-Maat-S.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "URtpHGhvwjFfcPT8myhsABeDCDx",
+              "value": "M",
+              "available": true,
+              "price": 69.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "URtpHFZpqXUn7WM9h4yWtKBN5Dv",
+              "value": "XL",
+              "available": true,
+              "price": 69.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "URtpHCpanfYia7WszaFj1kfMDTv",
+              "value": "S",
+              "available": true,
+              "price": 69.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "URtpH6FLVkbeh9gDsuncGAAw62P",
+              "value": "L",
+              "available": true,
+              "price": 69.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null,
+                  "productIdV3": "URtpHCpanfYia7WszaFj1kfMDTv",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 69.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "URtpHGhvwjFfcPT8myhsABeDCDx",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 69.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "URtpH6FLVkbeh9gDsuncGAAw62P",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 69.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "URtpHFZpqXUn7WM9h4yWtKBN5Dv",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 69.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-14 00:00:00",
+          "popularity": 5567,
+          "popularityData": {
+            "clickFactor": 99,
+            "webshopsRevenuePerClick": 2.03,
+            "roasPercentage": 500
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 21:00 uur besteld, morgen in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "S",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Voetbalfanshop.nl",
+              "values": [
+                {
+                  "id": 23796105,
+                  "caption": "Voetbalfanshop.nl",
+                  "columnValue": "Voetbalfanshop.nl",
+                  "crawlable": true,
+                  "detailValue": "Voetbalfanshop.nl",
+                  "fullId": "49_23796105",
+                  "sequence": 844,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 401013,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3003_401013",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23544691,
+                  "caption": "Unisex",
+                  "columnValue": "Unisex",
+                  "crawlable": true,
+                  "detailValue": "Unisex",
+                  "fullId": "3110_23544691",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3515,
+              "name": "Fanshop",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "fanshop",
+              "value": "Real Madrid",
+              "values": [
+                {
+                  "id": 1335066,
+                  "caption": "Real Madrid",
+                  "columnValue": "Real Madrid",
+                  "crawlable": true,
+                  "detailValue": "Real Madrid",
+                  "fullId": "3515_1335066",
+                  "sequence": 51,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Voetbalkleding",
+              "values": [
+                {
+                  "id": 5340889,
+                  "caption": "Voetbal",
+                  "columnValue": "Voetbalkleding",
+                  "crawlable": true,
+                  "detailValue": "Voetbal",
+                  "fullId": "3875_5340889",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4660,
+              "name": "Uitvoering fanshop",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "ut_voetbalshirt",
+              "value": "Training",
+              "values": [
+                {
+                  "id": 12527924,
+                  "caption": "Training",
+                  "columnValue": "Training",
+                  "crawlable": true,
+                  "detailValue": "Training",
+                  "fullId": "4660_12527924",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "651809-191240",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-e498a75c-fa61-4248-8022-bba87b9055ce",
+          "revenuePerClick": 0.41,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 69.95,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "APLUS",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "shopReviewScore",
+              "score": 9,
+              "amount": 129
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        },
+        {
+          "id": "osEpRVMtpuUv7K9Ywt31ezYAqo",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "osEpR4ZeQvsbADka1HmpuMEbQx",
+            "advertisementIdV3": "osEpR4ZeQvsbADka1HmpuMEbQx"
+          },
+          "shopItemId": 0,
+          "productId": "osEpRVMtpuUv7K9Ywt31ezYAqo",
+          "ean": "",
+          "shopInfo": {
+            "id": 1,
+            "shopName": "bol.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 4200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/1.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:23:12+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "klantenservice@bol.com",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 1,
+            "shopItemId": 0,
+            "shopItemTitle": "Real Madrid Trainingspak Heren 2024/2025 - Maat S t/m XXL - Voetbal Trainingspakken - Voetbalkleding - 100% Polyester",
+            "shopItemDescription": "",
+            "shopItemVersion": "9300000188635655-9300000188635666-Blauw-9300000188635666",
+            "shopName": "bol.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "osEpRVMtpuUv7K9Ywt31ezYAqo",
+            "condition": "Nieuw",
+            "ean": "8435613241649",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://partner.bol.com/click/click?p=1&t=url&s=1126362&url=https%3a%2f%2fwww.bol.com%2fnl%2fnl%2fp%2freal-madrid-trainingspak-heren-2024-2025-maat-xl-voetbal-trainingspakken-voetbalkleding-100-polyester%2f9300000188635655%2f",
+            "size": "XL",
+            "shopReviewScore": 4,
+            "shopReviewAmount": 39257,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 55,
+              "price": 69.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 55,
+              "price": 74.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "9300000188635655",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "e498a75c-fa61-4248-8022-bba87b9055ce",
+            "title": "Real Madrid Trainingspak Heren 2025 t/ Voetbal Trainingspakken Voetbalkleding % Polyester",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 64.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 67.45
+          },
+          "title": "Real Madrid Trainingspak Heren 2024/2025 - Maat S t/m XXL - Voetbal Trainingspakken - Voetbalkleding - 100% Polyester",
+          "fixedTitle": "Real Madrid Trainingspak Heren 2024/2025 - Maat S t/m XXL - Voetbal Trainingspakken - Voetbalkleding - 100% Polyester",
+          "indexIdentifierTimeStamp": 1744885014,
+          "description": "Real Madrid trainingspak voor volwassenen Als supporter van Real Madrid kan dit trainingspak voor heren niet ontbreken in jouw collectie! Met dit trainingspak ontstaat er namelijk geen verwarring over jouw favoriete voetbalclub! Dit Real Madrid trainingspak is donkerblauw van kleur waarvan de bovenhelft van het vest wit is. Op het vest vind je op de rechterborstzijde de clubnaam voluit geschreven. Op de linkerborstzijde vind je het Real Madrid logo. Op beide mouwen vind je een blauwe tape met de clubnaam doorlopend als print. Op de trainingsbroek vind je het Real Madrid logo aan de rechterzijde. Je waardevolle spullen kan je zowel kwijt in de insteekzakken van de broek als van het vest. Tevens maak je dit trainingspak gemakkelijk schoon vanwege de polyester samenstelling. Zo kan je gerust je ding doen in dit Real Madrid trainingspak voor volwassenen! Kortom, laat je liefde voor Real Madrid zien met dit trainingspak! Kenmerken Real Madrid trainingspak voor heren  Comfortabel: Dit trainingspak is perfect voor sport, een luie zondag of tijdens de wedstrijden van Los Galacticos! Volledige Set: Dit trainingspak van Real Madrid bestaat uit een trainingsvest en trainingsbroek. Betaalbare Prijs: Door de nauwe samenwerking met (leveranciers) van Real Madrid, scoor jij kwalitatieve producten voor een betaalbare prijs! Officieel Trainingspak: Dit heren trainingspak behoort tot de offici\u00eble Real Madrid fancollectie van 2024/2025. ",
+          "descriptionRaw": "<h3>Real Madrid trainingspak voor volwassenen</h3> <p>Als supporter van Real Madrid kan dit trainingspak voor heren niet ontbreken in jouw collectie! Met dit trainingspak ontstaat er namelijk geen verwarring over jouw favoriete voetbalclub! Dit Real Madrid trainingspak is donkerblauw van kleur waarvan de bovenhelft van het vest wit is. Op het vest vind je op de rechterborstzijde de clubnaam voluit geschreven. Op de linkerborstzijde vind je het Real Madrid logo. Op beide mouwen vind je een blauwe tape met de clubnaam doorlopend als print. Op de trainingsbroek vind je het Real Madrid logo aan de rechterzijde. Je waardevolle spullen kan je zowel kwijt in de insteekzakken van de broek als van het vest. Tevens maak je dit trainingspak gemakkelijk schoon vanwege de polyester samenstelling. Zo kan je gerust je ding doen in dit Real Madrid trainingspak voor volwassenen! Kortom, laat je liefde voor Real Madrid zien met dit trainingspak!</p> <strong>Kenmerken Real Madrid trainingspak voor heren</strong> <ul> <li><strong>Comfortabel</strong>: Dit trainingspak is perfect voor sport, een luie zondag of tijdens de wedstrijden van Los Galacticos!</li> <li><strong>Volledige Set</strong>: Dit trainingspak van Real Madrid bestaat uit een trainingsvest en trainingsbroek.</li> <li><strong>Betaalbare Prijs</strong>: Door de nauwe samenwerking met (leveranciers) van Real Madrid, scoor jij kwalitatieve producten voor een betaalbare prijs!</li> <li><strong>Officieel Trainingspak</strong>: Dit heren trainingspak behoort tot de offici\u00eble Real Madrid fancollectie van 2024/2025.</li> </ul>",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-osEpR4ZeQvsbADka1HmpuMEbQx",
+          "categoryId": 9000666,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            1
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1073,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/8435613241649/394/{size}/47a7effeea30e864e5a06d29bdd15c60/Trainingspakken/Real-Madrid-Trainingspak-Heren-2024-2025-Maat-S-t-m-XXL-Voetbal-Trainingspakken-Voetbalkleding.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241649/15376/{size}/6bd812cd8a674eba7614b44d64f86bde/Trainingspakken/Real-Madrid-Trainingspak-Heren-2024-2025-Maat-S-t-m-XXL-Voetbal-Trainingspakken-Voetbalkleding.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 1088
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241649/15377/{size}/d24df32b7e7f6d9d522623b851901323/Trainingspakken/Real-Madrid-Trainingspak-Heren-2024-2025-Maat-S-t-m-XXL-Voetbal-Trainingspakken-Voetbalkleding.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1198,
+                "width": 962
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241649/15378/{size}/01729a4622a699a4d8903d32a2d8e1e6/Trainingspakken/Real-Madrid-Trainingspak-Heren-2024-2025-Maat-S-t-m-XXL-Voetbal-Trainingspakken-Voetbalkleding.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1197,
+                "width": 1167
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241649/15379/{size}/275649d1d45951c432be62f1ae90ec90/Trainingspakken/Real-Madrid-Trainingspak-Heren-2024-2025-Maat-S-t-m-XXL-Voetbal-Trainingspakken-Voetbalkleding.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 539
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241649/15380/{size}/ade60ad40bc010dc6e84563a7e6bbedb/Trainingspakken/Real-Madrid-Trainingspak-Heren-2024-2025-Maat-S-t-m-XXL-Voetbal-Trainingspakken-Voetbalkleding.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1181,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241649/15381/{size}/c8f23212475fdc5bf8b43e53f77eea45/Trainingspakken/Real-Madrid-Trainingspak-Heren-2024-2025-Maat-S-t-m-XXL-Voetbal-Trainingspakken-Voetbalkleding.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 389
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241649/15382/{size}/2e00d03d59d39d01b35d355c567ba8b7/Trainingspakken/Real-Madrid-Trainingspak-Heren-2024-2025-Maat-S-t-m-XXL-Voetbal-Trainingspakken-Voetbalkleding.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 1198,
+                "width": 755
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241649/15383/{size}/feea2011f8d41f225f3715093eb8ffcd/Trainingspakken/Real-Madrid-Trainingspak-Heren-2024-2025-Maat-S-t-m-XXL-Voetbal-Trainingspakken-Voetbalkleding.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 1181,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241649/15384/{size}/f848cc0d587bcafd5bce64ebe4054399/Trainingspakken/Real-Madrid-Trainingspak-Heren-2024-2025-Maat-S-t-m-XXL-Voetbal-Trainingspakken-Voetbalkleding.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 1199,
+                "width": 539
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241649/15385/{size}/a065744a22ab94fbc0ddc2bb15ca5bc0/Trainingspakken/Real-Madrid-Trainingspak-Heren-2024-2025-Maat-S-t-m-XXL-Voetbal-Trainingspakken-Voetbalkleding.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEpRVMtpuUv7K9Ywt31ezYAqo",
+              "value": "XL",
+              "available": true,
+              "price": 69.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "osEpRVMtpuUv7K9Ywt31ezYAqo",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 74.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 69.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-14 00:00:00",
+          "popularity": 12,
+          "popularityData": {
+            "clickFactor": 4,
+            "webshopsRevenuePerClick": 0.91,
+            "roasPercentage": 10000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "onbekend",
+          "deliveryTimeSort": 8,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "XL",
+              "values": [
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Bol.com",
+              "values": [
+                {
+                  "id": 401410,
+                  "caption": "Bol.com",
+                  "columnValue": "Bol.com",
+                  "crawlable": true,
+                  "detailValue": "Bol.com",
+                  "fullId": "49_401410",
+                  "sequence": 108,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 401013,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3003_401013",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23544691,
+                  "caption": "Unisex",
+                  "columnValue": "Unisex",
+                  "crawlable": true,
+                  "detailValue": "Unisex",
+                  "fullId": "3110_23544691",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3515,
+              "name": "Fanshop",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "fanshop",
+              "value": "Real Madrid",
+              "values": [
+                {
+                  "id": 1335066,
+                  "caption": "Real Madrid",
+                  "columnValue": "Real Madrid",
+                  "crawlable": true,
+                  "detailValue": "Real Madrid",
+                  "fullId": "3515_1335066",
+                  "sequence": 51,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Voetbalkleding",
+              "values": [
+                {
+                  "id": 5340889,
+                  "caption": "Voetbal",
+                  "columnValue": "Voetbalkleding",
+                  "crawlable": true,
+                  "detailValue": "Voetbal",
+                  "fullId": "3875_5340889",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4660,
+              "name": "Uitvoering fanshop",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "ut_voetbalshirt",
+              "value": "Training",
+              "values": [
+                {
+                  "id": 12527924,
+                  "caption": "Training",
+                  "columnValue": "Training",
+                  "crawlable": true,
+                  "detailValue": "Training",
+                  "fullId": "4660_12527924",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "1-9300000188635666",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-e498a75c-fa61-4248-8022-bba87b9055ce",
+          "revenuePerClick": 0.01,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 69.95,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "APLUS",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 6,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 6
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

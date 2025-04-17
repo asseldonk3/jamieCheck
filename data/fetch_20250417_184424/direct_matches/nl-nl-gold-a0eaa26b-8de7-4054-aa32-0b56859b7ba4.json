@@ -1,0 +1,766 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 79,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3161,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_jassen_jurken_pakken",
+            "values": [
+              {
+                "id": 23810712,
+                "caption": "Maat 36/38",
+                "columnValue": "36/38",
+                "crawlable": true,
+                "detailValue": "Maat 36/38",
+                "fullId": "3161_23810712",
+                "sequence": 36,
+                "urlName": null
+              },
+              {
+                "id": 23810714,
+                "caption": "Maat 40/42",
+                "columnValue": "40/42",
+                "crawlable": true,
+                "detailValue": "Maat 40/42",
+                "fullId": "3161_23810714",
+                "sequence": 40,
+                "urlName": null
+              },
+              {
+                "id": 23810716,
+                "caption": "Maat 44/46",
+                "columnValue": "44/46",
+                "crawlable": true,
+                "detailValue": "Maat 44/46",
+                "fullId": "3161_23810716",
+                "sequence": 44,
+                "urlName": null
+              },
+              {
+                "id": 23810718,
+                "caption": "Maat 48/50",
+                "columnValue": "48/50",
+                "crawlable": true,
+                "detailValue": "Maat 48/50",
+                "fullId": "3161_23810718",
+                "sequence": 48,
+                "urlName": null
+              },
+              {
+                "id": 23810720,
+                "caption": "Maat 52/54",
+                "columnValue": "52/54",
+                "crawlable": true,
+                "detailValue": "Maat 52/54",
+                "fullId": "3161_23810720",
+                "sequence": 52,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "4KXbjzZf1zojmhU2J62nuz8JcTGT",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "4KXbk13DTyF2fMCrVQ916AafpoUq",
+            "advertisementIdV3": "4KXbk13DTyF2fMCrVQ916AafpoUq"
+          },
+          "shopItemId": 0,
+          "productId": "4KXbjzZf1zojmhU2J62nuz8JcTGT",
+          "ean": "",
+          "shopInfo": {
+            "id": 83182,
+            "shopName": "Your-look-for-less.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 8,
+            "productCount": 13000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/83182.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Your-look-for-less.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 8943,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 83182,
+            "shopItemId": 0,
+            "shopItemTitle": "Dames Huispak in groen",
+            "shopItemDescription": "",
+            "shopItemVersion": "683348_52-17567-683348",
+            "shopName": "Your-look-for-less.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "4KXbjztDRAPn7eqVYZ5DLYf4xjZA",
+            "condition": "Nieuw",
+            "ean": "4027983001561",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.your-look-for-less.nl/p/17567?size=52%2F54?gw=955419419&ecc=419&utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslist",
+            "size": "52/54",
+            "shopReviewScore": 8.6,
+            "shopReviewAmount": 5275,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 55,
+              "price": 79,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "683348_52",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "a0eaa26b-8de7-4054-aa32-0b56859b7ba4",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 69
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Dames Huispak in groen",
+          "fixedTitle": "Dames Huispak in groen",
+          "indexIdentifierTimeStamp": 1744908316,
+          "description": "Huispak in heerlijk zachte nickykwaliteit. Met platte kraag en deelbare ritssluiting. 2 zakken op het bovendeel en in de broek. Comfortband rondom.",
+          "descriptionRaw": "Huispak in heerlijk zachte nickykwaliteit. Met platte kraag en deelbare ritssluiting. 2 zakken op het bovendeel en in de broek. Comfortband rondom.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-4KXbk13DTyF2fMCrVQ916AafpoUq",
+          "categoryId": 9005579,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            83182
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 3199,
+                "width": 1100
+              },
+              "type": "mainImage",
+              "url": "4KXbjzZf1zojmhU2J62nuz8JcTGT/394/{size}/3fd3698e59138c2078557036434b402e/Huispakken/Dames-Huispak-in-groen.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 3199,
+                "width": 2295
+              },
+              "type": "alternativeImage",
+              "url": "4KXbjzZf1zojmhU2J62nuz8JcTGT/15376/{size}/79f026a620c2f5771f1e7b6fee673122/Huispakken/Dames-Huispak-in-groen.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 3199,
+                "width": 1100
+              },
+              "type": "alternativeImage",
+              "url": "4KXbjzZf1zojmhU2J62nuz8JcTGT/15377/{size}/3fd3698e59138c2078557036434b402e/Huispakken/Dames-Huispak-in-groen.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 3198,
+                "width": 2388
+              },
+              "type": "alternativeImage",
+              "url": "4KXbjzZf1zojmhU2J62nuz8JcTGT/15378/{size}/6ed68553cfb1cc90280b46446b03efa2/Huispakken/Dames-Huispak-in-groen.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzZf1zojmhU2J62nuz8JcTGT",
+              "value": "48/50",
+              "available": true,
+              "price": 79,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbk13qZNEtmXuEBfnJoCZkXHHV",
+              "value": "44/46",
+              "available": true,
+              "price": 79,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzXkNjz6x9RTLCarUyzwMQUL",
+              "value": "36/38",
+              "available": true,
+              "price": 79,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzqy9FMqy3PuKNYCdEMDfEoK",
+              "value": "24/25",
+              "available": true,
+              "price": 79,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzaNtzkFnqFtYxppZkNnxfB1",
+              "value": "18/19",
+              "available": true,
+              "price": 79,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzrjo2ppW7E4r59A5SpJyb8R",
+              "value": "40/42",
+              "available": true,
+              "price": 79,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzbXmKh2oich72m4G1g6JUJr",
+              "value": "20/21",
+              "available": true,
+              "price": 79,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjztDRAPn7eqVYZ5DLYf4xjZA",
+              "value": "52/54",
+              "available": true,
+              "price": 79,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzhiHoNMtW1J77ea147medWH",
+              "value": "22/23",
+              "available": true,
+              "price": 79,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 23810712,
+                  "caption": "Maat 36/38",
+                  "columnValue": "36/38",
+                  "crawlable": true,
+                  "detailValue": "Maat 36/38",
+                  "fullId": "3161_23810712",
+                  "sequence": 36,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzXkNjz6x9RTLCarUyzwMQUL",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 79,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810714,
+                  "caption": "Maat 40/42",
+                  "columnValue": "40/42",
+                  "crawlable": true,
+                  "detailValue": "Maat 40/42",
+                  "fullId": "3161_23810714",
+                  "sequence": 40,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzrjo2ppW7E4r59A5SpJyb8R",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 79,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810716,
+                  "caption": "Maat 44/46",
+                  "columnValue": "44/46",
+                  "crawlable": true,
+                  "detailValue": "Maat 44/46",
+                  "fullId": "3161_23810716",
+                  "sequence": 44,
+                  "urlName": null,
+                  "productIdV3": "4KXbk13qZNEtmXuEBfnJoCZkXHHV",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 79,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810718,
+                  "caption": "Maat 48/50",
+                  "columnValue": "48/50",
+                  "crawlable": true,
+                  "detailValue": "Maat 48/50",
+                  "fullId": "3161_23810718",
+                  "sequence": 48,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzZf1zojmhU2J62nuz8JcTGT",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 79,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810720,
+                  "caption": "Maat 52/54",
+                  "columnValue": "52/54",
+                  "crawlable": true,
+                  "detailValue": "Maat 52/54",
+                  "fullId": "3161_23810720",
+                  "sequence": 52,
+                  "urlName": null,
+                  "productIdV3": "4KXbjztDRAPn7eqVYZ5DLYf4xjZA",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 79,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 250466,
+          "brandName": "Comtessa",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-16 00:00:00",
+          "popularity": 3674,
+          "popularityData": {
+            "clickFactor": 102,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Pre-order",
+          "deliveryTimeSort": 6,
+          "deliveryCosts": 5.5,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Comtessa",
+              "values": [
+                {
+                  "id": 250466,
+                  "caption": "Comtessa",
+                  "columnValue": "Comtessa",
+                  "crawlable": true,
+                  "detailValue": "Comtessa",
+                  "fullId": "48_250466",
+                  "sequence": 607,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Your-look-for-less.nl",
+              "values": [
+                {
+                  "id": 4043426,
+                  "caption": "Your-look-for-less.nl",
+                  "columnValue": "Your-look-for-less.nl",
+                  "crawlable": true,
+                  "detailValue": "Your-look-for-less.nl",
+                  "fullId": "49_4043426",
+                  "sequence": 898,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 242265,
+                  "caption": "Katoenen",
+                  "columnValue": "Katoen",
+                  "crawlable": true,
+                  "detailValue": "Katoenen",
+                  "fullId": "2624_242265",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Groen",
+              "values": [
+                {
+                  "id": 401008,
+                  "caption": "Groene",
+                  "columnValue": "Groen",
+                  "crawlable": true,
+                  "detailValue": "Groene",
+                  "fullId": "3003_401008",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Vrijetijdskleding",
+              "values": [
+                {
+                  "id": 19393876,
+                  "caption": "Vrijetijds",
+                  "columnValue": "Vrijetijdskleding",
+                  "crawlable": true,
+                  "detailValue": "Vrijetijds",
+                  "fullId": "3114_19393876",
+                  "sequence": 38,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3115,
+              "name": "Soort hals",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_hals_trui_shirt",
+              "value": "Kraag",
+              "values": [
+                {
+                  "id": 578353,
+                  "caption": "met kraag",
+                  "columnValue": "Kraag",
+                  "crawlable": true,
+                  "detailValue": "met kraag",
+                  "fullId": "3115_578353",
+                  "sequence": 10,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "36/38",
+              "values": [
+                {
+                  "id": 23810712,
+                  "caption": "Maat 36/38",
+                  "columnValue": "36/38",
+                  "crawlable": true,
+                  "detailValue": "Maat 36/38",
+                  "fullId": "3161_23810712",
+                  "sequence": 36,
+                  "urlName": null
+                },
+                {
+                  "id": 23810714,
+                  "caption": "Maat 40/42",
+                  "columnValue": "40/42",
+                  "crawlable": true,
+                  "detailValue": "Maat 40/42",
+                  "fullId": "3161_23810714",
+                  "sequence": 40,
+                  "urlName": null
+                },
+                {
+                  "id": 23810716,
+                  "caption": "Maat 44/46",
+                  "columnValue": "44/46",
+                  "crawlable": true,
+                  "detailValue": "Maat 44/46",
+                  "fullId": "3161_23810716",
+                  "sequence": 44,
+                  "urlName": null
+                },
+                {
+                  "id": 23810718,
+                  "caption": "Maat 48/50",
+                  "columnValue": "48/50",
+                  "crawlable": true,
+                  "detailValue": "Maat 48/50",
+                  "fullId": "3161_23810718",
+                  "sequence": 48,
+                  "urlName": null
+                },
+                {
+                  "id": 23810720,
+                  "caption": "Maat 52/54",
+                  "columnValue": "52/54",
+                  "crawlable": true,
+                  "detailValue": "Maat 52/54",
+                  "fullId": "3161_23810720",
+                  "sequence": 52,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met rits",
+              "values": [
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Natuurlijk materiaal",
+              "values": [
+                {
+                  "id": 23597271,
+                  "caption": "Natuurlijk materiaal",
+                  "columnValue": "Natuurlijk materiaal",
+                  "crawlable": true,
+                  "detailValue": "Natuurlijk materiaal",
+                  "fullId": "6290_23597271",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "83182-683348",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-a0eaa26b-8de7-4054-aa32-0b56859b7ba4",
+          "revenuePerClick": 0.26,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 79,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "C",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 8.6,
+              "amount": 5275
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

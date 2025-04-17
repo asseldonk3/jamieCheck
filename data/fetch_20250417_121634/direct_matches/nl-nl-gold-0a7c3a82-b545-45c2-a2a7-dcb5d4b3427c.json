@@ -1,0 +1,959 @@
+{
+  "offset": 0,
+  "numFound": 2,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 2,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 159.9,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3161,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_jassen_jurken_pakken",
+            "values": [
+              {
+                "id": 23810712,
+                "caption": "Maat 36/38",
+                "columnValue": "36/38",
+                "crawlable": true,
+                "detailValue": "Maat 36/38",
+                "fullId": "3161_23810712",
+                "sequence": 36,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "2AswfHZc6QtCfHytrPyia31tghXi",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2AswfHWasXLYV9YY92nofyLNhBJX",
+            "advertisementIdV3": "2AswfHWasXLYV9YY92nofyLNhBJX"
+          },
+          "shopItemId": 1179012510,
+          "productId": "2AswfHZc6QtCfHytrPyia31tghXi",
+          "ean": "",
+          "shopInfo": {
+            "id": 65876,
+            "shopName": "Bedshop.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": true,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 12,
+            "productCount": 8320,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/65876.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:15+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 38014,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 27,
+                "name": "Webshop Keurmerk"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 65876,
+            "shopItemId": 1179012510,
+            "shopItemTitle": "Caw\u00f6 Badjas met capuchon en rits 5108 Uni schwarz 36/38",
+            "shopItemDescription": "",
+            "shopItemVersion": "290634733-147223115-147223115",
+            "shopName": "Bedshop.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2AswfHZc6QtCfHytrPyia31tghXi",
+            "condition": "Nieuw",
+            "ean": "4056735155771",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "http://www.bedshop.nl/cawoe-badjas-met-capuchon-en-rits-5108-uni-schwarz.html?utm_source=beslist.nl&utm_medium=referral&utm_campaign=Beslist",
+            "size": "",
+            "shopReviewScore": 5.2,
+            "shopReviewAmount": 4,
+            "isBlendedCpcWw": true,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 159.9,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "290634733",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "0a7c3a82-b545-45c2-a2a7-dcb5d4b3427c",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 143.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 143.95
+          },
+          "title": "Caw\u00f6 Badjas met capuchon en rits 5108 Uni schwarz 36/38",
+          "fixedTitle": "Caw\u00f6 Badjas met capuchon en rits 5108 Uni schwarz 36/38",
+          "indexIdentifierTimeStamp": 1744885034,
+          "description": "Ontdek Luxe en Comfort met de Caw\u00f6 Badjas met Capuchon en Rits Ervaar onge\u00ebvenaarde luxe en comfort met de Caw\u00f6 Badjas met capuchon en rits 5108 Uni schwarz 36/38, een premium keuze uit onze exclusieve Badjassen dames collectie. Deze badjas, vervaardigd door het gerenommeerde merk Caw\u00f6, belichaamt kwaliteit en stijl, waardoor het de perfecte aanvulling is op uw badmode assortiment.\\\\n\\\\n Waarom Kiezen voor de Caw\u00f6 Badjas? De Caw\u00f6 badjas is niet zomaar een badjas. Het is een symbool van comfort en luxe, ontworpen om u een gevoel van welzijn te geven na elke douche of bad. Hier zijn enkele unieke verkooppunten:\\\\n\\\\n &bullet; 100% Katoen: Gemaakt van de fijnste katoen, biedt deze badjas een ongekend zacht gevoel op uw huid, ideaal voor die ontspannen momenten thuis.\\\\n &bullet; Ritssluiting en Capuchon: Voorzien van een praktische ritssluiting en een gezellige capuchon voor extra warmte en comfort.\\\\n &bullet; Effen Dessin: Het stijlvolle effen ontwerp in de kleur blauw maakt deze badjas een tijdloze aanvulling op uw garderobe.\\\\n &bullet; Licht van Gewicht: Ondanks het gebruik van hoogwaardig katoen, is deze badjas verrassend licht, waardoor hij ideaal is voor dagelijks gebruik.\\\\n Productdetails De Caw\u00f6 Badjas met capuchon en rits is meer dan alleen een badjas; het is een ervaring. Hier zijn de details die deze badjas zo speciaal maken:\\\\n\\\\n &bullet; Kleur: Blauw\\\\n &bullet; Materiaal: 100% Katoen\\\\n &bullet; Voorkeuren: Ritssluiting, Capuchon\\\\n &bullet; Dessin: Effen\\\\n &bullet; Kleding maat: Maat S, Maat M\\\\n Maak Vandaag Nog de Jouwe Verwen uzelf of iemand die u liefheeft met de luxe van de Caw\u00f6 Badjas met capuchon en rits 5108 Uni schwarz 36/38. Perfect voor die luie zondagen, na een ontspannend bad of gewoon voor dagelijks comfort thuis. Met zijn hoogwaardige katoen, praktische ontwerp en tijdloze stijl, is deze badjas een must-have in elke garderobe.\\\\n\\\\n Wacht niet langer en voeg een vleugje luxe toe aan uw dagelijkse routine. Bestel nu en ervaar het ultieme comfort en stijl die alleen Caw\u00f6 kan bieden.\\\\n\\\\n",
+          "descriptionRaw": "Ontdek Luxe en Comfort met de Caw\u00f6 Badjas met Capuchon en Rits Ervaar onge\u00ebvenaarde luxe en comfort met de Caw\u00f6 Badjas met capuchon en rits 5108 Uni schwarz 36/38, een premium keuze uit onze exclusieve Badjassen dames collectie. Deze badjas, vervaardigd door het gerenommeerde merk Caw\u00f6, belichaamt kwaliteit en stijl, waardoor het de perfecte aanvulling is op uw badmode assortiment.\\\\n\\\\n Waarom Kiezen voor de Caw\u00f6 Badjas? De Caw\u00f6 badjas is niet zomaar een badjas. Het is een symbool van comfort en luxe, ontworpen om u een gevoel van welzijn te geven na elke douche of bad. Hier zijn enkele unieke verkooppunten:\\\\n\\\\n &bullet; 100% Katoen: Gemaakt van de fijnste katoen, biedt deze badjas een ongekend zacht gevoel op uw huid, ideaal voor die ontspannen momenten thuis.\\\\n &bullet; Ritssluiting en Capuchon: Voorzien van een praktische ritssluiting en een gezellige capuchon voor extra warmte en comfort.\\\\n &bullet; Effen Dessin: Het stijlvolle effen ontwerp in de kleur blauw maakt deze badjas een tijdloze aanvulling op uw garderobe.\\\\n &bullet; Licht van Gewicht: Ondanks het gebruik van hoogwaardig katoen, is deze badjas verrassend licht, waardoor hij ideaal is voor dagelijks gebruik.\\\\n Productdetails De Caw\u00f6 Badjas met capuchon en rits is meer dan alleen een badjas; het is een ervaring. Hier zijn de details die deze badjas zo speciaal maken:\\\\n\\\\n &bullet; Kleur: Blauw\\\\n &bullet; Materiaal: 100% Katoen\\\\n &bullet; Voorkeuren: Ritssluiting, Capuchon\\\\n &bullet; Dessin: Effen\\\\n &bullet; Kleding maat: Maat S, Maat M\\\\n Maak Vandaag Nog de Jouwe Verwen uzelf of iemand die u liefheeft met de luxe van de Caw\u00f6 Badjas met capuchon en rits 5108 Uni schwarz 36/38. Perfect voor die luie zondagen, na een ontspannend bad of gewoon voor dagelijks comfort thuis. Met zijn hoogwaardige katoen, praktische ontwerp en tijdloze stijl, is deze badjas een must-have in elke garderobe.\\\\n\\\\n Wacht niet langer en voeg een vleugje luxe toe aan uw dagelijkse routine. Bestel nu en ervaar het ultieme comfort en stijl die alleen Caw\u00f6 kan bieden.\\\\n\\\\n",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1183619207,
+          "gtinGroupId": "137-2AswfHWasXLYV9YY92nofyLNhBJX",
+          "categoryId": 9005578,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": 589594138759,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 2,
+          "shopIds": [
+            65876
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1999,
+                "width": 1151
+              },
+              "type": "mainImage",
+              "url": "2AswfHZc6QtCfHytrPyia31tghXi/394/{size}/1febfe5f76b14a9b5e28b778aec8aa0f/Badjassen/Caw%c3%b6-Badjas-met-capuchon-en-rits-5108-Uni-schwarz-36-38.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1999,
+                "width": 1135
+              },
+              "type": "alternativeImage",
+              "url": "2AswfHZc6QtCfHytrPyia31tghXi/15376/{size}/a0e4a45ec8383a90dbe11b401658dd15/Badjassen/Caw%c3%b6-Badjas-met-capuchon-en-rits-5108-Uni-schwarz-36-38.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1999,
+                "width": 1599
+              },
+              "type": "alternativeImage",
+              "url": "2AswfHZc6QtCfHytrPyia31tghXi/15377/{size}/b5e129adaaacdedfabbd48c94e20843b/Badjassen/Caw%c3%b6-Badjas-met-capuchon-en-rits-5108-Uni-schwarz-36-38.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1184,
+                "width": 787
+              },
+              "type": "alternativeImage",
+              "url": "2AswfHZc6QtCfHytrPyia31tghXi/15378/{size}/9bd1aef6f58c0bdcf7cd66f6f7ac89c1/Badjassen/Caw%c3%b6-Badjas-met-capuchon-en-rits-5108-Uni-schwarz-36-38.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1182,
+                "width": 789
+              },
+              "type": "alternativeImage",
+              "url": "2AswfHZc6QtCfHytrPyia31tghXi/15379/{size}/ef3a434cb97259f02e4f5dd471c02b6b/Badjassen/Caw%c3%b6-Badjas-met-capuchon-en-rits-5108-Uni-schwarz-36-38.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 5784308,
+          "brandName": "Caw\u00f6",
+          "brandRank": 1782,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2023-10-24 00:00:00",
+          "popularity": 4477,
+          "popularityData": {
+            "clickFactor": 114,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "4 - 8 werkdagen",
+          "deliveryTimeSort": 5,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Caw\u00f6",
+              "values": [
+                {
+                  "id": 5784308,
+                  "caption": "Caw\u00f6",
+                  "columnValue": "Caw\u00f6",
+                  "crawlable": true,
+                  "detailValue": "Caw\u00f6",
+                  "fullId": "48_5784308",
+                  "sequence": 508,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Bedshop.nl",
+              "values": [
+                {
+                  "id": 18276159,
+                  "caption": "Bedshop.nl",
+                  "columnValue": "Bedshop.nl",
+                  "crawlable": true,
+                  "detailValue": "Bedshop.nl",
+                  "fullId": "49_18276159",
+                  "sequence": 71,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met capuchon",
+              "values": [
+                {
+                  "id": 16193065,
+                  "caption": "Met capuchon",
+                  "columnValue": "Met capuchon",
+                  "crawlable": true,
+                  "detailValue": "Met capuchon",
+                  "fullId": "3730_16193065",
+                  "sequence": 49,
+                  "urlName": null
+                },
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Badmode",
+              "values": [
+                {
+                  "id": 468980,
+                  "caption": "Badmode",
+                  "columnValue": "Badmode",
+                  "crawlable": true,
+                  "detailValue": "Badmode",
+                  "fullId": "3114_468980",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4251,
+              "name": "Soort",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type_oj",
+              "value": "Ochtendjassen",
+              "values": [
+                {
+                  "id": 6974204,
+                  "caption": "Ochtendjassen",
+                  "columnValue": "Ochtendjassen",
+                  "crawlable": true,
+                  "detailValue": "Ochtendjassen",
+                  "fullId": "4251_6974204",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "bedshop.nl-147223115",
+          "relatedSiblingDetails": {
+            "id": null,
+            "detail": null,
+            "isTopDetail": null,
+            "value": ""
+          },
+          "bidData": null,
+          "bidApiData": {
+            "cps": {
+              "brandId": 5784308,
+              "categoryId": 9005578,
+              "isDisplayGuaranteed": true,
+              "origin": 101,
+              "shopId": 65876,
+              "uuid": "2f6c87dd-de7f-4f2b-80d9-495949b4cba3",
+              "value": 15.5
+            }
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-0a7c3a82-b545-45c2-a2a7-dcb5d4b3427c",
+          "revenuePerClick": 0.33,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 159.9,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "3j9E8nxuc67mujtkUCSU6Rc5GfVs",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3j9E8nwbSDs587sRKnf4pejAYzXz",
+            "advertisementIdV3": "3j9E8nwbSDs587sRKnf4pejAYzXz"
+          },
+          "shopItemId": 1179512182,
+          "productId": "3j9E8nxuc67mujtkUCSU6Rc5GfVs",
+          "ean": "",
+          "shopInfo": {
+            "id": 374467,
+            "shopName": "Etrias.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "WW",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": false,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 6,
+            "productCount": 85000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/374467.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 4078,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "klantenservice@etrias.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 6,
+                "name": "DPD"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 374467,
+            "shopItemId": 1179512182,
+            "shopItemTitle": "Badjas Caw\u00f6 Women 5108 Capuchon en Rits Black-36 / 38",
+            "shopItemDescription": "",
+            "shopItemVersion": "2113004-2113016",
+            "shopName": "Etrias.nl",
+            "shopType": "WW",
+            "productIdentifier": "",
+            "productIdV3": "3j9E8nxuc67mujtkUCSU6Rc5GfVs",
+            "condition": "Nieuw",
+            "ean": "4056735155771",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.etrias.nl/badjas-cawo-women-5108-capuchon-en-rits-black.html?utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslist",
+            "size": "36 / 38",
+            "shopReviewScore": 7.6,
+            "shopReviewAmount": 2807,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 159.9,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "2113004",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "0a7c3a82-b545-45c2-a2a7-dcb5d4b3427c",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 143.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 143.95
+          },
+          "title": "Badjas Caw\u00f6 Women 5108 Capuchon en Rits Black-36 / 38",
+          "fixedTitle": "Badjas Caw\u00f6 Women 5108 Capuchon en Rits Black-36 / 38",
+          "indexIdentifierTimeStamp": 1744885034,
+          "description": "Deze zwarte badjas voor dames van het bekende merk Caw\u00f6 is een absolute must-have voor in uw badkamer. Met een lengte van 105 cm biedt deze badjas de perfecte combinatie van comfort en stijl. Gemaakt van 100% katoen, voelt de badjas heerlijk zacht en licht aan op de huid. De absorberende badstof zorgt ervoor dat u snel droogt na het douchen. Met de capuchon en ritssluiting blijft u lekker warm en kunt u de badjas gemakkelijk aan- en uittrekken. De zijzakken bieden handige opbergruimte voor uw essentials. Deze badjas is gemakkelijk te onderhouden en geschikt voor de droger. OekoTex-gecertificeerd, dus veilig en milieuvriendelijk. Waarom compromissen sluiten als u kunt genieten van de hoogwaardige kwaliteit van Caw\u00f6\\\\n\\\\nBadjas\\\\nMerk: Caw\u00f6\\\\nModel: 5108\\\\nKleur: Black\\\\nMateriaal: 100% Katoen\\\\nLengte: 105 cm\\\\nZachte badstof\\\\nLicht\\\\nAbsorberend\\\\nComfortabele pasvorm\\\\nCapuchon\\\\nRitssluiting\\\\nZijzakken\\\\nGemakkelijk te onderhouden en geschikt voor de droger\\\\nOekoTex-gecertificeerd\\\\nGeschikt voor: Dames",
+          "descriptionRaw": "Deze zwarte badjas voor dames van het bekende merk Caw\u00f6 is een absolute must-have voor in uw badkamer. Met een lengte van 105 cm biedt deze badjas de perfecte combinatie van comfort en stijl. Gemaakt van 100% katoen, voelt de badjas heerlijk zacht en licht aan op de huid. De absorberende badstof zorgt ervoor dat u snel droogt na het douchen. Met de capuchon en ritssluiting blijft u lekker warm en kunt u de badjas gemakkelijk aan- en uittrekken. De zijzakken bieden handige opbergruimte voor uw essentials. Deze badjas is gemakkelijk te onderhouden en geschikt voor de droger. OekoTex-gecertificeerd, dus veilig en milieuvriendelijk. Waarom compromissen sluiten als u kunt genieten van de hoogwaardige kwaliteit van Caw\u00f6\\\\n\\\\nBadjas\\\\nMerk: Caw\u00f6\\\\nModel: 5108\\\\nKleur: Black\\\\nMateriaal: 100% Katoen\\\\nLengte: 105 cm\\\\nZachte badstof\\\\nLicht\\\\nAbsorberend\\\\nComfortabele pasvorm\\\\nCapuchon\\\\nRitssluiting\\\\nZijzakken\\\\nGemakkelijk te onderhouden en geschikt voor de droger\\\\nOekoTex-gecertificeerd\\\\nGeschikt voor: Dames",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1184025563,
+          "gtinGroupId": "137-3j9E8nwbSDs587sRKnf4pejAYzXz",
+          "categoryId": 9005578,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": 589594545115,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 2,
+          "shopIds": [
+            374467
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 135,
+                "width": 79
+              },
+              "type": "mainImage",
+              "url": "3j9E8nxuc67mujtkUCSU6Rc5GfVs/394/{size}/f3a62701293ea0cf9dd25c869b9bbd92/Badjassen/Badjas-Caw%c3%b6-Women-5108-Capuchon-en-Rits-Black-36-38.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3j9E8nxuc67mujtkUCSU6Rc5GfVs",
+              "value": "36 / 38",
+              "available": true,
+              "price": 159.9,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 23810712,
+                  "caption": "Maat 36/38",
+                  "columnValue": "36/38",
+                  "crawlable": true,
+                  "detailValue": "Maat 36/38",
+                  "fullId": "3161_23810712",
+                  "sequence": 36,
+                  "urlName": null,
+                  "productIdV3": "3j9E8nxuc67mujtkUCSU6Rc5GfVs",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.9,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 5784308,
+          "brandName": "Caw\u00f6",
+          "brandRank": 1782,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2023-11-08 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 500
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 - 5 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Caw\u00f6",
+              "values": [
+                {
+                  "id": 5784308,
+                  "caption": "Caw\u00f6",
+                  "columnValue": "Caw\u00f6",
+                  "crawlable": true,
+                  "detailValue": "Caw\u00f6",
+                  "fullId": "48_5784308",
+                  "sequence": 508,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Etrias.nl",
+              "values": [
+                {
+                  "id": 8916198,
+                  "caption": "Etrias.nl",
+                  "columnValue": "Etrias.nl",
+                  "crawlable": true,
+                  "detailValue": "Etrias.nl",
+                  "fullId": "49_8916198",
+                  "sequence": 223,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met capuchon",
+              "values": [
+                {
+                  "id": 16193065,
+                  "caption": "Met capuchon",
+                  "columnValue": "Met capuchon",
+                  "crawlable": true,
+                  "detailValue": "Met capuchon",
+                  "fullId": "3730_16193065",
+                  "sequence": 49,
+                  "urlName": null
+                },
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 401012,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3003_401012",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Katoen",
+              "values": [
+                {
+                  "id": 242265,
+                  "caption": "Katoenen",
+                  "columnValue": "Katoen",
+                  "crawlable": true,
+                  "detailValue": "Katoenen",
+                  "fullId": "2624_242265",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "36/38",
+              "values": [
+                {
+                  "id": 23810712,
+                  "caption": "Maat 36/38",
+                  "columnValue": "36/38",
+                  "crawlable": true,
+                  "detailValue": "Maat 36/38",
+                  "fullId": "3161_23810712",
+                  "sequence": 36,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4251,
+              "name": "Soort",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type_oj",
+              "value": "Ochtendjassen",
+              "values": [
+                {
+                  "id": 6974204,
+                  "caption": "Ochtendjassen",
+                  "columnValue": "Ochtendjassen",
+                  "crawlable": true,
+                  "detailValue": "Ochtendjassen",
+                  "fullId": "4251_6974204",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4766,
+              "name": "Soort zakken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_zakken",
+              "value": "Cargozak",
+              "values": [
+                {
+                  "id": 9558839,
+                  "caption": "met cargozak",
+                  "columnValue": "Cargozak",
+                  "crawlable": true,
+                  "detailValue": "met cargozak",
+                  "fullId": "4766_9558839",
+                  "sequence": 10,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Natuurlijk materiaal",
+              "values": [
+                {
+                  "id": 23597271,
+                  "caption": "Natuurlijk materiaal",
+                  "columnValue": "Natuurlijk materiaal",
+                  "crawlable": true,
+                  "detailValue": "Natuurlijk materiaal",
+                  "fullId": "6290_23597271",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": {
+            "id": null,
+            "detail": null,
+            "isTopDetail": null,
+            "value": "Zwart"
+          },
+          "bidData": null,
+          "bidApiData": {
+            "cps": {
+              "brandId": 5784308,
+              "categoryId": 9005578,
+              "isDisplayGuaranteed": false,
+              "origin": 101,
+              "shopId": 374467,
+              "uuid": "8cdda42b-910f-407a-ace0-e6d148903c8e",
+              "value": 12.5
+            }
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-0a7c3a82-b545-45c2-a2a7-dcb5d4b3427c",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 159.9,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "beslistWarranty"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

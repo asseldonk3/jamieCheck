@@ -1,0 +1,1733 @@
+{
+  "offset": 0,
+  "numFound": 10,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 10,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 24.99,
+        "highestDiscount": 44,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3161,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_jassen_jurken_pakken",
+            "values": [
+              {
+                "id": 471770,
+                "caption": "Maat XS",
+                "columnValue": "XS",
+                "crawlable": true,
+                "detailValue": "Maat XS",
+                "fullId": "3161_471770",
+                "sequence": 3,
+                "urlName": null
+              },
+              {
+                "id": 471771,
+                "caption": "Maat S",
+                "columnValue": "S",
+                "crawlable": true,
+                "detailValue": "Maat S",
+                "fullId": "3161_471771",
+                "sequence": 5,
+                "urlName": null
+              },
+              {
+                "id": 471772,
+                "caption": "Maat M",
+                "columnValue": "M",
+                "crawlable": true,
+                "detailValue": "Maat M",
+                "fullId": "3161_471772",
+                "sequence": 7,
+                "urlName": null
+              },
+              {
+                "id": 471773,
+                "caption": "Maat L",
+                "columnValue": "L",
+                "crawlable": true,
+                "detailValue": "Maat L",
+                "fullId": "3161_471773",
+                "sequence": 9,
+                "urlName": null
+              },
+              {
+                "id": 471774,
+                "caption": "Maat XL",
+                "columnValue": "XL",
+                "crawlable": true,
+                "detailValue": "Maat XL",
+                "fullId": "3161_471774",
+                "sequence": 11,
+                "urlName": null
+              },
+              {
+                "id": 471775,
+                "caption": "Maat XXL",
+                "columnValue": "XXL",
+                "crawlable": true,
+                "detailValue": "Maat XXL",
+                "fullId": "3161_471775",
+                "sequence": 13,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "2NqyCAyf1jhwavpMKMQYJti5rqKx",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2NqyCBLKjt1FJYmguTFxEAFFTdCt",
+            "advertisementIdV3": "2NqyCBLKjt1FJYmguTFxEAFFTdCt"
+          },
+          "shopItemId": 0,
+          "productId": "2NqyCAyf1jhwavpMKMQYJti5rqKx",
+          "ean": "",
+          "shopInfo": {
+            "id": 512098,
+            "shopName": "Amazon.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 3200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/512098.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:23:12+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Amazon.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22562,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 512098,
+            "shopItemId": 0,
+            "shopItemTitle": "PIECES Damesblazer, natuurlijk/Aop: leo, L",
+            "shopItemDescription": "",
+            "shopItemVersion": "B0B1DZFNNY-B09M97TG74-natuurlijk-B09M97TG74",
+            "shopName": "Amazon.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2NqyCAyf1jhwavpMKMQYJti5rqKx",
+            "condition": "Nieuw",
+            "ean": "5715312692786",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.amazon.nl/dp/B0B1DZFNNY/ref=asc_df_B0B1DZFNNY/?creative=380333&creativeASIN=B0B1DZFNNY&linkCode=asn&tag=beslistnl20-21&ascsubtag=UUID_placeholder",
+            "size": "L",
+            "shopReviewScore": 4.2,
+            "shopReviewAmount": 686,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 21,
+              "price": 24.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 34,
+              "price": 44.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "B0B1DZFNNY",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "a6c341fd-adbe-4610-a086-35ea46c60126",
+            "title": "Pieces Pcbosella Printed Blazer Noos Dames Blazer",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 22.19
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 23.71
+          },
+          "title": "PIECES Damesblazer, natuurlijk/Aop: leo, L",
+          "fixedTitle": "PIECES Damesblazer, natuurlijk/Aop: leo, L",
+          "indexIdentifierTimeStamp": 1744908273,
+          "description": "Open voorzijde Geribbelde manchetten Met binnenvoering 50% polyester, gerecycled, 48% polyester, 2% elastaan",
+          "descriptionRaw": "Open voorzijde Geribbelde manchetten Met binnenvoering 50% polyester, gerecycled, 48% polyester, 2% elastaan",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-2NqyCBLKjt1FJYmguTFxEAFFTdCt",
+          "categoryId": 9000762,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 11,
+          "shopIds": [
+            512098
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 810
+              },
+              "type": "mainImage",
+              "url": "pim/5715312692786/394/{size}/5ddcd7dbfe027d94e042897bec1396f5/Blazers/PIECES-Damesblazer%2c-natuurlijk-Aop%3a-leo%2c-L.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 833
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692786/15376/{size}/cab79728ed860ff7eef4bd073e6cb807/Blazers/PIECES-Damesblazer%2c-natuurlijk-Aop%3a-leo%2c-L.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 899
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692786/15378/{size}/496d06da0d3fc7b25d6f352b9b65a3ff/Blazers/PIECES-Damesblazer%2c-natuurlijk-Aop%3a-leo%2c-L.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1197,
+                "width": 899
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692786/15379/{size}/4cb6d5d272e5698fca74f550639b2b23/Blazers/PIECES-Damesblazer%2c-natuurlijk-Aop%3a-leo%2c-L.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 897
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692786/15380/{size}/d186f72c924f4ffc2e589146b8e02cd5/Blazers/PIECES-Damesblazer%2c-natuurlijk-Aop%3a-leo%2c-L.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 824
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692786/15377/{size}/338a652142fc3b2f4491401ba8230731/Blazers/PIECES-Damesblazer%2c-natuurlijk-Aop%3a-leo%2c-L.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1199,
+                "width": 822
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692786/15381/{size}/e8a864772ecd39254c0c9404644ce78e/Blazers/PIECES-Damesblazer%2c-natuurlijk-Aop%3a-leo%2c-L.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 797
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692786/15382/{size}/4f041309da5c9b7481e829e6bccca0f6/Blazers/PIECES-Damesblazer%2c-natuurlijk-Aop%3a-leo%2c-L.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 1199,
+                "width": 924
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692786/15383/{size}/802a97e116b6b9fa1ea18ea4790499d7/Blazers/PIECES-Damesblazer%2c-natuurlijk-Aop%3a-leo%2c-L.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 1197,
+                "width": 799
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692786/15384/{size}/da00e0cb0ff6844573f974fc3ca3746c/Blazers/PIECES-Damesblazer%2c-natuurlijk-Aop%3a-leo%2c-L.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 1199,
+                "width": 798
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692786/15385/{size}/72c74820af8552bcfd4f5cd2c7f4fd50/Blazers/PIECES-Damesblazer%2c-natuurlijk-Aop%3a-leo%2c-L.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCAyf1jhwavpMKMQYJti5rqKx",
+              "value": "L",
+              "available": true,
+              "price": 24.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCAwPDpy14iXAXDKZ4bHBPv3Q",
+              "value": "XXL",
+              "available": true,
+              "price": 24.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "2NqyCAyf1jhwavpMKMQYJti5rqKx",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 21,
+                    "price": 24.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null,
+                  "productIdV3": "2NqyCAwPDpy14iXAXDKZ4bHBPv3Q",
+                  "regularPrice": {
+                    "bucket": 21,
+                    "price": 33.19,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 21,
+                    "price": 24.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 562780,
+          "brandName": "Pieces",
+          "brandRank": 42,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-15 00:00:00",
+          "popularity": 116,
+          "popularityData": {
+            "clickFactor": 9,
+            "webshopsRevenuePerClick": 1.27,
+            "roasPercentage": 1100
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "L",
+              "values": [
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Pieces",
+              "values": [
+                {
+                  "id": 562780,
+                  "caption": "Pieces",
+                  "columnValue": "Pieces",
+                  "crawlable": true,
+                  "detailValue": "Pieces",
+                  "fullId": "48_562780",
+                  "sequence": 2054,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Amazon.nl",
+              "values": [
+                {
+                  "id": 19275880,
+                  "caption": "Amazon.nl",
+                  "columnValue": "Amazon.nl",
+                  "crawlable": true,
+                  "detailValue": "Amazon.nl",
+                  "fullId": "49_19275880",
+                  "sequence": 29,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 242263,
+                  "caption": "Elasthan",
+                  "columnValue": "Elasthan",
+                  "crawlable": true,
+                  "detailValue": "Elasthan",
+                  "fullId": "2624_242263",
+                  "sequence": 41,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 5113788,
+                  "caption": "Avond",
+                  "columnValue": "Avondkleding",
+                  "crawlable": true,
+                  "detailValue": "Avond",
+                  "fullId": "3114_5113788",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Gerecycled materiaal",
+              "values": [
+                {
+                  "id": 23597270,
+                  "caption": "Gerecycled materiaal",
+                  "columnValue": "Gerecycled materiaal",
+                  "crawlable": true,
+                  "detailValue": "Gerecycled materiaal",
+                  "fullId": "6290_23597270",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "512098-B09M97TG74",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-a6c341fd-adbe-4610-a086-35ea46c60126",
+          "revenuePerClick": 0.12,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 24.99,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 3,
+            "rating": 46
+          },
+          "labels": [],
+          "discountPercentage": 44,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 44
+            }
+          ]
+        },
+        {
+          "id": "a5ms6R93GWPrcg9BBvJBnZG1fXX",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "a5ms6dGeMsENuPytF54E5HFhpr9",
+            "advertisementIdV3": "a5ms6dGeMsENuPytF54E5HFhpr9"
+          },
+          "shopItemId": 0,
+          "productId": "a5ms6R93GWPrcg9BBvJBnZG1fXX",
+          "ean": "",
+          "shopInfo": {
+            "id": 651560,
+            "shopName": "Amazon Partners",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/651560.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22562,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 651560,
+            "shopItemId": 0,
+            "shopItemTitle": "PIECES Damesblazer PCBOSELLA, natuurlijk/Aop: leo, XL",
+            "shopItemDescription": "",
+            "shopItemVersion": "B0B1F17BWJ-B0DBMWQZF3-natuurlijk/Aop: leo-B0DBMWQZF3",
+            "shopName": "Amazon Partners",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "a5ms6R93GWPrcg9BBvJBnZG1fXX",
+            "condition": "Nieuw",
+            "ean": "5715312717236",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.amazon.nl/dp/B0B1F17BWJ/ref=asc_df_B0B1F17BWJ1744786800000/?tag=beslistmpnl-21&creative=380333&creativeASIN=B0B1F17BWJ&linkCode=asn&ascsubtag=UUID_placeholder",
+            "size": "XL",
+            "shopReviewScore": 4.8,
+            "shopReviewAmount": 595,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 21,
+              "price": 24.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 34,
+              "price": 44.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "B0B1F17BWJ",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "a6c341fd-adbe-4610-a086-35ea46c60126",
+            "title": "Pieces Pcbosella Printed Blazer Noos Dames Blazer",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 22.19
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 23.71
+          },
+          "title": "PIECES Damesblazer PCBOSELLA, natuurlijk/Aop: leo, XL",
+          "fixedTitle": "PIECES Damesblazer PCBOSELLA, natuurlijk/Aop: leo, S",
+          "indexIdentifierTimeStamp": 1744908273,
+          "description": "Open voorzijde Geribbelde manchetten Met binnenvoering",
+          "descriptionRaw": "Open voorzijde Geribbelde manchetten Met binnenvoering",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-a5ms6dGeMsENuPytF54E5HFhpr9",
+          "categoryId": 9000762,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 11,
+          "shopIds": [
+            651560
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 810
+              },
+              "type": "mainImage",
+              "url": "pim/5715312692779/394/{size}/5ddcd7dbfe027d94e042897bec1396f5/Blazers/PIECES-Damesblazer-PCBOSELLA%2c-natuurlijk-Aop%3a-leo%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 833
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692779/15376/{size}/cab79728ed860ff7eef4bd073e6cb807/Blazers/PIECES-Damesblazer-PCBOSELLA%2c-natuurlijk-Aop%3a-leo%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 824
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692779/15377/{size}/338a652142fc3b2f4491401ba8230731/Blazers/PIECES-Damesblazer-PCBOSELLA%2c-natuurlijk-Aop%3a-leo%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 899
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692779/15378/{size}/496d06da0d3fc7b25d6f352b9b65a3ff/Blazers/PIECES-Damesblazer-PCBOSELLA%2c-natuurlijk-Aop%3a-leo%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1197,
+                "width": 899
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692779/15379/{size}/4cb6d5d272e5698fca74f550639b2b23/Blazers/PIECES-Damesblazer-PCBOSELLA%2c-natuurlijk-Aop%3a-leo%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 897
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692779/15380/{size}/d186f72c924f4ffc2e589146b8e02cd5/Blazers/PIECES-Damesblazer-PCBOSELLA%2c-natuurlijk-Aop%3a-leo%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1199,
+                "width": 822
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692779/15381/{size}/e8a864772ecd39254c0c9404644ce78e/Blazers/PIECES-Damesblazer-PCBOSELLA%2c-natuurlijk-Aop%3a-leo%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 797
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692779/15382/{size}/4f041309da5c9b7481e829e6bccca0f6/Blazers/PIECES-Damesblazer-PCBOSELLA%2c-natuurlijk-Aop%3a-leo%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 1199,
+                "width": 924
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692779/15383/{size}/802a97e116b6b9fa1ea18ea4790499d7/Blazers/PIECES-Damesblazer-PCBOSELLA%2c-natuurlijk-Aop%3a-leo%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 1197,
+                "width": 799
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692779/15384/{size}/da00e0cb0ff6844573f974fc3ca3746c/Blazers/PIECES-Damesblazer-PCBOSELLA%2c-natuurlijk-Aop%3a-leo%2c-S.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 1199,
+                "width": 798
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715312692779/15385/{size}/72c74820af8552bcfd4f5cd2c7f4fd50/Blazers/PIECES-Damesblazer-PCBOSELLA%2c-natuurlijk-Aop%3a-leo%2c-S.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6R93GWPrcg9BBvJBnZG1fXX",
+              "value": "XL",
+              "available": true,
+              "price": 24.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6c1fBRHUeamFNEbBsgcxqMH",
+              "value": "S",
+              "available": true,
+              "price": 24.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null,
+                  "productIdV3": "a5ms6c1fBRHUeamFNEbBsgcxqMH",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 21,
+                    "price": 24.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "a5ms6R93GWPrcg9BBvJBnZG1fXX",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 44.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 21,
+                    "price": 24.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 562780,
+          "brandName": "Pieces",
+          "brandRank": 42,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-15 00:00:00",
+          "popularity": 4,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 1.99,
+            "roasPercentage": 6600
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op voorraad",
+          "deliveryTimeSort": 8,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "S",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Pieces",
+              "values": [
+                {
+                  "id": 562780,
+                  "caption": "Pieces",
+                  "columnValue": "Pieces",
+                  "crawlable": true,
+                  "detailValue": "Pieces",
+                  "fullId": "48_562780",
+                  "sequence": 2054,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Avondkleding",
+              "values": [
+                {
+                  "id": 5113788,
+                  "caption": "Avond",
+                  "columnValue": "Avondkleding",
+                  "crawlable": true,
+                  "detailValue": "Avond",
+                  "fullId": "3114_5113788",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "651560-B0DBMWQZF3",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-a6c341fd-adbe-4610-a086-35ea46c60126",
+          "revenuePerClick": 0.03,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 24.99,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 3,
+            "rating": 46
+          },
+          "labels": [],
+          "discountPercentage": 44,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 44
+            }
+          ]
+        },
+        {
+          "id": "3aTy6WQMF6QfqtKLx43UYKSEzCze",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3aTy6WfybfhcrJMNHSdBgwKsatss",
+            "advertisementIdV3": "3aTy6WfybfhcrJMNHSdBgwKsatss"
+          },
+          "shopItemId": 0,
+          "productId": "3aTy6WQMF6QfqtKLx43UYKSEzCze",
+          "ean": "",
+          "shopInfo": {
+            "id": 653752,
+            "shopName": "Pieces.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/653752.png",
+            "coolingOffPeriod": 0,
+            "activeSince": "2025-04-17T08:25:20+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 39862,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 37,
+                "name": "Google Pay"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 653752,
+            "shopItemId": 0,
+            "shopItemTitle": "Pcbosella Blazer",
+            "shopItemDescription": "",
+            "shopItemVersion": "5715312692779-17126850_Natural_954531_001",
+            "shopName": "Pieces.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3aTy6Wj3eZeWUx1UWAMa6rooxqeR",
+            "condition": "Nieuw",
+            "ean": "5715312692779",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://pieces.prf.hn/click/camref:1101lqTEu/pubref:UUID_placeholder/creativeref:1101l85836/destination:https%3A%2F%2Fwww.pieces.com%2Fnl-nl%2Fpcbosella-blazer-17126850_Natural_954531.html",
+            "size": "S",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 34,
+              "price": 34.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 34,
+              "price": 49.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "5715312692779",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "a6c341fd-adbe-4610-a086-35ea46c60126",
+            "title": "Pieces Pcbosella Printed Blazer Noos Dames Blazer",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 22.19
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 23.71
+          },
+          "title": "Pcbosella Blazer",
+          "fixedTitle": "Pcbosella Blazer",
+          "indexIdentifierTimeStamp": 1744908273,
+          "description": "- Sjaalkraag - Open voorkant - Driekwartmouwen - Geplooide manchetten - Gevoerd - Meerdere designs - Regular fit",
+          "descriptionRaw": "- Sjaalkraag - Open voorkant - Driekwartmouwen - Geplooide manchetten - Gevoerd - Meerdere designs - Regular fit",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-3aTy6WfybfhcrJMNHSdBgwKsatss",
+          "categoryId": 9000762,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 11,
+          "shopIds": [
+            653752
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 810
+              },
+              "type": "mainImage",
+              "url": "pim/5715224142300/394/{size}/5ddcd7dbfe027d94e042897bec1396f5/Blazers/Pcbosella-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 833
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715224142300/15376/{size}/cab79728ed860ff7eef4bd073e6cb807/Blazers/Pcbosella-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 824
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715224142300/15377/{size}/338a652142fc3b2f4491401ba8230731/Blazers/Pcbosella-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 899
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715224142300/15378/{size}/496d06da0d3fc7b25d6f352b9b65a3ff/Blazers/Pcbosella-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1197,
+                "width": 899
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715224142300/15379/{size}/4cb6d5d272e5698fca74f550639b2b23/Blazers/Pcbosella-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 897
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715224142300/15380/{size}/d186f72c924f4ffc2e589146b8e02cd5/Blazers/Pcbosella-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1199,
+                "width": 822
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715224142300/15381/{size}/e8a864772ecd39254c0c9404644ce78e/Blazers/Pcbosella-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 797
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715224142300/15382/{size}/4f041309da5c9b7481e829e6bccca0f6/Blazers/Pcbosella-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 1199,
+                "width": 924
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715224142300/15383/{size}/802a97e116b6b9fa1ea18ea4790499d7/Blazers/Pcbosella-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 1197,
+                "width": 799
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715224142300/15384/{size}/da00e0cb0ff6844573f974fc3ca3746c/Blazers/Pcbosella-Blazer.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 1199,
+                "width": 798
+              },
+              "type": "alternativeImage",
+              "url": "pim/5715224142300/15385/{size}/72c74820af8552bcfd4f5cd2c7f4fd50/Blazers/Pcbosella-Blazer.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3aTy6WQMF6QfqtKLx43UYKSEzCze",
+              "value": "XS",
+              "available": true,
+              "price": 34.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3aTy6Wj3eZeWUx1UWAMa6rooxqeR",
+              "value": "S",
+              "available": true,
+              "price": 34.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3aTy6WibkSnge25qQnEe2kLmzdPM",
+              "value": "M",
+              "available": true,
+              "price": 34.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null,
+                  "productIdV3": "3aTy6WQMF6QfqtKLx43UYKSEzCze",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 34.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null,
+                  "productIdV3": "3aTy6Wj3eZeWUx1UWAMa6rooxqeR",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 34.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "3aTy6WibkSnge25qQnEe2kLmzdPM",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 34.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 562780,
+          "brandName": "Pieces",
+          "brandRank": 42,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-15 00:00:00",
+          "popularity": 4,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.59,
+            "roasPercentage": 3300
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "2 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 4.95,
+          "facets": [
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "XS",
+              "values": [
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Pieces",
+              "values": [
+                {
+                  "id": 562780,
+                  "caption": "Pieces",
+                  "columnValue": "Pieces",
+                  "crawlable": true,
+                  "detailValue": "Pieces",
+                  "fullId": "48_562780",
+                  "sequence": 2054,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Bruin",
+              "values": [
+                {
+                  "id": 401015,
+                  "caption": "Bruine",
+                  "columnValue": "Bruin",
+                  "crawlable": true,
+                  "detailValue": "Bruine",
+                  "fullId": "3003_401015",
+                  "sequence": 12,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Winterkleding",
+              "values": [
+                {
+                  "id": 7092954,
+                  "caption": "Winter",
+                  "columnValue": "Winterkleding",
+                  "crawlable": true,
+                  "detailValue": "Winter",
+                  "fullId": "3114_7092954",
+                  "sequence": 19,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met mouwen",
+              "values": [
+                {
+                  "id": 15836705,
+                  "caption": "Met mouwen",
+                  "columnValue": "Met mouwen",
+                  "crawlable": true,
+                  "detailValue": "Met mouwen",
+                  "fullId": "3730_15836705",
+                  "sequence": 58,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4729,
+              "name": "Pasvorm",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pasvorm",
+              "value": "Regular fit",
+              "values": [
+                {
+                  "id": 9343450,
+                  "caption": "Regular fit",
+                  "columnValue": "Regular fit",
+                  "crawlable": true,
+                  "detailValue": "Regular fit",
+                  "fullId": "4729_9343450",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-a6c341fd-adbe-4610-a086-35ea46c60126",
+          "revenuePerClick": 0.02,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 2,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 24.99,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 3,
+            "rating": 46
+          },
+          "labels": [],
+          "discountPercentage": 30,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 30
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

@@ -1,0 +1,1710 @@
+{
+  "offset": 0,
+  "numFound": 3,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 3,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 64.95,
+        "highestDiscount": 7,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3161,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_jassen_jurken_pakken",
+            "values": [
+              {
+                "id": 471725,
+                "caption": "Maat 116",
+                "columnValue": "116",
+                "crawlable": true,
+                "detailValue": "Maat 116",
+                "fullId": "3161_471725",
+                "sequence": 68,
+                "urlName": null
+              },
+              {
+                "id": 471727,
+                "caption": "Maat 128",
+                "columnValue": "128",
+                "crawlable": true,
+                "detailValue": "Maat 128",
+                "fullId": "3161_471727",
+                "sequence": 71,
+                "urlName": null
+              },
+              {
+                "id": 471729,
+                "caption": "Maat 140",
+                "columnValue": "140",
+                "crawlable": true,
+                "detailValue": "Maat 140",
+                "fullId": "3161_471729",
+                "sequence": 74,
+                "urlName": null
+              },
+              {
+                "id": 471731,
+                "caption": "Maat 152",
+                "columnValue": "152",
+                "crawlable": true,
+                "detailValue": "Maat 152",
+                "fullId": "3161_471731",
+                "sequence": 77,
+                "urlName": null
+              },
+              {
+                "id": 471733,
+                "caption": "Maat 164",
+                "columnValue": "164",
+                "crawlable": true,
+                "detailValue": "Maat 164",
+                "fullId": "3161_471733",
+                "sequence": 80,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "URtpGqybR1BebAt2Jk4hfhpdmGX",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "URtpHJUkRLVpkdbArQPPvH8gz2X",
+            "advertisementIdV3": "URtpHJUkRLVpkdbArQPPvH8gz2X"
+          },
+          "shopItemId": 0,
+          "productId": "URtpGqybR1BebAt2Jk4hfhpdmGX",
+          "ean": "",
+          "shopInfo": {
+            "id": 651809,
+            "shopName": "Voetbalfanshop.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 9,
+            "productCount": 700,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/651809.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:25:24+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 21771,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@morefootballs.com",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 651809,
+            "shopItemId": 0,
+            "shopItemTitle": "Real Madrid trainingspak kids 24/25 - Maat 128",
+            "shopItemDescription": "",
+            "shopItemVersion": "191236-RM2CHP23P-191234",
+            "shopName": "Voetbalfanshop.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "URtpGqwdBvukfzjeGvfgMeHHuK7",
+            "condition": "Nieuw",
+            "ean": "8435613241687",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.voetbalfanshop.nl/real-madrid-trainingspak-kids-24-25/?attribute_pa_maat=128&utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "128",
+            "shopReviewScore": 9,
+            "shopReviewAmount": 129,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 55,
+              "price": 64.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "191236",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "d2935d38-39c7-4c4a-960f-3e9040eb794d",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 62.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 62.95
+          },
+          "title": "Real Madrid trainingspak kids 24/25 - Maat 164",
+          "fixedTitle": "Real Madrid trainingspak kids 24/25 - Maat 116",
+          "indexIdentifierTimeStamp": 1744885010,
+          "description": "Real Madrid trainingspak voor kinderen\nIdeaal om in te sporten, heerlijk om in te chillen en perfect om in te supporten! Dit Real Madrid trainingspak voor kids van het seizoen 24/25 is veelzijdig en stijlvol! Het Real Madrid pak bestaat uit een trainingsvest en een trainingsbroek. De onderzijde van het vest is donkerblauw van kleur en de bovenzijde wit. Op de linkerborstzijde vind je het Real Madrid logo en op de andere zijde vind je de de clubnaam voluit geschreven. Op beide mouwen vind je een blauwe tape met wederom de clubnaam op een doorlopende print. De trainingsbroek is donkerblauw van kleur en bevat het Real Madrid logo aan de rechterzijde. Zowel op het vest als op de broek vind je insteekzakken voor je waardevolle spullen. Tot slot zijn de pijpen verstelbaar middels een ritssluiting voor extra comfort. Door de polyester samenstelling, is dit trainingspak gemakkelijk te wassen en kan het goed ademen.\nKenmerken Real Madrid trainingspak voor",
+          "descriptionRaw": "<h2>Real Madrid trainingspak voor kinderen</h2>\n<p>Ideaal om in te sporten, heerlijk om in te chillen en perfect om in te supporten! Dit Real Madrid trainingspak voor kids van het seizoen 24/25 is veelzijdig en stijlvol! Het Real Madrid pak bestaat uit een trainingsvest en een trainingsbroek. De onderzijde van het vest is donkerblauw van kleur en de bovenzijde wit. Op de linkerborstzijde vind je het Real Madrid logo en op de andere zijde vind je de de clubnaam voluit geschreven. Op beide mouwen vind je een blauwe tape met wederom de clubnaam op een doorlopende print. De trainingsbroek is donkerblauw van kleur en bevat het Real Madrid logo aan de rechterzijde. Zowel op het vest als op de broek vind je insteekzakken voor je waardevolle spullen. Tot slot zijn de pijpen verstelbaar middels een ritssluiting voor extra comfort. Door de polyester samenstelling, is dit trainingspak gemakkelijk te wassen en kan het goed ademen.</p>\n<h3>Kenmerken Real Madrid trainingspak voor",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-URtpHJUkRLVpkdbArQPPvH8gz2X",
+          "categoryId": 9000666,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            651809
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 866,
+                "width": 968
+              },
+              "type": "mainImage",
+              "url": "URtpGqybR1BebAt2Jk4hfhpdmGX/394/{size}/ce530d8bd0bb168f624a305cf31c918b/Trainingspakken/Real-Madrid-trainingspak-kids-24-25-Maat-116.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "URtpGqybR1BebAt2Jk4hfhpdmGX",
+              "value": "164",
+              "available": true,
+              "price": 64.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "URtpHFipmEgXWK74zHznp4iAqL8",
+              "value": "140",
+              "available": true,
+              "price": 64.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "URtpHC6smyvDm5YoPJMnrdhJQuj",
+              "value": "152",
+              "available": true,
+              "price": 64.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "URtpGw3jJrMcr6JuwC9CfvygCuV",
+              "value": "116",
+              "available": true,
+              "price": 64.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "URtpGqwdBvukfzjeGvfgMeHHuK7",
+              "value": "128",
+              "available": true,
+              "price": 64.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471725,
+                  "caption": "Maat 116",
+                  "columnValue": "116",
+                  "crawlable": true,
+                  "detailValue": "Maat 116",
+                  "fullId": "3161_471725",
+                  "sequence": 68,
+                  "urlName": null,
+                  "productIdV3": "URtpGw3jJrMcr6JuwC9CfvygCuV",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 64.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471727,
+                  "caption": "Maat 128",
+                  "columnValue": "128",
+                  "crawlable": true,
+                  "detailValue": "Maat 128",
+                  "fullId": "3161_471727",
+                  "sequence": 71,
+                  "urlName": null,
+                  "productIdV3": "URtpGqwdBvukfzjeGvfgMeHHuK7",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 64.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471729,
+                  "caption": "Maat 140",
+                  "columnValue": "140",
+                  "crawlable": true,
+                  "detailValue": "Maat 140",
+                  "fullId": "3161_471729",
+                  "sequence": 74,
+                  "urlName": null,
+                  "productIdV3": "URtpHFipmEgXWK74zHznp4iAqL8",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 64.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471731,
+                  "caption": "Maat 152",
+                  "columnValue": "152",
+                  "crawlable": true,
+                  "detailValue": "Maat 152",
+                  "fullId": "3161_471731",
+                  "sequence": 77,
+                  "urlName": null,
+                  "productIdV3": "URtpHC6smyvDm5YoPJMnrdhJQuj",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 64.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471733,
+                  "caption": "Maat 164",
+                  "columnValue": "164",
+                  "crawlable": true,
+                  "detailValue": "Maat 164",
+                  "fullId": "3161_471733",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "URtpGqybR1BebAt2Jk4hfhpdmGX",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 64.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-14 00:00:00",
+          "popularity": 7793,
+          "popularityData": {
+            "clickFactor": 139,
+            "webshopsRevenuePerClick": 2.03,
+            "roasPercentage": 500
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 21:00 uur besteld, morgen in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "116",
+              "values": [
+                {
+                  "id": 471725,
+                  "caption": "Maat 116",
+                  "columnValue": "116",
+                  "crawlable": true,
+                  "detailValue": "Maat 116",
+                  "fullId": "3161_471725",
+                  "sequence": 68,
+                  "urlName": null
+                },
+                {
+                  "id": 471727,
+                  "caption": "Maat 128",
+                  "columnValue": "128",
+                  "crawlable": true,
+                  "detailValue": "Maat 128",
+                  "fullId": "3161_471727",
+                  "sequence": 71,
+                  "urlName": null
+                },
+                {
+                  "id": 471729,
+                  "caption": "Maat 140",
+                  "columnValue": "140",
+                  "crawlable": true,
+                  "detailValue": "Maat 140",
+                  "fullId": "3161_471729",
+                  "sequence": 74,
+                  "urlName": null
+                },
+                {
+                  "id": 471731,
+                  "caption": "Maat 152",
+                  "columnValue": "152",
+                  "crawlable": true,
+                  "detailValue": "Maat 152",
+                  "fullId": "3161_471731",
+                  "sequence": 77,
+                  "urlName": null
+                },
+                {
+                  "id": 471733,
+                  "caption": "Maat 164",
+                  "columnValue": "164",
+                  "crawlable": true,
+                  "detailValue": "Maat 164",
+                  "fullId": "3161_471733",
+                  "sequence": 80,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Voetbalfanshop.nl",
+              "values": [
+                {
+                  "id": 23796105,
+                  "caption": "Voetbalfanshop.nl",
+                  "columnValue": "Voetbalfanshop.nl",
+                  "crawlable": true,
+                  "detailValue": "Voetbalfanshop.nl",
+                  "fullId": "49_23796105",
+                  "sequence": 844,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 401013,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3003_401013",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23544691,
+                  "caption": "Unisex",
+                  "columnValue": "Unisex",
+                  "crawlable": true,
+                  "detailValue": "Unisex",
+                  "fullId": "3110_23544691",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3515,
+              "name": "Fanshop",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "fanshop",
+              "value": "Real Madrid",
+              "values": [
+                {
+                  "id": 1335066,
+                  "caption": "Real Madrid",
+                  "columnValue": "Real Madrid",
+                  "crawlable": true,
+                  "detailValue": "Real Madrid",
+                  "fullId": "3515_1335066",
+                  "sequence": 51,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Voetbalkleding",
+              "values": [
+                {
+                  "id": 5340889,
+                  "caption": "Voetbal",
+                  "columnValue": "Voetbalkleding",
+                  "crawlable": true,
+                  "detailValue": "Voetbal",
+                  "fullId": "3875_5340889",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4660,
+              "name": "Uitvoering fanshop",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "ut_voetbalshirt",
+              "value": "Training",
+              "values": [
+                {
+                  "id": 12527924,
+                  "caption": "Training",
+                  "columnValue": "Training",
+                  "crawlable": true,
+                  "detailValue": "Training",
+                  "fullId": "4660_12527924",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "651809-191234",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-d2935d38-39c7-4c4a-960f-3e9040eb794d",
+          "revenuePerClick": 0.41,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 64.95,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 7,
+            "rating": 86
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 9,
+              "amount": 129
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        },
+        {
+          "id": "osEpSLvS9hS8CzoKDtoMnHWddU",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "osEpSFhjJjTuJks4t3MY5zh4HZ",
+            "advertisementIdV3": "osEpSFhjJjTuJks4t3MY5zh4HZ"
+          },
+          "shopItemId": 0,
+          "productId": "osEpSLvS9hS8CzoKDtoMnHWddU",
+          "ean": "",
+          "shopInfo": {
+            "id": 1,
+            "shopName": "bol.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 4200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/1.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:23:12+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "klantenservice@bol.com",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 1,
+            "shopItemId": 0,
+            "shopItemTitle": "Real Madrid Trainingspak Kinderen 2024/2025 - Maat 116 t/m 164 - Voetbal Trainingspakken - Jongens en Meisjes - Voetbalkleding",
+            "shopItemDescription": "",
+            "shopItemVersion": "9300000188635647-9300000188635648-Blauw-9300000188635648",
+            "shopName": "bol.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "osEpSLvS9hS8CzoKDtoMnHWddU",
+            "condition": "Nieuw",
+            "ean": "8435613241687",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://partner.bol.com/click/click?p=1&t=url&s=1126362&url=https%3a%2f%2fwww.bol.com%2fnl%2fnl%2fp%2freal-madrid-trainingspak-kinderen-2024-2025-maat-128-voetbal-trainingspakken-jongens-en-meisjes-voetbalkleding%2f9300000188635647%2f",
+            "size": "128",
+            "shopReviewScore": 4,
+            "shopReviewAmount": 39257,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 55,
+              "price": 64.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 55,
+              "price": 69.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "9300000188635647",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "d2935d38-39c7-4c4a-960f-3e9040eb794d",
+            "title": "Real Madrid Trainingspak Kinderen 2025 t/ Voetbal Trainingspakken Jongens en Meisjes Voetbalkleding",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 62.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 62.95
+          },
+          "title": "Real Madrid Trainingspak Kinderen 2024/2025 - Maat 116 t/m 164 - Voetbal Trainingspakken - Jongens en Meisjes - Voetbalkleding",
+          "fixedTitle": "Real Madrid Trainingspak Kinderen 2024/2025 - Maat 116 t/m 164 - Voetbal Trainingspakken - Jongens en Meisjes - Voetbalkleding",
+          "indexIdentifierTimeStamp": 1744885010,
+          "description": "Real Madrid trainingspak voor kinderen Ideaal om in te sporten, heerlijk om in te chillen en perfect om in te supporten! Dit Real Madrid trainingspak voor kids van het seizoen 24/25 is veelzijdig en stijlvol! Het Real Madrid pak bestaat uit een trainingsvest en een trainingsbroek. De onderzijde van het vest is donkerblauw van kleur en de bovenzijde wit. Op de linkerborstzijde vind je het Real Madrid logo en op de andere zijde vind je de de clubnaam voluit geschreven. Op beide mouwen vind je een blauwe tape met wederom de clubnaam op een doorlopende print. De trainingsbroek is donkerblauw van kleur en bevat het Real Madrid logo aan de rechterzijde. Zowel op het vest als op de broek vind je insteekzakken voor je waardevolle spullen. Tot slot zijn de pijpen verstelbaar middels een ritssluiting voor extra comfort. Door de polyester samenstelling, is dit trainingspak gemakkelijk te wassen en kan het goed ademen. Kenmerken Real Madrid trainingspak voor kids  Volledig Set: Een trainingspak bestaande uit een Real Madrid trainingsvest en trainingsbroek. 100% Real Madrid! Betaalbare Prijs: Door de nauwe samenwerking met (leveranciers) van Real Madrid, scoor jij kwalitatieve producten voor een betaalbare prijs! Comfortabel: Gemaakt van 100% polyester. Heerlijk om te dragen en gemakkelijk te wassen! Officieel Trainingspak: Dit trainingspak behoort tot de offici\u00eble Real Madrid fancollectie van 2024/2025. ",
+          "descriptionRaw": "<h3>Real Madrid trainingspak voor kinderen</h3> <p>Ideaal om in te sporten, heerlijk om in te chillen en perfect om in te supporten! Dit Real Madrid trainingspak voor kids van het seizoen 24/25 is veelzijdig en stijlvol! Het Real Madrid pak bestaat uit een trainingsvest en een trainingsbroek. De onderzijde van het vest is donkerblauw van kleur en de bovenzijde wit. Op de linkerborstzijde vind je het Real Madrid logo en op de andere zijde vind je de de clubnaam voluit geschreven. Op beide mouwen vind je een blauwe tape met wederom de clubnaam op een doorlopende print. De trainingsbroek is donkerblauw van kleur en bevat het Real Madrid logo aan de rechterzijde. Zowel op het vest als op de broek vind je insteekzakken voor je waardevolle spullen. Tot slot zijn de pijpen verstelbaar middels een ritssluiting voor extra comfort. Door de polyester samenstelling, is dit trainingspak gemakkelijk te wassen en kan het goed ademen.</p> <strong>Kenmerken Real Madrid trainingspak voor kids</strong> <ul> <li><strong>Volledig Set</strong>: Een trainingspak bestaande uit een Real Madrid trainingsvest en trainingsbroek. 100% Real Madrid!</li> <li><strong>Betaalbare Prijs</strong>: Door de nauwe samenwerking met (leveranciers) van Real Madrid, scoor jij kwalitatieve producten voor een betaalbare prijs!</li> <li><strong>Comfortabel</strong>: Gemaakt van 100% polyester. Heerlijk om te dragen en gemakkelijk te wassen!</li> <li><strong>Officieel Trainingspak</strong>: Dit trainingspak behoort tot de offici\u00eble Real Madrid fancollectie van 2024/2025.</li> </ul>",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-osEpSFhjJjTuJks4t3MY5zh4HZ",
+          "categoryId": 9000666,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            1
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1073,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/8435613241687/394/{size}/47a7effeea30e864e5a06d29bdd15c60/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-2024-2025-Maat-116-t-m-164-Voetbal-Trainingspakken-Jongens-e.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1197,
+                "width": 1197
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15376/{size}/22f5cedcd39324b265c1586835dc2584/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-2024-2025-Maat-116-t-m-164-Voetbal-Trainingspakken-Jongens-e.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 1198
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15377/{size}/bc7cd417f62b7fb9fca58c20532a5cb1/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-2024-2025-Maat-116-t-m-164-Voetbal-Trainingspakken-Jongens-e.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 389
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15378/{size}/2e00d03d59d39d01b35d355c567ba8b7/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-2024-2025-Maat-116-t-m-164-Voetbal-Trainingspakken-Jongens-e.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1198,
+                "width": 755
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15379/{size}/feea2011f8d41f225f3715093eb8ffcd/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-2024-2025-Maat-116-t-m-164-Voetbal-Trainingspakken-Jongens-e.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1181,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15380/{size}/c8f23212475fdc5bf8b43e53f77eea45/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-2024-2025-Maat-116-t-m-164-Voetbal-Trainingspakken-Jongens-e.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1181,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15381/{size}/f848cc0d587bcafd5bce64ebe4054399/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-2024-2025-Maat-116-t-m-164-Voetbal-Trainingspakken-Jongens-e.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 539
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15382/{size}/ade60ad40bc010dc6e84563a7e6bbedb/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-2024-2025-Maat-116-t-m-164-Voetbal-Trainingspakken-Jongens-e.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 1199,
+                "width": 539
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15383/{size}/a065744a22ab94fbc0ddc2bb15ca5bc0/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-2024-2025-Maat-116-t-m-164-Voetbal-Trainingspakken-Jongens-e.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEpSLvS9hS8CzoKDtoMnHWddU",
+              "value": "128",
+              "available": true,
+              "price": 64.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471727,
+                  "caption": "Maat 128",
+                  "columnValue": "128",
+                  "crawlable": true,
+                  "detailValue": "Maat 128",
+                  "fullId": "3161_471727",
+                  "sequence": 71,
+                  "urlName": null,
+                  "productIdV3": "osEpSLvS9hS8CzoKDtoMnHWddU",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 69.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 64.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-14 00:00:00",
+          "popularity": 11,
+          "popularityData": {
+            "clickFactor": 8,
+            "webshopsRevenuePerClick": 0.91,
+            "roasPercentage": 10000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "onbekend",
+          "deliveryTimeSort": 8,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "128",
+              "values": [
+                {
+                  "id": 471727,
+                  "caption": "Maat 128",
+                  "columnValue": "128",
+                  "crawlable": true,
+                  "detailValue": "Maat 128",
+                  "fullId": "3161_471727",
+                  "sequence": 71,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Bol.com",
+              "values": [
+                {
+                  "id": 401410,
+                  "caption": "Bol.com",
+                  "columnValue": "Bol.com",
+                  "crawlable": true,
+                  "detailValue": "Bol.com",
+                  "fullId": "49_401410",
+                  "sequence": 108,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 401013,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3003_401013",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23544691,
+                  "caption": "Unisex",
+                  "columnValue": "Unisex",
+                  "crawlable": true,
+                  "detailValue": "Unisex",
+                  "fullId": "3110_23544691",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3515,
+              "name": "Fanshop",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "fanshop",
+              "value": "Real Madrid",
+              "values": [
+                {
+                  "id": 1335066,
+                  "caption": "Real Madrid",
+                  "columnValue": "Real Madrid",
+                  "crawlable": true,
+                  "detailValue": "Real Madrid",
+                  "fullId": "3515_1335066",
+                  "sequence": 51,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Voetbalkleding",
+              "values": [
+                {
+                  "id": 5340889,
+                  "caption": "Voetbal",
+                  "columnValue": "Voetbalkleding",
+                  "crawlable": true,
+                  "detailValue": "Voetbal",
+                  "fullId": "3875_5340889",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4660,
+              "name": "Uitvoering fanshop",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "ut_voetbalshirt",
+              "value": "Training",
+              "values": [
+                {
+                  "id": 12527924,
+                  "caption": "Training",
+                  "columnValue": "Training",
+                  "crawlable": true,
+                  "detailValue": "Training",
+                  "fullId": "4660_12527924",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "1-9300000188635648",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-d2935d38-39c7-4c4a-960f-3e9040eb794d",
+          "revenuePerClick": 0.01,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 2,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 64.95,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 7,
+            "rating": 86
+          },
+          "labels": [],
+          "discountPercentage": 7,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 7
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        },
+        {
+          "id": "a5ms6jaZbytU7SwP5VgjuFKF2hg",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "a5ms6WUPMiDc73D99EUE5LuiDCB",
+            "advertisementIdV3": "a5ms6WUPMiDc73D99EUE5LuiDCB"
+          },
+          "shopItemId": 0,
+          "productId": "a5ms6jaZbytU7SwP5VgjuFKF2hg",
+          "ean": "",
+          "shopInfo": {
+            "id": 651560,
+            "shopName": "Amazon Partners",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/651560.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22562,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 651560,
+            "shopItemId": 0,
+            "shopItemTitle": "Real Madrid Trainingspak Kinderen - Maat 128 - Seizoen 2024/2025 - Jongens en Meisjes - Voetbal Trainingspak",
+            "shopItemDescription": "",
+            "shopItemVersion": "B0DG5RRQFL-B0DG5VPNS9-DONKERBLAUW-B0DG5VPNS9",
+            "shopName": "Amazon Partners",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "a5ms6jaZbytU7SwP5VgjuFKF2hg",
+            "condition": "Nieuw",
+            "ean": "8435613241687",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.amazon.nl/dp/B0DG5RRQFL/ref=asc_df_B0DG5RRQFL?ie=UTF8&condition=new&tag=beslistmpnl-21&creative=380345&creativeASIN=B0DG5RRQFL&linkCode=asm&ascsubtag=UUID_placeholder",
+            "size": "128",
+            "shopReviewScore": 4.8,
+            "shopReviewAmount": 595,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 55,
+              "price": 69.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "B0DG5RRQFL",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "d2935d38-39c7-4c4a-960f-3e9040eb794d",
+            "title": "Real Madrid Trainingspak Kinderen 2025 t/ Voetbal Trainingspakken Jongens en Meisjes Voetbalkleding",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 62.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 62.95
+          },
+          "title": "Real Madrid Trainingspak Kinderen - Maat 128 - Seizoen 2024/2025 - Jongens en Meisjes - Voetbal Trainingspak",
+          "fixedTitle": "Real Madrid Trainingspak Kinderen - Maat 128 - Seizoen 2024/2025 - Jongens en Meisjes - Voetbal Trainingspak",
+          "indexIdentifierTimeStamp": 1744885010,
+          "description": "VOLLEDIGE SET: Een trainingspak bestaande uit een Real Madrid trainingsvest en trainingsbroek. 100% Real Madrid! BETAALBARE PRIJS: Door de nauwe samenwerking met (leveranciers) van Real Madrid, scoor jij kwalitatieve producten voor een betaalbare prijs! COMFORTABEL: Gemaakt van 100% polyester. Heerlijk om te dragen en gemakkelijk te wassen! OFFICIEEL TRAININGSPAK: Dit trainingspak behoort tot de offici\u00eble Real Madrid fancollectie van 2024/2025. MOREFOOTBALLS: Bij Morefootballs koop je voetbalkleding uit offici\u00eble clubcollecties voor een betaalbare prijs!",
+          "descriptionRaw": "VOLLEDIGE SET: Een trainingspak bestaande uit een Real Madrid trainingsvest en trainingsbroek. 100% Real Madrid! BETAALBARE PRIJS: Door de nauwe samenwerking met (leveranciers) van Real Madrid, scoor jij kwalitatieve producten voor een betaalbare prijs! COMFORTABEL: Gemaakt van 100% polyester. Heerlijk om te dragen en gemakkelijk te wassen! OFFICIEEL TRAININGSPAK: Dit trainingspak behoort tot de offici\u00eble Real Madrid fancollectie van 2024/2025. MOREFOOTBALLS: Bij Morefootballs koop je voetbalkleding uit offici\u00eble clubcollecties voor een betaalbare prijs!",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-a5ms6WUPMiDc73D99EUE5LuiDCB",
+          "categoryId": 9000666,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            651560
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1073,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/8435613241687/394/{size}/47a7effeea30e864e5a06d29bdd15c60/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-Maat-128-Seizoen-2024-2025-Jongens-en-Meisjes-Voetbal-Trai.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1197,
+                "width": 1197
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15376/{size}/22f5cedcd39324b265c1586835dc2584/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-Maat-128-Seizoen-2024-2025-Jongens-en-Meisjes-Voetbal-Trai.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 1198
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15377/{size}/bc7cd417f62b7fb9fca58c20532a5cb1/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-Maat-128-Seizoen-2024-2025-Jongens-en-Meisjes-Voetbal-Trai.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 389
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15378/{size}/2e00d03d59d39d01b35d355c567ba8b7/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-Maat-128-Seizoen-2024-2025-Jongens-en-Meisjes-Voetbal-Trai.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1198,
+                "width": 755
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15379/{size}/feea2011f8d41f225f3715093eb8ffcd/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-Maat-128-Seizoen-2024-2025-Jongens-en-Meisjes-Voetbal-Trai.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1181,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15380/{size}/c8f23212475fdc5bf8b43e53f77eea45/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-Maat-128-Seizoen-2024-2025-Jongens-en-Meisjes-Voetbal-Trai.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1181,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15381/{size}/f848cc0d587bcafd5bce64ebe4054399/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-Maat-128-Seizoen-2024-2025-Jongens-en-Meisjes-Voetbal-Trai.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 539
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15382/{size}/ade60ad40bc010dc6e84563a7e6bbedb/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-Maat-128-Seizoen-2024-2025-Jongens-en-Meisjes-Voetbal-Trai.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 1199,
+                "width": 539
+              },
+              "type": "alternativeImage",
+              "url": "pim/8435613241687/15383/{size}/a065744a22ab94fbc0ddc2bb15ca5bc0/Trainingspakken/Real-Madrid-Trainingspak-Kinderen-Maat-128-Seizoen-2024-2025-Jongens-en-Meisjes-Voetbal-Trai.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6jaZbytU7SwP5VgjuFKF2hg",
+              "value": "128",
+              "available": true,
+              "price": 69.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471727,
+                  "caption": "Maat 128",
+                  "columnValue": "128",
+                  "crawlable": true,
+                  "detailValue": "Maat 128",
+                  "fullId": "3161_471727",
+                  "sequence": 71,
+                  "urlName": null,
+                  "productIdV3": "a5ms6jaZbytU7SwP5VgjuFKF2hg",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 69.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false,
+            "is_kids": true
+          },
+          "firstAddition": "2024-11-14 00:00:00",
+          "popularity": 2,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 1.99,
+            "roasPercentage": 6600
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op voorraad",
+          "deliveryTimeSort": 8,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "128",
+              "values": [
+                {
+                  "id": 471727,
+                  "caption": "Maat 128",
+                  "columnValue": "128",
+                  "crawlable": true,
+                  "detailValue": "Maat 128",
+                  "fullId": "3161_471727",
+                  "sequence": 71,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Amazon.nl",
+              "values": [
+                {
+                  "id": 19275880,
+                  "caption": "Amazon.nl",
+                  "columnValue": "Amazon.nl",
+                  "crawlable": true,
+                  "detailValue": "Amazon.nl",
+                  "fullId": "49_19275880",
+                  "sequence": 29,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 401013,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3003_401013",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Kinderen",
+              "values": [
+                {
+                  "id": 432484,
+                  "caption": "Kinder",
+                  "columnValue": "Kinderen",
+                  "crawlable": true,
+                  "detailValue": "Kinder",
+                  "fullId": "3110_432484",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3111,
+              "name": "Afdeling baby/kind",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_kind_baby_mode",
+              "value": "Jongenskleding",
+              "values": [
+                {
+                  "id": 432485,
+                  "caption": "Jongens",
+                  "columnValue": "Jongenskleding",
+                  "crawlable": true,
+                  "detailValue": "Jongens",
+                  "fullId": "3111_432485",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 432486,
+                  "caption": "Meisjes",
+                  "columnValue": "Meisjeskleding",
+                  "crawlable": true,
+                  "detailValue": "Meisjes",
+                  "fullId": "3111_432486",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3515,
+              "name": "Fanshop",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "fanshop",
+              "value": "Real Madrid",
+              "values": [
+                {
+                  "id": 1335066,
+                  "caption": "Real Madrid",
+                  "columnValue": "Real Madrid",
+                  "crawlable": true,
+                  "detailValue": "Real Madrid",
+                  "fullId": "3515_1335066",
+                  "sequence": 51,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Voetbalkleding",
+              "values": [
+                {
+                  "id": 5340889,
+                  "caption": "Voetbal",
+                  "columnValue": "Voetbalkleding",
+                  "crawlable": true,
+                  "detailValue": "Voetbal",
+                  "fullId": "3875_5340889",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4660,
+              "name": "Uitvoering fanshop",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "ut_voetbalshirt",
+              "value": "Training",
+              "values": [
+                {
+                  "id": 12527924,
+                  "caption": "Training",
+                  "columnValue": "Training",
+                  "crawlable": true,
+                  "detailValue": "Training",
+                  "fullId": "4660_12527924",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "651560-B0DG5VPNS9",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-d2935d38-39c7-4c4a-960f-3e9040eb794d",
+          "revenuePerClick": 0.03,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 1,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 64.95,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 7,
+            "rating": 86
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

@@ -1,0 +1,2014 @@
+{
+  "offset": 0,
+  "numFound": 10,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 10,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 26.99,
+        "highestDiscount": 48,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3161,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_jassen_jurken_pakken",
+            "values": [
+              {
+                "id": 471770,
+                "caption": "Maat XS",
+                "columnValue": "XS",
+                "crawlable": true,
+                "detailValue": "Maat XS",
+                "fullId": "3161_471770",
+                "sequence": 3,
+                "urlName": null
+              },
+              {
+                "id": 471771,
+                "caption": "Maat S",
+                "columnValue": "S",
+                "crawlable": true,
+                "detailValue": "Maat S",
+                "fullId": "3161_471771",
+                "sequence": 5,
+                "urlName": null
+              },
+              {
+                "id": 471772,
+                "caption": "Maat M",
+                "columnValue": "M",
+                "crawlable": true,
+                "detailValue": "Maat M",
+                "fullId": "3161_471772",
+                "sequence": 7,
+                "urlName": null
+              },
+              {
+                "id": 471773,
+                "caption": "Maat L",
+                "columnValue": "L",
+                "crawlable": true,
+                "detailValue": "Maat L",
+                "fullId": "3161_471773",
+                "sequence": 9,
+                "urlName": null
+              },
+              {
+                "id": 471774,
+                "caption": "Maat XL",
+                "columnValue": "XL",
+                "crawlable": true,
+                "detailValue": "Maat XL",
+                "fullId": "3161_471774",
+                "sequence": 11,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "45YEaQsYHCZPcCbaFTV9Dntx2vDP",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "45YEaQxcFZtXPU499P8zoCeoi8Et",
+            "advertisementIdV3": "45YEaQxcFZtXPU499P8zoCeoi8Et"
+          },
+          "shopItemId": 0,
+          "productId": "45YEaQsYHCZPcCbaFTV9Dntx2vDP",
+          "ean": "",
+          "shopInfo": {
+            "id": 652508,
+            "shopName": "Tradeinn.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 56760,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652508.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-16T00:50:01+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 38713,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 652508,
+            "shopItemId": 0,
+            "shopItemTitle": "Vero Moda Silla Short Jurk",
+            "shopItemDescription": "",
+            "shopItemVersion": "8758620-136940916",
+            "shopName": "Tradeinn.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "45YEaQsYHCZPcCbaFTV9Dntx2vDP",
+            "condition": "Nieuw",
+            "ean": "5713611347000",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://tnkdbf.tradeinn.com/ts/i5034776/tsc?tst=!!TIME_STAMP!!&amc=pricecomp.blbn.524673.534248.13021207&pid=136940916&rmd=3&typ=r&smc1=UUID_placeholder&smc5=GCLID_placeholder&trg=https%3A%2F%2Fwww.tradeinn.com%2Fdressinn%2Fnl%2Fvero-moda-silla-short-jurk%2F136940916%2Fp%3Futm_medium%3Dbelboon%26id_producte%3D8758620%26country%3DNL",
+            "size": "S",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 21,
+              "price": 26.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 34,
+              "price": 49.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "8758620",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "ce875db6-1596-4ee1-b1fa-43ee9925a852",
+            "title": "Vero Moda Vmsilla Ls Short Dress Lt Bl Ga Noos Dames Jurk",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 23.94
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 16.99
+          },
+          "title": "Vero Moda Silla Short Jurk",
+          "fixedTitle": "Vero Moda Silla Short Jurk",
+          "indexIdentifierTimeStamp": 1744876528,
+          "description": "Kenmerken:Shirtjurk met lange mouwen.Drukknoopsluiting aan de voorzijde.Drukknopen op de borst.Steekzakken aan de zijkanten.Knopen om op te vouwen bij de mouwen.Gebogen zoomlijn.Normale pasvorm.Onderdeel van onze Green Attitude-collectie.specificaties:100% LyocellZorg:Wassen in de machine op 30 \u00b0 CNiet blekenNiet in de drogerDroog hangenLage temperatuur. ijzer. Hoogste temperatuur. 100 \u00b0 CNiet stomen",
+          "descriptionRaw": "Kenmerken:Shirtjurk met lange mouwen.Drukknoopsluiting aan de voorzijde.Drukknopen op de borst.Steekzakken aan de zijkanten.Knopen om op te vouwen bij de mouwen.Gebogen zoomlijn.Normale pasvorm.Onderdeel van onze Green Attitude-collectie.specificaties:100% LyocellZorg:Wassen in de machine op 30 \u00b0 CNiet blekenNiet in de drogerDroog hangenLage temperatuur. ijzer. Hoogste temperatuur. 100 \u00b0 CNiet stomen",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-45YEaQxcFZtXPU499P8zoCeoi8Et",
+          "categoryId": 9000756,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 10,
+          "shopIds": [
+            652508
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 663
+              },
+              "type": "mainImage",
+              "url": "pim/5713611346997/394/{size}/d71b0fe80fe5ee65b482a2fc5e4034e6/Shirtjurken/Vero-Moda-Silla-Short-Jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1191,
+                "width": 807
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15376/{size}/47be47cff439948caafec3548b97e83e/Shirtjurken/Vero-Moda-Silla-Short-Jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 799
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15377/{size}/769bb5df305120f912e5f816694f231f/Shirtjurken/Vero-Moda-Silla-Short-Jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 633
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15378/{size}/6e9e0ffbf077540f6574614691823efd/Shirtjurken/Vero-Moda-Silla-Short-Jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1183,
+                "width": 925
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15379/{size}/308fdf05b1cfb50009c833e68ca66c9c/Shirtjurken/Vero-Moda-Silla-Short-Jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 921
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15380/{size}/f90860c763be7ec6487963409c1a2641/Shirtjurken/Vero-Moda-Silla-Short-Jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1199,
+                "width": 906
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15381/{size}/e320a861ae44688c843afcf87450421a/Shirtjurken/Vero-Moda-Silla-Short-Jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 815
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15382/{size}/f057d4b76459c85a30ba1155d7276129/Shirtjurken/Vero-Moda-Silla-Short-Jurk.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "45YEaQsYHCZPcCbaFTV9Dntx2vDP",
+              "value": "S",
+              "available": true,
+              "price": 26.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "45YEaQYcwqrdHPGUYZGQuw9E5gwe",
+              "value": "M",
+              "available": true,
+              "price": 26.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "45YEaQhansSYRbmXoUQAEQBnNRha",
+              "value": "XS",
+              "available": true,
+              "price": 25.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "45YEaR1qxy53udNdwxnxBqMvV46K",
+              "value": "XL",
+              "available": true,
+              "price": 27.49,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null,
+                  "productIdV3": "45YEaQhansSYRbmXoUQAEQBnNRha",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 21,
+                    "price": 25.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null,
+                  "productIdV3": "45YEaQsYHCZPcCbaFTV9Dntx2vDP",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 21,
+                    "price": 26.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "45YEaQYcwqrdHPGUYZGQuw9E5gwe",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 21,
+                    "price": 26.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "45YEaR1qxy53udNdwxnxBqMvV46K",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 49.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 21,
+                    "price": 27.49,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 480474,
+          "brandName": "Vero Moda",
+          "brandRank": 12,
+          "brandRelativeDemandLabel": "C",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-14 00:00:00",
+          "popularity": 13,
+          "popularityData": {
+            "clickFactor": 6,
+            "webshopsRevenuePerClick": 0.27,
+            "roasPercentage": 2200
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "7 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 3.99,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Vero Moda",
+              "values": [
+                {
+                  "id": 480474,
+                  "caption": "Vero Moda",
+                  "columnValue": "Vero Moda",
+                  "crawlable": true,
+                  "detailValue": "Vero Moda",
+                  "fullId": "48_480474",
+                  "sequence": 2707,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Lyocell",
+              "values": [
+                {
+                  "id": 12237447,
+                  "caption": "Lyocell",
+                  "columnValue": "Lyocell",
+                  "crawlable": true,
+                  "detailValue": "Lyocell",
+                  "fullId": "2624_12237447",
+                  "sequence": 49,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Blauw",
+              "values": [
+                {
+                  "id": 401009,
+                  "caption": "Blauwe",
+                  "columnValue": "Blauw",
+                  "crawlable": true,
+                  "detailValue": "Blauwe",
+                  "fullId": "3003_401009",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3115,
+              "name": "Soort hals",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_hals_trui_shirt",
+              "value": "Knopen",
+              "values": [
+                {
+                  "id": 578352,
+                  "caption": "met knopen",
+                  "columnValue": "Knopen",
+                  "crawlable": true,
+                  "detailValue": "met knopen",
+                  "fullId": "3115_578352",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "XS",
+              "values": [
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Kort",
+              "values": [
+                {
+                  "id": 5607186,
+                  "caption": "Korte",
+                  "columnValue": "Kort",
+                  "crawlable": true,
+                  "detailValue": "Korte",
+                  "fullId": "3730_5607186",
+                  "sequence": 43,
+                  "urlName": null
+                },
+                {
+                  "id": 9511522,
+                  "caption": "Met knopen",
+                  "columnValue": "Met knopen",
+                  "crawlable": true,
+                  "detailValue": "Met knopen",
+                  "fullId": "3730_9511522",
+                  "sequence": 56,
+                  "urlName": null
+                },
+                {
+                  "id": 15836705,
+                  "caption": "Met mouwen",
+                  "columnValue": "Met mouwen",
+                  "crawlable": true,
+                  "detailValue": "Met mouwen",
+                  "fullId": "3730_15836705",
+                  "sequence": 58,
+                  "urlName": null
+                },
+                {
+                  "id": 15836704,
+                  "caption": "Met zakken",
+                  "columnValue": "Met zakken",
+                  "crawlable": true,
+                  "detailValue": "Met zakken",
+                  "fullId": "3730_15836704",
+                  "sequence": 71,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4158,
+              "name": "Soort mouw",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_mouw",
+              "value": "Lange mouwen",
+              "values": [
+                {
+                  "id": 6510251,
+                  "caption": "Lange mouwen",
+                  "columnValue": "Lange mouwen",
+                  "crawlable": true,
+                  "detailValue": "Lange mouwen",
+                  "fullId": "4158_6510251",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4411,
+              "name": "Kleurtint blauw",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "kleurtint_blauw",
+              "value": "Lichtblauw",
+              "values": [
+                {
+                  "id": 7477160,
+                  "caption": "Lichtblauwe",
+                  "columnValue": "Lichtblauw",
+                  "crawlable": true,
+                  "detailValue": "Lichtblauwe",
+                  "fullId": "4411_7477160",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4766,
+              "name": "Soort zakken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_zakken",
+              "value": "Steekzak",
+              "values": [
+                {
+                  "id": 9558829,
+                  "caption": "Met steekzak",
+                  "columnValue": "Steekzak",
+                  "crawlable": true,
+                  "detailValue": "Met steekzak",
+                  "fullId": "4766_9558829",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 9558839,
+                  "caption": "met cargozak",
+                  "columnValue": "Cargozak",
+                  "crawlable": true,
+                  "detailValue": "met cargozak",
+                  "fullId": "4766_9558839",
+                  "sequence": 10,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6624,
+              "name": "Lengte",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "lengte_jurken_rokken",
+              "value": "Mini",
+              "values": [
+                {
+                  "id": 23807922,
+                  "caption": "Mini",
+                  "columnValue": "Mini",
+                  "crawlable": true,
+                  "detailValue": "Mini",
+                  "fullId": "6624_23807922",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-ce875db6-1596-4ee1-b1fa-43ee9925a852",
+          "revenuePerClick": 0.01,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 2,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 25.99,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": {
+            "bestRating": 100,
+            "count": 6,
+            "rating": 74
+          },
+          "labels": [],
+          "discountPercentage": 48,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 48
+            }
+          ]
+        },
+        {
+          "id": "2NqyCB4A7VB3gQ5KW8uoxTXF2ZpF",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2NqyCB7PW5ydmFKGVyX6sXdHC5CP",
+            "advertisementIdV3": "2NqyCB7PW5ydmFKGVyX6sXdHC5CP"
+          },
+          "shopItemId": 1147155150,
+          "productId": "2NqyCB4A7VB3gQ5KW8uoxTXF2ZpF",
+          "ean": "",
+          "shopInfo": {
+            "id": 512098,
+            "shopName": "Amazon.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 3200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/512098.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T00:48:18+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Amazon.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22562,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 512098,
+            "shopItemId": 1147155150,
+            "shopItemTitle": "VERO MODA VMSILLA Korte jeansjurk voor dames, blauw (light blue denim), XS",
+            "shopItemDescription": "",
+            "shopItemVersion": "b0714pgg72-https://m.media-amazon.com/images/i/41ctt1uvwpl._sl75_.jpg",
+            "shopName": "Amazon.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2NqyCB4A7VB3gQ5KW8uoxTXF2ZpF",
+            "condition": "Nieuw",
+            "ean": "5713615111706",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.amazon.nl/dp/B0714PGG72/ref=asc_df_B0714PGG72/?creative=380333&creativeASIN=B0714PGG72&linkCode=asn&tag=beslistnl20-21&ascsubtag=UUID_placeholder",
+            "size": "XS",
+            "shopReviewScore": 4.2,
+            "shopReviewAmount": 686,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 34,
+              "price": 34.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 34,
+              "price": 39.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "B0714PGG72",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "ce875db6-1596-4ee1-b1fa-43ee9925a852",
+            "title": "Vero Moda Vmsilla Ls Short Dress Lt Bl Ga Noos Dames Jurk",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 23.94
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 16.99
+          },
+          "title": "Vero Moda NOS dames Vmsilla Ls Short Dress Lt Bl Noos Ga jurk",
+          "fixedTitle": "Vero Moda NOS dames Vmsilla Ls Short Dress Lt Bl Noos Ga jurk",
+          "indexIdentifierTimeStamp": 1744876528,
+          "description": "213, Korte jurken 1",
+          "descriptionRaw": "213, Korte jurken 1",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1097075266,
+          "gtinGroupId": "137-2NqyCB7PW5ydmFKGVyX6sXdHC5CP",
+          "categoryId": 137,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": 589507594818,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 10,
+          "shopIds": [
+            512098
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 663
+              },
+              "type": "mainImage",
+              "url": "pim/5713615111706/394/{size}/d71b0fe80fe5ee65b482a2fc5e4034e6/Mini-jurken/Vero-Moda-NOS-dames-Vmsilla-Ls-Short-Dress-Lt-Bl-Noos-Ga-jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 799
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713615111706/15378/{size}/769bb5df305120f912e5f816694f231f/Mini-jurken/Vero-Moda-NOS-dames-Vmsilla-Ls-Short-Dress-Lt-Bl-Noos-Ga-jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1199,
+                "width": 634
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713615111706/15379/{size}/a274705c3e80e9d0ab31ed372dc78a40/Mini-jurken/Vero-Moda-NOS-dames-Vmsilla-Ls-Short-Dress-Lt-Bl-Noos-Ga-jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1191,
+                "width": 807
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713615111706/15376/{size}/47be47cff439948caafec3548b97e83e/Mini-jurken/Vero-Moda-NOS-dames-Vmsilla-Ls-Short-Dress-Lt-Bl-Noos-Ga-jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 422
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713615111706/15377/{size}/1be857fae8c9286fe6a8ff270373f9c8/Mini-jurken/Vero-Moda-NOS-dames-Vmsilla-Ls-Short-Dress-Lt-Bl-Noos-Ga-jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 925
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713615111706/15380/{size}/0fed22027b604d720e3f2b74192dec79/Mini-jurken/Vero-Moda-NOS-dames-Vmsilla-Ls-Short-Dress-Lt-Bl-Noos-Ga-jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1199,
+                "width": 921
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713615111706/15381/{size}/f90860c763be7ec6487963409c1a2641/Mini-jurken/Vero-Moda-NOS-dames-Vmsilla-Ls-Short-Dress-Lt-Bl-Noos-Ga-jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1175,
+                "width": 926
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713615111706/15382/{size}/bdf4e61ebed464d18f24f80b924ca10b/Mini-jurken/Vero-Moda-NOS-dames-Vmsilla-Ls-Short-Dress-Lt-Bl-Noos-Ga-jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 1199,
+                "width": 453
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713615111706/15383/{size}/8851aa2ecc7e1e446c1b80ecec30b4b8/Mini-jurken/Vero-Moda-NOS-dames-Vmsilla-Ls-Short-Dress-Lt-Bl-Noos-Ga-jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 1199,
+                "width": 506
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713615111706/15384/{size}/5affde2b1f4f9d0dbae8314b2a93f1c2/Mini-jurken/Vero-Moda-NOS-dames-Vmsilla-Ls-Short-Dress-Lt-Bl-Noos-Ga-jurk.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 1199,
+                "width": 815
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713615111706/15385/{size}/f057d4b76459c85a30ba1155d7276129/Mini-jurken/Vero-Moda-NOS-dames-Vmsilla-Ls-Short-Dress-Lt-Bl-Noos-Ga-jurk.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCB4A7VB3gQ5KW8uoxTXF2ZpF",
+              "value": "XS",
+              "available": true,
+              "price": 34.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null,
+                  "productIdV3": "2NqyCB4A7VB3gQ5KW8uoxTXF2ZpF",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 34.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 480474,
+          "brandName": "Vero Moda",
+          "brandRank": 12,
+          "brandRelativeDemandLabel": "C",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2023-01-27 00:00:00",
+          "popularity": 4,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.99,
+            "roasPercentage": 1100
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Vero Moda",
+              "values": [
+                {
+                  "id": 480474,
+                  "caption": "Vero Moda",
+                  "columnValue": "Vero Moda",
+                  "crawlable": true,
+                  "detailValue": "Vero Moda",
+                  "fullId": "48_480474",
+                  "sequence": 2707,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Amazon.nl",
+              "values": [
+                {
+                  "id": 19275880,
+                  "caption": "Amazon.nl",
+                  "columnValue": "Amazon.nl",
+                  "crawlable": true,
+                  "detailValue": "Amazon.nl",
+                  "fullId": "49_19275880",
+                  "sequence": 29,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Denim",
+              "values": [
+                {
+                  "id": 242282,
+                  "caption": "Denim",
+                  "columnValue": "Denim",
+                  "crawlable": true,
+                  "detailValue": "Denim",
+                  "fullId": "2624_242282",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Blauw",
+              "values": [
+                {
+                  "id": 401009,
+                  "caption": "Blauwe",
+                  "columnValue": "Blauw",
+                  "crawlable": true,
+                  "detailValue": "Blauwe",
+                  "fullId": "3003_401009",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "XS",
+              "values": [
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Kort",
+              "values": [
+                {
+                  "id": 5607186,
+                  "caption": "Korte",
+                  "columnValue": "Kort",
+                  "crawlable": true,
+                  "detailValue": "Korte",
+                  "fullId": "3730_5607186",
+                  "sequence": 43,
+                  "urlName": null
+                },
+                {
+                  "id": 15836704,
+                  "caption": "Met zakken",
+                  "columnValue": "Met zakken",
+                  "crawlable": true,
+                  "detailValue": "Met zakken",
+                  "fullId": "3730_15836704",
+                  "sequence": 71,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4411,
+              "name": "Kleurtint blauw",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "kleurtint_blauw",
+              "value": "Lichtblauw",
+              "values": [
+                {
+                  "id": 7477160,
+                  "caption": "Lichtblauwe",
+                  "columnValue": "Lichtblauw",
+                  "crawlable": true,
+                  "detailValue": "Lichtblauwe",
+                  "fullId": "4411_7477160",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4766,
+              "name": "Soort zakken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_zakken",
+              "value": "Borstzak",
+              "values": [
+                {
+                  "id": 9558836,
+                  "caption": "met borstzak",
+                  "columnValue": "Borstzak",
+                  "crawlable": true,
+                  "detailValue": "met borstzak",
+                  "fullId": "4766_9558836",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": {
+            "id": null,
+            "detail": null,
+            "isTopDetail": null,
+            "value": "Blauw"
+          },
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-ce875db6-1596-4ee1-b1fa-43ee9925a852",
+          "revenuePerClick": 0.09,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 0,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 25.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": {
+            "bestRating": 100,
+            "count": 6,
+            "rating": 74
+          },
+          "labels": [],
+          "discountPercentage": 12,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 12
+            }
+          ]
+        },
+        {
+          "id": "a5ms6NhzdhkbeQoECkZyCKu3xKk",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "a5ms6WyFTf4MKwX4sM1nH7FHfJy",
+            "advertisementIdV3": "a5ms6WyFTf4MKwX4sM1nH7FHfJy"
+          },
+          "shopItemId": 0,
+          "productId": "a5ms6NhzdhkbeQoECkZyCKu3xKk",
+          "ean": "",
+          "shopInfo": {
+            "id": 651560,
+            "shopName": "Amazon Partners",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/651560.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T00:50:01+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22562,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 651560,
+            "shopItemId": 0,
+            "shopItemTitle": "VERO MODA VMSILLA Korte jeansjurk voor dames, blauw (light blue denim), XL",
+            "shopItemDescription": "",
+            "shopItemVersion": "B072C7PRYX-B07CC7461J-blauw (light blue denim)-B07CC7461J",
+            "shopName": "Amazon Partners",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "a5ms6bmyCqA2JjNL7RZfWCbowxR",
+            "condition": "Nieuw",
+            "ean": "5713615111720",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.amazon.nl/dp/B072C7PRYX/ref=asc_df_B072C7PRYX1744700400000/?tag=beslistmpnl-21&creative=380333&creativeASIN=B072C7PRYX&linkCode=asn&ascsubtag=UUID_placeholder",
+            "size": "XL",
+            "shopReviewScore": 4.8,
+            "shopReviewAmount": 595,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 34,
+              "price": 34.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 34,
+              "price": 39.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "B072C7PRYX",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "ce875db6-1596-4ee1-b1fa-43ee9925a852",
+            "title": "Vero Moda Vmsilla Ls Short Dress Lt Bl Ga Noos Dames Jurk",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 23.94
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 16.99
+          },
+          "title": "VERO MODA VMSILLA Korte jeansjurk voor dames, blauw (light blue denim), S",
+          "fixedTitle": "VERO MODA VMSILLA Korte jeansjurk voor dames, blauw (light blue denim), M",
+          "indexIdentifierTimeStamp": 1744876528,
+          "description": "Omslagkraag Borstzak Turn-up-mouwen Ronde zoom Gewatteerde zoom/rand",
+          "descriptionRaw": "Omslagkraag Borstzak Turn-up-mouwen Ronde zoom Gewatteerde zoom/rand",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-a5ms6WyFTf4MKwX4sM1nH7FHfJy",
+          "categoryId": 9000921,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 10,
+          "shopIds": [
+            651560
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 663
+              },
+              "type": "mainImage",
+              "url": "pim/5713611346997/394/{size}/d71b0fe80fe5ee65b482a2fc5e4034e6/Blousejurken/VERO-MODA-VMSILLA-Korte-jeansjurk-voor-dames%2c-blauw-(light-blue-denim)%2c-M.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1191,
+                "width": 807
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15376/{size}/47be47cff439948caafec3548b97e83e/Blousejurken/VERO-MODA-VMSILLA-Korte-jeansjurk-voor-dames%2c-blauw-(light-blue-denim)%2c-M.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 799
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15377/{size}/769bb5df305120f912e5f816694f231f/Blousejurken/VERO-MODA-VMSILLA-Korte-jeansjurk-voor-dames%2c-blauw-(light-blue-denim)%2c-M.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 633
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15378/{size}/6e9e0ffbf077540f6574614691823efd/Blousejurken/VERO-MODA-VMSILLA-Korte-jeansjurk-voor-dames%2c-blauw-(light-blue-denim)%2c-M.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1183,
+                "width": 925
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15379/{size}/308fdf05b1cfb50009c833e68ca66c9c/Blousejurken/VERO-MODA-VMSILLA-Korte-jeansjurk-voor-dames%2c-blauw-(light-blue-denim)%2c-M.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 921
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15380/{size}/f90860c763be7ec6487963409c1a2641/Blousejurken/VERO-MODA-VMSILLA-Korte-jeansjurk-voor-dames%2c-blauw-(light-blue-denim)%2c-M.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1199,
+                "width": 906
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15381/{size}/e320a861ae44688c843afcf87450421a/Blousejurken/VERO-MODA-VMSILLA-Korte-jeansjurk-voor-dames%2c-blauw-(light-blue-denim)%2c-M.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 815
+              },
+              "type": "alternativeImage",
+              "url": "pim/5713611346997/15382/{size}/f057d4b76459c85a30ba1155d7276129/Blousejurken/VERO-MODA-VMSILLA-Korte-jeansjurk-voor-dames%2c-blauw-(light-blue-denim)%2c-M.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6NhzdhkbeQoECkZyCKu3xKk",
+              "value": "S",
+              "available": true,
+              "price": 34.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6bmyCqA2JjNL7RZfWCbowxR",
+              "value": "XL",
+              "available": true,
+              "price": 34.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6VBRGxvDsbZ8DvvVjnCJJip",
+              "value": "L",
+              "available": true,
+              "price": 34.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "a5ms6dSgDtAL4URyaRb8G2nkf2B",
+              "value": "M",
+              "available": true,
+              "price": 34.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null,
+                  "productIdV3": "a5ms6NhzdhkbeQoECkZyCKu3xKk",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 34.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "a5ms6dSgDtAL4URyaRb8G2nkf2B",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 34.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "a5ms6VBRGxvDsbZ8DvvVjnCJJip",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 34.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "a5ms6bmyCqA2JjNL7RZfWCbowxR",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 34.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 480474,
+          "brandName": "Vero Moda",
+          "brandRank": 12,
+          "brandRelativeDemandLabel": "C",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-14 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 2.15,
+            "roasPercentage": 6600
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op voorraad",
+          "deliveryTimeSort": 8,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Vero Moda",
+              "values": [
+                {
+                  "id": 480474,
+                  "caption": "Vero Moda",
+                  "columnValue": "Vero Moda",
+                  "crawlable": true,
+                  "detailValue": "Vero Moda",
+                  "fullId": "48_480474",
+                  "sequence": 2707,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Denim",
+              "values": [
+                {
+                  "id": 242282,
+                  "caption": "Denim",
+                  "columnValue": "Denim",
+                  "crawlable": true,
+                  "detailValue": "Denim",
+                  "fullId": "2624_242282",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Blauw",
+              "values": [
+                {
+                  "id": 401009,
+                  "caption": "Blauwe",
+                  "columnValue": "Blauw",
+                  "crawlable": true,
+                  "detailValue": "Blauwe",
+                  "fullId": "3003_401009",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "S",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Kort",
+              "values": [
+                {
+                  "id": 5607186,
+                  "caption": "Korte",
+                  "columnValue": "Kort",
+                  "crawlable": true,
+                  "detailValue": "Korte",
+                  "fullId": "3730_5607186",
+                  "sequence": 43,
+                  "urlName": null
+                },
+                {
+                  "id": 15836704,
+                  "caption": "Met zakken",
+                  "columnValue": "Met zakken",
+                  "crawlable": true,
+                  "detailValue": "Met zakken",
+                  "fullId": "3730_15836704",
+                  "sequence": 71,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4411,
+              "name": "Kleurtint blauw",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "kleurtint_blauw",
+              "value": "Lichtblauw",
+              "values": [
+                {
+                  "id": 7477160,
+                  "caption": "Lichtblauwe",
+                  "columnValue": "Lichtblauw",
+                  "crawlable": true,
+                  "detailValue": "Lichtblauwe",
+                  "fullId": "4411_7477160",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4766,
+              "name": "Soort zakken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_zakken",
+              "value": "Borstzak",
+              "values": [
+                {
+                  "id": 9558836,
+                  "caption": "met borstzak",
+                  "columnValue": "Borstzak",
+                  "crawlable": true,
+                  "detailValue": "met borstzak",
+                  "fullId": "4766_9558836",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4743,
+              "name": "Productlijn",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pl_kleding",
+              "value": "Vero Moda NOOS",
+              "values": [
+                {
+                  "id": 23585734,
+                  "caption": "Vero Moda NOOS",
+                  "columnValue": "Vero Moda NOOS",
+                  "crawlable": true,
+                  "detailValue": "Vero Moda NOOS",
+                  "fullId": "4743_23585734",
+                  "sequence": 575,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6624,
+              "name": "Lengte",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "lengte_jurken_rokken",
+              "value": "Mini",
+              "values": [
+                {
+                  "id": 23807922,
+                  "caption": "Mini",
+                  "columnValue": "Mini",
+                  "crawlable": true,
+                  "detailValue": "Mini",
+                  "fullId": "6624_23807922",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "651560-B07CC7461J",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-ce875db6-1596-4ee1-b1fa-43ee9925a852",
+          "revenuePerClick": 0.03,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 25.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": {
+            "bestRating": 100,
+            "count": 6,
+            "rating": 74
+          },
+          "labels": [],
+          "discountPercentage": 12,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 12
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

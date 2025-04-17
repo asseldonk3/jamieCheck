@@ -1,0 +1,2205 @@
+{
+  "offset": 0,
+  "numFound": 3,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 3,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 149.99,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3161,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_jassen_jurken_pakken",
+            "values": [
+              {
+                "id": 471772,
+                "caption": "Maat M",
+                "columnValue": "M",
+                "crawlable": true,
+                "detailValue": "Maat M",
+                "fullId": "3161_471772",
+                "sequence": 7,
+                "urlName": null
+              },
+              {
+                "id": 471773,
+                "caption": "Maat L",
+                "columnValue": "L",
+                "crawlable": true,
+                "detailValue": "Maat L",
+                "fullId": "3161_471773",
+                "sequence": 9,
+                "urlName": null
+              },
+              {
+                "id": 471774,
+                "caption": "Maat XL",
+                "columnValue": "XL",
+                "crawlable": true,
+                "detailValue": "Maat XL",
+                "fullId": "3161_471774",
+                "sequence": 11,
+                "urlName": null
+              },
+              {
+                "id": 471775,
+                "caption": "Maat XXL",
+                "columnValue": "XXL",
+                "crawlable": true,
+                "detailValue": "Maat XXL",
+                "fullId": "3161_471775",
+                "sequence": 13,
+                "urlName": null
+              },
+              {
+                "id": 23810703,
+                "caption": "Maat XXXL",
+                "columnValue": "3XL",
+                "crawlable": true,
+                "detailValue": "Maat XXXL",
+                "fullId": "3161_23810703",
+                "sequence": 15,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3LpYrCeDnDAy6ns4QdGKrC3JRWQG",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3LpYrCkgCzGaqHzXwyyCrf3suNZM",
+            "advertisementIdV3": "3LpYrCkgCzGaqHzXwyyCrf3suNZM"
+          },
+          "shopItemId": 0,
+          "productId": "3LpYrCeDnDAy6ns4QdGKrC3JRWQG",
+          "ean": "",
+          "shopInfo": {
+            "id": 399016,
+            "shopName": "To-be-dressed.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 6,
+            "productCount": 175000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/399016.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T00:48:18+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 14358,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "wouter@to-be-dressed.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 6,
+                "name": "DPD"
+              },
+              {
+                "id": 7,
+                "name": "GLS"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 34,
+                "name": "Billink "
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 399016,
+            "shopItemId": 0,
+            "shopItemTitle": "New Zealand Auckland 25an801 forrest",
+            "shopItemDescription": "",
+            "shopItemVersion": "18754688-groen-xxxl-18754688",
+            "shopName": "To-be-dressed.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3LpYrCdDpHPzhMkuaCXve6F7de3r",
+            "condition": "Nieuw",
+            "ean": "8721065875199",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.to-be-dressed.nl/new-zealand-auckland-25an801-forrest-groen.html?utm_source=beslist&utm_medium=referral",
+            "size": "XXXL",
+            "shopReviewScore": 4.4,
+            "shopReviewAmount": 250,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 149.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "18754688-groen-xxxl",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 149.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 149.99
+          },
+          "title": "New Zealand Auckland 25an801 forrest",
+          "fixedTitle": "New Zealand Auckland 25an801 forrest",
+          "indexIdentifierTimeStamp": 1744876551,
+          "description": "Maak nu de blits met dit topitem van de nieuwe collectie van New Zealand Auckland. Helemaal van deze tijd en makkelijk te combineren.  Zomerjack van het merk NZA - New Zealand Auckland met een staande kraag, elastische boorden en ritssluiting. Deze zomerjas is door zijn winddichte en waterafstotende eigenschappen ideaal voor het wisselvallige weer in de lente en zomer.  Regular fit 2 Steekzakken (Ritssluiting) 2 Binnenzakken (Ritssluiting) 100% Polyester Kleurnummer: 1737 ",
+          "descriptionRaw": "Maak nu de blits met dit topitem van de nieuwe collectie van New Zealand Auckland. Helemaal van deze tijd en makkelijk te combineren.  <p>Zomerjack van het merk NZA - New Zealand Auckland met een staande kraag, elastische boorden en ritssluiting. Deze zomerjas is door zijn winddichte en waterafstotende eigenschappen ideaal voor het wisselvallige weer in de lente en zomer.</p> <ul> <li>Regular fit</li> <li>2 Steekzakken (Ritssluiting)</li> <li>2 Binnenzakken (Ritssluiting)</li> <li>100% Polyester</li> <li>Kleurnummer: 1737</li> </ul>",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-3LpYrCkgCzGaqHzXwyyCrf3suNZM",
+          "categoryId": 9005527,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            399016
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1471,
+                "width": 1015
+              },
+              "type": "mainImage",
+              "url": "3LpYrCeDnDAy6ns4QdGKrC3JRWQG/394/{size}/9034a7231ca2733cc6078ee05844161a/Jacks/New-Zealand-Auckland-25an801-forrest.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1471,
+                "width": 1015
+              },
+              "type": "alternativeImage",
+              "url": "3LpYrCeDnDAy6ns4QdGKrC3JRWQG/15376/{size}/9034a7231ca2733cc6078ee05844161a/Jacks/New-Zealand-Auckland-25an801-forrest.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 3119,
+                "width": 2495
+              },
+              "type": "alternativeImage",
+              "url": "3LpYrCeDnDAy6ns4QdGKrC3JRWQG/15377/{size}/8d0fc84117ee9193474bf17826264885/Jacks/New-Zealand-Auckland-25an801-forrest.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3LpYrCeDnDAy6ns4QdGKrC3JRWQG",
+              "value": "XL",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3LpYrCdDpHPzhMkuaCXve6F7de3r",
+              "value": "XXXL",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3LpYrCUbGJpUaywvEiVhacjQ18iJ",
+              "value": "M",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3LpYrCdGqK4bo9brf7NwJ6CDqhYU",
+              "value": "XXL",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3LpYrCopG6pjzKRaJvLV1YAgDxPm",
+              "value": "L",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "3LpYrCUbGJpUaywvEiVhacjQ18iJ",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "3LpYrCopG6pjzKRaJvLV1YAgDxPm",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "3LpYrCeDnDAy6ns4QdGKrC3JRWQG",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null,
+                  "productIdV3": "3LpYrCdGqK4bo9brf7NwJ6CDqhYU",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null,
+                  "productIdV3": "3LpYrCdDpHPzhMkuaCXve6F7de3r",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 5497333,
+          "brandName": "N.Z.A.",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-02-20 00:00:00",
+          "popularity": 25,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 2.38,
+            "roasPercentage": 1100
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "N.Z.A.",
+              "values": [
+                {
+                  "id": 5497333,
+                  "caption": "N.Z.A.",
+                  "columnValue": "N.Z.A.",
+                  "crawlable": true,
+                  "detailValue": "N.Z.A.",
+                  "fullId": "48_5497333",
+                  "sequence": 1822,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "To-be-dressed.nl",
+              "values": [
+                {
+                  "id": 20085396,
+                  "caption": "To-be-dressed.nl",
+                  "columnValue": "To-be-dressed.nl",
+                  "crawlable": true,
+                  "detailValue": "To-be-dressed.nl",
+                  "fullId": "49_20085396",
+                  "sequence": 771,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Groen",
+              "values": [
+                {
+                  "id": 401008,
+                  "caption": "Groene",
+                  "columnValue": "Groen",
+                  "crawlable": true,
+                  "detailValue": "Groene",
+                  "fullId": "3003_401008",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "M",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met rits",
+              "values": [
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                },
+                {
+                  "id": 15836704,
+                  "caption": "Met zakken",
+                  "columnValue": "Met zakken",
+                  "crawlable": true,
+                  "detailValue": "Met zakken",
+                  "fullId": "3730_15836704",
+                  "sequence": 71,
+                  "urlName": null
+                },
+                {
+                  "id": 23500773,
+                  "caption": "Waterafstotende",
+                  "columnValue": "Waterafstotend",
+                  "crawlable": true,
+                  "detailValue": "Waterafstotende",
+                  "fullId": "3730_23500773",
+                  "sequence": 105,
+                  "urlName": null
+                },
+                {
+                  "id": 9511520,
+                  "caption": "Winddichte",
+                  "columnValue": "Winddicht",
+                  "crawlable": true,
+                  "detailValue": "Winddichte",
+                  "fullId": "3730_9511520",
+                  "sequence": 109,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4729,
+              "name": "Pasvorm",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pasvorm",
+              "value": "Regular fit",
+              "values": [
+                {
+                  "id": 9343450,
+                  "caption": "Regular fit",
+                  "columnValue": "Regular fit",
+                  "crawlable": true,
+                  "detailValue": "Regular fit",
+                  "fullId": "4729_9343450",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4766,
+              "name": "Soort zakken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_zakken",
+              "value": "Steekzak",
+              "values": [
+                {
+                  "id": 9558829,
+                  "caption": "Met steekzak",
+                  "columnValue": "Steekzak",
+                  "crawlable": true,
+                  "detailValue": "Met steekzak",
+                  "fullId": "4766_9558829",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 9558835,
+                  "caption": "met binnenzak",
+                  "columnValue": "Binnenzak",
+                  "crawlable": true,
+                  "detailValue": "met binnenzak",
+                  "fullId": "4766_9558835",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Hardloopkleding",
+              "values": [
+                {
+                  "id": 5340886,
+                  "caption": "Hardloop",
+                  "columnValue": "Hardloopkleding",
+                  "crawlable": true,
+                  "detailValue": "Hardloop",
+                  "fullId": "3875_5340886",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8721065875175",
+          "revenuePerClick": 0.22,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 1,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 149.99,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "S1fLYfvotCJTPbMRcBHTazyaFAs",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "S1fLYr3Ap6HgDPdgAKQSTm6Yqb5",
+            "advertisementIdV3": "S1fLYr3Ap6HgDPdgAKQSTm6Yqb5"
+          },
+          "shopItemId": 0,
+          "productId": "S1fLYfvotCJTPbMRcBHTazyaFAs",
+          "ean": "",
+          "shopInfo": {
+            "id": 652318,
+            "shopName": "VD.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652318.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T00:50:02+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 14358,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "wouter@to-be-dressed.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 6,
+                "name": "DPD"
+              },
+              {
+                "id": 7,
+                "name": "GLS"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 34,
+                "name": "Billink "
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 652318,
+            "shopItemId": 0,
+            "shopItemTitle": "New Zealand Auckland 25an801 forrest",
+            "shopItemDescription": "",
+            "shopItemVersion": "6501215-groen-xxxl-6501215",
+            "shopName": "VD.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "S1fLZ49Br2qVsYWoPUz57sn9Tj4",
+            "condition": "Nieuw",
+            "ean": "8721065875199",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://vd.nl/new-zealand-auckland-25an801-forrest-groen.html?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "XXXL",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 149.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "6501215-groen-xxxl",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 149.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 149.99
+          },
+          "title": "New Zealand Auckland 25an801 forrest",
+          "fixedTitle": "New Zealand Auckland 25an801 forrest",
+          "indexIdentifierTimeStamp": 1744876551,
+          "description": "Zomerjack van het merk NZA - New Zealand Auckland met een staande kraag, elastische boorden en ritssluiting. Deze zomerjas is door zijn winddichte en waterafstotende eigenschappen ideaal voor het wisselvallige weer in de lente en zomer.\n\nRegular fit\n2 Steekzakken (Ritssluiting)\n2 Binnenzakken (Ritssluiting)\n100% Polyester\nKleurnummer: 1737\n",
+          "descriptionRaw": "<p>Zomerjack van het merk NZA - New Zealand Auckland met een staande kraag, elastische boorden en ritssluiting. Deze zomerjas is door zijn winddichte en waterafstotende eigenschappen ideaal voor het wisselvallige weer in de lente en zomer.</p>\n<ul>\n<li>Regular fit</li>\n<li>2 Steekzakken (Ritssluiting)</li>\n<li>2 Binnenzakken (Ritssluiting)</li>\n<li>100% Polyester</li>\n<li>Kleurnummer: 1737</li>\n</ul>",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "none",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-S1fLYr3Ap6HgDPdgAKQSTm6Yqb5",
+          "categoryId": 9005527,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            652318
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1471,
+                "width": 1015
+              },
+              "type": "mainImage",
+              "url": "S1fLYfvotCJTPbMRcBHTazyaFAs/394/{size}/9034a7231ca2733cc6078ee05844161a/Jacks/New-Zealand-Auckland-25an801-forrest.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1471,
+                "width": 1015
+              },
+              "type": "alternativeImage",
+              "url": "S1fLYfvotCJTPbMRcBHTazyaFAs/15376/{size}/9034a7231ca2733cc6078ee05844161a/Jacks/New-Zealand-Auckland-25an801-forrest.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 3119,
+                "width": 2495
+              },
+              "type": "alternativeImage",
+              "url": "S1fLYfvotCJTPbMRcBHTazyaFAs/15377/{size}/8d0fc84117ee9193474bf17826264885/Jacks/New-Zealand-Auckland-25an801-forrest.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "S1fLYfvotCJTPbMRcBHTazyaFAs",
+              "value": "XL",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "S1fLZ49Br2qVsYWoPUz57sn9Tj4",
+              "value": "XXXL",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "S1fLYvGjWscmpxobr9RTPyPeaTM",
+              "value": "XXL",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "S1fLYyhjviGPP4Db4HQGkjYrZvA",
+              "value": "M",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "S1fLYnKVDZymMWY358sZFYVHRbG",
+              "value": "L",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "S1fLYyhjviGPP4Db4HQGkjYrZvA",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "S1fLYnKVDZymMWY358sZFYVHRbG",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "S1fLYfvotCJTPbMRcBHTazyaFAs",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null,
+                  "productIdV3": "S1fLYvGjWscmpxobr9RTPyPeaTM",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null,
+                  "productIdV3": "S1fLZ49Br2qVsYWoPUz57sn9Tj4",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 5497333,
+          "brandName": "N.Z.A.",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-02-20 00:00:00",
+          "popularity": 15,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 1.41,
+            "roasPercentage": 1100
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "N.Z.A.",
+              "values": [
+                {
+                  "id": 5497333,
+                  "caption": "N.Z.A.",
+                  "columnValue": "N.Z.A.",
+                  "crawlable": true,
+                  "detailValue": "N.Z.A.",
+                  "fullId": "48_5497333",
+                  "sequence": 1822,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "VD.nl",
+              "values": [
+                {
+                  "id": 23504811,
+                  "caption": "VD.nl",
+                  "columnValue": "VD.nl",
+                  "crawlable": true,
+                  "detailValue": "VD.nl",
+                  "fullId": "49_23504811",
+                  "sequence": 819,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Groen",
+              "values": [
+                {
+                  "id": 401008,
+                  "caption": "Groene",
+                  "columnValue": "Groen",
+                  "crawlable": true,
+                  "detailValue": "Groene",
+                  "fullId": "3003_401008",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 6608276,
+                  "caption": "Windstoppers",
+                  "columnValue": "Windstoppers",
+                  "crawlable": true,
+                  "detailValue": "Windstoppers",
+                  "fullId": "3114_6608276",
+                  "sequence": 18,
+                  "urlName": null
+                },
+                {
+                  "id": 23756606,
+                  "caption": "Lente",
+                  "columnValue": "Lentekleding",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3114_23756606",
+                  "sequence": 20,
+                  "urlName": null
+                },
+                {
+                  "id": 7092955,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerkleding",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3114_7092955",
+                  "sequence": 21,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "M",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met rits",
+              "values": [
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                },
+                {
+                  "id": 15836704,
+                  "caption": "Met zakken",
+                  "columnValue": "Met zakken",
+                  "crawlable": true,
+                  "detailValue": "Met zakken",
+                  "fullId": "3730_15836704",
+                  "sequence": 71,
+                  "urlName": null
+                },
+                {
+                  "id": 23500773,
+                  "caption": "Waterafstotende",
+                  "columnValue": "Waterafstotend",
+                  "crawlable": true,
+                  "detailValue": "Waterafstotende",
+                  "fullId": "3730_23500773",
+                  "sequence": 105,
+                  "urlName": null
+                },
+                {
+                  "id": 9511520,
+                  "caption": "Winddichte",
+                  "columnValue": "Winddicht",
+                  "crawlable": true,
+                  "detailValue": "Winddichte",
+                  "fullId": "3730_9511520",
+                  "sequence": 109,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4729,
+              "name": "Pasvorm",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pasvorm",
+              "value": "Regular fit",
+              "values": [
+                {
+                  "id": 9343450,
+                  "caption": "Regular fit",
+                  "columnValue": "Regular fit",
+                  "crawlable": true,
+                  "detailValue": "Regular fit",
+                  "fullId": "4729_9343450",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4766,
+              "name": "Soort zakken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_zakken",
+              "value": "Steekzak",
+              "values": [
+                {
+                  "id": 9558829,
+                  "caption": "Met steekzak",
+                  "columnValue": "Steekzak",
+                  "crawlable": true,
+                  "detailValue": "Met steekzak",
+                  "fullId": "4766_9558829",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 9558835,
+                  "caption": "met binnenzak",
+                  "columnValue": "Binnenzak",
+                  "crawlable": true,
+                  "detailValue": "met binnenzak",
+                  "fullId": "4766_9558835",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8721065875175",
+          "revenuePerClick": 0.13,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 2,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 149.99,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        },
+        {
+          "id": "2fQYAbBEL5FwMsXQFrhpBqdoLo3V",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2fQYAb8J8hxCBbsc5nRgUMmbVF34",
+            "advertisementIdV3": "2fQYAb8J8hxCBbsc5nRgUMmbVF34"
+          },
+          "shopItemId": 0,
+          "productId": "2fQYAbBEL5FwMsXQFrhpBqdoLo3V",
+          "ean": "",
+          "shopInfo": {
+            "id": 20343,
+            "shopName": "Hetbroekenhuis.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 12,
+            "productCount": 1750,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/20343.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T00:50:08+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 5043,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@texton.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 20343,
+            "shopItemId": 0,
+            "shopItemTitle": "NZA New Zealand Auckland Zomer Heren Jack - 25AN801 Forrest",
+            "shopItemDescription": "",
+            "shopItemVersion": "395473-395467Groen-395467",
+            "shopName": "Hetbroekenhuis.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2fQYAaowgpmadpnv562imBWPBbRD",
+            "condition": "Nieuw",
+            "ean": "8721065875199",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.hetbroekenhuis.nl/product/nza-new-zealand-auckland-zomer-heren-jack-25an801-forrest/?attribute_pa_color=bottle&attribute_pa_size=3xl-58&utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "3XL-58",
+            "shopReviewScore": 9.4,
+            "shopReviewAmount": 233,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 149.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "395473",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 149.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 149.99
+          },
+          "title": "NZA New Zealand Auckland Zomer Heren Jack - 25AN801 Forrest",
+          "fixedTitle": "NZA New Zealand Auckland Zomer Heren Jack - 25AN801 Forrest",
+          "indexIdentifierTimeStamp": 1744876551,
+          "description": "Zomerjack van het merk NZA - New Zealand Auckland met een staande kraag, elastische boorden en ritssluiting. Deze zomerjas is door zijn winddichte en waterafstotende eigenschappen ideaal voor het wisselvallige weer in de lente en zomer.\n\nRegular fit\n2 Steekzakken (Ritssluiting)\n2 Binnenzakken (Ritssluiting)\n100% Polyester\nKleurnummer: 1737\n",
+          "descriptionRaw": "<p>Zomerjack van het merk NZA - New Zealand Auckland met een staande kraag, elastische boorden en ritssluiting. Deze zomerjas is door zijn winddichte en waterafstotende eigenschappen ideaal voor het wisselvallige weer in de lente en zomer.</p>\n<ul>\n<li>Regular fit</li>\n<li>2 Steekzakken (Ritssluiting)</li>\n<li>2 Binnenzakken (Ritssluiting)</li>\n<li>100% Polyester</li>\n<li>Kleurnummer: 1737</li>\n</ul>",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-2fQYAb8J8hxCBbsc5nRgUMmbVF34",
+          "categoryId": 9004043,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            20343
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1471,
+                "width": 1015
+              },
+              "type": "mainImage",
+              "url": "2fQYAbBEL5FwMsXQFrhpBqdoLo3V/394/{size}/9034a7231ca2733cc6078ee05844161a/Jacks/NZA-New-Zealand-Auckland-Zomer-Heren-Jack-25AN801-Forrest.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 3119,
+                "width": 2495
+              },
+              "type": "alternativeImage",
+              "url": "2fQYAbBEL5FwMsXQFrhpBqdoLo3V/15376/{size}/8d0fc84117ee9193474bf17826264885/Jacks/NZA-New-Zealand-Auckland-Zomer-Heren-Jack-25AN801-Forrest.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1471,
+                "width": 1023
+              },
+              "type": "alternativeImage",
+              "url": "2fQYAbBEL5FwMsXQFrhpBqdoLo3V/15377/{size}/808dc6e6e6addd238b678100d10ef63d/Jacks/NZA-New-Zealand-Auckland-Zomer-Heren-Jack-25AN801-Forrest.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2fQYAbBEL5FwMsXQFrhpBqdoLo3V",
+              "value": "xl/54",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2fQYAb3Zxx8ghjheyYxWZUg3ePgQ",
+              "value": "2XL-56",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2fQYAaoc5rRBxJ7bSqXSZNeoocuJ",
+              "value": "m/50",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2fQYAaowgpmadpnv562imBWPBbRD",
+              "value": "3XL-58",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2fQYAah52CZ4VewiTcGgXC96Ww5M",
+              "value": "l/52",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "2fQYAaoc5rRBxJ7bSqXSZNeoocuJ",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "2fQYAah52CZ4VewiTcGgXC96Ww5M",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "2fQYAbBEL5FwMsXQFrhpBqdoLo3V",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null,
+                  "productIdV3": "2fQYAb3Zxx8ghjheyYxWZUg3ePgQ",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null,
+                  "productIdV3": "2fQYAaowgpmadpnv562imBWPBbRD",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 5497333,
+          "brandName": "N.Z.A.",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-02-20 00:00:00",
+          "popularity": 3871,
+          "popularityData": {
+            "clickFactor": 104,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "6 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 2.95,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "N.Z.A.",
+              "values": [
+                {
+                  "id": 5497333,
+                  "caption": "N.Z.A.",
+                  "columnValue": "N.Z.A.",
+                  "crawlable": true,
+                  "detailValue": "N.Z.A.",
+                  "fullId": "48_5497333",
+                  "sequence": 1822,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Hetbroekenhuis.nl",
+              "values": [
+                {
+                  "id": 5193335,
+                  "caption": "Hetbroekenhuis.nl",
+                  "columnValue": "Hetbroekenhuis.nl",
+                  "crawlable": true,
+                  "detailValue": "Hetbroekenhuis.nl",
+                  "fullId": "49_5193335",
+                  "sequence": 325,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Groen",
+              "values": [
+                {
+                  "id": 401008,
+                  "caption": "Groene",
+                  "columnValue": "Groen",
+                  "crawlable": true,
+                  "detailValue": "Groene",
+                  "fullId": "3003_401008",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 6608276,
+                  "caption": "Windstoppers",
+                  "columnValue": "Windstoppers",
+                  "crawlable": true,
+                  "detailValue": "Windstoppers",
+                  "fullId": "3114_6608276",
+                  "sequence": 18,
+                  "urlName": null
+                },
+                {
+                  "id": 23756606,
+                  "caption": "Lente",
+                  "columnValue": "Lentekleding",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3114_23756606",
+                  "sequence": 20,
+                  "urlName": null
+                },
+                {
+                  "id": 7092955,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerkleding",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3114_7092955",
+                  "sequence": 21,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "M",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met rits",
+              "values": [
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                },
+                {
+                  "id": 15836704,
+                  "caption": "Met zakken",
+                  "columnValue": "Met zakken",
+                  "crawlable": true,
+                  "detailValue": "Met zakken",
+                  "fullId": "3730_15836704",
+                  "sequence": 71,
+                  "urlName": null
+                },
+                {
+                  "id": 23500773,
+                  "caption": "Waterafstotende",
+                  "columnValue": "Waterafstotend",
+                  "crawlable": true,
+                  "detailValue": "Waterafstotende",
+                  "fullId": "3730_23500773",
+                  "sequence": 105,
+                  "urlName": null
+                },
+                {
+                  "id": 9511520,
+                  "caption": "Winddichte",
+                  "columnValue": "Winddicht",
+                  "crawlable": true,
+                  "detailValue": "Winddichte",
+                  "fullId": "3730_9511520",
+                  "sequence": 109,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4729,
+              "name": "Pasvorm",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pasvorm",
+              "value": "Regular fit",
+              "values": [
+                {
+                  "id": 9343450,
+                  "caption": "Regular fit",
+                  "columnValue": "Regular fit",
+                  "crawlable": true,
+                  "detailValue": "Regular fit",
+                  "fullId": "4729_9343450",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4766,
+              "name": "Soort zakken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_zakken",
+              "value": "Steekzak",
+              "values": [
+                {
+                  "id": 9558829,
+                  "caption": "Met steekzak",
+                  "columnValue": "Steekzak",
+                  "crawlable": true,
+                  "detailValue": "Met steekzak",
+                  "fullId": "4766_9558829",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 9558835,
+                  "caption": "met binnenzak",
+                  "columnValue": "Binnenzak",
+                  "crawlable": true,
+                  "detailValue": "met binnenzak",
+                  "fullId": "4766_9558835",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "20343-395467",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8721065875175",
+          "revenuePerClick": 0.33,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 149.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 9.4,
+              "amount": 233
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

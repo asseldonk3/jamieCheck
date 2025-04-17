@@ -1,0 +1,527 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 44.4,
+        "highestDiscount": 40,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3152,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_badpakken_bikini",
+            "values": [
+              {
+                "id": 471410,
+                "caption": "Maat 36",
+                "columnValue": "36",
+                "crawlable": true,
+                "detailValue": "Maat 36",
+                "fullId": "3152_471410",
+                "sequence": 23,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "2UVfhxHnkEmRQhFKuH8TvVh84N4a",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2UVfhx5k6LLxKHQCiLF3HMuxyZrd",
+            "advertisementIdV3": "2UVfhx5k6LLxKHQCiLF3HMuxyZrd"
+          },
+          "shopItemId": 0,
+          "productId": "2UVfhxHnkEmRQhFKuH8TvVh84N4a",
+          "ean": "",
+          "shopInfo": {
+            "id": 642665,
+            "shopName": "LaRedoute.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 5,
+            "productCount": 80000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/642665.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-16T00:50:01+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@LaRedoute.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 1675,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 642665,
+            "shopItemId": 0,
+            "shopItemTitle": "Badpak Eco SPEEDO.  materiaal. Maten 38 FR - 36 EU. Zwart kleur",
+            "shopItemDescription": "",
+            "shopItemVersion": "35029120800010001738523-3502912081",
+            "shopName": "LaRedoute.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2UVfhxHnkEmRQhFKuH8TvVh84N4a",
+            "condition": "Nieuw",
+            "ean": "5053744766676",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.laredoute.nl/ppdp/prod-350291208.aspx?dim1=1&dim2=1&cod=CDP00119978NL",
+            "size": "38 FR - 36 EU",
+            "shopReviewScore": 4.2,
+            "shopReviewAmount": 100,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 34,
+              "price": 44.4,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 55,
+              "price": 74,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "35029120800010001738523",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 44.4
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Badpak Eco SPEEDO.  materiaal. Maten 38 FR - 36 EU. Zwart kleur",
+          "fixedTitle": "Badpak Eco SPEEDO.  materiaal. Maten 38 FR - 36 EU. Zwart kleur",
+          "indexIdentifierTimeStamp": 1744876581,
+          "description": "Badpak Eco SPEEDO. Maten 38 FR - 36 EU. zwart/blauw kleur. U zal genieten van uw look met dit stijlvolle badpak. Draag ons Amberglow badpak met zwarte print met een flatterende vierkante halslijn en een mooie rug. Het maakt uw rondingen glad en flatterend.Details\u00a0\u2022\u00a0\u00a01 stuk\u00a0\u2022\u00a0\u00a0Sportuitsnijding achteraan\u00a0\u2022\u00a0\u00a0Vaste schouderbandjes\u00a0\u2022\u00a0\u00a0Zonder binnencups\u00a0\u2022\u00a0\u00a0Zonder beugels\u00a0\u2022\u00a0\u00a0Effen\u00a0\u2022\u00a0\u00a0Ideaal voor uw regelmatige sessies of tijdens uw vakantie\u00a0\u2022\u00a0\u00a0Dit badpak heeft een voering en verstelbare bandjes voor een perfecte pasvorm\u00a0\u2022\u00a0\u00a0Geschikt voor het zwembadSamenstelling en onderhoud\u00a0\u2022\u00a0\u00a069% polyester, 31% elasthan\u00a0\u2022\u00a0\u00a0Onderhoud : zie etiket",
+          "descriptionRaw": "Badpak Eco SPEEDO. Maten 38 FR - 36 EU. zwart/blauw kleur. U zal genieten van uw look met dit stijlvolle badpak. Draag ons Amberglow badpak met zwarte print met een flatterende vierkante halslijn en een mooie rug. Het maakt uw rondingen glad en flatterend.Details\u00a0\u2022\u00a0\u00a01 stuk\u00a0\u2022\u00a0\u00a0Sportuitsnijding achteraan\u00a0\u2022\u00a0\u00a0Vaste schouderbandjes\u00a0\u2022\u00a0\u00a0Zonder binnencups\u00a0\u2022\u00a0\u00a0Zonder beugels\u00a0\u2022\u00a0\u00a0Effen\u00a0\u2022\u00a0\u00a0Ideaal voor uw regelmatige sessies of tijdens uw vakantie\u00a0\u2022\u00a0\u00a0Dit badpak heeft een voering en verstelbare bandjes voor een perfecte pasvorm\u00a0\u2022\u00a0\u00a0Geschikt voor het zwembadSamenstelling en onderhoud\u00a0\u2022\u00a0\u00a069% polyester, 31% elasthan\u00a0\u2022\u00a0\u00a0Onderhoud : zie etiket",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-2UVfhx5k6LLxKHQCiLF3HMuxyZrd",
+          "categoryId": 9000853,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            642665
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1095,
+                "width": 555
+              },
+              "type": "mainImage",
+              "url": "2UVfhxHnkEmRQhFKuH8TvVh84N4a/394/{size}/ea45803a49c1ad2f44f4d04a4830d2e0/Badpakken/Badpak-Eco-SPEEDO.-materiaal.-Maten-38-FR-36-EU.-Zwart-kleur.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1093,
+                "width": 639
+              },
+              "type": "alternativeImage",
+              "url": "2UVfhxHnkEmRQhFKuH8TvVh84N4a/15376/{size}/1dcbcd6885ff8d976eb4493e419ada9c/Badpakken/Badpak-Eco-SPEEDO.-materiaal.-Maten-38-FR-36-EU.-Zwart-kleur.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1055,
+                "width": 519
+              },
+              "type": "alternativeImage",
+              "url": "2UVfhxHnkEmRQhFKuH8TvVh84N4a/15377/{size}/dd01d2808e4eea35915f583a7f188a94/Badpakken/Badpak-Eco-SPEEDO.-materiaal.-Maten-38-FR-36-EU.-Zwart-kleur.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhxHnkEmRQhFKuH8TvVh84N4a",
+              "value": "38 FR - 36 EU",
+              "available": true,
+              "price": 44.4,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3152,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_badpakken_bikini",
+              "values": [
+                {
+                  "id": 471410,
+                  "caption": "Maat 36",
+                  "columnValue": "36",
+                  "crawlable": true,
+                  "detailValue": "Maat 36",
+                  "fullId": "3152_471410",
+                  "sequence": 23,
+                  "urlName": null,
+                  "productIdV3": "2UVfhxHnkEmRQhFKuH8TvVh84N4a",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 74,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 44.4,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 84820,
+          "brandName": "Speedo",
+          "brandRank": 180,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 3389,
+          "popularityData": {
+            "clickFactor": 99,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 - 7 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 2.99,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Speedo",
+              "values": [
+                {
+                  "id": 84820,
+                  "caption": "Speedo",
+                  "columnValue": "Speedo",
+                  "crawlable": true,
+                  "detailValue": "Speedo",
+                  "fullId": "48_84820",
+                  "sequence": 2451,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "LaRedoute.nl",
+              "values": [
+                {
+                  "id": 19249715,
+                  "caption": "LaRedoute.nl",
+                  "columnValue": "LaRedoute.nl",
+                  "crawlable": true,
+                  "detailValue": "LaRedoute.nl",
+                  "fullId": "49_19249715",
+                  "sequence": 433,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 401012,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3003_401012",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Badmode",
+              "values": [
+                {
+                  "id": 468980,
+                  "caption": "Badmode",
+                  "columnValue": "Badmode",
+                  "crawlable": true,
+                  "detailValue": "Badmode",
+                  "fullId": "3114_468980",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 8049145,
+                  "caption": "Strand",
+                  "columnValue": "Strandkleding",
+                  "crawlable": true,
+                  "detailValue": "Strand",
+                  "fullId": "3114_8049145",
+                  "sequence": 25,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3152,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_badpakken_bikini",
+              "value": "36",
+              "values": [
+                {
+                  "id": 471410,
+                  "caption": "Maat 36",
+                  "columnValue": "36",
+                  "crawlable": true,
+                  "detailValue": "Maat 36",
+                  "fullId": "3152_471410",
+                  "sequence": 23,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Biologisch",
+              "values": [
+                {
+                  "id": 23578282,
+                  "caption": "Biologisch",
+                  "columnValue": "Biologisch",
+                  "crawlable": true,
+                  "detailValue": "Biologisch",
+                  "fullId": "3730_23578282",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 9556829,
+                  "caption": "Met print",
+                  "columnValue": "Met print",
+                  "crawlable": true,
+                  "detailValue": "Met print",
+                  "fullId": "3730_9556829",
+                  "sequence": 61,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Zwemkleding",
+              "values": [
+                {
+                  "id": 6394557,
+                  "caption": "Zwem",
+                  "columnValue": "Zwemkleding",
+                  "crawlable": true,
+                  "detailValue": "Zwem",
+                  "fullId": "3875_6394557",
+                  "sequence": 18,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-5053744766676",
+          "revenuePerClick": 0.25,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 44.4,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": "C",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 40,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "discount",
+              "value": 40
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

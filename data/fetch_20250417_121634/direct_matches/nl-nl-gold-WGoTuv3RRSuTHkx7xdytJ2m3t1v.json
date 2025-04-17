@@ -1,0 +1,625 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 79.99,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3161,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_jassen_jurken_pakken",
+            "values": [
+              {
+                "id": 471771,
+                "caption": "Maat S",
+                "columnValue": "S",
+                "crawlable": true,
+                "detailValue": "Maat S",
+                "fullId": "3161_471771",
+                "sequence": 5,
+                "urlName": null
+              },
+              {
+                "id": 471772,
+                "caption": "Maat M",
+                "columnValue": "M",
+                "crawlable": true,
+                "detailValue": "Maat M",
+                "fullId": "3161_471772",
+                "sequence": 7,
+                "urlName": null
+              },
+              {
+                "id": 471773,
+                "caption": "Maat L",
+                "columnValue": "L",
+                "crawlable": true,
+                "detailValue": "Maat L",
+                "fullId": "3161_471773",
+                "sequence": 9,
+                "urlName": null
+              },
+              {
+                "id": 471774,
+                "caption": "Maat XL",
+                "columnValue": "XL",
+                "crawlable": true,
+                "detailValue": "Maat XL",
+                "fullId": "3161_471774",
+                "sequence": 11,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "WGoTuv3RRSuTHkx7xdytJ2m3t1v",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "WGoTuZe6G1eHG638tSHZb7dAFeY",
+            "advertisementIdV3": "WGoTuZe6G1eHG638tSHZb7dAFeY"
+          },
+          "shopItemId": 0,
+          "productId": "WGoTuv3RRSuTHkx7xdytJ2m3t1v",
+          "ean": "",
+          "shopInfo": {
+            "id": 80420,
+            "shopName": "Molders.be",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": true,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 9,
+            "productCount": 6000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/80420.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:21+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 10656,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "lorenzo@indiegroup.be",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 80420,
+            "shopItemId": 0,
+            "shopItemTitle": "RED BUTTON Blazers & vesten Beige",
+            "shopItemDescription": "",
+            "shopItemVersion": "1399901021113-390409",
+            "shopName": "Molders.be",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "WGoTuuRdjSi8VCuFrhcVkNrhx9e",
+            "condition": "Nieuw",
+            "ean": "",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://molders.be/nl/RED-BUTTON-Blazers-&-vesten-139990-618_srb4437_shelly_jacket_broderie_kit.html#3?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist-benl",
+            "size": "M",
+            "shopReviewScore": 7.8,
+            "shopReviewAmount": 9,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 55,
+              "price": 79.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "1399901021113",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 79.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 79.99
+          },
+          "title": "RED BUTTON Blazers & vesten Beige",
+          "fixedTitle": "RED BUTTON Blazers & vesten Beige",
+          "indexIdentifierTimeStamp": 1744885040,
+          "description": "RED BUTTON Blazers & vesten Beige in maat XL. De Shelly Jacket broderie van Red Button is een denim jas met broderie op de voorkant en schouders. Deze jas heeft een knoopsluiting aan de voorkant en een knoop bij de mouw.",
+          "descriptionRaw": "RED BUTTON Blazers & vesten Beige in maat XL. De Shelly Jacket broderie van Red Button is een denim jas met broderie op de voorkant en schouders. Deze jas heeft een knoopsluiting aan de voorkant en een knoop bij de mouw.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-WGoTuZe6G1eHG638tSHZb7dAFeY",
+          "categoryId": 9005527,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            80420
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 604,
+                "width": 469
+              },
+              "type": "mainImage",
+              "url": "WGoTuv3RRSuTHkx7xdytJ2m3t1v/394/{size}/3565bae5efc8408250ad01d8881285dd/Jacks/RED-BUTTON-Blazers-%26-vesten-Beige.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "WGoTuv3RRSuTHkx7xdytJ2m3t1v",
+              "value": "XL",
+              "available": true,
+              "price": 79.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "WGoTurSRqrj826QukXQA5Wh2jzV",
+              "value": "S",
+              "available": true,
+              "price": 79.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "WGoTuuRdjSi8VCuFrhcVkNrhx9e",
+              "value": "M",
+              "available": true,
+              "price": 79.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "WGoTucPFubyqWab2L69UcC3D6bg",
+              "value": "L",
+              "available": true,
+              "price": 79.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null,
+                  "productIdV3": "WGoTurSRqrj826QukXQA5Wh2jzV",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 79.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "WGoTuuRdjSi8VCuFrhcVkNrhx9e",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 79.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "WGoTucPFubyqWab2L69UcC3D6bg",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 79.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "WGoTuv3RRSuTHkx7xdytJ2m3t1v",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 79.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 23451472,
+          "brandName": "Red Button",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false,
+            "is_new": true
+          },
+          "firstAddition": "2025-03-31 00:00:00",
+          "popularity": 4158,
+          "popularityData": {
+            "clickFactor": 53,
+            "webshopsRevenuePerClick": 2.29,
+            "roasPercentage": 400
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 20:00 uur besteld, volgende dag in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Red Button",
+              "values": [
+                {
+                  "id": 23451472,
+                  "caption": "Red Button",
+                  "columnValue": "Red Button",
+                  "crawlable": true,
+                  "detailValue": "Red Button",
+                  "fullId": "48_23451472",
+                  "sequence": 2172,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Molders.be",
+              "values": [
+                {
+                  "id": 5881548,
+                  "caption": "Molders.be",
+                  "columnValue": "Molders.be",
+                  "crawlable": true,
+                  "detailValue": "Molders.be",
+                  "fullId": "49_5881548",
+                  "sequence": 501,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Denim",
+              "values": [
+                {
+                  "id": 242282,
+                  "caption": "Denim",
+                  "columnValue": "Denim",
+                  "crawlable": true,
+                  "detailValue": "Denim",
+                  "fullId": "2624_242282",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Beige",
+              "values": [
+                {
+                  "id": 476321,
+                  "caption": "Beige",
+                  "columnValue": "Beige",
+                  "crawlable": true,
+                  "detailValue": "Beige",
+                  "fullId": "3003_476321",
+                  "sequence": 14,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "S",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Broderie",
+              "values": [
+                {
+                  "id": 23586754,
+                  "caption": "Broderie",
+                  "columnValue": "Broderie",
+                  "crawlable": true,
+                  "detailValue": "Broderie",
+                  "fullId": "3730_23586754",
+                  "sequence": 13,
+                  "urlName": null
+                },
+                {
+                  "id": 9511522,
+                  "caption": "Met knopen",
+                  "columnValue": "Met knopen",
+                  "crawlable": true,
+                  "detailValue": "Met knopen",
+                  "fullId": "3730_9511522",
+                  "sequence": 56,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6331,
+              "name": "Soort",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "soort_jack",
+              "value": "Spijkerjassen",
+              "values": [
+                {
+                  "id": 23798082,
+                  "caption": "Spijkerjassen",
+                  "columnValue": "Spijkerjassen",
+                  "crawlable": true,
+                  "detailValue": "Spijkerjassen",
+                  "fullId": "6331_23798082",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-WGoTuv3RRSuTHkx7xdytJ2m3t1v",
+          "revenuePerClick": 0.57,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 79.99,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": null,
+          "isGoogleBestseller": null,
+          "isGoogleBestsellerTop100": null,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

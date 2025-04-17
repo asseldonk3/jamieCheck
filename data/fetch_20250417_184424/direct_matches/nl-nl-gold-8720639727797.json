@@ -1,0 +1,1144 @@
+{
+  "offset": 0,
+  "numFound": 2,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 2,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 64.9,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3166,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_onderbroeken",
+            "values": [
+              {
+                "id": 19257276,
+                "caption": "Maat S",
+                "columnValue": "S",
+                "crawlable": true,
+                "detailValue": "Maat S",
+                "fullId": "3166_19257276",
+                "sequence": 4,
+                "urlName": null
+              },
+              {
+                "id": 19257277,
+                "caption": "Maat M",
+                "columnValue": "M",
+                "crawlable": true,
+                "detailValue": "Maat M",
+                "fullId": "3166_19257277",
+                "sequence": 6,
+                "urlName": null
+              },
+              {
+                "id": 19257278,
+                "caption": "Maat L",
+                "columnValue": "L",
+                "crawlable": true,
+                "detailValue": "Maat L",
+                "fullId": "3166_19257278",
+                "sequence": 8,
+                "urlName": null
+              },
+              {
+                "id": 19257279,
+                "caption": "Maat XL",
+                "columnValue": "XL",
+                "crawlable": true,
+                "detailValue": "Maat XL",
+                "fullId": "3166_19257279",
+                "sequence": 10,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3PxXRs89N8BiH15LZ1QvMi2jqpF",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3PxXRs89N8BiH15LZ1QvMi2jqpF",
+            "advertisementIdV3": "3PxXRs89N8BiH15LZ1QvMi2jqpF"
+          },
+          "shopItemId": 0,
+          "productId": "3PxXRs89N8BiH15LZ1QvMi2jqpF",
+          "ean": "",
+          "shopInfo": {
+            "id": 653058,
+            "shopName": "Dimenno.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/653058.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:20+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 39133,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 653058,
+            "shopItemId": 0,
+            "shopItemTitle": "Calvin Klein Boxershort long 5-pack zwart",
+            "shopItemDescription": "",
+            "shopItemVersion": "0193923d9110702182f32aeeb75219d7",
+            "shopName": "Dimenno.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3PxXRs89N8BiH15LZ1QvMi2jqpF",
+            "condition": "Nieuw",
+            "ean": "8720639727797",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.dimenno.nl/ondermode-bekijk/?tt=22368_934935_438920_UUID_placeholder&r=https%3A%2F%2Fwww.dimenno.nl%2Fcalvin-klein-boxershort-long-5-pack-zwart-nb3794a-qt6.l",
+            "size": "L",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 55,
+              "price": 64.9,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "0193923d9110702182f32aeeb75219d7",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": "Calvin Klein Boxer Briefs (5 pack) heren boxers extra lang zwart met gekleurde tailleband",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 20.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Calvin Klein Boxershort long 5-pack zwart",
+          "fixedTitle": "Calvin Klein Boxershort long 5-pack zwart",
+          "indexIdentifierTimeStamp": 1744908325,
+          "description": "",
+          "descriptionRaw": "",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-3PxXRs89N8BiH15LZ1QvMi2jqpF",
+          "categoryId": 9000902,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 2,
+          "shopIds": [
+            653058
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 696,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/8720639727797/394/{size}/4c33bd2e492ad1fc098836ac7350192a/Boxershorts/Calvin-Klein-Boxershort-long-5-pack-zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1007,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8720639727797/15376/{size}/6ee18ba747ac60fdd61ac41fc2ddaaf9/Boxershorts/Calvin-Klein-Boxershort-long-5-pack-zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1319,
+                "width": 994
+              },
+              "type": "alternativeImage",
+              "url": "pim/8720639727797/15377/{size}/d3d10a5cc6d2c1584302ca1033820959/Boxershorts/Calvin-Klein-Boxershort-long-5-pack-zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1319,
+                "width": 996
+              },
+              "type": "alternativeImage",
+              "url": "pim/8720639727797/15378/{size}/396d7d0dc4b8f3eac26441033308a599/Boxershorts/Calvin-Klein-Boxershort-long-5-pack-zwart.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1319,
+                "width": 1003
+              },
+              "type": "alternativeImage",
+              "url": "pim/8720639727797/15379/{size}/ffd1f1cfcaeb94fd17ac02fa21796ffe/Boxershorts/Calvin-Klein-Boxershort-long-5-pack-zwart.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3PxXRs89N8BiH15LZ1QvMi2jqpF",
+              "value": "L",
+              "available": true,
+              "price": 64.9,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3166,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_onderbroeken",
+              "values": [
+                {
+                  "id": 19257278,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3166_19257278",
+                  "sequence": 8,
+                  "urlName": null,
+                  "productIdV3": "3PxXRs89N8BiH15LZ1QvMi2jqpF",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 64.9,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 139821,
+          "brandName": "Calvin Klein",
+          "brandRank": 20,
+          "brandRelativeDemandLabel": "C",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-19 00:00:00",
+          "popularity": 62,
+          "popularityData": {
+            "clickFactor": 5,
+            "webshopsRevenuePerClick": 0.44,
+            "roasPercentage": 650
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 2 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Calvin Klein",
+              "values": [
+                {
+                  "id": 139821,
+                  "caption": "Calvin Klein",
+                  "columnValue": "Calvin Klein",
+                  "crawlable": true,
+                  "detailValue": "Calvin Klein",
+                  "fullId": "48_139821",
+                  "sequence": 454,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Dimenno.nl",
+              "values": [
+                {
+                  "id": 4895791,
+                  "caption": "Dimenno.nl",
+                  "columnValue": "Dimenno.nl",
+                  "crawlable": true,
+                  "detailValue": "Dimenno.nl",
+                  "fullId": "49_4895791",
+                  "sequence": 191,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 401012,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3003_401012",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Ondermode",
+              "values": [
+                {
+                  "id": 468982,
+                  "caption": "Ondermode",
+                  "columnValue": "Ondermode",
+                  "crawlable": true,
+                  "detailValue": "Ondermode",
+                  "fullId": "3114_468982",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3166,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_onderbroeken",
+              "value": "L",
+              "values": [
+                {
+                  "id": 19257278,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3166_19257278",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Multipack",
+              "values": [
+                {
+                  "id": 23597268,
+                  "caption": "Multipack",
+                  "columnValue": "Multipack",
+                  "crawlable": true,
+                  "detailValue": "Multipack",
+                  "fullId": "3730_23597268",
+                  "sequence": 75,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5979,
+              "name": "Kenmerken",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "kenm_onderbr",
+              "value": "Multipack",
+              "values": [
+                {
+                  "id": 23595487,
+                  "caption": "Multipack",
+                  "columnValue": "Multipack",
+                  "crawlable": true,
+                  "detailValue": "Multipack",
+                  "fullId": "5979_23595487",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8720639727797",
+          "revenuePerClick": 0.07,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 1,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 64.9,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "8X5MfBHiejH4ueovCZxpjYV7BoS",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "8X5MfN57ECVpoGnhXwRboNNq7vQ",
+            "advertisementIdV3": "8X5MfN57ECVpoGnhXwRboNNq7vQ"
+          },
+          "shopItemId": 1185749158,
+          "productId": "8X5MfBHiejH4ueovCZxpjYV7BoS",
+          "ean": "",
+          "shopInfo": {
+            "id": 19977,
+            "shopName": "HemdVoorHem.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 11,
+            "productCount": 32000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/19977.png",
+            "coolingOffPeriod": 100,
+            "activeSince": "2025-04-17T08:25:14+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Hemdvoorhem.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 4819,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@hemdvoorhem.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 27,
+                "name": "Webshop Keurmerk"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 19977,
+            "shopItemId": 1185749158,
+            "shopItemTitle": "Calvin Klein Boxer Briefs (5-pack), heren boxers extra lang, zwart met gekleurde tailleband",
+            "shopItemDescription": "",
+            "shopItemVersion": "8cb2fb60d25c4886b78123730a58a11c-000nb3794aqt6",
+            "shopName": "HemdVoorHem.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "8X5MfBHiejH4ueovCZxpjYV7BoS",
+            "condition": "Nieuw",
+            "ean": "8720639727797",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.hemdvoorhem.nl/calvin-klein-boxer-briefs-5-pack-heren-boxers-extra-lang-zwart-met-gekleurde-tailleband-n24i-l-000nb3794aqt6?utm_campaign=Beslist+CPC&utm_content=&utm_source=Beslist&utm_medium=CPC&utm_term=",
+            "size": "L",
+            "shopReviewScore": 8.4,
+            "shopReviewAmount": 68,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 55,
+              "price": 69.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "8cb2fb60d25c4886b78123730a58a11c",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": "Calvin Klein Boxer Briefs (5 pack) heren boxers extra lang zwart met gekleurde tailleband",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 20.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Calvin Klein Boxer Briefs (5-pack), heren boxers extra lang, zwart met gekleurde tailleband",
+          "fixedTitle": "Calvin Klein Boxer Briefs (5-pack), heren boxers extra lang, zwart met gekleurde tailleband",
+          "indexIdentifierTimeStamp": 1744908325,
+          "description": "Set van 5 Calvin Klein Boxer Briefs. Heren boxers in een model met langere pijpjes en een brede logo tailleband. De tricot stof is een standaard combinatie van katoen en een fijne dosis stretch. Boxer met een normale taille, lange pijpen en een Calvin Klein signature elastische tailleband.",
+          "descriptionRaw": "Set van 5 Calvin Klein Boxer Briefs. Heren boxers in een model met langere pijpjes en een brede logo tailleband. De tricot stof is een standaard combinatie van katoen en een fijne dosis stretch. Boxer met een normale taille, lange pijpen en een Calvin Klein signature elastische tailleband.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1210742848,
+          "gtinGroupId": "137-8X5MfN57ECVpoGnhXwRboNNq7vQ",
+          "categoryId": 9000902,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": 589621262400,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 2,
+          "shopIds": [
+            19977
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 696,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/8720639727773/394/{size}/4c33bd2e492ad1fc098836ac7350192a/Boxershorts/Calvin-Klein-Boxer-Briefs-(5-pack)%2c-heren-boxers-extra-lang%2c-zwart-met-gekleurde-tailleband.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1007,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8720639727773/15376/{size}/6ee18ba747ac60fdd61ac41fc2ddaaf9/Boxershorts/Calvin-Klein-Boxer-Briefs-(5-pack)%2c-heren-boxers-extra-lang%2c-zwart-met-gekleurde-tailleband.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "8X5MfBHiejH4ueovCZxpjYV7BoS",
+              "value": "L",
+              "available": true,
+              "price": 69.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "8X5Mf6sKVyyar62PQPpRPgqgcA2",
+              "value": "M",
+              "available": true,
+              "price": 69.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "8X5MewnpmRfWNoDke8jrArpa79h",
+              "value": "S",
+              "available": true,
+              "price": 69.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "8X5MfK3pRcndRjznLCajKMCFBUH",
+              "value": "XL",
+              "available": true,
+              "price": 69.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3166,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_onderbroeken",
+              "values": [
+                {
+                  "id": 19257276,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3166_19257276",
+                  "sequence": 4,
+                  "urlName": null,
+                  "productIdV3": "8X5MewnpmRfWNoDke8jrArpa79h",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 69.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 19257277,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3166_19257277",
+                  "sequence": 6,
+                  "urlName": null,
+                  "productIdV3": "8X5Mf6sKVyyar62PQPpRPgqgcA2",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 69.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 19257278,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3166_19257278",
+                  "sequence": 8,
+                  "urlName": null,
+                  "productIdV3": "8X5MfBHiejH4ueovCZxpjYV7BoS",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 69.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 19257279,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3166_19257279",
+                  "sequence": 10,
+                  "urlName": null,
+                  "productIdV3": "8X5MfK3pRcndRjznLCajKMCFBUH",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 69.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 139821,
+          "brandName": "Calvin Klein",
+          "brandRank": 20,
+          "brandRelativeDemandLabel": "C",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-19 00:00:00",
+          "popularity": 3246,
+          "popularityData": {
+            "clickFactor": 90,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 23:59 uur besteld, volgende dag in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Calvin Klein",
+              "values": [
+                {
+                  "id": 139821,
+                  "caption": "Calvin Klein",
+                  "columnValue": "Calvin Klein",
+                  "crawlable": true,
+                  "detailValue": "Calvin Klein",
+                  "fullId": "48_139821",
+                  "sequence": 454,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Hemdvoorhem.nl",
+              "values": [
+                {
+                  "id": 4684222,
+                  "caption": "Hemdvoorhem.nl",
+                  "columnValue": "Hemdvoorhem.nl",
+                  "crawlable": true,
+                  "detailValue": "Hemdvoorhem.nl",
+                  "fullId": "49_4684222",
+                  "sequence": 323,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Extra lang",
+              "values": [
+                {
+                  "id": 19254133,
+                  "caption": "Extra lange",
+                  "columnValue": "Extra lang",
+                  "crawlable": true,
+                  "detailValue": "Extra lange",
+                  "fullId": "3730_19254133",
+                  "sequence": 23,
+                  "urlName": null
+                },
+                {
+                  "id": 23597268,
+                  "caption": "Multipack",
+                  "columnValue": "Multipack",
+                  "crawlable": true,
+                  "detailValue": "Multipack",
+                  "fullId": "3730_23597268",
+                  "sequence": 75,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Ondermode",
+              "values": [
+                {
+                  "id": 468982,
+                  "caption": "Ondermode",
+                  "columnValue": "Ondermode",
+                  "crawlable": true,
+                  "detailValue": "Ondermode",
+                  "fullId": "3114_468982",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 401012,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3003_401012",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Katoen",
+              "values": [
+                {
+                  "id": 242265,
+                  "caption": "Katoenen",
+                  "columnValue": "Katoen",
+                  "crawlable": true,
+                  "detailValue": "Katoenen",
+                  "fullId": "2624_242265",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3166,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_onderbroeken",
+              "value": "S",
+              "values": [
+                {
+                  "id": 19257276,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3166_19257276",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 19257277,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3166_19257277",
+                  "sequence": 6,
+                  "urlName": null
+                },
+                {
+                  "id": 19257278,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3166_19257278",
+                  "sequence": 8,
+                  "urlName": null
+                },
+                {
+                  "id": 19257279,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3166_19257279",
+                  "sequence": 10,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5978,
+              "name": "Type",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type_onderbr",
+              "value": "High waist",
+              "values": [
+                {
+                  "id": 23544100,
+                  "caption": "High waist",
+                  "columnValue": "High waist",
+                  "crawlable": true,
+                  "detailValue": "High waist",
+                  "fullId": "5978_23544100",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5979,
+              "name": "Kenmerken",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "kenm_onderbr",
+              "value": "Multipack",
+              "values": [
+                {
+                  "id": 23595487,
+                  "caption": "Multipack",
+                  "columnValue": "Multipack",
+                  "crawlable": true,
+                  "detailValue": "Multipack",
+                  "fullId": "5979_23595487",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Natuurlijk materiaal",
+              "values": [
+                {
+                  "id": 23597271,
+                  "caption": "Natuurlijk materiaal",
+                  "columnValue": "Natuurlijk materiaal",
+                  "crawlable": true,
+                  "detailValue": "Natuurlijk materiaal",
+                  "fullId": "6290_23597271",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": {
+            "id": null,
+            "detail": null,
+            "isTopDetail": null,
+            "value": "Zwart"
+          },
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8720639727797",
+          "revenuePerClick": 0.26,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 64.9,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "shopReviewScore",
+              "score": 8.4,
+              "amount": 68
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

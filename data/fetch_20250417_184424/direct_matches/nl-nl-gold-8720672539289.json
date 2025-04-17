@@ -1,0 +1,1466 @@
+{
+  "offset": 0,
+  "numFound": 2,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 2,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 249.99,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3161,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_jassen_jurken_pakken",
+            "values": [
+              {
+                "id": 471772,
+                "caption": "Maat M",
+                "columnValue": "M",
+                "crawlable": true,
+                "detailValue": "Maat M",
+                "fullId": "3161_471772",
+                "sequence": 7,
+                "urlName": null
+              },
+              {
+                "id": 471773,
+                "caption": "Maat L",
+                "columnValue": "L",
+                "crawlable": true,
+                "detailValue": "Maat L",
+                "fullId": "3161_471773",
+                "sequence": 9,
+                "urlName": null
+              },
+              {
+                "id": 471774,
+                "caption": "Maat XL",
+                "columnValue": "XL",
+                "crawlable": true,
+                "detailValue": "Maat XL",
+                "fullId": "3161_471774",
+                "sequence": 11,
+                "urlName": null
+              },
+              {
+                "id": 471775,
+                "caption": "Maat XXL",
+                "columnValue": "XXL",
+                "crawlable": true,
+                "detailValue": "Maat XXL",
+                "fullId": "3161_471775",
+                "sequence": 13,
+                "urlName": null
+              },
+              {
+                "id": 23810703,
+                "caption": "Maat XXXL",
+                "columnValue": "3XL",
+                "crawlable": true,
+                "detailValue": "Maat XXXL",
+                "fullId": "3161_23810703",
+                "sequence": 15,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "2WN3PD5kyxc9w37gD1tNeuieXi28",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2WN3PD4tHuY68LvxYCZ8Ft8WxaJk",
+            "advertisementIdV3": "2WN3PD4tHuY68LvxYCZ8Ft8WxaJk"
+          },
+          "shopItemId": 0,
+          "productId": "2WN3PD5kyxc9w37gD1tNeuieXi28",
+          "ean": "",
+          "shopInfo": {
+            "id": 204396,
+            "shopName": "SchulteHerenmode.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 9,
+            "productCount": 15000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/204396.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:25:14+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@SchulteHerenmode.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 2267,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 204396,
+            "shopItemId": 0,
+            "shopItemTitle": "PME Legend zomerjas groen",
+            "shopItemDescription": "",
+            "shopItemVersion": "00159877-M-00159877",
+            "shopName": "SchulteHerenmode.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2WN3PD5kyxc9w37gD1tNeuieXi28",
+            "condition": "Nieuw",
+            "ean": "8720672539289",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://pla.daisycon.io/csd/?si=18843&li=1814669&wi=382479&pid=27358bc2aec4e9a69077f3e675384227&force_domain=true&dl=https%3a%2f%2fwww.schulteherenmode.nl%2fpme-legend-jacket-bruin-4-zakken-cargoyet-00159877.html&ws=UUID_placeholder",
+            "size": "M",
+            "shopReviewScore": 7.6,
+            "shopReviewAmount": 25,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 233,
+              "price": 249.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "00159877-M",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 249.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 249.99
+          },
+          "title": "PME Legend zomerjas groen",
+          "fixedTitle": "PME Legend zomerjas groen",
+          "indexIdentifierTimeStamp": 1744908293,
+          "description": "Deze stijlvolle zomerjas van pme legend is een must-have voor elke modebewuste man. Gemaakt van een hoogwaardige mix van 68% katoen en 32% polyamide biedt deze jas een comfortabele normale fit die perfect is voor de warmere dagen. De effen bruine kleur maakt het een veelzijdig kledingstuk dat gemakkelijk te combineren is met verschillende outfits. Met handige ritsen en een dubbele borstzak is deze jas niet alleen praktisch maar ook trendy. Voeg deze jas toe aan je garderobe en geniet van de zomer in stijl.",
+          "descriptionRaw": "Deze stijlvolle zomerjas van pme legend is een must-have voor elke modebewuste man. Gemaakt van een hoogwaardige mix van 68% katoen en 32% polyamide biedt deze jas een comfortabele normale fit die perfect is voor de warmere dagen. De effen bruine kleur maakt het een veelzijdig kledingstuk dat gemakkelijk te combineren is met verschillende outfits. Met handige ritsen en een dubbele borstzak is deze jas niet alleen praktisch maar ook trendy. Voeg deze jas toe aan je garderobe en geniet van de zomer in stijl.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-2WN3PD4tHuY68LvxYCZ8Ft8WxaJk",
+          "categoryId": 9004043,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 2,
+          "shopIds": [
+            204396
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1659,
+                "width": 775
+              },
+              "type": "mainImage",
+              "url": "2WN3PD5kyxc9w37gD1tNeuieXi28/394/{size}/ab28f2789ad38b3b2e3e0befa05f62ea/Zomerjassen/PME-Legend-zomerjas-groen.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2WN3PD5kyxc9w37gD1tNeuieXi28",
+              "value": "M",
+              "available": true,
+              "price": 249.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2WN3PD3AhNjnAofLecnYAiwahCbW",
+              "value": "3XL",
+              "available": true,
+              "price": 249.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2WN3PCdQVoYacZzCj7c4raWFzi3u",
+              "value": "L",
+              "available": true,
+              "price": 249.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2WN3PCmWc36bJTw9Km2STnVRCLvw",
+              "value": "XXL",
+              "available": true,
+              "price": 249.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2WN3PCYg1SVev1B1YapxEm38UVTd",
+              "value": "XL",
+              "available": true,
+              "price": 249.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "2WN3PD5kyxc9w37gD1tNeuieXi28",
+                  "regularPrice": {
+                    "bucket": 233,
+                    "price": 249.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "2WN3PCdQVoYacZzCj7c4raWFzi3u",
+                  "regularPrice": {
+                    "bucket": 233,
+                    "price": 249.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "2WN3PCYg1SVev1B1YapxEm38UVTd",
+                  "regularPrice": {
+                    "bucket": 233,
+                    "price": 249.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null,
+                  "productIdV3": "2WN3PCmWc36bJTw9Km2STnVRCLvw",
+                  "regularPrice": {
+                    "bucket": 233,
+                    "price": 249.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null,
+                  "productIdV3": "2WN3PD3AhNjnAofLecnYAiwahCbW",
+                  "regularPrice": {
+                    "bucket": 233,
+                    "price": 249.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 477793,
+          "brandName": "PME Legend",
+          "brandRank": 27,
+          "brandRelativeDemandLabel": "D",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-02-14 00:00:00",
+          "popularity": 5721,
+          "popularityData": {
+            "clickFactor": 129,
+            "webshopsRevenuePerClick": 3.97,
+            "roasPercentage": 1000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "PME Legend",
+              "values": [
+                {
+                  "id": 477793,
+                  "caption": "PME Legend",
+                  "columnValue": "PME Legend",
+                  "crawlable": true,
+                  "detailValue": "PME Legend",
+                  "fullId": "48_477793",
+                  "sequence": 2078,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Schulteherenmode.nl",
+              "values": [
+                {
+                  "id": 5018848,
+                  "caption": "Schulteherenmode.nl",
+                  "columnValue": "Schulteherenmode.nl",
+                  "crawlable": true,
+                  "detailValue": "Schulteherenmode.nl",
+                  "fullId": "49_5018848",
+                  "sequence": 659,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Katoen",
+              "values": [
+                {
+                  "id": 242265,
+                  "caption": "Katoenen",
+                  "columnValue": "Katoen",
+                  "crawlable": true,
+                  "detailValue": "Katoenen",
+                  "fullId": "2624_242265",
+                  "sequence": 8,
+                  "urlName": null
+                },
+                {
+                  "id": 242266,
+                  "caption": "Nylon",
+                  "columnValue": "Nylon",
+                  "crawlable": true,
+                  "detailValue": "Nylon",
+                  "fullId": "2624_242266",
+                  "sequence": 55,
+                  "urlName": null
+                },
+                {
+                  "id": 12237446,
+                  "caption": "Polyamide",
+                  "columnValue": "Polyamide",
+                  "crawlable": true,
+                  "detailValue": "Polyamide",
+                  "fullId": "2624_12237446",
+                  "sequence": 57,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Groen",
+              "values": [
+                {
+                  "id": 401008,
+                  "caption": "Groene",
+                  "columnValue": "Groen",
+                  "crawlable": true,
+                  "detailValue": "Groene",
+                  "fullId": "3003_401008",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 7092955,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerkleding",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3114_7092955",
+                  "sequence": 21,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "M",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met rits",
+              "values": [
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                },
+                {
+                  "id": 15836704,
+                  "caption": "Met zakken",
+                  "columnValue": "Met zakken",
+                  "crawlable": true,
+                  "detailValue": "Met zakken",
+                  "fullId": "3730_15836704",
+                  "sequence": 71,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4729,
+              "name": "Pasvorm",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pasvorm",
+              "value": "Regular fit",
+              "values": [
+                {
+                  "id": 9343450,
+                  "caption": "Regular fit",
+                  "columnValue": "Regular fit",
+                  "crawlable": true,
+                  "detailValue": "Regular fit",
+                  "fullId": "4729_9343450",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4766,
+              "name": "Soort zakken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_zakken",
+              "value": "Borstzak",
+              "values": [
+                {
+                  "id": 9558836,
+                  "caption": "met borstzak",
+                  "columnValue": "Borstzak",
+                  "crawlable": true,
+                  "detailValue": "met borstzak",
+                  "fullId": "4766_9558836",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Natuurlijk materiaal",
+              "values": [
+                {
+                  "id": 23597271,
+                  "caption": "Natuurlijk materiaal",
+                  "columnValue": "Natuurlijk materiaal",
+                  "crawlable": true,
+                  "detailValue": "Natuurlijk materiaal",
+                  "fullId": "6290_23597271",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8720672539289",
+          "revenuePerClick": 0.4,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 249.99,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        },
+        {
+          "id": "34pNnWtHo7ALMbVzesFjE2gj3d3E",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "34pNnWrYxNdJzP1sKtVirfqnmjbf",
+            "advertisementIdV3": "34pNnWrYxNdJzP1sKtVirfqnmjbf"
+          },
+          "shopItemId": 0,
+          "productId": "34pNnWtHo7ALMbVzesFjE2gj3d3E",
+          "ean": "",
+          "shopInfo": {
+            "id": 84116,
+            "shopName": "Bomont.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": true,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 8,
+            "productCount": 12000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/84116.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:25:16+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Bomont.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 9211,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 27,
+                "name": "Webshop Keurmerk"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 84116,
+            "shopItemId": 0,
+            "shopItemTitle": "Pme Legend Jas Groen heren",
+            "shopItemDescription": "",
+            "shopItemVersion": "242239-AR-XL-242239-AR-242239",
+            "shopName": "Bomont.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "34pNnWx4qyP7CE1dyYQ1bpM7XWSb",
+            "condition": "Nieuw",
+            "ean": "8720672539302",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.bomont.nl/pme-legend-jack-cargoyet-groen-242239-ar-xl.html?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "XL",
+            "shopReviewScore": 9,
+            "shopReviewAmount": 22696,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 233,
+              "price": 249.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "242239-AR-XL",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 249.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 249.99
+          },
+          "title": "Pme Legend Jas Groen heren",
+          "fixedTitle": "Pme Legend Jas Groen heren",
+          "indexIdentifierTimeStamp": 1744908293,
+          "description": "Authentiek en functioneel: de PME Legend Cargoyet jas. Dit item is ge\u00efnspireerd op een originele field jacket uit 1965 en gemaakt van een comfortabele katoenblend. Praktische details zoals zijzakken met dubbele ingang, een binnenzak met rits, verstelbare cuffs en een windcatcher maken dit een veelzijdige jas. Dankzij de dunne metalen draad in de kraag kun je deze eenvoudig in model brengen. De stoere wassing en de diverse badges zorgen voor de PME Legend look.",
+          "descriptionRaw": "Authentiek en functioneel: de PME Legend Cargoyet jas. Dit item is ge\u00efnspireerd op een originele field jacket uit 1965 en gemaakt van een comfortabele katoenblend. Praktische details zoals zijzakken met dubbele ingang, een binnenzak met rits, verstelbare cuffs en een windcatcher maken dit een veelzijdige jas. Dankzij de dunne metalen draad in de kraag kun je deze eenvoudig in model brengen. De stoere wassing en de diverse badges zorgen voor de PME Legend look.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-34pNnWrYxNdJzP1sKtVirfqnmjbf",
+          "categoryId": 9005385,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 2,
+          "shopIds": [
+            84116
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1483,
+                "width": 1126
+              },
+              "type": "mainImage",
+              "url": "34pNnWtHo7ALMbVzesFjE2gj3d3E/394/{size}/f747b15bbd33716965ee6ab86d5c076d/Tussenjassen/Pme-Legend-Jas-Groen-heren.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "34pNnWtHo7ALMbVzesFjE2gj3d3E",
+              "value": "M",
+              "available": true,
+              "price": 249.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "34pNnWpGM4tbfTvkibeuCMb7NF1i",
+              "value": "L",
+              "available": true,
+              "price": 249.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "34pNnWx4qyP7CE1dyYQ1bpM7XWSb",
+              "value": "XL",
+              "available": true,
+              "price": 249.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "34pNnX8qVCXpZfvdzNogWnakgD7j",
+              "value": "3XL",
+              "available": true,
+              "price": 249.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "34pNnXKBGNbWLuoE5yQV3Eb743XR",
+              "value": "XXL",
+              "available": true,
+              "price": 249.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "34pNnWtHo7ALMbVzesFjE2gj3d3E",
+                  "regularPrice": {
+                    "bucket": 233,
+                    "price": 249.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "34pNnWpGM4tbfTvkibeuCMb7NF1i",
+                  "regularPrice": {
+                    "bucket": 233,
+                    "price": 249.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "34pNnWx4qyP7CE1dyYQ1bpM7XWSb",
+                  "regularPrice": {
+                    "bucket": 233,
+                    "price": 249.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null,
+                  "productIdV3": "34pNnXKBGNbWLuoE5yQV3Eb743XR",
+                  "regularPrice": {
+                    "bucket": 233,
+                    "price": 249.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null,
+                  "productIdV3": "34pNnX8qVCXpZfvdzNogWnakgD7j",
+                  "regularPrice": {
+                    "bucket": 233,
+                    "price": 249.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 477793,
+          "brandName": "PME Legend",
+          "brandRank": 27,
+          "brandRelativeDemandLabel": "D",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-02-14 00:00:00",
+          "popularity": 7,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.62,
+            "roasPercentage": 1090
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 4 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "PME Legend",
+              "values": [
+                {
+                  "id": 477793,
+                  "caption": "PME Legend",
+                  "columnValue": "PME Legend",
+                  "crawlable": true,
+                  "detailValue": "PME Legend",
+                  "fullId": "48_477793",
+                  "sequence": 2078,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Bomont.nl",
+              "values": [
+                {
+                  "id": 4553206,
+                  "caption": "Bomont.nl",
+                  "columnValue": "Bomont.nl",
+                  "crawlable": true,
+                  "detailValue": "Bomont.nl",
+                  "fullId": "49_4553206",
+                  "sequence": 110,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Katoen",
+              "values": [
+                {
+                  "id": 242265,
+                  "caption": "Katoenen",
+                  "columnValue": "Katoen",
+                  "crawlable": true,
+                  "detailValue": "Katoenen",
+                  "fullId": "2624_242265",
+                  "sequence": 8,
+                  "urlName": null
+                },
+                {
+                  "id": 242266,
+                  "caption": "Nylon",
+                  "columnValue": "Nylon",
+                  "crawlable": true,
+                  "detailValue": "Nylon",
+                  "fullId": "2624_242266",
+                  "sequence": 55,
+                  "urlName": null
+                },
+                {
+                  "id": 12237446,
+                  "caption": "Polyamide",
+                  "columnValue": "Polyamide",
+                  "crawlable": true,
+                  "detailValue": "Polyamide",
+                  "fullId": "2624_12237446",
+                  "sequence": 57,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Groen",
+              "values": [
+                {
+                  "id": 401008,
+                  "caption": "Groene",
+                  "columnValue": "Groen",
+                  "crawlable": true,
+                  "detailValue": "Groene",
+                  "fullId": "3003_401008",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "M",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Dun",
+              "values": [
+                {
+                  "id": 16762472,
+                  "caption": "Dunne",
+                  "columnValue": "Dun",
+                  "crawlable": true,
+                  "detailValue": "Dunne",
+                  "fullId": "3730_16762472",
+                  "sequence": 22,
+                  "urlName": null
+                },
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                },
+                {
+                  "id": 15836704,
+                  "caption": "Met zakken",
+                  "columnValue": "Met zakken",
+                  "crawlable": true,
+                  "detailValue": "Met zakken",
+                  "fullId": "3730_15836704",
+                  "sequence": 71,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4408,
+              "name": "Kleurtint groen",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "kleurtint_groen",
+              "value": "Legergroen",
+              "values": [
+                {
+                  "id": 7477143,
+                  "caption": "Legergroene",
+                  "columnValue": "Legergroen",
+                  "crawlable": true,
+                  "detailValue": "Legergroene",
+                  "fullId": "4408_7477143",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4766,
+              "name": "Soort zakken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_zakken",
+              "value": "Binnenzak",
+              "values": [
+                {
+                  "id": 9558835,
+                  "caption": "met binnenzak",
+                  "columnValue": "Binnenzak",
+                  "crawlable": true,
+                  "detailValue": "met binnenzak",
+                  "fullId": "4766_9558835",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 9558839,
+                  "caption": "met cargozak",
+                  "columnValue": "Cargozak",
+                  "crawlable": true,
+                  "detailValue": "met cargozak",
+                  "fullId": "4766_9558839",
+                  "sequence": 10,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Natuurlijk materiaal",
+              "values": [
+                {
+                  "id": 23597271,
+                  "caption": "Natuurlijk materiaal",
+                  "columnValue": "Natuurlijk materiaal",
+                  "crawlable": true,
+                  "detailValue": "Natuurlijk materiaal",
+                  "fullId": "6290_23597271",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "84116-242239",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8720672539289",
+          "revenuePerClick": 0.06,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 249.99,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 9,
+              "amount": 22696
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

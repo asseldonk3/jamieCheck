@@ -1,0 +1,772 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 35,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3155,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_bovenkleding",
+            "values": [
+              {
+                "id": 471650,
+                "caption": "Maat 44",
+                "columnValue": "44",
+                "crawlable": true,
+                "detailValue": "Maat 44",
+                "fullId": "3155_471650",
+                "sequence": 32,
+                "urlName": null
+              },
+              {
+                "id": 471652,
+                "caption": "Maat 48",
+                "columnValue": "48",
+                "crawlable": true,
+                "detailValue": "Maat 48",
+                "fullId": "3155_471652",
+                "sequence": 36,
+                "urlName": null
+              },
+              {
+                "id": 471654,
+                "caption": "Maat 52",
+                "columnValue": "52",
+                "crawlable": true,
+                "detailValue": "Maat 52",
+                "fullId": "3155_471654",
+                "sequence": 39,
+                "urlName": null
+              },
+              {
+                "id": 471656,
+                "caption": "Maat 56",
+                "columnValue": "56",
+                "crawlable": true,
+                "detailValue": "Maat 56",
+                "fullId": "3155_471656",
+                "sequence": 41,
+                "urlName": null
+              },
+              {
+                "id": 471658,
+                "caption": "Maat 62",
+                "columnValue": "62",
+                "crawlable": true,
+                "detailValue": "Maat 62",
+                "fullId": "3155_471658",
+                "sequence": 43,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "4KXbjzxqAbcQWD6uiFDau6wjuaBD",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "4KXbjzeP5pjQiowFyM64bZDEMRrU",
+            "advertisementIdV3": "4KXbjzeP5pjQiowFyM64bZDEMRrU"
+          },
+          "shopItemId": 0,
+          "productId": "4KXbjzxqAbcQWD6uiFDau6wjuaBD",
+          "ean": "",
+          "shopInfo": {
+            "id": 83182,
+            "shopName": "Your-look-for-less.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 8,
+            "productCount": 13000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/83182.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Your-look-for-less.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 8943,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 83182,
+            "shopItemId": 0,
+            "shopItemTitle": "Heren Poloshirt met korte mouwen in bordeaux",
+            "shopItemDescription": "",
+            "shopItemVersion": "300483_60-28352-300483",
+            "shopName": "Your-look-for-less.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "4KXbjzsMYRs3mZLe8n2uqasqBfGb",
+            "condition": "Nieuw",
+            "ean": "3800135264806",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.your-look-for-less.nl/p/28352?size=60%2F62?gw=955419419&ecc=419&utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslist",
+            "size": "60/62",
+            "shopReviewScore": 8.6,
+            "shopReviewAmount": 5275,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 35,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "300483_60",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "f945efe3-0568-4a4c-8e14-71da1106371a",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 35
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Heren Poloshirt met korte mouwen in bordeaux",
+          "fixedTitle": "Heren Poloshirt met korte mouwen in bordeaux",
+          "indexIdentifierTimeStamp": 1744908294,
+          "description": "Contrastinzetten en -bandjes op de schouders zetten accenten: poloshirt met tricotkraag en korte ritssluiting. Borstzak met afgebiesde ritssluiting.",
+          "descriptionRaw": "Contrastinzetten en -bandjes op de schouders zetten accenten: poloshirt met tricotkraag en korte ritssluiting. Borstzak met afgebiesde ritssluiting.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-4KXbjzeP5pjQiowFyM64bZDEMRrU",
+          "categoryId": 9000737,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            83182
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 2590,
+                "width": 2399
+              },
+              "type": "mainImage",
+              "url": "4KXbjzxqAbcQWD6uiFDau6wjuaBD/394/{size}/c008995be38330f057686a00393eb3ba/Poloshirts/Heren-Poloshirt-met-korte-mouwen-in-bordeaux.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 3199,
+                "width": 2384
+              },
+              "type": "alternativeImage",
+              "url": "4KXbjzxqAbcQWD6uiFDau6wjuaBD/15376/{size}/70961887c9a321a36cf8f5b633e34ef1/Poloshirts/Heren-Poloshirt-met-korte-mouwen-in-bordeaux.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzxqAbcQWD6uiFDau6wjuaBD",
+              "value": "56/58",
+              "available": true,
+              "price": 35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzaYmDbptqNxP17roqBrAFfP",
+              "value": "44/46",
+              "available": true,
+              "price": 35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzXXeEoCtaqXCNoLYVHyx75B",
+              "value": "52/54",
+              "available": true,
+              "price": 35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzkBaog7PdozBcsWsGfNCJYz",
+              "value": "48/50",
+              "available": true,
+              "price": 35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzsMYRs3mZLe8n2uqasqBfGb",
+              "value": "60/62",
+              "available": true,
+              "price": 35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3155,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_bovenkleding",
+              "values": [
+                {
+                  "id": 471650,
+                  "caption": "Maat 44",
+                  "columnValue": "44",
+                  "crawlable": true,
+                  "detailValue": "Maat 44",
+                  "fullId": "3155_471650",
+                  "sequence": 32,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzaYmDbptqNxP17roqBrAFfP",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 35,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471652,
+                  "caption": "Maat 48",
+                  "columnValue": "48",
+                  "crawlable": true,
+                  "detailValue": "Maat 48",
+                  "fullId": "3155_471652",
+                  "sequence": 36,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzkBaog7PdozBcsWsGfNCJYz",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 35,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471654,
+                  "caption": "Maat 52",
+                  "columnValue": "52",
+                  "crawlable": true,
+                  "detailValue": "Maat 52",
+                  "fullId": "3155_471654",
+                  "sequence": 39,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzXXeEoCtaqXCNoLYVHyx75B",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 35,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471656,
+                  "caption": "Maat 56",
+                  "columnValue": "56",
+                  "crawlable": true,
+                  "detailValue": "Maat 56",
+                  "fullId": "3155_471656",
+                  "sequence": 41,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzxqAbcQWD6uiFDau6wjuaBD",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 35,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471658,
+                  "caption": "Maat 62",
+                  "columnValue": "62",
+                  "crawlable": true,
+                  "detailValue": "Maat 62",
+                  "fullId": "3155_471658",
+                  "sequence": 43,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzsMYRs3mZLe8n2uqasqBfGb",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 35,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 471266,
+          "brandName": "Catamaran",
+          "brandRank": 907,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-06-20 00:00:00",
+          "popularity": 5631,
+          "popularityData": {
+            "clickFactor": 163,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Pre-order",
+          "deliveryTimeSort": 6,
+          "deliveryCosts": 5.5,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Catamaran",
+              "values": [
+                {
+                  "id": 471266,
+                  "caption": "Catamaran",
+                  "columnValue": "Catamaran",
+                  "crawlable": true,
+                  "detailValue": "Catamaran",
+                  "fullId": "48_471266",
+                  "sequence": 501,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Your-look-for-less.nl",
+              "values": [
+                {
+                  "id": 4043426,
+                  "caption": "Your-look-for-less.nl",
+                  "columnValue": "Your-look-for-less.nl",
+                  "crawlable": true,
+                  "detailValue": "Your-look-for-less.nl",
+                  "fullId": "49_4043426",
+                  "sequence": 898,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Katoen",
+              "values": [
+                {
+                  "id": 242265,
+                  "caption": "Katoenen",
+                  "columnValue": "Katoen",
+                  "crawlable": true,
+                  "detailValue": "Katoenen",
+                  "fullId": "2624_242265",
+                  "sequence": 8,
+                  "urlName": null
+                },
+                {
+                  "id": 7095884,
+                  "caption": "Tricot",
+                  "columnValue": "Tricot",
+                  "crawlable": true,
+                  "detailValue": "Tricot",
+                  "fullId": "2624_7095884",
+                  "sequence": 14,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Rood",
+              "values": [
+                {
+                  "id": 401007,
+                  "caption": "Rode",
+                  "columnValue": "Rood",
+                  "crawlable": true,
+                  "detailValue": "Rode",
+                  "fullId": "3003_401007",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3115,
+              "name": "Soort hals",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_hals_trui_shirt",
+              "value": "Polokraag",
+              "values": [
+                {
+                  "id": 13853939,
+                  "caption": "met polokraag",
+                  "columnValue": "Polokraag",
+                  "crawlable": true,
+                  "detailValue": "met polokraag",
+                  "fullId": "3115_13853939",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3155,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_bovenkleding",
+              "value": "44",
+              "values": [
+                {
+                  "id": 471650,
+                  "caption": "Maat 44",
+                  "columnValue": "44",
+                  "crawlable": true,
+                  "detailValue": "Maat 44",
+                  "fullId": "3155_471650",
+                  "sequence": 32,
+                  "urlName": null
+                },
+                {
+                  "id": 471652,
+                  "caption": "Maat 48",
+                  "columnValue": "48",
+                  "crawlable": true,
+                  "detailValue": "Maat 48",
+                  "fullId": "3155_471652",
+                  "sequence": 36,
+                  "urlName": null
+                },
+                {
+                  "id": 471654,
+                  "caption": "Maat 52",
+                  "columnValue": "52",
+                  "crawlable": true,
+                  "detailValue": "Maat 52",
+                  "fullId": "3155_471654",
+                  "sequence": 39,
+                  "urlName": null
+                },
+                {
+                  "id": 471656,
+                  "caption": "Maat 56",
+                  "columnValue": "56",
+                  "crawlable": true,
+                  "detailValue": "Maat 56",
+                  "fullId": "3155_471656",
+                  "sequence": 41,
+                  "urlName": null
+                },
+                {
+                  "id": 471658,
+                  "caption": "Maat 62",
+                  "columnValue": "62",
+                  "crawlable": true,
+                  "detailValue": "Maat 62",
+                  "fullId": "3155_471658",
+                  "sequence": 43,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met mouwen",
+              "values": [
+                {
+                  "id": 15836705,
+                  "caption": "Met mouwen",
+                  "columnValue": "Met mouwen",
+                  "crawlable": true,
+                  "detailValue": "Met mouwen",
+                  "fullId": "3730_15836705",
+                  "sequence": 58,
+                  "urlName": null
+                },
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                },
+                {
+                  "id": 15836704,
+                  "caption": "Met zakken",
+                  "columnValue": "Met zakken",
+                  "crawlable": true,
+                  "detailValue": "Met zakken",
+                  "fullId": "3730_15836704",
+                  "sequence": 71,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4158,
+              "name": "Soort mouw",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_mouw",
+              "value": "Korte mouwen",
+              "values": [
+                {
+                  "id": 6510250,
+                  "caption": "Korte mouwen",
+                  "columnValue": "Korte mouwen",
+                  "crawlable": true,
+                  "detailValue": "Korte mouwen",
+                  "fullId": "4158_6510250",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4409,
+              "name": "Kleurtint rood",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "kleurtint_rood",
+              "value": "Bordeaux rood",
+              "values": [
+                {
+                  "id": 7477151,
+                  "caption": "Bordeaux rode",
+                  "columnValue": "Bordeaux rood",
+                  "crawlable": true,
+                  "detailValue": "Bordeaux rode",
+                  "fullId": "4409_7477151",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4766,
+              "name": "Soort zakken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_zakken",
+              "value": "Borstzak",
+              "values": [
+                {
+                  "id": 9558836,
+                  "caption": "met borstzak",
+                  "columnValue": "Borstzak",
+                  "crawlable": true,
+                  "detailValue": "met borstzak",
+                  "fullId": "4766_9558836",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Natuurlijk materiaal",
+              "values": [
+                {
+                  "id": 23597271,
+                  "caption": "Natuurlijk materiaal",
+                  "columnValue": "Natuurlijk materiaal",
+                  "crawlable": true,
+                  "detailValue": "Natuurlijk materiaal",
+                  "fullId": "6290_23597271",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "83182-300483",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-f945efe3-0568-4a4c-8e14-71da1106371a",
+          "revenuePerClick": 0.25,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 35,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 8.6,
+              "amount": 5275
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

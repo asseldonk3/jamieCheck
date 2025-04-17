@@ -1,0 +1,2077 @@
+{
+  "offset": 0,
+  "numFound": 4,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 4,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 237.95,
+        "highestDiscount": 47,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3161,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_jassen_jurken_pakken",
+            "values": [
+              {
+                "id": 471770,
+                "caption": "Maat XS",
+                "columnValue": "XS",
+                "crawlable": true,
+                "detailValue": "Maat XS",
+                "fullId": "3161_471770",
+                "sequence": 3,
+                "urlName": null
+              },
+              {
+                "id": 471771,
+                "caption": "Maat S",
+                "columnValue": "S",
+                "crawlable": true,
+                "detailValue": "Maat S",
+                "fullId": "3161_471771",
+                "sequence": 5,
+                "urlName": null
+              },
+              {
+                "id": 471772,
+                "caption": "Maat M",
+                "columnValue": "M",
+                "crawlable": true,
+                "detailValue": "Maat M",
+                "fullId": "3161_471772",
+                "sequence": 7,
+                "urlName": null
+              },
+              {
+                "id": 471773,
+                "caption": "Maat L",
+                "columnValue": "L",
+                "crawlable": true,
+                "detailValue": "Maat L",
+                "fullId": "3161_471773",
+                "sequence": 9,
+                "urlName": null
+              },
+              {
+                "id": 471774,
+                "caption": "Maat XL",
+                "columnValue": "XL",
+                "crawlable": true,
+                "detailValue": "Maat XL",
+                "fullId": "3161_471774",
+                "sequence": 11,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "ka7sNbVuMw5khNXxFERa8hRAVLW",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "ka7sNHaXSuy8vLU9eRatjsSkKae",
+            "advertisementIdV3": "ka7sNHaXSuy8vLU9eRatjsSkKae"
+          },
+          "shopItemId": 0,
+          "productId": "ka7sNbVuMw5khNXxFERa8hRAVLW",
+          "ean": "",
+          "shopInfo": {
+            "id": 650293,
+            "shopName": "Skistoreswing.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 10,
+            "productCount": 2000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/650293.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:24+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 36091,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "klantenservice@skistoreswing.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 650293,
+            "shopItemId": 0,
+            "shopItemTitle": "Peak Performance Women Rider Tech Insulated Jacket Offwhite maat S",
+            "shopItemDescription": "",
+            "shopItemVersion": "13217-G79822030-Offwhite-15127",
+            "shopName": "Skistoreswing.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "ka7sNbVuMw5khNXxFERa8hRAVLW",
+            "condition": "Nieuw",
+            "ean": "7333269802331",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.skistoreswing.nl/peak-performance-rider-tech-insulated-jacket-women-g79822.html?utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslist#colorcode=59&size=545",
+            "size": "S",
+            "shopReviewScore": 5.6,
+            "shopReviewAmount": 9,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 233,
+              "price": 237.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 377,
+              "price": 449.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "13217",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": "Peak Performance Womens Rider Tech Insulated Jacket",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 224.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 224.95
+          },
+          "title": "Peak Performance Women Rider Tech Insulated Jacket Offwhite maat S",
+          "fixedTitle": "Peak Performance Women Rider Tech Insulated Jacket Offwhite maat XL",
+          "indexIdentifierTimeStamp": 1744908280,
+          "description": "Productomschrijving: Rider Tech Insulated Jacket\n\n De Rider Tech Insulated Jacket van Peak Performance is een betrouwbare ski-jas voor dagen op de piste. Deze gewatteerde jas uit de Rider-collectie biedt bescherming en comfort in verschillende omstandigheden. Gemaakt van een stevige 2-laags HIPE\u00ae-stof, is de jas water- en winddicht met ademende eigenschappen. Specifieke ski-eigenschappen zoals de RECCO\u00ae-reddingsreflector, een verstelbare capuchon, een skipaszak en een sneeuwvanger maken deze jas geschikt voor dagelijkse ski-activiteiten.\n\n Materiaal\n\n De Rider Tech Insulated Jacket is gemaakt van materialen die comfort en bescherming bieden op de piste. De kraag, mouwvulling en het inzetstuk op het lichaam zijn volledig van polyester, terwijl de zakken een mix van 100% polyester en gerecycled polyester bevatten. De voering en sneeuwvanger zijn van gerecycled polyester. Het buitenmateriaal bestaat uit een polyurethaan membraan met gerecycled en nieuw polyester. De jas heeft een",
+          "descriptionRaw": "Productomschrijving: Rider Tech Insulated Jacket\n\n De Rider Tech Insulated Jacket van Peak Performance is een betrouwbare ski-jas voor dagen op de piste. Deze gewatteerde jas uit de Rider-collectie biedt bescherming en comfort in verschillende omstandigheden. Gemaakt van een stevige 2-laags HIPE\u00ae-stof, is de jas water- en winddicht met ademende eigenschappen. Specifieke ski-eigenschappen zoals de RECCO\u00ae-reddingsreflector, een verstelbare capuchon, een skipaszak en een sneeuwvanger maken deze jas geschikt voor dagelijkse ski-activiteiten.\n\n Materiaal\n\n De Rider Tech Insulated Jacket is gemaakt van materialen die comfort en bescherming bieden op de piste. De kraag, mouwvulling en het inzetstuk op het lichaam zijn volledig van polyester, terwijl de zakken een mix van 100% polyester en gerecycled polyester bevatten. De voering en sneeuwvanger zijn van gerecycled polyester. Het buitenmateriaal bestaat uit een polyurethaan membraan met gerecycled en nieuw polyester. De jas heeft een",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-ka7sNHaXSuy8vLU9eRatjsSkKae",
+          "categoryId": 9005527,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 4,
+          "shopIds": [
+            650293
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 967
+              },
+              "type": "mainImage",
+              "url": "pim/7333269802294/394/{size}/3a602a6494f653ab9e7313bb06a26477/Jacks/Peak-Performance-Women-Rider-Tech-Insulated-Jacket-Offwhite-maat-XL.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 973
+              },
+              "type": "alternativeImage",
+              "url": "pim/7333269802294/15376/{size}/cba743d9f154f5bb4e9e33d60b93b86c/Jacks/Peak-Performance-Women-Rider-Tech-Insulated-Jacket-Offwhite-maat-XL.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 652
+              },
+              "type": "alternativeImage",
+              "url": "pim/7333269802294/15377/{size}/6aa735706e92719e6961a3eef348483a/Jacks/Peak-Performance-Women-Rider-Tech-Insulated-Jacket-Offwhite-maat-XL.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "ka7sNbVuMw5khNXxFERa8hRAVLW",
+              "value": "S",
+              "available": true,
+              "price": 237.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "ka7sNT4mFBjVSn83JJuNXGxbddW",
+              "value": "XL",
+              "available": true,
+              "price": 237.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "ka7sNU3Ztdm9tDyvoq6YYHZmSQj",
+              "value": "M",
+              "available": true,
+              "price": 237.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "ka7sNE7dTETjrtvidUGf9ihfKaq",
+              "value": "L",
+              "available": true,
+              "price": 237.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null,
+                  "productIdV3": "ka7sNbVuMw5khNXxFERa8hRAVLW",
+                  "regularPrice": {
+                    "bucket": 377,
+                    "price": 449.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 233,
+                    "price": 237.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "ka7sNU3Ztdm9tDyvoq6YYHZmSQj",
+                  "regularPrice": {
+                    "bucket": 377,
+                    "price": 449.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 233,
+                    "price": 237.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "ka7sNE7dTETjrtvidUGf9ihfKaq",
+                  "regularPrice": {
+                    "bucket": 377,
+                    "price": 449.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 233,
+                    "price": 237.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "ka7sNT4mFBjVSn83JJuNXGxbddW",
+                  "regularPrice": {
+                    "bucket": 377,
+                    "price": 449.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 233,
+                    "price": 237.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 139107,
+          "brandName": "Peak Performance",
+          "brandRank": 282,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-20 00:00:00",
+          "popularity": 5218,
+          "popularityData": {
+            "clickFactor": 107,
+            "webshopsRevenuePerClick": 3.75,
+            "roasPercentage": 850
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 2 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "S",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Peak Performance",
+              "values": [
+                {
+                  "id": 139107,
+                  "caption": "Peak Performance",
+                  "columnValue": "Peak Performance",
+                  "crawlable": true,
+                  "detailValue": "Peak Performance",
+                  "fullId": "48_139107",
+                  "sequence": 2022,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Skistoreswing.nl",
+              "values": [
+                {
+                  "id": 23801301,
+                  "caption": "Skistoreswing.nl",
+                  "columnValue": "Skistoreswing.nl",
+                  "crawlable": true,
+                  "detailValue": "Skistoreswing.nl",
+                  "fullId": "49_23801301",
+                  "sequence": 947,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 401013,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3003_401013",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 476320,
+                  "caption": "Ecru",
+                  "columnValue": "Ecru",
+                  "crawlable": true,
+                  "detailValue": "Ecru",
+                  "fullId": "3003_476320",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Windstoppers",
+              "values": [
+                {
+                  "id": 6608276,
+                  "caption": "Windstoppers",
+                  "columnValue": "Windstoppers",
+                  "crawlable": true,
+                  "detailValue": "Windstoppers",
+                  "fullId": "3114_6608276",
+                  "sequence": 18,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Ademend",
+              "values": [
+                {
+                  "id": 23500774,
+                  "caption": "Ademende",
+                  "columnValue": "Ademend",
+                  "crawlable": true,
+                  "detailValue": "Ademende",
+                  "fullId": "3730_23500774",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23581724,
+                  "caption": "Comfort",
+                  "columnValue": "Comfort",
+                  "crawlable": true,
+                  "detailValue": "Comfort",
+                  "fullId": "3730_23581724",
+                  "sequence": 16,
+                  "urlName": null
+                },
+                {
+                  "id": 12170217,
+                  "caption": "Met laagjes",
+                  "columnValue": "Met laagjes",
+                  "crawlable": true,
+                  "detailValue": "Met laagjes",
+                  "fullId": "3730_12170217",
+                  "sequence": 57,
+                  "urlName": null
+                },
+                {
+                  "id": 16213416,
+                  "caption": "Reflecterende",
+                  "columnValue": "Reflecterend",
+                  "crawlable": true,
+                  "detailValue": "Reflecterende",
+                  "fullId": "3730_16213416",
+                  "sequence": 90,
+                  "urlName": null
+                },
+                {
+                  "id": 9511520,
+                  "caption": "Winddichte",
+                  "columnValue": "Winddicht",
+                  "crawlable": true,
+                  "detailValue": "Winddichte",
+                  "fullId": "3730_9511520",
+                  "sequence": 109,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Skikleding",
+              "values": [
+                {
+                  "id": 5340885,
+                  "caption": "Ski",
+                  "columnValue": "Skikleding",
+                  "crawlable": true,
+                  "detailValue": "Ski",
+                  "fullId": "3875_5340885",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 14893091,
+                  "caption": "Snowboard",
+                  "columnValue": "Snowboardkleding",
+                  "crawlable": true,
+                  "detailValue": "Snowboard",
+                  "fullId": "3875_14893091",
+                  "sequence": 24,
+                  "urlName": null
+                },
+                {
+                  "id": 19259088,
+                  "caption": "Wintersport",
+                  "columnValue": "Wintersportkleding",
+                  "crawlable": true,
+                  "detailValue": "Wintersport",
+                  "fullId": "3875_19259088",
+                  "sequence": 29,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4743,
+              "name": "Productlijn",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pl_kleding",
+              "value": "Peak Performance Rider",
+              "values": [
+                {
+                  "id": 23740748,
+                  "caption": "Peak Performance Rider",
+                  "columnValue": "Peak Performance Rider",
+                  "crawlable": true,
+                  "detailValue": "Peak Performance Rider",
+                  "fullId": "4743_23740748",
+                  "sequence": 419,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5193,
+              "name": "Type",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "t_jas",
+              "value": "Gewatteerd",
+              "values": [
+                {
+                  "id": 23601351,
+                  "caption": "Gewatteerde",
+                  "columnValue": "Gewatteerd",
+                  "crawlable": true,
+                  "detailValue": "Gewatteerde",
+                  "fullId": "5193_23601351",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6321,
+              "name": "Soort",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "soort_winterjas",
+              "value": "Ski-jassen",
+              "values": [
+                {
+                  "id": 23601347,
+                  "caption": "Ski-jassen",
+                  "columnValue": "Ski-jassen",
+                  "crawlable": true,
+                  "detailValue": "Ski-jassen",
+                  "fullId": "6321_23601347",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23798086,
+                  "caption": "Puffer jackets",
+                  "columnValue": "Puffer jackets",
+                  "crawlable": true,
+                  "detailValue": "Puffer jackets",
+                  "fullId": "6321_23798086",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "650293-15127",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-7333269802331",
+          "revenuePerClick": 0.44,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 237.95,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 47,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 47
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "3B1Zs4udXft5Y4HZLwAL8K7fTUhC",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3B1Zs547TaNKM4cdtxRLUNSMwWyR",
+            "advertisementIdV3": "3B1Zs547TaNKM4cdtxRLUNSMwWyR"
+          },
+          "shopItemId": 0,
+          "productId": "3B1Zs4udXft5Y4HZLwAL8K7fTUhC",
+          "ean": "",
+          "shopInfo": {
+            "id": 651931,
+            "shopName": "Daka.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/651931.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:15+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 37954,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 651931,
+            "shopItemId": 0,
+            "shopItemTitle": "Peak Performance Rider Tech Insulated Jacket",
+            "shopItemDescription": "",
+            "shopItemVersion": "1106761-089157_1_1",
+            "shopName": "Daka.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3B1Zs5FS5BfADsuyK5CaVRQzHPMR",
+            "condition": "Nieuw",
+            "ean": "7333269802317",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://pla.daisycon.io/csd/?si=7290&li=1765148&wi=382479&pid=a23ea94a99e44f51ef990d2e2519d3af&force_domain=true&dl=https%3a%2f%2fwww.daka.nl%2fpeak-performance-w-rider-tech-insulated-sku_089157%3Fchannable%3D030b4469640031313036373631bc&ws=UUID_placeholder",
+            "size": "L",
+            "shopReviewScore": 9.2,
+            "shopReviewAmount": 22235,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 233,
+              "price": 314.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 377,
+              "price": 449.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "1106761",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": "Peak Performance Womens Rider Tech Insulated Jacket",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 224.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 224.95
+          },
+          "title": "Peak Performance Rider Tech Insulated Jacket",
+          "fixedTitle": "Peak Performance Rider Tech Insulated Jacket",
+          "indexIdentifierTimeStamp": 1744908280,
+          "description": "De Rider Tech Insulated Jacket is jouw ultieme metgezel voor de bergen. Deze premium skijas uit de Rider collectie biedt uitstekende bescherming en comfort met zijn waterdichte en ademende 2-laags HIPE\ufffd stof (10.000 mm/10.000 g/m\ufffd/24u). De jas is voorzien van hoogwaardige synthetische isolatie voor optimale warmte, zelfs op de koudste dagen. Met ski-specifieke kenmerken zoals een RECCO\ufffd Rescue System reflector, een helmcompatibele verstelbare kap, een sneeuwskirt en een handige ski pass-pocket, ben je perfect uitgerust. De jas heeft ook een fleece gevoerde kinbeschermer, verstelbare mouwen en onderboord, en ventilatie onder de armen voor extra comfort. Gemaakt van deels gerecycleerde vezels en behandeld met een PFC-vrije DWR-coating, biedt deze jas zowel duurzaamheid als stijl. Voor eengeweldige dag op de pistes, kies je de W Rider Tech Insulated Jacket.",
+          "descriptionRaw": "De Rider Tech Insulated Jacket is jouw ultieme metgezel voor de bergen. Deze premium skijas uit de Rider collectie biedt uitstekende bescherming en comfort met zijn waterdichte en ademende 2-laags HIPE\ufffd stof (10.000 mm/10.000 g/m\ufffd/24u). De jas is voorzien van hoogwaardige synthetische isolatie voor optimale warmte, zelfs op de koudste dagen. Met ski-specifieke kenmerken zoals een RECCO\ufffd Rescue System reflector, een helmcompatibele verstelbare kap, een sneeuwskirt en een handige ski pass-pocket, ben je perfect uitgerust. De jas heeft ook een fleece gevoerde kinbeschermer, verstelbare mouwen en onderboord, en ventilatie onder de armen voor extra comfort. Gemaakt van deels gerecycleerde vezels en behandeld met een PFC-vrije DWR-coating, biedt deze jas zowel duurzaamheid als stijl. Voor eengeweldige dag op de pistes, kies je de W Rider Tech Insulated Jacket.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-3B1Zs547TaNKM4cdtxRLUNSMwWyR",
+          "categoryId": 9005527,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 4,
+          "shopIds": [
+            651931
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 967
+              },
+              "type": "mainImage",
+              "url": "pim/7333269802300/394/{size}/3a602a6494f653ab9e7313bb06a26477/Jacks/Peak-Performance-Rider-Tech-Insulated-Jacket.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 652
+              },
+              "type": "alternativeImage",
+              "url": "pim/7333269802300/15376/{size}/6aa735706e92719e6961a3eef348483a/Jacks/Peak-Performance-Rider-Tech-Insulated-Jacket.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 973
+              },
+              "type": "alternativeImage",
+              "url": "pim/7333269802300/15377/{size}/cba743d9f154f5bb4e9e33d60b93b86c/Jacks/Peak-Performance-Rider-Tech-Insulated-Jacket.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3B1Zs4udXft5Y4HZLwAL8K7fTUhC",
+              "value": "S",
+              "available": true,
+              "price": 314.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3B1Zs5EMyGoeQBp8oydQkRVoazr6",
+              "value": "M",
+              "available": true,
+              "price": 314.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3B1Zs5Fe6dibxiSPBbWzc9G6ynH9",
+              "value": "XS",
+              "available": true,
+              "price": 314.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3B1Zs5FS5BfADsuyK5CaVRQzHPMR",
+              "value": "L",
+              "available": true,
+              "price": 314.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null,
+                  "productIdV3": "3B1Zs5Fe6dibxiSPBbWzc9G6ynH9",
+                  "regularPrice": {
+                    "bucket": 377,
+                    "price": 449.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 233,
+                    "price": 314.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null,
+                  "productIdV3": "3B1Zs4udXft5Y4HZLwAL8K7fTUhC",
+                  "regularPrice": {
+                    "bucket": 377,
+                    "price": 449.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 233,
+                    "price": 314.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "3B1Zs5EMyGoeQBp8oydQkRVoazr6",
+                  "regularPrice": {
+                    "bucket": 377,
+                    "price": 449.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 233,
+                    "price": 314.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "3B1Zs5FS5BfADsuyK5CaVRQzHPMR",
+                  "regularPrice": {
+                    "bucket": 377,
+                    "price": 449.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 233,
+                    "price": 314.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 139107,
+          "brandName": "Peak Performance",
+          "brandRank": 282,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-20 00:00:00",
+          "popularity": 3,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.64,
+            "roasPercentage": 3300
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 5 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "XS",
+              "values": [
+                {
+                  "id": 471770,
+                  "caption": "Maat XS",
+                  "columnValue": "XS",
+                  "crawlable": true,
+                  "detailValue": "Maat XS",
+                  "fullId": "3161_471770",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Peak Performance",
+              "values": [
+                {
+                  "id": 139107,
+                  "caption": "Peak Performance",
+                  "columnValue": "Peak Performance",
+                  "crawlable": true,
+                  "detailValue": "Peak Performance",
+                  "fullId": "48_139107",
+                  "sequence": 2022,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Daka.nl",
+              "values": [
+                {
+                  "id": 23797287,
+                  "caption": "Daka.nl",
+                  "columnValue": "Daka.nl",
+                  "crawlable": true,
+                  "detailValue": "Daka.nl",
+                  "fullId": "49_23797287",
+                  "sequence": 160,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Synthetisch",
+              "values": [
+                {
+                  "id": 242299,
+                  "caption": "Synthetisch",
+                  "columnValue": "Synthetisch",
+                  "crawlable": true,
+                  "detailValue": "Synthetisch",
+                  "fullId": "2624_242299",
+                  "sequence": 61,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Ecru",
+              "values": [
+                {
+                  "id": 476320,
+                  "caption": "Ecru",
+                  "columnValue": "Ecru",
+                  "crawlable": true,
+                  "detailValue": "Ecru",
+                  "fullId": "3003_476320",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Ademend",
+              "values": [
+                {
+                  "id": 23500774,
+                  "caption": "Ademende",
+                  "columnValue": "Ademend",
+                  "crawlable": true,
+                  "detailValue": "Ademende",
+                  "fullId": "3730_23500774",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23581724,
+                  "caption": "Comfort",
+                  "columnValue": "Comfort",
+                  "crawlable": true,
+                  "detailValue": "Comfort",
+                  "fullId": "3730_23581724",
+                  "sequence": 16,
+                  "urlName": null
+                },
+                {
+                  "id": 12170217,
+                  "caption": "Met laagjes",
+                  "columnValue": "Met laagjes",
+                  "crawlable": true,
+                  "detailValue": "Met laagjes",
+                  "fullId": "3730_12170217",
+                  "sequence": 57,
+                  "urlName": null
+                },
+                {
+                  "id": 16213416,
+                  "caption": "Reflecterende",
+                  "columnValue": "Reflecterend",
+                  "crawlable": true,
+                  "detailValue": "Reflecterende",
+                  "fullId": "3730_16213416",
+                  "sequence": 90,
+                  "urlName": null
+                },
+                {
+                  "id": 7424575,
+                  "caption": "Waterdichte",
+                  "columnValue": "Waterdicht",
+                  "crawlable": true,
+                  "detailValue": "Waterdichte",
+                  "fullId": "3730_7424575",
+                  "sequence": 106,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Skikleding",
+              "values": [
+                {
+                  "id": 5340885,
+                  "caption": "Ski",
+                  "columnValue": "Skikleding",
+                  "crawlable": true,
+                  "detailValue": "Ski",
+                  "fullId": "3875_5340885",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 14893091,
+                  "caption": "Snowboard",
+                  "columnValue": "Snowboardkleding",
+                  "crawlable": true,
+                  "detailValue": "Snowboard",
+                  "fullId": "3875_14893091",
+                  "sequence": 24,
+                  "urlName": null
+                },
+                {
+                  "id": 19259088,
+                  "caption": "Wintersport",
+                  "columnValue": "Wintersportkleding",
+                  "crawlable": true,
+                  "detailValue": "Wintersport",
+                  "fullId": "3875_19259088",
+                  "sequence": 29,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4743,
+              "name": "Productlijn",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pl_kleding",
+              "value": "Peak Performance Rider",
+              "values": [
+                {
+                  "id": 23740748,
+                  "caption": "Peak Performance Rider",
+                  "columnValue": "Peak Performance Rider",
+                  "crawlable": true,
+                  "detailValue": "Peak Performance Rider",
+                  "fullId": "4743_23740748",
+                  "sequence": 419,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6321,
+              "name": "Soort",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "soort_winterjas",
+              "value": "Ski-jassen",
+              "values": [
+                {
+                  "id": 23601347,
+                  "caption": "Ski-jassen",
+                  "columnValue": "Ski-jassen",
+                  "crawlable": true,
+                  "detailValue": "Ski-jassen",
+                  "fullId": "6321_23601347",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-7333269802331",
+          "revenuePerClick": 0.02,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 2,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 237.95,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 30,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 9.2,
+              "amount": 22235
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "id": "4D3CrJZE7oGCtq9Uv46txxgCSbDs",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "4D3CrJVP3m3MEs2284MrRk1kUd6K",
+            "advertisementIdV3": "4D3CrJVP3m3MEs2284MrRk1kUd6K"
+          },
+          "shopItemId": 0,
+          "productId": "4D3CrJZE7oGCtq9Uv46txxgCSbDs",
+          "ean": "",
+          "shopInfo": {
+            "id": 15590,
+            "shopName": "Bever.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 4,
+            "productCount": 42000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/15590.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:25:15+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 8533,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@bever.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 15590,
+            "shopItemId": 0,
+            "shopItemTitle": "Peak Performance W Rider Tech Insulated Jacket Ski-Jas  - Dames",
+            "shopItemDescription": "",
+            "shopItemVersion": "2405402-E11ACA0333-Gebroken Wit-E11ACA0333",
+            "shopName": "Bever.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "4D3CrJZE7oGCtq9Uv46txxgCSbDs",
+            "condition": "Nieuw",
+            "ean": "7333269802331",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.bever.nl/p/peak-performance-w-rider-tech-insulated-jacket-ski-jas-dames-E11ACA0333.html?colour=8023&utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslis",
+            "size": "S",
+            "shopReviewScore": 5.2,
+            "shopReviewAmount": 385,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 233,
+              "price": 337.46,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 377,
+              "price": 449.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "2405402",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 224.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 224.95
+          },
+          "title": "Peak Performance W Rider Tech Insulated Jacket Ski-Jas  - Dames",
+          "fixedTitle": "Peak Performance W Rider Tech Insulated Jacket Ski-Jas  - Dames",
+          "indexIdentifierTimeStamp": 1744908280,
+          "description": "De Rider Ski 2L insulated shell jacket heeft een clean design en een range van details, Ideaal voor alle winteravonturen Gemaakt van stretch Hipe-stof voor optimale bescherming tegen wind en water Ademend ontwerp voor meer comfort tijdens activiteiten Ge\u00efsoleerd met synthetische voering voor extra warmte Slimme details: helmcompatibele capuchon, polsgaiters met duimgaten en meerdere ritszakken.",
+          "descriptionRaw": "De Rider Ski 2L insulated shell jacket heeft een clean design en een range van details, Ideaal voor alle winteravonturen Gemaakt van stretch Hipe-stof voor optimale bescherming tegen wind en water Ademend ontwerp voor meer comfort tijdens activiteiten Ge\u00efsoleerd met synthetische voering voor extra warmte Slimme details: helmcompatibele capuchon, polsgaiters met duimgaten en meerdere ritszakken.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-4D3CrJVP3m3MEs2284MrRk1kUd6K",
+          "categoryId": 9005527,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 4,
+          "shopIds": [
+            15590
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 614,
+                "width": 506
+              },
+              "type": "mainImage",
+              "url": "4D3CrJZE7oGCtq9Uv46txxgCSbDs/394/{size}/e308c7f6645d3241a0434696af8a5165/Jacks/Peak-Performance-W-Rider-Tech-Insulated-Jacket-Ski-Jas-Dames.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "4D3CrJZE7oGCtq9Uv46txxgCSbDs",
+              "value": "S",
+              "available": true,
+              "price": 337.46,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4D3CrJfRLKRsjwkZq6qufVuFiFpD",
+              "value": "L",
+              "available": true,
+              "price": 337.46,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null,
+                  "productIdV3": "4D3CrJZE7oGCtq9Uv46txxgCSbDs",
+                  "regularPrice": {
+                    "bucket": 377,
+                    "price": 449.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 233,
+                    "price": 337.46,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "4D3CrJfRLKRsjwkZq6qufVuFiFpD",
+                  "regularPrice": {
+                    "bucket": 377,
+                    "price": 449.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 233,
+                    "price": 337.46,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 139107,
+          "brandName": "Peak Performance",
+          "brandRank": 282,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-20 00:00:00",
+          "popularity": 34,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 2.2,
+            "roasPercentage": 700
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 dagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "S",
+              "values": [
+                {
+                  "id": 471771,
+                  "caption": "Maat S",
+                  "columnValue": "S",
+                  "crawlable": true,
+                  "detailValue": "Maat S",
+                  "fullId": "3161_471771",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Peak Performance",
+              "values": [
+                {
+                  "id": 139107,
+                  "caption": "Peak Performance",
+                  "columnValue": "Peak Performance",
+                  "crawlable": true,
+                  "detailValue": "Peak Performance",
+                  "fullId": "48_139107",
+                  "sequence": 2022,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Bever.nl",
+              "values": [
+                {
+                  "id": 23600842,
+                  "caption": "Bever.nl",
+                  "columnValue": "Bever.nl",
+                  "crawlable": true,
+                  "detailValue": "Bever.nl",
+                  "fullId": "49_23600842",
+                  "sequence": 90,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Stretch",
+              "values": [
+                {
+                  "id": 242298,
+                  "caption": "Stretch",
+                  "columnValue": "Stretch",
+                  "crawlable": true,
+                  "detailValue": "Stretch",
+                  "fullId": "2624_242298",
+                  "sequence": 13,
+                  "urlName": null
+                },
+                {
+                  "id": 242299,
+                  "caption": "Synthetisch",
+                  "columnValue": "Synthetisch",
+                  "crawlable": true,
+                  "detailValue": "Synthetisch",
+                  "fullId": "2624_242299",
+                  "sequence": 61,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 401013,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3003_401013",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Ademend",
+              "values": [
+                {
+                  "id": 23500774,
+                  "caption": "Ademende",
+                  "columnValue": "Ademend",
+                  "crawlable": true,
+                  "detailValue": "Ademende",
+                  "fullId": "3730_23500774",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23581724,
+                  "caption": "Comfort",
+                  "columnValue": "Comfort",
+                  "crawlable": true,
+                  "detailValue": "Comfort",
+                  "fullId": "3730_23581724",
+                  "sequence": 16,
+                  "urlName": null
+                },
+                {
+                  "id": 16193065,
+                  "caption": "Met capuchon",
+                  "columnValue": "Met capuchon",
+                  "crawlable": true,
+                  "detailValue": "Met capuchon",
+                  "fullId": "3730_16193065",
+                  "sequence": 49,
+                  "urlName": null
+                },
+                {
+                  "id": 15836704,
+                  "caption": "Met zakken",
+                  "columnValue": "Met zakken",
+                  "crawlable": true,
+                  "detailValue": "Met zakken",
+                  "fullId": "3730_15836704",
+                  "sequence": 71,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Skikleding",
+              "values": [
+                {
+                  "id": 5340885,
+                  "caption": "Ski",
+                  "columnValue": "Skikleding",
+                  "crawlable": true,
+                  "detailValue": "Ski",
+                  "fullId": "3875_5340885",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 14893091,
+                  "caption": "Snowboard",
+                  "columnValue": "Snowboardkleding",
+                  "crawlable": true,
+                  "detailValue": "Snowboard",
+                  "fullId": "3875_14893091",
+                  "sequence": 24,
+                  "urlName": null
+                },
+                {
+                  "id": 19259088,
+                  "caption": "Wintersport",
+                  "columnValue": "Wintersportkleding",
+                  "crawlable": true,
+                  "detailValue": "Wintersport",
+                  "fullId": "3875_19259088",
+                  "sequence": 29,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4743,
+              "name": "Productlijn",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pl_kleding",
+              "value": "Peak Performance Rider",
+              "values": [
+                {
+                  "id": 23740748,
+                  "caption": "Peak Performance Rider",
+                  "columnValue": "Peak Performance Rider",
+                  "crawlable": true,
+                  "detailValue": "Peak Performance Rider",
+                  "fullId": "4743_23740748",
+                  "sequence": 419,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6321,
+              "name": "Soort",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "soort_winterjas",
+              "value": "Ski-jassen",
+              "values": [
+                {
+                  "id": 23601347,
+                  "caption": "Ski-jassen",
+                  "columnValue": "Ski-jassen",
+                  "crawlable": true,
+                  "detailValue": "Ski-jassen",
+                  "fullId": "6321_23601347",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "15590-E11ACA0333",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-7333269802331",
+          "revenuePerClick": 0.31,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 1,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 237.95,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 25,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 25
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

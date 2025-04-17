@@ -1,0 +1,552 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 83.99,
+        "highestDiscount": 30,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 430806,
+                "caption": "Maat 38",
+                "columnValue": "38",
+                "crawlable": true,
+                "detailValue": "Maat 38",
+                "fullId": "3081_430806",
+                "sequence": 65,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "2DNkvXoQsPa4T36Kbz87jvidystH",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2DNkvXXwE457Ao5UxaPmWoWxz2rJ",
+            "advertisementIdV3": "2DNkvXXwE457Ao5UxaPmWoWxz2rJ"
+          },
+          "shopItemId": 0,
+          "productId": "2DNkvXoQsPa4T36Kbz87jvidystH",
+          "ean": "",
+          "shopInfo": {
+            "id": 596055,
+            "shopName": "Manfield.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 8,
+            "productCount": 3350,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/596055.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:50:09+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Manfield.com",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24583,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 596055,
+            "shopItemId": 0,
+            "shopItemTitle": "Beige enkellaarsjes met hak",
+            "shopItemDescription": "",
+            "shopItemVersion": "NL_2885103-38-2885103_1-2885103",
+            "shopName": "Manfield.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2DNkvXoQsPa4T36Kbz87jvidystH",
+            "condition": "refurbished",
+            "ean": "8719589556403",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://pla.daisycon.io/csd/?si=10842&li=1487302&wi=394427&pid=12f2b750f133ef111273e0b39fb79d69&force_domain=true&dl=https%3a%2f%2fwww.manfield.com%2fbeige-enkellaarsjes-met-hak-2885103.html&ws=UUID_placeholder",
+            "size": "38",
+            "shopReviewScore": 9,
+            "shopReviewAmount": 3891,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 55,
+              "price": 83.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 89,
+              "price": 119.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "NL_2885103-38",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "39c4865e-ce91-4bda-a5b8-995b4d55d91f",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 83.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Beige enkellaarsjes met hak",
+          "fixedTitle": "Beige enkellaarsjes met hak",
+          "indexIdentifierTimeStamp": 1744906035,
+          "description": "Beige enkellaarsjes met hak van Manfield. Deze enkellaarsjes passen bij elke outfit! Deze laarsjes zijn aan de buitendzijde gemaakt van su\u00e8de en de binnenzijde is van leer. De hak heeft een hoogte van 5 cm. De schachthoogte meet 12 cm en de schachtomtrek heeft een lengte van 27 cm. Draag de enkellaarsjes met jeans en een blouse voor een klassieke outfit. Maak gebruik van onderhoudsproducten zoals Su\u00e8de nubuck box om de laarsjes zo goed mogelijk schoon te houden.",
+          "descriptionRaw": "Beige enkellaarsjes met hak van Manfield. Deze enkellaarsjes passen bij elke outfit! Deze laarsjes zijn aan de buitendzijde gemaakt van su\u00e8de en de binnenzijde is van leer. De hak heeft een hoogte van 5 cm. De schachthoogte meet 12 cm en de schachtomtrek heeft een lengte van 27 cm. Draag de enkellaarsjes met jeans en een blouse voor een klassieke outfit. Maak gebruik van onderhoudsproducten zoals Su\u00e8de nubuck box om de laarsjes zo goed mogelijk schoon te houden.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-2DNkvXXwE457Ao5UxaPmWoWxz2rJ",
+          "categoryId": 9000625,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            596055
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 752,
+                "width": 1087
+              },
+              "type": "mainImage",
+              "url": "2DNkvXoQsPa4T36Kbz87jvidystH/394/{size}/84dc87ad503165011c6e0199b4ec007a/Enkellaarsjes/Beige-enkellaarsjes-met-hak.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2DNkvXoQsPa4T36Kbz87jvidystH",
+              "value": "38",
+              "available": true,
+              "price": 83.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "2DNkvXoQsPa4T36Kbz87jvidystH",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 119.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 83.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 2987399,
+          "brandName": "Manfield",
+          "brandRank": 49,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": true
+          },
+          "firstAddition": "2024-12-05 00:00:00",
+          "popularity": 6253,
+          "popularityData": {
+            "clickFactor": 168,
+            "webshopsRevenuePerClick": 2.14,
+            "roasPercentage": 781
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 1.99,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Manfield",
+              "values": [
+                {
+                  "id": 2987399,
+                  "caption": "Manfield",
+                  "columnValue": "Manfield",
+                  "crawlable": true,
+                  "detailValue": "Manfield",
+                  "fullId": "3078_2987399",
+                  "sequence": 1850,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Manfield.com",
+              "values": [
+                {
+                  "id": 4163063,
+                  "caption": "Manfield.com",
+                  "columnValue": "Manfield.com",
+                  "crawlable": true,
+                  "detailValue": "Manfield.com",
+                  "fullId": "3079_4163063",
+                  "sequence": 1086,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Beige",
+              "values": [
+                {
+                  "id": 456664,
+                  "caption": "Beige",
+                  "columnValue": "Beige",
+                  "crawlable": true,
+                  "detailValue": "Beige",
+                  "fullId": "3080_456664",
+                  "sequence": 16,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "38",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 7454010,
+                  "caption": "Nubuck",
+                  "columnValue": "Nubuck",
+                  "crawlable": true,
+                  "detailValue": "Nubuck",
+                  "fullId": "3083_7454010",
+                  "sequence": 29,
+                  "urlName": null
+                },
+                {
+                  "id": 430860,
+                  "caption": "Suede",
+                  "columnValue": "Suede",
+                  "crawlable": true,
+                  "detailValue": "Suede",
+                  "fullId": "3083_430860",
+                  "sequence": 34,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Winterschoenen",
+              "values": [
+                {
+                  "id": 8693401,
+                  "caption": "Winter",
+                  "columnValue": "Winterschoenen",
+                  "crawlable": true,
+                  "detailValue": "Winter",
+                  "fullId": "3093_8693401",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4100,
+              "name": "Hoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "hoogte",
+              "value": "Middel",
+              "values": [
+                {
+                  "id": 6380619,
+                  "caption": "Middel/mid/halfhoge",
+                  "columnValue": "Middel",
+                  "crawlable": true,
+                  "detailValue": "Middel/mid/halfhoge",
+                  "fullId": "4100_6380619",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4159,
+              "name": "Schachthoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "schachthoogte",
+              "value": "Korte",
+              "values": [
+                {
+                  "id": 6510247,
+                  "caption": "Korte / lage",
+                  "columnValue": "Korte",
+                  "crawlable": true,
+                  "detailValue": "Korte / lage",
+                  "fullId": "4159_6510247",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Klassiek",
+              "values": [
+                {
+                  "id": 23580860,
+                  "caption": "Klassieke",
+                  "columnValue": "Klassiek",
+                  "crawlable": true,
+                  "detailValue": "Klassieke",
+                  "fullId": "6097_23580860",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "596055-2885103",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-39c4865e-ce91-4bda-a5b8-995b4d55d91f",
+          "revenuePerClick": 0.27,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 83.99,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": "C",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 30,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 9,
+              "amount": 3891
+            },
+            {
+              "type": "discount",
+              "value": 30
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

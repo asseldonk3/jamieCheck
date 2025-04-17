@@ -1,0 +1,1312 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 35.35,
+        "highestDiscount": 40,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3798,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_bh_body",
+            "values": [
+              {
+                "id": 4695719,
+                "caption": "80E",
+                "columnValue": "80E",
+                "crawlable": true,
+                "detailValue": "80E",
+                "fullId": "3798_4695719",
+                "sequence": 42,
+                "urlName": null
+              },
+              {
+                "id": 4695720,
+                "caption": "85E",
+                "columnValue": "85E",
+                "crawlable": true,
+                "detailValue": "85E",
+                "fullId": "3798_4695720",
+                "sequence": 43,
+                "urlName": null
+              },
+              {
+                "id": 4695721,
+                "caption": "90E",
+                "columnValue": "90E",
+                "crawlable": true,
+                "detailValue": "90E",
+                "fullId": "3798_4695721",
+                "sequence": 44,
+                "urlName": null
+              },
+              {
+                "id": 4695723,
+                "caption": "100E",
+                "columnValue": "100E",
+                "crawlable": true,
+                "detailValue": "100E",
+                "fullId": "3798_4695723",
+                "sequence": 46,
+                "urlName": null
+              },
+              {
+                "id": 12251767,
+                "caption": "105E",
+                "columnValue": "105E",
+                "crawlable": true,
+                "detailValue": "105E",
+                "fullId": "3798_12251767",
+                "sequence": 47,
+                "urlName": null
+              },
+              {
+                "id": 4695726,
+                "caption": "80F",
+                "columnValue": "80F",
+                "crawlable": true,
+                "detailValue": "80F",
+                "fullId": "3798_4695726",
+                "sequence": 51,
+                "urlName": null
+              },
+              {
+                "id": 4695729,
+                "caption": "95F",
+                "columnValue": "95F",
+                "crawlable": true,
+                "detailValue": "95F",
+                "fullId": "3798_4695729",
+                "sequence": 54,
+                "urlName": null
+              },
+              {
+                "id": 4695732,
+                "caption": "80G",
+                "columnValue": "80G",
+                "crawlable": true,
+                "detailValue": "80G",
+                "fullId": "3798_4695732",
+                "sequence": 57,
+                "urlName": null
+              },
+              {
+                "id": 4695733,
+                "caption": "85G",
+                "columnValue": "85G",
+                "crawlable": true,
+                "detailValue": "85G",
+                "fullId": "3798_4695733",
+                "sequence": 58,
+                "urlName": null
+              },
+              {
+                "id": 4695739,
+                "caption": "85H",
+                "columnValue": "85H",
+                "crawlable": true,
+                "detailValue": "85H",
+                "fullId": "3798_4695739",
+                "sequence": 64,
+                "urlName": null
+              },
+              {
+                "id": 4695740,
+                "caption": "90H",
+                "columnValue": "90H",
+                "crawlable": true,
+                "detailValue": "90H",
+                "fullId": "3798_4695740",
+                "sequence": 65,
+                "urlName": null
+              },
+              {
+                "id": 4695741,
+                "caption": "95H",
+                "columnValue": "95H",
+                "crawlable": true,
+                "detailValue": "95H",
+                "fullId": "3798_4695741",
+                "sequence": 66,
+                "urlName": null
+              },
+              {
+                "id": 23810685,
+                "caption": "F",
+                "columnValue": "F",
+                "crawlable": true,
+                "detailValue": "F",
+                "fullId": "3798_23810685",
+                "sequence": 73,
+                "urlName": null
+              },
+              {
+                "id": 23810686,
+                "caption": "G",
+                "columnValue": "G",
+                "crawlable": true,
+                "detailValue": "G",
+                "fullId": "3798_23810686",
+                "sequence": 74,
+                "urlName": null
+              },
+              {
+                "id": 23810687,
+                "caption": "H",
+                "columnValue": "H",
+                "crawlable": true,
+                "detailValue": "H",
+                "fullId": "3798_23810687",
+                "sequence": 75,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3h63juep4WJ8z2f1sW1e7L68vYVd",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3h63juddfsTGG7HoUWDSrUjX3oRS",
+            "advertisementIdV3": "3h63juddfsTGG7HoUWDSrUjX3oRS"
+          },
+          "shopItemId": 0,
+          "productId": "3h63juep4WJ8z2f1sW1e7L68vYVd",
+          "ean": "",
+          "shopInfo": {
+            "id": 338881,
+            "shopName": "Lingerie-heaven.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 12,
+            "productCount": 4275,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/338881.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-16T00:50:19+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22361,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@esupplies.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 338881,
+            "shopItemId": 0,
+            "shopItemTitle": "Elomi Charley Plunge Bh - Ballet Roze",
+            "shopItemDescription": "",
+            "shopItemVersion": "57853-57843-Roze-57843",
+            "shopName": "Lingerie-heaven.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3h63juXZEPmzC47xZhwQxSMAD3jY",
+            "condition": "Nieuw",
+            "ean": "",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.lingerie-heaven.nl/elomi-charley-plunge-bh-ballet-roze.html#963=358?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "G80",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 34,
+              "price": 35.35,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 55,
+              "price": 58.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "57853",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 35.35
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 35.35
+          },
+          "title": "Elomi Charley Plunge Bh - Ballet Roze",
+          "fixedTitle": "Elomi Charley Plunge Bh - Ballet Roze",
+          "indexIdentifierTimeStamp": 1744876584,
+          "description": "De Elomi Charley Plunge Bra in het betoverende Ballet Pink is een must-have voor elke vrouw die op zoek is naar comfort en stijl. Deze prachtige beha is voorzien van delicate bloemenborduursels die een vleugje elegantie toevoegen aan je lingeriecollectie. De driedelige cup met zijdelingse ondersteuningspanelen zorgt voor een perfecte pasvorm en ondersteuning, terwijl de lage plunge halslijn een verleidelijke uitstraling cre\u00ebert zonder push-up effect. Of je nu op zoek bent naar een beha voor dagelijks gebruik of voor een speciale gelegenheid, de Elomi Charley Plunge Bra heeft het allemaal. De zachte materialen voelen heerlijk aan op de huid en zorgen ervoor dat je de hele dag comfortabel kunt dragen. De verstelbare bandjes en haak-en-oogsluiting zorgen voor een perfecte pasvorm, terwijl de subtiele details zoals het strikje in het midden van de beha een speelse touch toevoegen. Met de Elomi Charley Plunge Bra voel je je zelfverzekerd en vrouwelijk, of je nu aan het werk bent of een avondje uit gaat. De prachtige Ballet Pink kleur is tijdloos en past bij elke huidskleur, terwijl de kwaliteit en vakmanschap van Elomi ervoor zorgen dat deze beha lang meegaat. Kies voor comfort en stijl met de Elomi Charley Plunge Bra en voeg een vleugje luxe toe aan je lingeriecollectie.\\\\n- Charley plunge bh\u00a0\\\\n- Merk: Elomi\\\\n- Kleur: ballet roze\u00a0\\\\n- Comfortabel\\\\n- Goede pasvorm\u00a0\\\\n- Gemakkelijk te combineren\\\\n- Zit heerlijk\\\\n- Gemaakt van 96% polyamide en 4% elastaan\\\\n\u00a0\\\\n",
+          "descriptionRaw": "De Elomi Charley Plunge Bra in het betoverende Ballet Pink is een must-have voor elke vrouw die op zoek is naar comfort en stijl. Deze prachtige beha is voorzien van delicate bloemenborduursels die een vleugje elegantie toevoegen aan je lingeriecollectie. De driedelige cup met zijdelingse ondersteuningspanelen zorgt voor een perfecte pasvorm en ondersteuning, terwijl de lage plunge halslijn een verleidelijke uitstraling cre\u00ebert zonder push-up effect. Of je nu op zoek bent naar een beha voor dagelijks gebruik of voor een speciale gelegenheid, de Elomi Charley Plunge Bra heeft het allemaal. De zachte materialen voelen heerlijk aan op de huid en zorgen ervoor dat je de hele dag comfortabel kunt dragen. De verstelbare bandjes en haak-en-oogsluiting zorgen voor een perfecte pasvorm, terwijl de subtiele details zoals het strikje in het midden van de beha een speelse touch toevoegen. Met de Elomi Charley Plunge Bra voel je je zelfverzekerd en vrouwelijk, of je nu aan het werk bent of een avondje uit gaat. De prachtige Ballet Pink kleur is tijdloos en past bij elke huidskleur, terwijl de kwaliteit en vakmanschap van Elomi ervoor zorgen dat deze beha lang meegaat. Kies voor comfort en stijl met de Elomi Charley Plunge Bra en voeg een vleugje luxe toe aan je lingeriecollectie.\\\\n- Charley plunge bh\u00a0\\\\n- Merk: Elomi\\\\n- Kleur: ballet roze\u00a0\\\\n- Comfortabel\\\\n- Goede pasvorm\u00a0\\\\n- Gemakkelijk te combineren\\\\n- Zit heerlijk\\\\n- Gemaakt van 96% polyamide en 4% elastaan\\\\n\u00a0\\\\n",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-3h63juddfsTGG7HoUWDSrUjX3oRS",
+          "categoryId": 9000850,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            338881
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1181,
+                "width": 502
+              },
+              "type": "mainImage",
+              "url": "3h63juep4WJ8z2f1sW1e7L68vYVd/394/{size}/138a06d3542d988c05a9e957277bc30a/BH%27s/Elomi-Charley-Plunge-Bh-Ballet-Roze.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1177,
+                "width": 495
+              },
+              "type": "alternativeImage",
+              "url": "3h63juep4WJ8z2f1sW1e7L68vYVd/15376/{size}/87997f3196846adc6ade54656959d329/BH%27s/Elomi-Charley-Plunge-Bh-Ballet-Roze.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63juep4WJ8z2f1sW1e7L68vYVd",
+              "value": "G100",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63jugaFXNfabcFmZQ5G99jXexS",
+              "value": "H100",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63jueFeP4HPKk5ReGZCoRC2z6H",
+              "value": "E95",
+              "available": false,
+              "price": 35.35,
+              "blockedStatus": 8,
+              "disabledInFeed": true
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63juUfBQtQ2LEmVQUMzpNxdfPn",
+              "value": "E90",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63junG6RC1RPbrqtG3xrqAcD8j",
+              "value": "E100",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63jupXcpsw7e6eRUb3EV16E53V",
+              "value": "G95",
+              "available": false,
+              "price": 35.35,
+              "blockedStatus": 8,
+              "disabledInFeed": true
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63jutEnYTZUEhi8FdK2Qm5o5TX",
+              "value": "H90",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63juYyiremzHB9ETBMe94otzVv",
+              "value": "F80",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63juVhJAuTib7vXabhPkmDrrWT",
+              "value": "F100",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63juhE1gwJdFwtud5edsMe3sEM",
+              "value": "E80",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63juidwVUEF1bgR2UQW6rNFT6k",
+              "value": "E105",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63jujRYcbugcMnE31fEaWZQu7d",
+              "value": "H85",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63juXZEPmzC47xZhwQxSMAD3jY",
+              "value": "G80",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63juoE2NBeGN7pjn6sr8HY1xbi",
+              "value": "F95",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63jue9jvshvjcpFjm6q4pY6cK8",
+              "value": "E85",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63jujxm4PdfbGemMHYC5gm7buV",
+              "value": "G85",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3h63juep6bkMQhPE3h1Zr1C6KQVQ",
+              "value": "H95",
+              "available": true,
+              "price": 35.35,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3798,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_bh_body",
+              "values": [
+                {
+                  "id": 4695719,
+                  "caption": "80E",
+                  "columnValue": "80E",
+                  "crawlable": true,
+                  "detailValue": "80E",
+                  "fullId": "3798_4695719",
+                  "sequence": 42,
+                  "urlName": null,
+                  "productIdV3": "3h63juhE1gwJdFwtud5edsMe3sEM",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695720,
+                  "caption": "85E",
+                  "columnValue": "85E",
+                  "crawlable": true,
+                  "detailValue": "85E",
+                  "fullId": "3798_4695720",
+                  "sequence": 43,
+                  "urlName": null,
+                  "productIdV3": "3h63jue9jvshvjcpFjm6q4pY6cK8",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695721,
+                  "caption": "90E",
+                  "columnValue": "90E",
+                  "crawlable": true,
+                  "detailValue": "90E",
+                  "fullId": "3798_4695721",
+                  "sequence": 44,
+                  "urlName": null,
+                  "productIdV3": "3h63juUfBQtQ2LEmVQUMzpNxdfPn",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695723,
+                  "caption": "100E",
+                  "columnValue": "100E",
+                  "crawlable": true,
+                  "detailValue": "100E",
+                  "fullId": "3798_4695723",
+                  "sequence": 46,
+                  "urlName": null,
+                  "productIdV3": "3h63junG6RC1RPbrqtG3xrqAcD8j",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 12251767,
+                  "caption": "105E",
+                  "columnValue": "105E",
+                  "crawlable": true,
+                  "detailValue": "105E",
+                  "fullId": "3798_12251767",
+                  "sequence": 47,
+                  "urlName": null,
+                  "productIdV3": "3h63juidwVUEF1bgR2UQW6rNFT6k",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695726,
+                  "caption": "80F",
+                  "columnValue": "80F",
+                  "crawlable": true,
+                  "detailValue": "80F",
+                  "fullId": "3798_4695726",
+                  "sequence": 51,
+                  "urlName": null,
+                  "productIdV3": "3h63juYyiremzHB9ETBMe94otzVv",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695729,
+                  "caption": "95F",
+                  "columnValue": "95F",
+                  "crawlable": true,
+                  "detailValue": "95F",
+                  "fullId": "3798_4695729",
+                  "sequence": 54,
+                  "urlName": null,
+                  "productIdV3": "3h63juoE2NBeGN7pjn6sr8HY1xbi",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695732,
+                  "caption": "80G",
+                  "columnValue": "80G",
+                  "crawlable": true,
+                  "detailValue": "80G",
+                  "fullId": "3798_4695732",
+                  "sequence": 57,
+                  "urlName": null,
+                  "productIdV3": "3h63juXZEPmzC47xZhwQxSMAD3jY",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695733,
+                  "caption": "85G",
+                  "columnValue": "85G",
+                  "crawlable": true,
+                  "detailValue": "85G",
+                  "fullId": "3798_4695733",
+                  "sequence": 58,
+                  "urlName": null,
+                  "productIdV3": "3h63jujxm4PdfbGemMHYC5gm7buV",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695739,
+                  "caption": "85H",
+                  "columnValue": "85H",
+                  "crawlable": true,
+                  "detailValue": "85H",
+                  "fullId": "3798_4695739",
+                  "sequence": 64,
+                  "urlName": null,
+                  "productIdV3": "3h63jujRYcbugcMnE31fEaWZQu7d",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695740,
+                  "caption": "90H",
+                  "columnValue": "90H",
+                  "crawlable": true,
+                  "detailValue": "90H",
+                  "fullId": "3798_4695740",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "3h63jutEnYTZUEhi8FdK2Qm5o5TX",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695741,
+                  "caption": "95H",
+                  "columnValue": "95H",
+                  "crawlable": true,
+                  "detailValue": "95H",
+                  "fullId": "3798_4695741",
+                  "sequence": 66,
+                  "urlName": null,
+                  "productIdV3": "3h63juep6bkMQhPE3h1Zr1C6KQVQ",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 23810685,
+                  "caption": "F",
+                  "columnValue": "F",
+                  "crawlable": true,
+                  "detailValue": "F",
+                  "fullId": "3798_23810685",
+                  "sequence": 73,
+                  "urlName": null,
+                  "productIdV3": "3h63juVhJAuTib7vXabhPkmDrrWT",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 23810686,
+                  "caption": "G",
+                  "columnValue": "G",
+                  "crawlable": true,
+                  "detailValue": "G",
+                  "fullId": "3798_23810686",
+                  "sequence": 74,
+                  "urlName": null,
+                  "productIdV3": "3h63juep4WJ8z2f1sW1e7L68vYVd",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 23810687,
+                  "caption": "H",
+                  "columnValue": "H",
+                  "crawlable": true,
+                  "detailValue": "H",
+                  "fullId": "3798_23810687",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "3h63jugaFXNfabcFmZQ5G99jXexS",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 58.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.35,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 6076368,
+          "brandName": "Elomi",
+          "brandRank": 502,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-09-30 00:00:00",
+          "popularity": 3254,
+          "popularityData": {
+            "clickFactor": 95,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 23:59 uur besteld, volgende dag in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 5.95,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Elomi",
+              "values": [
+                {
+                  "id": 6076368,
+                  "caption": "Elomi",
+                  "columnValue": "Elomi",
+                  "crawlable": true,
+                  "detailValue": "Elomi",
+                  "fullId": "48_6076368",
+                  "sequence": 819,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Lingerie-heaven.nl",
+              "values": [
+                {
+                  "id": 23759513,
+                  "caption": "Lingerie-heaven.nl",
+                  "columnValue": "Lingerie-heaven.nl",
+                  "crawlable": true,
+                  "detailValue": "Lingerie-heaven.nl",
+                  "fullId": "49_23759513",
+                  "sequence": 446,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Roze",
+              "values": [
+                {
+                  "id": 401016,
+                  "caption": "Roze",
+                  "columnValue": "Roze",
+                  "crawlable": true,
+                  "detailValue": "Roze",
+                  "fullId": "3003_401016",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Ondermode",
+              "values": [
+                {
+                  "id": 468982,
+                  "caption": "Ondermode",
+                  "columnValue": "Ondermode",
+                  "crawlable": true,
+                  "detailValue": "Ondermode",
+                  "fullId": "3114_468982",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Comfort",
+              "values": [
+                {
+                  "id": 23581724,
+                  "caption": "Comfort",
+                  "columnValue": "Comfort",
+                  "crawlable": true,
+                  "detailValue": "Comfort",
+                  "fullId": "3730_23581724",
+                  "sequence": 16,
+                  "urlName": null
+                },
+                {
+                  "id": 23578283,
+                  "caption": "Met borduursel",
+                  "columnValue": "Met borduursel",
+                  "crawlable": true,
+                  "detailValue": "Met borduursel",
+                  "fullId": "3730_23578283",
+                  "sequence": 48,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3798,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_bh_body",
+              "value": "80E",
+              "values": [
+                {
+                  "id": 4695719,
+                  "caption": "80E",
+                  "columnValue": "80E",
+                  "crawlable": true,
+                  "detailValue": "80E",
+                  "fullId": "3798_4695719",
+                  "sequence": 42,
+                  "urlName": null
+                },
+                {
+                  "id": 4695720,
+                  "caption": "85E",
+                  "columnValue": "85E",
+                  "crawlable": true,
+                  "detailValue": "85E",
+                  "fullId": "3798_4695720",
+                  "sequence": 43,
+                  "urlName": null
+                },
+                {
+                  "id": 4695721,
+                  "caption": "90E",
+                  "columnValue": "90E",
+                  "crawlable": true,
+                  "detailValue": "90E",
+                  "fullId": "3798_4695721",
+                  "sequence": 44,
+                  "urlName": null
+                },
+                {
+                  "id": 4695722,
+                  "caption": "95E",
+                  "columnValue": "95E",
+                  "crawlable": true,
+                  "detailValue": "95E",
+                  "fullId": "3798_4695722",
+                  "sequence": 45,
+                  "urlName": null
+                },
+                {
+                  "id": 4695723,
+                  "caption": "100E",
+                  "columnValue": "100E",
+                  "crawlable": true,
+                  "detailValue": "100E",
+                  "fullId": "3798_4695723",
+                  "sequence": 46,
+                  "urlName": null
+                },
+                {
+                  "id": 12251767,
+                  "caption": "105E",
+                  "columnValue": "105E",
+                  "crawlable": true,
+                  "detailValue": "105E",
+                  "fullId": "3798_12251767",
+                  "sequence": 47,
+                  "urlName": null
+                },
+                {
+                  "id": 4695726,
+                  "caption": "80F",
+                  "columnValue": "80F",
+                  "crawlable": true,
+                  "detailValue": "80F",
+                  "fullId": "3798_4695726",
+                  "sequence": 51,
+                  "urlName": null
+                },
+                {
+                  "id": 4695729,
+                  "caption": "95F",
+                  "columnValue": "95F",
+                  "crawlable": true,
+                  "detailValue": "95F",
+                  "fullId": "3798_4695729",
+                  "sequence": 54,
+                  "urlName": null
+                },
+                {
+                  "id": 4695732,
+                  "caption": "80G",
+                  "columnValue": "80G",
+                  "crawlable": true,
+                  "detailValue": "80G",
+                  "fullId": "3798_4695732",
+                  "sequence": 57,
+                  "urlName": null
+                },
+                {
+                  "id": 4695733,
+                  "caption": "85G",
+                  "columnValue": "85G",
+                  "crawlable": true,
+                  "detailValue": "85G",
+                  "fullId": "3798_4695733",
+                  "sequence": 58,
+                  "urlName": null
+                },
+                {
+                  "id": 4695735,
+                  "caption": "95G",
+                  "columnValue": "95G",
+                  "crawlable": true,
+                  "detailValue": "95G",
+                  "fullId": "3798_4695735",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 4695739,
+                  "caption": "85H",
+                  "columnValue": "85H",
+                  "crawlable": true,
+                  "detailValue": "85H",
+                  "fullId": "3798_4695739",
+                  "sequence": 64,
+                  "urlName": null
+                },
+                {
+                  "id": 4695740,
+                  "caption": "90H",
+                  "columnValue": "90H",
+                  "crawlable": true,
+                  "detailValue": "90H",
+                  "fullId": "3798_4695740",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 4695741,
+                  "caption": "95H",
+                  "columnValue": "95H",
+                  "crawlable": true,
+                  "detailValue": "95H",
+                  "fullId": "3798_4695741",
+                  "sequence": 66,
+                  "urlName": null
+                },
+                {
+                  "id": 23810685,
+                  "caption": "F",
+                  "columnValue": "F",
+                  "crawlable": true,
+                  "detailValue": "F",
+                  "fullId": "3798_23810685",
+                  "sequence": 73,
+                  "urlName": null
+                },
+                {
+                  "id": 23810686,
+                  "caption": "G",
+                  "columnValue": "G",
+                  "crawlable": true,
+                  "detailValue": "G",
+                  "fullId": "3798_23810686",
+                  "sequence": 74,
+                  "urlName": null
+                },
+                {
+                  "id": 23810687,
+                  "caption": "H",
+                  "columnValue": "H",
+                  "crawlable": true,
+                  "detailValue": "H",
+                  "fullId": "3798_23810687",
+                  "sequence": 75,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Balletkleding",
+              "values": [
+                {
+                  "id": 5340896,
+                  "caption": "Ballet",
+                  "columnValue": "Balletkleding",
+                  "crawlable": true,
+                  "detailValue": "Ballet",
+                  "fullId": "3875_5340896",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4757,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_bhbody",
+              "value": "Push-up",
+              "values": [
+                {
+                  "id": 19247960,
+                  "caption": "Push-up",
+                  "columnValue": "Push-up",
+                  "crawlable": true,
+                  "detailValue": "Push-up",
+                  "fullId": "4757_19247960",
+                  "sequence": 21,
+                  "urlName": null
+                },
+                {
+                  "id": 19247961,
+                  "caption": "Ondersteunende",
+                  "columnValue": "Ondersteunend",
+                  "crawlable": true,
+                  "detailValue": "Ondersteunende",
+                  "fullId": "4757_19247961",
+                  "sequence": 22,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4763,
+              "name": "Soort bandjes",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "s_bandjes",
+              "value": "Comfort",
+              "values": [
+                {
+                  "id": 9556863,
+                  "caption": "met comfort bandjes",
+                  "columnValue": "Comfort",
+                  "crawlable": true,
+                  "detailValue": "met comfort bandjes",
+                  "fullId": "4763_9556863",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "338881-57843",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-3h63juep4WJ8z2f1sW1e7L68vYVd",
+          "revenuePerClick": 0.25,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 35.35,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": null,
+          "isGoogleBestseller": null,
+          "isGoogleBestsellerTop100": null,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 40,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 40
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

@@ -1,0 +1,2002 @@
+{
+  "offset": 0,
+  "numFound": 3,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 3,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 199.99,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3161,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_jassen_jurken_pakken",
+            "values": [
+              {
+                "id": 471772,
+                "caption": "Maat M",
+                "columnValue": "M",
+                "crawlable": true,
+                "detailValue": "Maat M",
+                "fullId": "3161_471772",
+                "sequence": 7,
+                "urlName": null
+              },
+              {
+                "id": 471773,
+                "caption": "Maat L",
+                "columnValue": "L",
+                "crawlable": true,
+                "detailValue": "Maat L",
+                "fullId": "3161_471773",
+                "sequence": 9,
+                "urlName": null
+              },
+              {
+                "id": 471774,
+                "caption": "Maat XL",
+                "columnValue": "XL",
+                "crawlable": true,
+                "detailValue": "Maat XL",
+                "fullId": "3161_471774",
+                "sequence": 11,
+                "urlName": null
+              },
+              {
+                "id": 471775,
+                "caption": "Maat XXL",
+                "columnValue": "XXL",
+                "crawlable": true,
+                "detailValue": "Maat XXL",
+                "fullId": "3161_471775",
+                "sequence": 13,
+                "urlName": null
+              },
+              {
+                "id": 23810703,
+                "caption": "Maat XXXL",
+                "columnValue": "3XL",
+                "crawlable": true,
+                "detailValue": "Maat XXXL",
+                "fullId": "3161_23810703",
+                "sequence": 15,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "2WN3PCaUwiZ5ZnzEJTxVvcSCrGwd",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2WN3PCub71z79KG6xLyry5R8YWRc",
+            "advertisementIdV3": "2WN3PCub71z79KG6xLyry5R8YWRc"
+          },
+          "shopItemId": 0,
+          "productId": "2WN3PCaUwiZ5ZnzEJTxVvcSCrGwd",
+          "ean": "",
+          "shopInfo": {
+            "id": 204396,
+            "shopName": "SchulteHerenmode.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 9,
+            "productCount": 15000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/204396.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:25:14+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@SchulteHerenmode.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 2267,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 204396,
+            "shopItemId": 0,
+            "shopItemTitle": "PME Legend zomerjas grijs effen Winglock",
+            "shopItemDescription": "",
+            "shopItemVersion": "00159879-XXL-00159879",
+            "shopName": "SchulteHerenmode.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2WN3PCraNMKzzZhzFGpv95zqsAJT",
+            "condition": "Nieuw",
+            "ean": "8720672540155",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://pla.daisycon.io/csd/?si=18843&li=1814669&wi=382479&pid=628fd523f908ffb6e4789de977ffb7e6&force_domain=true&dl=https%3a%2f%2fwww.schulteherenmode.nl%2fpme-legend-flight-zomerjas-urban-chic-00159879.html&ws=UUID_placeholder",
+            "size": "XXL",
+            "shopReviewScore": 7.6,
+            "shopReviewAmount": 25,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 199.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "00159879-XXL",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 199.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 199.99
+          },
+          "title": "PME Legend zomerjas grijs effen Winglock",
+          "fixedTitle": "PME Legend zomerjas grijs effen Winglock",
+          "indexIdentifierTimeStamp": 1744908305,
+          "description": "De pme legend zomerjas winglock is een stijlvolle grijze jas met een normale fit en een praktische ritssluiting. Gemaakt van 94% polyester en 6% elastaan biedt deze jas zowel comfort als flexibiliteit. Het effen ontwerp maakt het een veelzijdige keuze voor verschillende gelegenheden. Als kort windjack is het perfect voor zomerse dagen wanneer u bescherming tegen de wind nodig heeft. Voeg deze uitstekende pme legend zomerjas toe aan uw garderobe en ervaar de perfecte combinatie van stijl en functionaliteit.",
+          "descriptionRaw": "De pme legend zomerjas winglock is een stijlvolle grijze jas met een normale fit en een praktische ritssluiting. Gemaakt van 94% polyester en 6% elastaan biedt deze jas zowel comfort als flexibiliteit. Het effen ontwerp maakt het een veelzijdige keuze voor verschillende gelegenheden. Als kort windjack is het perfect voor zomerse dagen wanneer u bescherming tegen de wind nodig heeft. Voeg deze uitstekende pme legend zomerjas toe aan uw garderobe en ervaar de perfecte combinatie van stijl en functionaliteit.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-2WN3PCub71z79KG6xLyry5R8YWRc",
+          "categoryId": 9005527,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            204396
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1643,
+                "width": 983
+              },
+              "type": "mainImage",
+              "url": "2WN3PCaUwiZ5ZnzEJTxVvcSCrGwd/394/{size}/11cc7d38edb70f627936767a4e739deb/Jacks/PME-Legend-zomerjas-grijs-effen-Winglock.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2WN3PCaUwiZ5ZnzEJTxVvcSCrGwd",
+              "value": "L",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2WN3PCgoXBTuitzaCjicNnDw759x",
+              "value": "XL",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2WN3PCg9kaLZkUYR1NfGnpCGBjwC",
+              "value": "3XL",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2WN3PCraNMKzzZhzFGpv95zqsAJT",
+              "value": "XXL",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2WN3PCkKFJsukm6nZ5uJeiSViE6x",
+              "value": "M",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "2WN3PCkKFJsukm6nZ5uJeiSViE6x",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "2WN3PCaUwiZ5ZnzEJTxVvcSCrGwd",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "2WN3PCgoXBTuitzaCjicNnDw759x",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null,
+                  "productIdV3": "2WN3PCraNMKzzZhzFGpv95zqsAJT",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null,
+                  "productIdV3": "2WN3PCg9kaLZkUYR1NfGnpCGBjwC",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 477793,
+          "brandName": "PME Legend",
+          "brandRank": 27,
+          "brandRelativeDemandLabel": "D",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-02-01 00:00:00",
+          "popularity": 3340,
+          "popularityData": {
+            "clickFactor": 80,
+            "webshopsRevenuePerClick": 3.53,
+            "roasPercentage": 1000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "PME Legend",
+              "values": [
+                {
+                  "id": 477793,
+                  "caption": "PME Legend",
+                  "columnValue": "PME Legend",
+                  "crawlable": true,
+                  "detailValue": "PME Legend",
+                  "fullId": "48_477793",
+                  "sequence": 2078,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Schulteherenmode.nl",
+              "values": [
+                {
+                  "id": 5018848,
+                  "caption": "Schulteherenmode.nl",
+                  "columnValue": "Schulteherenmode.nl",
+                  "crawlable": true,
+                  "detailValue": "Schulteherenmode.nl",
+                  "fullId": "49_5018848",
+                  "sequence": 659,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 242263,
+                  "caption": "Elasthan",
+                  "columnValue": "Elasthan",
+                  "crawlable": true,
+                  "detailValue": "Elasthan",
+                  "fullId": "2624_242263",
+                  "sequence": 41,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Grijs",
+              "values": [
+                {
+                  "id": 401017,
+                  "caption": "Grijze",
+                  "columnValue": "Grijs",
+                  "crawlable": true,
+                  "detailValue": "Grijze",
+                  "fullId": "3003_401017",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 7092955,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerkleding",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3114_7092955",
+                  "sequence": 21,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "M",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Comfort",
+              "values": [
+                {
+                  "id": 23581724,
+                  "caption": "Comfort",
+                  "columnValue": "Comfort",
+                  "crawlable": true,
+                  "detailValue": "Comfort",
+                  "fullId": "3730_23581724",
+                  "sequence": 16,
+                  "urlName": null
+                },
+                {
+                  "id": 5607186,
+                  "caption": "Korte",
+                  "columnValue": "Kort",
+                  "crawlable": true,
+                  "detailValue": "Korte",
+                  "fullId": "3730_5607186",
+                  "sequence": 43,
+                  "urlName": null
+                },
+                {
+                  "id": 8008735,
+                  "caption": "Met rits",
+                  "columnValue": "Met rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3730_8008735",
+                  "sequence": 64,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4729,
+              "name": "Pasvorm",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pasvorm",
+              "value": "Regular fit",
+              "values": [
+                {
+                  "id": 9343450,
+                  "caption": "Regular fit",
+                  "columnValue": "Regular fit",
+                  "crawlable": true,
+                  "detailValue": "Regular fit",
+                  "fullId": "4729_9343450",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6331,
+              "name": "Soort",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "soort_jack",
+              "value": "Windjacks",
+              "values": [
+                {
+                  "id": 23798083,
+                  "caption": "Windjacks",
+                  "columnValue": "Windjacks",
+                  "crawlable": true,
+                  "detailValue": "Windjacks",
+                  "fullId": "6331_23798083",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8720672540131",
+          "revenuePerClick": 0.35,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 199.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": null,
+          "isGoogleBestseller": null,
+          "isGoogleBestsellerTop100": null,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        },
+        {
+          "id": "4NozYSpFHnaFwWa5Rm1mNVhev7ws",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "4NozYSeAzH79CtRfrcAsvg9PnyGW",
+            "advertisementIdV3": "4NozYSeAzH79CtRfrcAsvg9PnyGW"
+          },
+          "shopItemId": 0,
+          "productId": "4NozYSpFHnaFwWa5Rm1mNVhev7ws",
+          "ean": "",
+          "shopInfo": {
+            "id": 21746,
+            "shopName": "Vantilburgonline.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 7,
+            "productCount": 31000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/21746.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:25:14+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 6257,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@vantilburgonline.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 21746,
+            "shopItemId": 0,
+            "shopItemTitle": "PME Legend Jas grijs (Maat: XL) - Effen",
+            "shopItemDescription": "",
+            "shopItemVersion": "PJA2502130-700-XL-1516791-001-PJA2502130",
+            "shopName": "Vantilburgonline.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "4NozYSm5GK9q2AUd3KkN2UfcpwHP",
+            "condition": "Nieuw",
+            "ean": "8720672540148",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.vantilburgonline.nl/p/jas-grijs-114905?utm_campaign=Heren%20jas%20kort&utm_content=PME%20Legend&utm_source=Beslist&utm_medium=vergelijker&utm_term=",
+            "size": "XL",
+            "shopReviewScore": 9.4,
+            "shopReviewAmount": 32476,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 199.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "PJA2502130-700-XL",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 199.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 199.99
+          },
+          "title": "PME Legend Jas grijs (Maat: L) - Effen",
+          "fixedTitle": "PME Legend Jas grijs (Maat: M) - Effen",
+          "indexIdentifierTimeStamp": 1744908305,
+          "description": "Flight jacket WINGLOCK 2 Layer Sof",
+          "descriptionRaw": "Flight jacket WINGLOCK 2 Layer Sof",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-4NozYSeAzH79CtRfrcAsvg9PnyGW",
+          "categoryId": 9005385,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            21746
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 2512,
+                "width": 1842
+              },
+              "type": "mainImage",
+              "url": "4NozYSpFHnaFwWa5Rm1mNVhev7ws/394/{size}/bb63c62b9878a5c6f7c26bd0ed295edf/Tussenjassen/PME-Legend-Jas-grijs-(Maat%3a-M)-Effen.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 2803,
+                "width": 1692
+              },
+              "type": "alternativeImage",
+              "url": "4NozYSpFHnaFwWa5Rm1mNVhev7ws/15376/{size}/990e608094b58a7ac90af63abda53ec3/Tussenjassen/PME-Legend-Jas-grijs-(Maat%3a-M)-Effen.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 2514,
+                "width": 1839
+              },
+              "type": "alternativeImage",
+              "url": "4NozYSpFHnaFwWa5Rm1mNVhev7ws/15377/{size}/d8819759937a418c6ad5014e799f236d/Tussenjassen/PME-Legend-Jas-grijs-(Maat%3a-M)-Effen.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "4NozYSpFHnaFwWa5Rm1mNVhev7ws",
+              "value": "L",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4NozYSm5GK9q2AUd3KkN2UfcpwHP",
+              "value": "XL",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4NozYSYerzX7kPM5re6KsrfQpite",
+              "value": "M",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4NozYSu7GetpRqYz4DHvrED8fHJS",
+              "value": "3XL",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4NozYSeABS3RAz2cx9UAxg7U7Dfp",
+              "value": "2XL",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "4NozYSYerzX7kPM5re6KsrfQpite",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "4NozYSpFHnaFwWa5Rm1mNVhev7ws",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "4NozYSm5GK9q2AUd3KkN2UfcpwHP",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null,
+                  "productIdV3": "4NozYSeABS3RAz2cx9UAxg7U7Dfp",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null,
+                  "productIdV3": "4NozYSu7GetpRqYz4DHvrED8fHJS",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 477793,
+          "brandName": "PME Legend",
+          "brandRank": 27,
+          "brandRelativeDemandLabel": "D",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-02-01 00:00:00",
+          "popularity": 48,
+          "popularityData": {
+            "clickFactor": 1,
+            "webshopsRevenuePerClick": 2.42,
+            "roasPercentage": 1200
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 werkdag",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "PME Legend",
+              "values": [
+                {
+                  "id": 477793,
+                  "caption": "PME Legend",
+                  "columnValue": "PME Legend",
+                  "crawlable": true,
+                  "detailValue": "PME Legend",
+                  "fullId": "48_477793",
+                  "sequence": 2078,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Vantilburgonline.nl",
+              "values": [
+                {
+                  "id": 3275096,
+                  "caption": "Vantilburgonline.nl",
+                  "columnValue": "Vantilburgonline.nl",
+                  "crawlable": true,
+                  "detailValue": "Vantilburgonline.nl",
+                  "fullId": "49_3275096",
+                  "sequence": 817,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Groen",
+              "values": [
+                {
+                  "id": 401008,
+                  "caption": "Groene",
+                  "columnValue": "Groen",
+                  "crawlable": true,
+                  "detailValue": "Groene",
+                  "fullId": "3003_401008",
+                  "sequence": 6,
+                  "urlName": null
+                },
+                {
+                  "id": 401017,
+                  "caption": "Grijze",
+                  "columnValue": "Grijs",
+                  "crawlable": true,
+                  "detailValue": "Grijze",
+                  "fullId": "3003_401017",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "M",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "21746-PJA2502130",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8720672540131",
+          "revenuePerClick": 0.2,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 199.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": null,
+          "isGoogleBestseller": null,
+          "isGoogleBestsellerTop100": null,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 9.4,
+              "amount": 32476
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "GMTXPpRLmFYs2i5SiW5N2Xj2CtF",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "GMTXPrt1S6ewAbVzCJXyfgfgMpr",
+            "advertisementIdV3": "GMTXPrt1S6ewAbVzCJXyfgfgMpr"
+          },
+          "shopItemId": 0,
+          "productId": "GMTXPpRLmFYs2i5SiW5N2Xj2CtF",
+          "ean": "",
+          "shopInfo": {
+            "id": 19,
+            "shopName": "Wehkamp.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 175000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/19.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:25:14+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Wehkamp.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 333,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 19,
+            "shopItemId": 0,
+            "shopItemTitle": "PME Legend softshell jas WINGLOCK grijsgroen",
+            "shopItemDescription": "",
+            "shopItemVersion": "173780800030-17378080-Groen-504A41323530323133305F3132313030333336",
+            "shopName": "Wehkamp.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "GMTXPpRLmFYs2i5SiW5N2Xj2CtF",
+            "condition": "Nieuw",
+            "ean": "8720672540131",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://prf.hn/click/camref:1011lkT49/pubref:UUID_placeholder/destination:https://www.wehkamp.nl/app/pme-legend-softshell-jas-winglock-grijsgroen-17378080/?utm_campaign=8R_Mens Jackets&utm_term=17378080",
+            "size": "L",
+            "shopReviewScore": 5.4,
+            "shopReviewAmount": 6125,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 199.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "173780800030",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 199.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 199.99
+          },
+          "title": "PME Legend softshell jas WINGLOCK grijsgroen",
+          "fixedTitle": "PME Legend softshell jas WINGLOCK grijsgroen",
+          "indexIdentifierTimeStamp": 1744908305,
+          "description": "De Winglock jas van PME Legend is perfect voor heren die graag droog blijven. De grijsgroene softshell jas is waterdicht, ademend en winddicht. Met de opstaande kraag en zak op de mouw is deze jas ideaal voor herfst en lente.",
+          "descriptionRaw": "De Winglock jas van PME Legend is perfect voor heren die graag droog blijven. De grijsgroene softshell jas is waterdicht, ademend en winddicht. Met de opstaande kraag en zak op de mouw is deze jas ideaal voor herfst en lente.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-GMTXPrt1S6ewAbVzCJXyfgfgMpr",
+          "categoryId": 9005527,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            19
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1487,
+                "width": 895
+              },
+              "type": "mainImage",
+              "url": "GMTXPpRLmFYs2i5SiW5N2Xj2CtF/394/{size}/683a94d3230733440123fd90a6d25b61/Jacks/PME-Legend-softshell-jas-WINGLOCK-grijsgroen.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1023,
+                "width": 741
+              },
+              "type": "alternativeImage",
+              "url": "GMTXPpRLmFYs2i5SiW5N2Xj2CtF/15376/{size}/40b75bca3c9e0ba507bee40f6b750771/Jacks/PME-Legend-softshell-jas-WINGLOCK-grijsgroen.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1487,
+                "width": 703
+              },
+              "type": "alternativeImage",
+              "url": "GMTXPpRLmFYs2i5SiW5N2Xj2CtF/15379/{size}/8ff99a27c4ea011588f1e769308d86e3/Jacks/PME-Legend-softshell-jas-WINGLOCK-grijsgroen.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "GMTXPpRLmFYs2i5SiW5N2Xj2CtF",
+              "value": "L",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "GMTXPjGd6iB6UvURRmJUNrmB7uX",
+              "value": "3XL",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "GMTXPRYSa63yDctFmy34EqPV2aY",
+              "value": "2XL",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "GMTXPqju577dQ2zGTUs3rQwZbmR",
+              "value": "XL",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "GMTXPcbYQ98WEVs7UQP2qLsudrZ",
+              "value": "M",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3161,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null,
+                  "productIdV3": "GMTXPcbYQ98WEVs7UQP2qLsudrZ",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null,
+                  "productIdV3": "GMTXPpRLmFYs2i5SiW5N2Xj2CtF",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null,
+                  "productIdV3": "GMTXPqju577dQ2zGTUs3rQwZbmR",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null,
+                  "productIdV3": "GMTXPRYSa63yDctFmy34EqPV2aY",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null,
+                  "productIdV3": "GMTXPjGd6iB6UvURRmJUNrmB7uX",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 477793,
+          "brandName": "PME Legend",
+          "brandRank": 27,
+          "brandRelativeDemandLabel": "D",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-02-01 00:00:00",
+          "popularity": 4,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 1.18,
+            "roasPercentage": 1200
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Voor 23:59 uur besteld, morgen in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "PME Legend",
+              "values": [
+                {
+                  "id": 477793,
+                  "caption": "PME Legend",
+                  "columnValue": "PME Legend",
+                  "crawlable": true,
+                  "detailValue": "PME Legend",
+                  "fullId": "48_477793",
+                  "sequence": 2078,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Wehkamp.nl",
+              "values": [
+                {
+                  "id": 2955683,
+                  "caption": "Wehkamp.nl",
+                  "columnValue": "Wehkamp.nl",
+                  "crawlable": true,
+                  "detailValue": "Wehkamp.nl",
+                  "fullId": "49_2955683",
+                  "sequence": 862,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 242263,
+                  "caption": "Elasthan",
+                  "columnValue": "Elasthan",
+                  "crawlable": true,
+                  "detailValue": "Elasthan",
+                  "fullId": "2624_242263",
+                  "sequence": 41,
+                  "urlName": null
+                },
+                {
+                  "id": 242299,
+                  "caption": "Synthetisch",
+                  "columnValue": "Synthetisch",
+                  "crawlable": true,
+                  "detailValue": "Synthetisch",
+                  "fullId": "2624_242299",
+                  "sequence": 61,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Grijs",
+              "values": [
+                {
+                  "id": 401017,
+                  "caption": "Grijze",
+                  "columnValue": "Grijs",
+                  "crawlable": true,
+                  "detailValue": "Grijze",
+                  "fullId": "3003_401017",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3161,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_jassen_jurken_pakken",
+              "value": "M",
+              "values": [
+                {
+                  "id": 471772,
+                  "caption": "Maat M",
+                  "columnValue": "M",
+                  "crawlable": true,
+                  "detailValue": "Maat M",
+                  "fullId": "3161_471772",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 471773,
+                  "caption": "Maat L",
+                  "columnValue": "L",
+                  "crawlable": true,
+                  "detailValue": "Maat L",
+                  "fullId": "3161_471773",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 471774,
+                  "caption": "Maat XL",
+                  "columnValue": "XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XL",
+                  "fullId": "3161_471774",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 471775,
+                  "caption": "Maat XXL",
+                  "columnValue": "XXL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXL",
+                  "fullId": "3161_471775",
+                  "sequence": 13,
+                  "urlName": null
+                },
+                {
+                  "id": 23810703,
+                  "caption": "Maat XXXL",
+                  "columnValue": "3XL",
+                  "crawlable": true,
+                  "detailValue": "Maat XXXL",
+                  "fullId": "3161_23810703",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Ademend",
+              "values": [
+                {
+                  "id": 23500774,
+                  "caption": "Ademende",
+                  "columnValue": "Ademend",
+                  "crawlable": true,
+                  "detailValue": "Ademende",
+                  "fullId": "3730_23500774",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 7424575,
+                  "caption": "Waterdichte",
+                  "columnValue": "Waterdicht",
+                  "crawlable": true,
+                  "detailValue": "Waterdichte",
+                  "fullId": "3730_7424575",
+                  "sequence": 106,
+                  "urlName": null
+                },
+                {
+                  "id": 9511520,
+                  "caption": "Winddichte",
+                  "columnValue": "Winddicht",
+                  "crawlable": true,
+                  "detailValue": "Winddichte",
+                  "fullId": "3730_9511520",
+                  "sequence": 109,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4766,
+              "name": "Soort zakken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_zakken",
+              "value": "Mouwzak",
+              "values": [
+                {
+                  "id": 9558841,
+                  "caption": "met mouwzak",
+                  "columnValue": "Mouwzak",
+                  "crawlable": true,
+                  "detailValue": "met mouwzak",
+                  "fullId": "4766_9558841",
+                  "sequence": 11,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6331,
+              "name": "Soort",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "soort_jack",
+              "value": "Softshell jassen",
+              "values": [
+                {
+                  "id": 23798084,
+                  "caption": "Softshell jassen",
+                  "columnValue": "Softshell jassen",
+                  "crawlable": true,
+                  "detailValue": "Softshell jassen",
+                  "fullId": "6331_23798084",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "19-504A41323530323133305F3132313030333336",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8720672540131",
+          "revenuePerClick": 0.1,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 2,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 199.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": null,
+          "isGoogleBestseller": null,
+          "isGoogleBestsellerTop100": null,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

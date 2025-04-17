@@ -1,0 +1,1678 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 39,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3798,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_bh_body",
+            "values": [
+              {
+                "id": 4695699,
+                "caption": "80B",
+                "columnValue": "80B",
+                "crawlable": true,
+                "detailValue": "80B",
+                "fullId": "3798_4695699",
+                "sequence": 15,
+                "urlName": null
+              },
+              {
+                "id": 4695700,
+                "caption": "85B",
+                "columnValue": "85B",
+                "crawlable": true,
+                "detailValue": "85B",
+                "fullId": "3798_4695700",
+                "sequence": 16,
+                "urlName": null
+              },
+              {
+                "id": 4695701,
+                "caption": "90B",
+                "columnValue": "90B",
+                "crawlable": true,
+                "detailValue": "90B",
+                "fullId": "3798_4695701",
+                "sequence": 17,
+                "urlName": null
+              },
+              {
+                "id": 4695702,
+                "caption": "95B",
+                "columnValue": "95B",
+                "crawlable": true,
+                "detailValue": "95B",
+                "fullId": "3798_4695702",
+                "sequence": 21,
+                "urlName": null
+              },
+              {
+                "id": 4695703,
+                "caption": "100B",
+                "columnValue": "100B",
+                "crawlable": true,
+                "detailValue": "100B",
+                "fullId": "3798_4695703",
+                "sequence": 22,
+                "urlName": null
+              },
+              {
+                "id": 4695706,
+                "caption": "80C",
+                "columnValue": "80C",
+                "crawlable": true,
+                "detailValue": "80C",
+                "fullId": "3798_4695706",
+                "sequence": 25,
+                "urlName": null
+              },
+              {
+                "id": 4695707,
+                "caption": "85C",
+                "columnValue": "85C",
+                "crawlable": true,
+                "detailValue": "85C",
+                "fullId": "3798_4695707",
+                "sequence": 26,
+                "urlName": null
+              },
+              {
+                "id": 4695708,
+                "caption": "90C",
+                "columnValue": "90C",
+                "crawlable": true,
+                "detailValue": "90C",
+                "fullId": "3798_4695708",
+                "sequence": 27,
+                "urlName": null
+              },
+              {
+                "id": 4695709,
+                "caption": "95C",
+                "columnValue": "95C",
+                "crawlable": true,
+                "detailValue": "95C",
+                "fullId": "3798_4695709",
+                "sequence": 28,
+                "urlName": null
+              },
+              {
+                "id": 4695710,
+                "caption": "100C",
+                "columnValue": "100C",
+                "crawlable": true,
+                "detailValue": "100C",
+                "fullId": "3798_4695710",
+                "sequence": 29,
+                "urlName": null
+              },
+              {
+                "id": 12251766,
+                "caption": "105C",
+                "columnValue": "105C",
+                "crawlable": true,
+                "detailValue": "105C",
+                "fullId": "3798_12251766",
+                "sequence": 30,
+                "urlName": null
+              },
+              {
+                "id": 4695713,
+                "caption": "80D",
+                "columnValue": "80D",
+                "crawlable": true,
+                "detailValue": "80D",
+                "fullId": "3798_4695713",
+                "sequence": 33,
+                "urlName": null
+              },
+              {
+                "id": 4695714,
+                "caption": "85D",
+                "columnValue": "85D",
+                "crawlable": true,
+                "detailValue": "85D",
+                "fullId": "3798_4695714",
+                "sequence": 34,
+                "urlName": null
+              },
+              {
+                "id": 4695715,
+                "caption": "90D",
+                "columnValue": "90D",
+                "crawlable": true,
+                "detailValue": "90D",
+                "fullId": "3798_4695715",
+                "sequence": 35,
+                "urlName": null
+              },
+              {
+                "id": 4695716,
+                "caption": "95D",
+                "columnValue": "95D",
+                "crawlable": true,
+                "detailValue": "95D",
+                "fullId": "3798_4695716",
+                "sequence": 36,
+                "urlName": null
+              },
+              {
+                "id": 12251764,
+                "caption": "100D",
+                "columnValue": "100D",
+                "crawlable": true,
+                "detailValue": "100D",
+                "fullId": "3798_12251764",
+                "sequence": 37,
+                "urlName": null
+              },
+              {
+                "id": 12251765,
+                "caption": "105D",
+                "columnValue": "105D",
+                "crawlable": true,
+                "detailValue": "105D",
+                "fullId": "3798_12251765",
+                "sequence": 38,
+                "urlName": null
+              },
+              {
+                "id": 4695719,
+                "caption": "80E",
+                "columnValue": "80E",
+                "crawlable": true,
+                "detailValue": "80E",
+                "fullId": "3798_4695719",
+                "sequence": 42,
+                "urlName": null
+              },
+              {
+                "id": 4695720,
+                "caption": "85E",
+                "columnValue": "85E",
+                "crawlable": true,
+                "detailValue": "85E",
+                "fullId": "3798_4695720",
+                "sequence": 43,
+                "urlName": null
+              },
+              {
+                "id": 4695721,
+                "caption": "90E",
+                "columnValue": "90E",
+                "crawlable": true,
+                "detailValue": "90E",
+                "fullId": "3798_4695721",
+                "sequence": 44,
+                "urlName": null
+              },
+              {
+                "id": 4695722,
+                "caption": "95E",
+                "columnValue": "95E",
+                "crawlable": true,
+                "detailValue": "95E",
+                "fullId": "3798_4695722",
+                "sequence": 45,
+                "urlName": null
+              },
+              {
+                "id": 4695723,
+                "caption": "100E",
+                "columnValue": "100E",
+                "crawlable": true,
+                "detailValue": "100E",
+                "fullId": "3798_4695723",
+                "sequence": 46,
+                "urlName": null
+              },
+              {
+                "id": 12251767,
+                "caption": "105E",
+                "columnValue": "105E",
+                "crawlable": true,
+                "detailValue": "105E",
+                "fullId": "3798_12251767",
+                "sequence": 47,
+                "urlName": null
+              },
+              {
+                "id": 23810680,
+                "caption": "B",
+                "columnValue": "B",
+                "crawlable": true,
+                "detailValue": "B",
+                "fullId": "3798_23810680",
+                "sequence": 69,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "4KXbjzjeaS2iFKCJTPqW6yP6MsGY",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "4KXbjzuVottNRJ4o8HRtUA7vpvRv",
+            "advertisementIdV3": "4KXbjzuVottNRJ4o8HRtUA7vpvRv"
+          },
+          "shopItemId": 1163136759,
+          "productId": "4KXbjzjeaS2iFKCJTPqW6yP6MsGY",
+          "ean": "",
+          "shopInfo": {
+            "id": 83182,
+            "shopName": "Your-look-for-less.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 8,
+            "productCount": 13000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/83182.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T08:25:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Your-look-for-less.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 8943,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 83182,
+            "shopItemId": 1163136759,
+            "shopItemTitle": "Dames Beha zonder beugel met voorsluiting in wit",
+            "shopItemDescription": "",
+            "shopItemVersion": "250771_85-61716-250771",
+            "shopName": "Your-look-for-less.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "4KXbjzjeaS2iFKCJTPqW6yP6MsGY",
+            "condition": "Nieuw",
+            "ean": "4771003075284",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.your-look-for-less.nl/p/61716?size=85C?gw=955419419&ecc=419&utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslist",
+            "size": "85C",
+            "shopReviewScore": 8.6,
+            "shopReviewAmount": 5275,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 34,
+              "price": 39,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "250771_85",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "3a5890e7-2149-4494-9adb-b1b5b4a8d7c4",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 39
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Dames Beha zonder beugel met voorsluiting in wit",
+          "fixedTitle": "Dames beha zonder beugel met voorsluiting in wit",
+          "indexIdentifierTimeStamp": 1744908290,
+          "description": "Beha met voorsluiting zonder beugel van w\u00e4schepur. 3-delige cups met sierkant en gevoerde ondercups. Perfecte steun en optimaal draagcomfort dankzij het steunende rugdeel in kruislings model en de brede, gewatteerde bandjes.",
+          "descriptionRaw": "Beha met voorsluiting zonder beugel van w\u00e4schepur. 3-delige cups met sierkant en gevoerde ondercups. Perfecte steun en optimaal draagcomfort dankzij het steunende rugdeel in kruislings model en de brede, gewatteerde bandjes.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1067076856,
+          "gtinGroupId": "137-4KXbjzuVottNRJ4o8HRtUA7vpvRv",
+          "categoryId": 9005056,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": 589477596408,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            83182
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 3199,
+                "width": 2323
+              },
+              "type": "mainImage",
+              "url": "4KXbjzjeaS2iFKCJTPqW6yP6MsGY/394/{size}/e90685a9f9f7b753e592488d2c9980cb/Bralettes/Dames-beha-zonder-beugel-met-voorsluiting-in-wit.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 3199,
+                "width": 2015
+              },
+              "type": "alternativeImage",
+              "url": "4KXbjzjeaS2iFKCJTPqW6yP6MsGY/15376/{size}/daa1e8534d894ac7f06ae39c3d35de3a/Bralettes/Dames-beha-zonder-beugel-met-voorsluiting-in-wit.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 3199,
+                "width": 2387
+              },
+              "type": "alternativeImage",
+              "url": "4KXbjzjeaS2iFKCJTPqW6yP6MsGY/15377/{size}/984a9eae9e94526983f46f8a2690b90e/Bralettes/Dames-beha-zonder-beugel-met-voorsluiting-in-wit.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 3199,
+                "width": 2387
+              },
+              "type": "alternativeImage",
+              "url": "4KXbjzjeaS2iFKCJTPqW6yP6MsGY/15378/{size}/459b9ab0f75067fc046871dc0a0df03d/Bralettes/Dames-beha-zonder-beugel-met-voorsluiting-in-wit.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzjeaS2iFKCJTPqW6yP6MsGY",
+              "value": "85C",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzXqjdM3ouYBHMf3kxHNFHiD",
+              "value": "90B",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzuthrv57PYFT4CPyU3xsmeZ",
+              "value": "85B",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjznaMEbGG85XWoWpukBhJecA",
+              "value": "100E",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzrWom693LwQSyjhbr95rS3o",
+              "value": "105E",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzdAoUiqt9z9keNnJUNTv3Rw",
+              "value": "85E",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzzN7Deo44xh579zEXfE9VXV",
+              "value": "80E",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzYQ5ULGFmUYpHwRrwouZb1D",
+              "value": "90D",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzvvUfmenBB1xMVbMynZaCV2",
+              "value": "95D",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzhsC8SB2iwM4HvcUmxE4HFs",
+              "value": "100D",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzmReNUMx9bGKtwYATDLXw2o",
+              "value": "95C",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzmPbH7c7BfKzFvbcPm6c4uM",
+              "value": "95E",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzvGfFdfjuytyLxikADAcgbz",
+              "value": "90E",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzeaaqWSvk9szgmnAzMRKsdo",
+              "value": "90C",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbk14adLTFfe8tzQLQXqYuMy8S",
+              "value": "80D",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzjupBvtjvqe1gTV6bUWuB6A",
+              "value": "105C",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbk14JhucDKPeoA4cXnjoJwbck",
+              "value": "100C",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbk12X3hwU2ca1yhieNPzGY1yi",
+              "value": "95B",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbk12zXHeqJCyraiWKBXfN9RsG",
+              "value": "80C",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzrQk3xUSgzYWtyeut23VnQn",
+              "value": "100B",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjznUf9ZjMzVMdKzEMCFF9g36",
+              "value": "85D",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbk12dst5ku4cQwdLxByAwWC7J",
+              "value": "105D",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjzjuUvAdR1BdpPf7XCS1E5K2",
+              "value": "80B",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4KXbjza9UCA5TxjGvomJiWcfAai5",
+              "value": "105B",
+              "available": true,
+              "price": 39,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3798,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_bh_body",
+              "values": [
+                {
+                  "id": 4695699,
+                  "caption": "80B",
+                  "columnValue": "80B",
+                  "crawlable": true,
+                  "detailValue": "80B",
+                  "fullId": "3798_4695699",
+                  "sequence": 15,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzjuUvAdR1BdpPf7XCS1E5K2",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695700,
+                  "caption": "85B",
+                  "columnValue": "85B",
+                  "crawlable": true,
+                  "detailValue": "85B",
+                  "fullId": "3798_4695700",
+                  "sequence": 16,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzuthrv57PYFT4CPyU3xsmeZ",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695701,
+                  "caption": "90B",
+                  "columnValue": "90B",
+                  "crawlable": true,
+                  "detailValue": "90B",
+                  "fullId": "3798_4695701",
+                  "sequence": 17,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzXqjdM3ouYBHMf3kxHNFHiD",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695702,
+                  "caption": "95B",
+                  "columnValue": "95B",
+                  "crawlable": true,
+                  "detailValue": "95B",
+                  "fullId": "3798_4695702",
+                  "sequence": 21,
+                  "urlName": null,
+                  "productIdV3": "4KXbk12X3hwU2ca1yhieNPzGY1yi",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695703,
+                  "caption": "100B",
+                  "columnValue": "100B",
+                  "crawlable": true,
+                  "detailValue": "100B",
+                  "fullId": "3798_4695703",
+                  "sequence": 22,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzrQk3xUSgzYWtyeut23VnQn",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695706,
+                  "caption": "80C",
+                  "columnValue": "80C",
+                  "crawlable": true,
+                  "detailValue": "80C",
+                  "fullId": "3798_4695706",
+                  "sequence": 25,
+                  "urlName": null,
+                  "productIdV3": "4KXbk12zXHeqJCyraiWKBXfN9RsG",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695707,
+                  "caption": "85C",
+                  "columnValue": "85C",
+                  "crawlable": true,
+                  "detailValue": "85C",
+                  "fullId": "3798_4695707",
+                  "sequence": 26,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzjeaS2iFKCJTPqW6yP6MsGY",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695708,
+                  "caption": "90C",
+                  "columnValue": "90C",
+                  "crawlable": true,
+                  "detailValue": "90C",
+                  "fullId": "3798_4695708",
+                  "sequence": 27,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzeaaqWSvk9szgmnAzMRKsdo",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695709,
+                  "caption": "95C",
+                  "columnValue": "95C",
+                  "crawlable": true,
+                  "detailValue": "95C",
+                  "fullId": "3798_4695709",
+                  "sequence": 28,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzmReNUMx9bGKtwYATDLXw2o",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695710,
+                  "caption": "100C",
+                  "columnValue": "100C",
+                  "crawlable": true,
+                  "detailValue": "100C",
+                  "fullId": "3798_4695710",
+                  "sequence": 29,
+                  "urlName": null,
+                  "productIdV3": "4KXbk14JhucDKPeoA4cXnjoJwbck",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 12251766,
+                  "caption": "105C",
+                  "columnValue": "105C",
+                  "crawlable": true,
+                  "detailValue": "105C",
+                  "fullId": "3798_12251766",
+                  "sequence": 30,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzjupBvtjvqe1gTV6bUWuB6A",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695713,
+                  "caption": "80D",
+                  "columnValue": "80D",
+                  "crawlable": true,
+                  "detailValue": "80D",
+                  "fullId": "3798_4695713",
+                  "sequence": 33,
+                  "urlName": null,
+                  "productIdV3": "4KXbk14adLTFfe8tzQLQXqYuMy8S",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695714,
+                  "caption": "85D",
+                  "columnValue": "85D",
+                  "crawlable": true,
+                  "detailValue": "85D",
+                  "fullId": "3798_4695714",
+                  "sequence": 34,
+                  "urlName": null,
+                  "productIdV3": "4KXbjznUf9ZjMzVMdKzEMCFF9g36",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695715,
+                  "caption": "90D",
+                  "columnValue": "90D",
+                  "crawlable": true,
+                  "detailValue": "90D",
+                  "fullId": "3798_4695715",
+                  "sequence": 35,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzYQ5ULGFmUYpHwRrwouZb1D",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695716,
+                  "caption": "95D",
+                  "columnValue": "95D",
+                  "crawlable": true,
+                  "detailValue": "95D",
+                  "fullId": "3798_4695716",
+                  "sequence": 36,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzvvUfmenBB1xMVbMynZaCV2",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 12251764,
+                  "caption": "100D",
+                  "columnValue": "100D",
+                  "crawlable": true,
+                  "detailValue": "100D",
+                  "fullId": "3798_12251764",
+                  "sequence": 37,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzhsC8SB2iwM4HvcUmxE4HFs",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 12251765,
+                  "caption": "105D",
+                  "columnValue": "105D",
+                  "crawlable": true,
+                  "detailValue": "105D",
+                  "fullId": "3798_12251765",
+                  "sequence": 38,
+                  "urlName": null,
+                  "productIdV3": "4KXbk12dst5ku4cQwdLxByAwWC7J",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695719,
+                  "caption": "80E",
+                  "columnValue": "80E",
+                  "crawlable": true,
+                  "detailValue": "80E",
+                  "fullId": "3798_4695719",
+                  "sequence": 42,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzzN7Deo44xh579zEXfE9VXV",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695720,
+                  "caption": "85E",
+                  "columnValue": "85E",
+                  "crawlable": true,
+                  "detailValue": "85E",
+                  "fullId": "3798_4695720",
+                  "sequence": 43,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzdAoUiqt9z9keNnJUNTv3Rw",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695721,
+                  "caption": "90E",
+                  "columnValue": "90E",
+                  "crawlable": true,
+                  "detailValue": "90E",
+                  "fullId": "3798_4695721",
+                  "sequence": 44,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzvGfFdfjuytyLxikADAcgbz",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695722,
+                  "caption": "95E",
+                  "columnValue": "95E",
+                  "crawlable": true,
+                  "detailValue": "95E",
+                  "fullId": "3798_4695722",
+                  "sequence": 45,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzmPbH7c7BfKzFvbcPm6c4uM",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 4695723,
+                  "caption": "100E",
+                  "columnValue": "100E",
+                  "crawlable": true,
+                  "detailValue": "100E",
+                  "fullId": "3798_4695723",
+                  "sequence": 46,
+                  "urlName": null,
+                  "productIdV3": "4KXbjznaMEbGG85XWoWpukBhJecA",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 12251767,
+                  "caption": "105E",
+                  "columnValue": "105E",
+                  "crawlable": true,
+                  "detailValue": "105E",
+                  "fullId": "3798_12251767",
+                  "sequence": 47,
+                  "urlName": null,
+                  "productIdV3": "4KXbjzrWom693LwQSyjhbr95rS3o",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810680,
+                  "caption": "B",
+                  "columnValue": "B",
+                  "crawlable": true,
+                  "detailValue": "B",
+                  "fullId": "3798_23810680",
+                  "sequence": 69,
+                  "urlName": null,
+                  "productIdV3": "4KXbjza9UCA5TxjGvomJiWcfAai5",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 39,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2023-02-14 00:00:00",
+          "popularity": 6077,
+          "popularityData": {
+            "clickFactor": 176,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Pre-order",
+          "deliveryTimeSort": 6,
+          "deliveryCosts": 5.5,
+          "facets": [
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Your-look-for-less.nl",
+              "values": [
+                {
+                  "id": 4043426,
+                  "caption": "Your-look-for-less.nl",
+                  "columnValue": "Your-look-for-less.nl",
+                  "crawlable": true,
+                  "detailValue": "Your-look-for-less.nl",
+                  "fullId": "49_4043426",
+                  "sequence": 898,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Gevoerd",
+              "values": [
+                {
+                  "id": 7390526,
+                  "caption": "Gevoerde",
+                  "columnValue": "Gevoerd",
+                  "crawlable": true,
+                  "detailValue": "Gevoerde",
+                  "fullId": "3730_7390526",
+                  "sequence": 32,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3798,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_bh_body",
+              "value": "80B",
+              "values": [
+                {
+                  "id": 4695699,
+                  "caption": "80B",
+                  "columnValue": "80B",
+                  "crawlable": true,
+                  "detailValue": "80B",
+                  "fullId": "3798_4695699",
+                  "sequence": 15,
+                  "urlName": null
+                },
+                {
+                  "id": 4695700,
+                  "caption": "85B",
+                  "columnValue": "85B",
+                  "crawlable": true,
+                  "detailValue": "85B",
+                  "fullId": "3798_4695700",
+                  "sequence": 16,
+                  "urlName": null
+                },
+                {
+                  "id": 4695701,
+                  "caption": "90B",
+                  "columnValue": "90B",
+                  "crawlable": true,
+                  "detailValue": "90B",
+                  "fullId": "3798_4695701",
+                  "sequence": 17,
+                  "urlName": null
+                },
+                {
+                  "id": 4695702,
+                  "caption": "95B",
+                  "columnValue": "95B",
+                  "crawlable": true,
+                  "detailValue": "95B",
+                  "fullId": "3798_4695702",
+                  "sequence": 21,
+                  "urlName": null
+                },
+                {
+                  "id": 4695703,
+                  "caption": "100B",
+                  "columnValue": "100B",
+                  "crawlable": true,
+                  "detailValue": "100B",
+                  "fullId": "3798_4695703",
+                  "sequence": 22,
+                  "urlName": null
+                },
+                {
+                  "id": 4695706,
+                  "caption": "80C",
+                  "columnValue": "80C",
+                  "crawlable": true,
+                  "detailValue": "80C",
+                  "fullId": "3798_4695706",
+                  "sequence": 25,
+                  "urlName": null
+                },
+                {
+                  "id": 4695707,
+                  "caption": "85C",
+                  "columnValue": "85C",
+                  "crawlable": true,
+                  "detailValue": "85C",
+                  "fullId": "3798_4695707",
+                  "sequence": 26,
+                  "urlName": null
+                },
+                {
+                  "id": 4695708,
+                  "caption": "90C",
+                  "columnValue": "90C",
+                  "crawlable": true,
+                  "detailValue": "90C",
+                  "fullId": "3798_4695708",
+                  "sequence": 27,
+                  "urlName": null
+                },
+                {
+                  "id": 4695709,
+                  "caption": "95C",
+                  "columnValue": "95C",
+                  "crawlable": true,
+                  "detailValue": "95C",
+                  "fullId": "3798_4695709",
+                  "sequence": 28,
+                  "urlName": null
+                },
+                {
+                  "id": 4695710,
+                  "caption": "100C",
+                  "columnValue": "100C",
+                  "crawlable": true,
+                  "detailValue": "100C",
+                  "fullId": "3798_4695710",
+                  "sequence": 29,
+                  "urlName": null
+                },
+                {
+                  "id": 12251766,
+                  "caption": "105C",
+                  "columnValue": "105C",
+                  "crawlable": true,
+                  "detailValue": "105C",
+                  "fullId": "3798_12251766",
+                  "sequence": 30,
+                  "urlName": null
+                },
+                {
+                  "id": 4695713,
+                  "caption": "80D",
+                  "columnValue": "80D",
+                  "crawlable": true,
+                  "detailValue": "80D",
+                  "fullId": "3798_4695713",
+                  "sequence": 33,
+                  "urlName": null
+                },
+                {
+                  "id": 4695714,
+                  "caption": "85D",
+                  "columnValue": "85D",
+                  "crawlable": true,
+                  "detailValue": "85D",
+                  "fullId": "3798_4695714",
+                  "sequence": 34,
+                  "urlName": null
+                },
+                {
+                  "id": 4695715,
+                  "caption": "90D",
+                  "columnValue": "90D",
+                  "crawlable": true,
+                  "detailValue": "90D",
+                  "fullId": "3798_4695715",
+                  "sequence": 35,
+                  "urlName": null
+                },
+                {
+                  "id": 4695716,
+                  "caption": "95D",
+                  "columnValue": "95D",
+                  "crawlable": true,
+                  "detailValue": "95D",
+                  "fullId": "3798_4695716",
+                  "sequence": 36,
+                  "urlName": null
+                },
+                {
+                  "id": 12251764,
+                  "caption": "100D",
+                  "columnValue": "100D",
+                  "crawlable": true,
+                  "detailValue": "100D",
+                  "fullId": "3798_12251764",
+                  "sequence": 37,
+                  "urlName": null
+                },
+                {
+                  "id": 12251765,
+                  "caption": "105D",
+                  "columnValue": "105D",
+                  "crawlable": true,
+                  "detailValue": "105D",
+                  "fullId": "3798_12251765",
+                  "sequence": 38,
+                  "urlName": null
+                },
+                {
+                  "id": 4695719,
+                  "caption": "80E",
+                  "columnValue": "80E",
+                  "crawlable": true,
+                  "detailValue": "80E",
+                  "fullId": "3798_4695719",
+                  "sequence": 42,
+                  "urlName": null
+                },
+                {
+                  "id": 4695720,
+                  "caption": "85E",
+                  "columnValue": "85E",
+                  "crawlable": true,
+                  "detailValue": "85E",
+                  "fullId": "3798_4695720",
+                  "sequence": 43,
+                  "urlName": null
+                },
+                {
+                  "id": 4695721,
+                  "caption": "90E",
+                  "columnValue": "90E",
+                  "crawlable": true,
+                  "detailValue": "90E",
+                  "fullId": "3798_4695721",
+                  "sequence": 44,
+                  "urlName": null
+                },
+                {
+                  "id": 4695722,
+                  "caption": "95E",
+                  "columnValue": "95E",
+                  "crawlable": true,
+                  "detailValue": "95E",
+                  "fullId": "3798_4695722",
+                  "sequence": 45,
+                  "urlName": null
+                },
+                {
+                  "id": 4695723,
+                  "caption": "100E",
+                  "columnValue": "100E",
+                  "crawlable": true,
+                  "detailValue": "100E",
+                  "fullId": "3798_4695723",
+                  "sequence": 46,
+                  "urlName": null
+                },
+                {
+                  "id": 12251767,
+                  "caption": "105E",
+                  "columnValue": "105E",
+                  "crawlable": true,
+                  "detailValue": "105E",
+                  "fullId": "3798_12251767",
+                  "sequence": 47,
+                  "urlName": null
+                },
+                {
+                  "id": 23810680,
+                  "caption": "B",
+                  "columnValue": "B",
+                  "crawlable": true,
+                  "detailValue": "B",
+                  "fullId": "3798_23810680",
+                  "sequence": 69,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 8978930,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "3114_8978930",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 468982,
+                  "caption": "Ondermode",
+                  "columnValue": "Ondermode",
+                  "crawlable": true,
+                  "detailValue": "Ondermode",
+                  "fullId": "3114_468982",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 401013,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3003_401013",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Katoen",
+              "values": [
+                {
+                  "id": 242265,
+                  "caption": "Katoenen",
+                  "columnValue": "Katoen",
+                  "crawlable": true,
+                  "detailValue": "Katoenen",
+                  "fullId": "2624_242265",
+                  "sequence": 8,
+                  "urlName": null
+                },
+                {
+                  "id": 242263,
+                  "caption": "Elasthan",
+                  "columnValue": "Elasthan",
+                  "crawlable": true,
+                  "detailValue": "Elasthan",
+                  "fullId": "2624_242263",
+                  "sequence": 41,
+                  "urlName": null
+                },
+                {
+                  "id": 12237446,
+                  "caption": "Polyamide",
+                  "columnValue": "Polyamide",
+                  "crawlable": true,
+                  "detailValue": "Polyamide",
+                  "fullId": "2624_12237446",
+                  "sequence": 57,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4757,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_bhbody",
+              "value": "Ondersteunend",
+              "values": [
+                {
+                  "id": 19247961,
+                  "caption": "Ondersteunende",
+                  "columnValue": "Ondersteunend",
+                  "crawlable": true,
+                  "detailValue": "Ondersteunende",
+                  "fullId": "4757_19247961",
+                  "sequence": 22,
+                  "urlName": null
+                },
+                {
+                  "id": 19247957,
+                  "caption": "Voorsluiting",
+                  "columnValue": "Voorsluiting",
+                  "crawlable": true,
+                  "detailValue": "Voorsluiting",
+                  "fullId": "4757_19247957",
+                  "sequence": 23,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4763,
+              "name": "Soort bandjes",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "s_bandjes",
+              "value": "Gekruist",
+              "values": [
+                {
+                  "id": 9556864,
+                  "caption": "met gekruiste bandjes",
+                  "columnValue": "Gekruist",
+                  "crawlable": true,
+                  "detailValue": "met gekruiste bandjes",
+                  "fullId": "4763_9556864",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Natuurlijk materiaal",
+              "values": [
+                {
+                  "id": 23597271,
+                  "caption": "Natuurlijk materiaal",
+                  "columnValue": "Natuurlijk materiaal",
+                  "crawlable": true,
+                  "detailValue": "Natuurlijk materiaal",
+                  "fullId": "6290_23597271",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6322,
+              "name": "Soort",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_bh",
+              "value": "Zonder beugel",
+              "values": [
+                {
+                  "id": 23734683,
+                  "caption": "zonder beugel",
+                  "columnValue": "Zonder beugel",
+                  "crawlable": true,
+                  "detailValue": "zonder beugel",
+                  "fullId": "6322_23734683",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "your-look-for-less.nl-250760",
+          "relatedSiblingDetails": {
+            "id": null,
+            "detail": null,
+            "isTopDetail": null,
+            "value": "Wit"
+          },
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-3a5890e7-2149-4494-9adb-b1b5b4a8d7c4",
+          "revenuePerClick": 0.25,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 39,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "C",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 8.6,
+              "amount": 5275
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

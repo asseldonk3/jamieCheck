@@ -1,0 +1,690 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 37.4,
+        "highestDiscount": 45,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3798,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_bh_body",
+            "values": [
+              {
+                "id": 4695704,
+                "caption": "70C",
+                "columnValue": "70C",
+                "crawlable": true,
+                "detailValue": "70C",
+                "fullId": "3798_4695704",
+                "sequence": 23,
+                "urlName": null
+              },
+              {
+                "id": 4695711,
+                "caption": "70D",
+                "columnValue": "70D",
+                "crawlable": true,
+                "detailValue": "70D",
+                "fullId": "3798_4695711",
+                "sequence": 31,
+                "urlName": null
+              },
+              {
+                "id": 4695713,
+                "caption": "80D",
+                "columnValue": "80D",
+                "crawlable": true,
+                "detailValue": "80D",
+                "fullId": "3798_4695713",
+                "sequence": 33,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "2UVfhxFJt6xQhxtRMhTcXQzmjRae",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2UVfhxAJXkq8cduL97zt6NezZrjx",
+            "advertisementIdV3": "2UVfhxAJXkq8cduL97zt6NezZrjx"
+          },
+          "shopItemId": 0,
+          "productId": "2UVfhxFJt6xQhxtRMhTcXQzmjRae",
+          "ean": "",
+          "shopInfo": {
+            "id": 642665,
+            "shopName": "LaRedoute.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 5,
+            "productCount": 80000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/642665.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-16T00:50:01+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@LaRedoute.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 1675,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 642665,
+            "shopItemId": 0,
+            "shopItemTitle": "Balconnet BH eco fabrics Sensual SCANDALE ECO LINGERIE. Polyamide materiaal. Maten 95D FR - 80D EU. Beige kleur",
+            "shopItemDescription": "",
+            "shopItemVersion": "35025252900010015722723-3502525291",
+            "shopName": "LaRedoute.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2UVfhxFJt6xQhxtRMhTcXQzmjRae",
+            "condition": "Nieuw",
+            "ean": "4895241903045",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.laredoute.nl/ppdp/prod-350252529.aspx?dim1=1&dim2=15&cod=CDP00119978NL",
+            "size": "95D FR - 80D EU",
+            "shopReviewScore": 4.2,
+            "shopReviewAmount": 100,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 34,
+              "price": 37.4,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 55,
+              "price": 68,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "35025252900010015722723",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 37.4
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Balconnet BH eco fabrics Sensual SCANDALE ECO LINGERIE. Polyamide materiaal. Maten 95D FR - 80D EU. Beige kleur",
+          "fixedTitle": "Balconnet BH eco fabrics Sensual SCANDALE ECO LINGERIE. Polyamide materiaal. Maten 85C FR - 70C EU. Beige kleur",
+          "indexIdentifierTimeStamp": 1744876534,
+          "description": "Balconnet BH eco fabrics Sensual SCANDALE ECO LINGERIE. Maten 95D FR - 80D EU. beige kleur. Details\u00a0\u2022\u00a0\u00a0Balconnet\u00a0\u2022\u00a0\u00a0Met binnencups\u00a0\u2022\u00a0\u00a0Onthullende kanten inzetstukken bovenaan de cups\u00a0\u2022\u00a0\u00a0Zij-en achterkant in microvezel met voering in elastische tule voor meer comfort\u00a0\u2022\u00a0\u00a0Onderkant van cups gevoerd in spacer\u00a0\u2022\u00a0\u00a0Dit product scandale is CO2 neutraal + 100% eco fabrics + ethisch en traceerbaarSamenstelling en onderhoud\u00a0\u2022\u00a0\u00a0Voornaamste stof : 78% polyamide, 22% elasthan\u00a0\u2022\u00a0\u00a02de stof : 86% polyamide, 14% elasthan\u00a0\u2022\u00a0\u00a0Onderhoud : zie etiket\u00a0\u2022\u00a0\u00a0RECYCLED POLYAMIDE. Het gebruik van recycled polyamide betekent het behoud van bepaalde hulpbronnen en minder afval.\u00a0\u2022\u00a0\u00a0OEKO-TEX\u00ae Standard 100. Het OEKO-TEX\u00ae Standard 100 certificaat controleert textielproducten op schadelijke stoffen via een onafhankelijk, internationaal label.",
+          "descriptionRaw": "Balconnet BH eco fabrics Sensual SCANDALE ECO LINGERIE. Maten 95D FR - 80D EU. beige kleur. Details\u00a0\u2022\u00a0\u00a0Balconnet\u00a0\u2022\u00a0\u00a0Met binnencups\u00a0\u2022\u00a0\u00a0Onthullende kanten inzetstukken bovenaan de cups\u00a0\u2022\u00a0\u00a0Zij-en achterkant in microvezel met voering in elastische tule voor meer comfort\u00a0\u2022\u00a0\u00a0Onderkant van cups gevoerd in spacer\u00a0\u2022\u00a0\u00a0Dit product scandale is CO2 neutraal + 100% eco fabrics + ethisch en traceerbaarSamenstelling en onderhoud\u00a0\u2022\u00a0\u00a0Voornaamste stof : 78% polyamide, 22% elasthan\u00a0\u2022\u00a0\u00a02de stof : 86% polyamide, 14% elasthan\u00a0\u2022\u00a0\u00a0Onderhoud : zie etiket\u00a0\u2022\u00a0\u00a0RECYCLED POLYAMIDE. Het gebruik van recycled polyamide betekent het behoud van bepaalde hulpbronnen en minder afval.\u00a0\u2022\u00a0\u00a0OEKO-TEX\u00ae Standard 100. Het OEKO-TEX\u00ae Standard 100 certificaat controleert textielproducten op schadelijke stoffen via een onafhankelijk, internationaal label.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-2UVfhxAJXkq8cduL97zt6NezZrjx",
+          "categoryId": 9002968,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            642665
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "2UVfhxFJt6xQhxtRMhTcXQzmjRae/394/{size}/6f67357404230658500cd7c10826ab4e/Balconette-bh%27s/Balconnet-BH-eco-fabrics-Sensual-SCANDALE-ECO-LINGERIE.-Polyamide-materiaal.-Maten-85C-FR-70C-EU.-.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1199,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "2UVfhxFJt6xQhxtRMhTcXQzmjRae/15376/{size}/845a29773c75db4ca65d19c78578606f/Balconette-bh%27s/Balconnet-BH-eco-fabrics-Sensual-SCANDALE-ECO-LINGERIE.-Polyamide-materiaal.-Maten-85C-FR-70C-EU.-.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 1198
+              },
+              "type": "alternativeImage",
+              "url": "2UVfhxFJt6xQhxtRMhTcXQzmjRae/15378/{size}/fe475320686dcd862f86da38b6f1baaf/Balconette-bh%27s/Balconnet-BH-eco-fabrics-Sensual-SCANDALE-ECO-LINGERIE.-Polyamide-materiaal.-Maten-85C-FR-70C-EU.-.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1199,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "2UVfhxFJt6xQhxtRMhTcXQzmjRae/15379/{size}/cf8e13914a0ccebbca15be998d9fceae/Balconette-bh%27s/Balconnet-BH-eco-fabrics-Sensual-SCANDALE-ECO-LINGERIE.-Polyamide-materiaal.-Maten-85C-FR-70C-EU.-.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhxFJt6xQhxtRMhTcXQzmjRae",
+              "value": "95D FR - 80D EU",
+              "available": true,
+              "price": 37.4,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhx8ahUCpZLWzjqxaivC4yFka",
+              "value": "85C FR - 70C EU",
+              "available": true,
+              "price": 37.4,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhx2hnjW8dRZbizcxeDA4TqXw",
+              "value": "85D FR - 70D EU",
+              "available": true,
+              "price": 37.4,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3798,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_bh_body",
+              "values": [
+                {
+                  "id": 4695704,
+                  "caption": "70C",
+                  "columnValue": "70C",
+                  "crawlable": true,
+                  "detailValue": "70C",
+                  "fullId": "3798_4695704",
+                  "sequence": 23,
+                  "urlName": null,
+                  "productIdV3": "2UVfhx8ahUCpZLWzjqxaivC4yFka",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 68,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 37.4,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695711,
+                  "caption": "70D",
+                  "columnValue": "70D",
+                  "crawlable": true,
+                  "detailValue": "70D",
+                  "fullId": "3798_4695711",
+                  "sequence": 31,
+                  "urlName": null,
+                  "productIdV3": "2UVfhx2hnjW8dRZbizcxeDA4TqXw",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 68,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 37.4,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 4695713,
+                  "caption": "80D",
+                  "columnValue": "80D",
+                  "crawlable": true,
+                  "detailValue": "80D",
+                  "fullId": "3798_4695713",
+                  "sequence": 33,
+                  "urlName": null,
+                  "productIdV3": "2UVfhxFJt6xQhxtRMhTcXQzmjRae",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 68,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 37.4,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-17 00:00:00",
+          "popularity": 9728,
+          "popularityData": {
+            "clickFactor": 286,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 - 7 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 2.99,
+          "facets": [
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "LaRedoute.nl",
+              "values": [
+                {
+                  "id": 19249715,
+                  "caption": "LaRedoute.nl",
+                  "columnValue": "LaRedoute.nl",
+                  "crawlable": true,
+                  "detailValue": "LaRedoute.nl",
+                  "fullId": "49_19249715",
+                  "sequence": 433,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Kant",
+              "values": [
+                {
+                  "id": 3558177,
+                  "caption": "Kanten",
+                  "columnValue": "Kant",
+                  "crawlable": true,
+                  "detailValue": "Kanten",
+                  "fullId": "2624_3558177",
+                  "sequence": 6,
+                  "urlName": null
+                },
+                {
+                  "id": 12237448,
+                  "caption": "Microfiber",
+                  "columnValue": "Microfiber",
+                  "crawlable": true,
+                  "detailValue": "Microfiber",
+                  "fullId": "2624_12237448",
+                  "sequence": 51,
+                  "urlName": null
+                },
+                {
+                  "id": 12237446,
+                  "caption": "Polyamide",
+                  "columnValue": "Polyamide",
+                  "crawlable": true,
+                  "detailValue": "Polyamide",
+                  "fullId": "2624_12237446",
+                  "sequence": 57,
+                  "urlName": null
+                },
+                {
+                  "id": 19258150,
+                  "caption": "Tule",
+                  "columnValue": "Tule",
+                  "crawlable": true,
+                  "detailValue": "Tule",
+                  "fullId": "2624_19258150",
+                  "sequence": 63,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Beige",
+              "values": [
+                {
+                  "id": 476321,
+                  "caption": "Beige",
+                  "columnValue": "Beige",
+                  "crawlable": true,
+                  "detailValue": "Beige",
+                  "fullId": "3003_476321",
+                  "sequence": 14,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Nachtmode",
+              "values": [
+                {
+                  "id": 468981,
+                  "caption": "Nachtmode",
+                  "columnValue": "Nachtmode",
+                  "crawlable": true,
+                  "detailValue": "Nachtmode",
+                  "fullId": "3114_468981",
+                  "sequence": 6,
+                  "urlName": null
+                },
+                {
+                  "id": 468982,
+                  "caption": "Ondermode",
+                  "columnValue": "Ondermode",
+                  "crawlable": true,
+                  "detailValue": "Ondermode",
+                  "fullId": "3114_468982",
+                  "sequence": 7,
+                  "urlName": null
+                },
+                {
+                  "id": 23558183,
+                  "caption": "Sexy",
+                  "columnValue": "Sexy kleding",
+                  "crawlable": true,
+                  "detailValue": "Sexy",
+                  "fullId": "3114_23558183",
+                  "sequence": 42,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Biologisch",
+              "values": [
+                {
+                  "id": 23578282,
+                  "caption": "Biologisch",
+                  "columnValue": "Biologisch",
+                  "crawlable": true,
+                  "detailValue": "Biologisch",
+                  "fullId": "3730_23578282",
+                  "sequence": 11,
+                  "urlName": null
+                },
+                {
+                  "id": 23581724,
+                  "caption": "Comfort",
+                  "columnValue": "Comfort",
+                  "crawlable": true,
+                  "detailValue": "Comfort",
+                  "fullId": "3730_23581724",
+                  "sequence": 16,
+                  "urlName": null
+                },
+                {
+                  "id": 7390526,
+                  "caption": "Gevoerde",
+                  "columnValue": "Gevoerd",
+                  "crawlable": true,
+                  "detailValue": "Gevoerde",
+                  "fullId": "3730_7390526",
+                  "sequence": 32,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3798,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_bh_body",
+              "value": "70C",
+              "values": [
+                {
+                  "id": 4695704,
+                  "caption": "70C",
+                  "columnValue": "70C",
+                  "crawlable": true,
+                  "detailValue": "70C",
+                  "fullId": "3798_4695704",
+                  "sequence": 23,
+                  "urlName": null
+                },
+                {
+                  "id": 4695711,
+                  "caption": "70D",
+                  "columnValue": "70D",
+                  "crawlable": true,
+                  "detailValue": "70D",
+                  "fullId": "3798_4695711",
+                  "sequence": 31,
+                  "urlName": null
+                },
+                {
+                  "id": 4695713,
+                  "caption": "80D",
+                  "columnValue": "80D",
+                  "crawlable": true,
+                  "detailValue": "80D",
+                  "fullId": "3798_4695713",
+                  "sequence": 33,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4763,
+              "name": "Soort bandjes",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "s_bandjes",
+              "value": "Comfort",
+              "values": [
+                {
+                  "id": 9556863,
+                  "caption": "met comfort bandjes",
+                  "columnValue": "Comfort",
+                  "crawlable": true,
+                  "detailValue": "met comfort bandjes",
+                  "fullId": "4763_9556863",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-4895241903045",
+          "revenuePerClick": 0.25,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 37.4,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 45,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "discount",
+              "value": 45
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

@@ -1,0 +1,2078 @@
+{
+  "offset": 0,
+  "numFound": 3,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 3,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 65,
+        "highestDiscount": 23,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 430793,
+                "caption": "Maat 25",
+                "columnValue": "25",
+                "crawlable": true,
+                "detailValue": "Maat 25",
+                "fullId": "3081_430793",
+                "sequence": 22,
+                "urlName": null
+              },
+              {
+                "id": 430794,
+                "caption": "Maat 26",
+                "columnValue": "26",
+                "crawlable": true,
+                "detailValue": "Maat 26",
+                "fullId": "3081_430794",
+                "sequence": 25,
+                "urlName": null
+              },
+              {
+                "id": 430795,
+                "caption": "Maat 27",
+                "columnValue": "27",
+                "crawlable": true,
+                "detailValue": "Maat 27",
+                "fullId": "3081_430795",
+                "sequence": 28,
+                "urlName": null
+              },
+              {
+                "id": 430796,
+                "caption": "Maat 28",
+                "columnValue": "28",
+                "crawlable": true,
+                "detailValue": "Maat 28",
+                "fullId": "3081_430796",
+                "sequence": 30,
+                "urlName": null
+              },
+              {
+                "id": 23810397,
+                "caption": "Maat 28,5",
+                "columnValue": "28,5",
+                "crawlable": true,
+                "detailValue": "Maat 28,5",
+                "fullId": "3081_23810397",
+                "sequence": 31,
+                "urlName": null
+              },
+              {
+                "id": 430798,
+                "caption": "Maat 30",
+                "columnValue": "30",
+                "crawlable": true,
+                "detailValue": "Maat 30",
+                "fullId": "3081_430798",
+                "sequence": 35,
+                "urlName": null
+              },
+              {
+                "id": 430799,
+                "caption": "Maat 31",
+                "columnValue": "31",
+                "crawlable": true,
+                "detailValue": "Maat 31",
+                "fullId": "3081_430799",
+                "sequence": 38,
+                "urlName": null
+              },
+              {
+                "id": 23810399,
+                "caption": "Maat 31,5",
+                "columnValue": "31,5",
+                "crawlable": true,
+                "detailValue": "Maat 31,5",
+                "fullId": "3081_23810399",
+                "sequence": 39,
+                "urlName": null
+              },
+              {
+                "id": 430801,
+                "caption": "Maat 33",
+                "columnValue": "33",
+                "crawlable": true,
+                "detailValue": "Maat 33",
+                "fullId": "3081_430801",
+                "sequence": 43,
+                "urlName": null
+              },
+              {
+                "id": 23810400,
+                "caption": "Maat 33,5",
+                "columnValue": "33,5",
+                "crawlable": true,
+                "detailValue": "Maat 33,5",
+                "fullId": "3081_23810400",
+                "sequence": 44,
+                "urlName": null
+              },
+              {
+                "id": 430802,
+                "caption": "Maat 34",
+                "columnValue": "34",
+                "crawlable": true,
+                "detailValue": "Maat 34",
+                "fullId": "3081_430802",
+                "sequence": 46,
+                "urlName": null
+              },
+              {
+                "id": 430803,
+                "caption": "Maat 35",
+                "columnValue": "35",
+                "crawlable": true,
+                "detailValue": "Maat 35",
+                "fullId": "3081_430803",
+                "sequence": 50,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "4G38SEkBbx6JcXbXa4YVHFgjmdiS",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "4G38SEZDtQyqekKupAJdCcZdfvoT",
+            "advertisementIdV3": "4G38SEZDtQyqekKupAJdCcZdfvoT"
+          },
+          "shopItemId": 0,
+          "productId": "4G38SEkBbx6JcXbXa4YVHFgjmdiS",
+          "ean": "",
+          "shopInfo": {
+            "id": 652009,
+            "shopName": "JDsports.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 6,
+            "productCount": 34000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652009.png",
+            "coolingOffPeriod": 28,
+            "activeSince": "2025-04-17T01:50:20+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 38075,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 652009,
+            "shopItemId": 0,
+            "shopItemTitle": "Nike Kleuterschoenen Air Max 90 EasyOn - Black, Black",
+            "shopItemDescription": "",
+            "shopItemVersion": "38580829812-19654454",
+            "shopName": "JDsports.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "4G38SEpJeh67YQww9B8WQfuZT7f3",
+            "condition": "Nieuw",
+            "ean": "0197597344027",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.awin1.com/cread.php?force_transparent=true&awinmid=8193&clickref=UUID_placeholder&pref2=GCLID_placeholder&awinaffid=375899&platform=tp&networkref1=gclid_GCLID_placeholder&ued=https%3a%2f%2fwww.jdsports.nl%2fproduct%2fzwart-nike-kleuterschoenen-air-max-90-easyon%2f19654454_jdsportsnl%2f",
+            "size": "25",
+            "shopReviewScore": 6.4,
+            "shopReviewAmount": 19405,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 55,
+              "price": 65,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 55,
+              "price": 85,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "38580829812",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "d1c28f9f-a003-4df7-841f-f606dd8fc19c",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 65
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 59.49
+          },
+          "title": "Nike Kleuterschoenen Air Max 90 EasyOn - Black, Black",
+          "fixedTitle": "Nike Kleuterschoenen Air Max 90 EasyOn - Black, Black",
+          "indexIdentifierTimeStamp": 1744904449,
+          "description": "_De look van veters zonder ze te moeten strikken? Dat is pas gemakkelijk. We hebben een icoon in de stijl van de jaren 90 aangepast zodat kleine voetjes er gemakkelijk in kunnen stappen. De bovenste veterlus is bevestigd aan klittenband, zodat kids de pasvorm snel losser of strakker kunnen maken en verder kunnen gaan met hun dag. Tijd om te spelen._PluspuntenFlyEase is nu Nike EasyOn. Met ons praktische Nike EasyOn kunnen kids het zelf doen, zodat ze zich kunnen concentreren op wat het belangrijkst is: spelen.Dankzij elastische veters en een klittenbandsluiting kunnen ze de schoen makkelijk wijd openen, aantrekken en de pasvorm snel losser of strakker maken.De zichtbare Max Air unit is oorspronkelijk ontworpen voor performancegericht hardlopen en zorgt voor demping voor kleine voetjes.De rubberen buitenzool met wafelpatroon zorgt voor stevigheid, grip en een klassieke stijl.Flex-groeven in de buitenzool zorgen ervoor dat elke stap natuurlijk aanvoelt._ProductgegevensElastische vetersLipje aan de hak. Material: Synthetic Leather",
+          "descriptionRaw": "_De look van veters zonder ze te moeten strikken? Dat is pas gemakkelijk. We hebben een icoon in de stijl van de jaren 90 aangepast zodat kleine voetjes er gemakkelijk in kunnen stappen. De bovenste veterlus is bevestigd aan klittenband, zodat kids de pasvorm snel losser of strakker kunnen maken en verder kunnen gaan met hun dag. Tijd om te spelen._PluspuntenFlyEase is nu Nike EasyOn. Met ons praktische Nike EasyOn kunnen kids het zelf doen, zodat ze zich kunnen concentreren op wat het belangrijkst is: spelen.Dankzij elastische veters en een klittenbandsluiting kunnen ze de schoen makkelijk wijd openen, aantrekken en de pasvorm snel losser of strakker maken.De zichtbare Max Air unit is oorspronkelijk ontworpen voor performancegericht hardlopen en zorgt voor demping voor kleine voetjes.De rubberen buitenzool met wafelpatroon zorgt voor stevigheid, grip en een klassieke stijl.Flex-groeven in de buitenzool zorgen ervoor dat elke stap natuurlijk aanvoelt._ProductgegevensElastische vetersLipje aan de hak. Material: Synthetic Leather",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-4G38SEZDtQyqekKupAJdCcZdfvoT",
+          "categoryId": 9000619,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            652009
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 263,
+                "width": 487
+              },
+              "type": "mainImage",
+              "url": "4G38SEkBbx6JcXbXa4YVHFgjmdiS/394/{size}/03edfd6d8be054222b87335f41a9340c/Sportschoenen/Nike-Kleuterschoenen-Air-Max-90-EasyOn-Black%2c-Black.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "4G38SEkBbx6JcXbXa4YVHFgjmdiS",
+              "value": "26",
+              "available": true,
+              "price": 65,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4G38SEpJeh67YQww9B8WQfuZT7f3",
+              "value": "25",
+              "available": true,
+              "price": 65,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4G38SErLGUZGJFvbphzykPcJASBW",
+              "value": "27",
+              "available": true,
+              "price": 65,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430793,
+                  "caption": "Maat 25",
+                  "columnValue": "25",
+                  "crawlable": true,
+                  "detailValue": "Maat 25",
+                  "fullId": "3081_430793",
+                  "sequence": 22,
+                  "urlName": null,
+                  "productIdV3": "4G38SEpJeh67YQww9B8WQfuZT7f3",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 85,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 65,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430794,
+                  "caption": "Maat 26",
+                  "columnValue": "26",
+                  "crawlable": true,
+                  "detailValue": "Maat 26",
+                  "fullId": "3081_430794",
+                  "sequence": 25,
+                  "urlName": null,
+                  "productIdV3": "4G38SEkBbx6JcXbXa4YVHFgjmdiS",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 85,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 65,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430795,
+                  "caption": "Maat 27",
+                  "columnValue": "27",
+                  "crawlable": true,
+                  "detailValue": "Maat 27",
+                  "fullId": "3081_430795",
+                  "sequence": 28,
+                  "urlName": null,
+                  "productIdV3": "4G38SErLGUZGJFvbphzykPcJASBW",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 85,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 65,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431107,
+          "brandName": "Nike",
+          "brandRank": 1,
+          "brandRelativeDemandLabel": "A",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-01-09 00:00:00",
+          "popularity": 2,
+          "popularityData": {
+            "clickFactor": 1,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 2200
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 5,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "25",
+              "values": [
+                {
+                  "id": 430793,
+                  "caption": "Maat 25",
+                  "columnValue": "25",
+                  "crawlable": true,
+                  "detailValue": "Maat 25",
+                  "fullId": "3081_430793",
+                  "sequence": 22,
+                  "urlName": null
+                },
+                {
+                  "id": 430794,
+                  "caption": "Maat 26",
+                  "columnValue": "26",
+                  "crawlable": true,
+                  "detailValue": "Maat 26",
+                  "fullId": "3081_430794",
+                  "sequence": 25,
+                  "urlName": null
+                },
+                {
+                  "id": 430795,
+                  "caption": "Maat 27",
+                  "columnValue": "27",
+                  "crawlable": true,
+                  "detailValue": "Maat 27",
+                  "fullId": "3081_430795",
+                  "sequence": 28,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Nike",
+              "values": [
+                {
+                  "id": 431107,
+                  "caption": "Nike",
+                  "columnValue": "Nike",
+                  "crawlable": true,
+                  "detailValue": "Nike",
+                  "fullId": "3078_431107",
+                  "sequence": 2105,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "JDsports.nl",
+              "values": [
+                {
+                  "id": 23798767,
+                  "caption": "JDsports.nl",
+                  "columnValue": "JDsports.nl",
+                  "crawlable": true,
+                  "detailValue": "JDsports.nl",
+                  "fullId": "3079_23798767",
+                  "sequence": 2129,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 430776,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3080_430776",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Kinderen",
+              "values": [
+                {
+                  "id": 430829,
+                  "caption": "Kinder",
+                  "columnValue": "Kinderen",
+                  "crawlable": true,
+                  "detailValue": "Kinder",
+                  "fullId": "3082_430829",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Imitatieleer",
+              "values": [
+                {
+                  "id": 430842,
+                  "caption": "Imitatieleren",
+                  "columnValue": "Imitatieleer",
+                  "crawlable": true,
+                  "detailValue": "Imitatieleren",
+                  "fullId": "3083_430842",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 430861,
+                  "caption": "Synthetisch",
+                  "columnValue": "Synthetisch",
+                  "crawlable": true,
+                  "detailValue": "Synthetisch",
+                  "fullId": "3083_430861",
+                  "sequence": 36,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Klittenband",
+              "values": [
+                {
+                  "id": 430981,
+                  "caption": "Met klittenband",
+                  "columnValue": "Klittenband",
+                  "crawlable": true,
+                  "detailValue": "Met klittenband",
+                  "fullId": "3090_430981",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 19955980,
+                  "caption": "Zonder veters",
+                  "columnValue": "Zonder veters",
+                  "crawlable": true,
+                  "detailValue": "Zonder veters",
+                  "fullId": "3090_19955980",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 430982,
+                  "caption": "Met veters",
+                  "columnValue": "Veter",
+                  "crawlable": true,
+                  "detailValue": "Met veters",
+                  "fullId": "3090_430982",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3513,
+              "name": "Productlijn",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_serie",
+              "value": "Nike Air Max",
+              "values": [
+                {
+                  "id": 1334612,
+                  "caption": "Nike Air Max",
+                  "columnValue": "Nike Air Max",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max",
+                  "fullId": "3513_1334612",
+                  "sequence": 854,
+                  "urlName": null
+                },
+                {
+                  "id": 12895261,
+                  "caption": "Nike Air Max 90",
+                  "columnValue": "Nike Air Max 90",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max 90",
+                  "fullId": "3513_12895261",
+                  "sequence": 858,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-d1c28f9f-a003-4df7-841f-f606dd8fc19c",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 65,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 23,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 23
+            }
+          ]
+        },
+        {
+          "id": "3zj3wuoEH13QtVCW4XZiQAYj79bj",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3zj3wudRgCQwVmzqgr19EPaYNPrA",
+            "advertisementIdV3": "3zj3wudRgCQwVmzqgr19EPaYNPrA"
+          },
+          "shopItemId": 0,
+          "productId": "3zj3wuoEH13QtVCW4XZiQAYj79bj",
+          "ean": "",
+          "shopInfo": {
+            "id": 655318,
+            "shopName": "Footlocker.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/655318.png",
+            "coolingOffPeriod": 28,
+            "activeSince": "2025-04-17T01:50:17+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 39988,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 655318,
+            "shopItemId": 0,
+            "shopItemTitle": "Nike Air Max 90 Unisex Schoenen - Zwart - Maat: 26 - Leer, Synthetisch - Foot Locker",
+            "shopItemDescription": "",
+            "shopItemVersion": "316479307304090-HF6357-001",
+            "shopName": "Footlocker.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3zj3wuoEH13QtVCW4XZiQAYj79bj",
+            "condition": "Nieuw",
+            "ean": "0197597303871",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.awin1.com/cread.php?force_transparent=true&awinmid=16092&clickref=UUID_placeholder&pref2=GCLID_placeholder&awinaffid=375899&platform=tp&networkref1=gclid_GCLID_placeholder&ued=https%3a%2f%2fwww.footlocker.nl%2fnl%2fproduct%2f%7e%2f316479307304.html%3fchannable%3d0422b4696400333136343739333037333034303930cb",
+            "size": "26",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 55,
+              "price": 84.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "316479307304090",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "d1c28f9f-a003-4df7-841f-f606dd8fc19c",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 65
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 59.49
+          },
+          "title": "Nike Air Max 90 Unisex Schoenen - Zwart - Maat: 26 - Leer, Synthetisch - Foot Locker",
+          "fixedTitle": "Nike Air Max 90 Unisex Schoenen - Zwart - Maat: 26 - Leer, Synthetisch - Foot Locker",
+          "indexIdentifierTimeStamp": 1744904449,
+          "description": "Wat is harig, grappig en gemakkelijk aan te trekken? Deze AM90 natuurlijk. De bovenste veterlus zit vast aan klittenband, zodat kids de schoen snel strak kunnen trekken. Bovendien zorgen op dieren ge\u00efnspireerde details ervoor dat je kleintje nooit meer zonder een vriendje het huis uit hoeft. Pluspunten: FlyEase is nu Nike EasyOn. Met ons praktische Nike EasyOn kunnen kids het zelf doen, zodat ze zich kunnen concentreren op wat het belangrijkst is: spelen. Dankzij de klittenbandsluiting kunnen ze de schoen makkelijk wijd openen, aantrekken en de pasvorm snel losser of strakker maken. De zichtbare Max Air unit is oorspronkelijk ontworpen voor performancegericht hardlopen en zorgt voor demping voor kleine voetjes. De rubberen buitenzool met wafelpatroon zorgt voor stevige grip en heeft flex-groeven die elke stap natuurlijk laten aanvoelen. Productgegevens: Elastische veters. Lipje aan de hak",
+          "descriptionRaw": "Wat is harig, grappig en gemakkelijk aan te trekken? Deze AM90 natuurlijk. De bovenste veterlus zit vast aan klittenband, zodat kids de schoen snel strak kunnen trekken. Bovendien zorgen op dieren ge\u00efnspireerde details ervoor dat je kleintje nooit meer zonder een vriendje het huis uit hoeft. Pluspunten: FlyEase is nu Nike EasyOn. Met ons praktische Nike EasyOn kunnen kids het zelf doen, zodat ze zich kunnen concentreren op wat het belangrijkst is: spelen. Dankzij de klittenbandsluiting kunnen ze de schoen makkelijk wijd openen, aantrekken en de pasvorm snel losser of strakker maken. De zichtbare Max Air unit is oorspronkelijk ontworpen voor performancegericht hardlopen en zorgt voor demping voor kleine voetjes. De rubberen buitenzool met wafelpatroon zorgt voor stevige grip en heeft flex-groeven die elke stap natuurlijk laten aanvoelen. Productgegevens: Elastische veters. Lipje aan de hak",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-3zj3wudRgCQwVmzqgr19EPaYNPrA",
+          "categoryId": 9000619,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            655318
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 312,
+                "width": 578
+              },
+              "type": "mainImage",
+              "url": "3zj3wuoEH13QtVCW4XZiQAYj79bj/394/{size}/ac536ae0517d2603723a7efbf1d7fdbd/Sneakers/Nike-Air-Max-90-Unisex-Schoenen-Zwart-Maat%3a-26-Leer%2c-Synthetisch-Foot-Locker.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wuoEH13QtVCW4XZiQAYj79bj",
+              "value": "26",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3zj3wubwBvfrEiimK6pmGVeLumRW",
+              "value": "25",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430793,
+                  "caption": "Maat 25",
+                  "columnValue": "25",
+                  "crawlable": true,
+                  "detailValue": "Maat 25",
+                  "fullId": "3081_430793",
+                  "sequence": 22,
+                  "urlName": null,
+                  "productIdV3": "3zj3wubwBvfrEiimK6pmGVeLumRW",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430794,
+                  "caption": "Maat 26",
+                  "columnValue": "26",
+                  "crawlable": true,
+                  "detailValue": "Maat 26",
+                  "fullId": "3081_430794",
+                  "sequence": 25,
+                  "urlName": null,
+                  "productIdV3": "3zj3wuoEH13QtVCW4XZiQAYj79bj",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 431107,
+          "brandName": "Nike",
+          "brandRank": 1,
+          "brandRelativeDemandLabel": "A",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-01-09 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 5500
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "2 - 4 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 3.99,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "25",
+              "values": [
+                {
+                  "id": 430793,
+                  "caption": "Maat 25",
+                  "columnValue": "25",
+                  "crawlable": true,
+                  "detailValue": "Maat 25",
+                  "fullId": "3081_430793",
+                  "sequence": 22,
+                  "urlName": null
+                },
+                {
+                  "id": 430794,
+                  "caption": "Maat 26",
+                  "columnValue": "26",
+                  "crawlable": true,
+                  "detailValue": "Maat 26",
+                  "fullId": "3081_430794",
+                  "sequence": 25,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Nike",
+              "values": [
+                {
+                  "id": 431107,
+                  "caption": "Nike",
+                  "columnValue": "Nike",
+                  "crawlable": true,
+                  "detailValue": "Nike",
+                  "fullId": "3078_431107",
+                  "sequence": 2105,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Footlocker.nl",
+              "values": [
+                {
+                  "id": 23747625,
+                  "caption": "Footlocker.nl",
+                  "columnValue": "Footlocker.nl",
+                  "crawlable": true,
+                  "detailValue": "Footlocker.nl",
+                  "fullId": "3079_23747625",
+                  "sequence": 601,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 430776,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3080_430776",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 430827,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3082_430827",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 1465147,
+                  "caption": "Unisex",
+                  "columnValue": "Unisex",
+                  "crawlable": true,
+                  "detailValue": "Unisex",
+                  "fullId": "3082_1465147",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 430861,
+                  "caption": "Synthetisch",
+                  "columnValue": "Synthetisch",
+                  "crawlable": true,
+                  "detailValue": "Synthetisch",
+                  "fullId": "3083_430861",
+                  "sequence": 36,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Klittenband",
+              "values": [
+                {
+                  "id": 430981,
+                  "caption": "Met klittenband",
+                  "columnValue": "Klittenband",
+                  "crawlable": true,
+                  "detailValue": "Met klittenband",
+                  "fullId": "3090_430981",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 19955980,
+                  "caption": "Zonder veters",
+                  "columnValue": "Zonder veters",
+                  "crawlable": true,
+                  "detailValue": "Zonder veters",
+                  "fullId": "3090_19955980",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 430982,
+                  "caption": "Met veters",
+                  "columnValue": "Veter",
+                  "crawlable": true,
+                  "detailValue": "Met veters",
+                  "fullId": "3090_430982",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3513,
+              "name": "Productlijn",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_serie",
+              "value": "Nike Air",
+              "values": [
+                {
+                  "id": 23467994,
+                  "caption": "Nike Air",
+                  "columnValue": "Nike Air",
+                  "crawlable": true,
+                  "detailValue": "Nike Air",
+                  "fullId": "3513_23467994",
+                  "sequence": 847,
+                  "urlName": null
+                },
+                {
+                  "id": 1334612,
+                  "caption": "Nike Air Max",
+                  "columnValue": "Nike Air Max",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max",
+                  "fullId": "3513_1334612",
+                  "sequence": 854,
+                  "urlName": null
+                },
+                {
+                  "id": 12895261,
+                  "caption": "Nike Air Max 90",
+                  "columnValue": "Nike Air Max 90",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max 90",
+                  "fullId": "3513_12895261",
+                  "sequence": 858,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-d1c28f9f-a003-4df7-841f-f606dd8fc19c",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 2,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 65,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        },
+        {
+          "id": "4HXuRX9vgRhGkMeoKHEqu1qnPgFX",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "4HXuRXGUZRKB6gsU3HDJMareWWfP",
+            "advertisementIdV3": "4HXuRXGUZRKB6gsU3HDJMareWWfP"
+          },
+          "shopItemId": 0,
+          "productId": "4HXuRX9vgRhGkMeoKHEqu1qnPgFX",
+          "ean": "",
+          "shopInfo": {
+            "id": 642283,
+            "shopName": "Nike.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 6,
+            "productCount": 13000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/642283.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T01:50:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 23222,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@nike.be",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 642283,
+            "shopItemId": 0,
+            "shopItemTitle": "Nike Air Max 90 EasyOn kleuterschoenen - Zwart",
+            "shopItemDescription": "",
+            "shopItemVersion": "00197597386294-HF6357-001_Zwart-HF6357",
+            "shopName": "Nike.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "4HXuRXBXvXkLVWK3yLoJ3qCbQ4o4",
+            "condition": "Nieuw",
+            "ean": "0197597386294",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.awin1.com/cread.php?force_transparent=true&awinmid=16332&clickref=UUID_placeholder&pref2=GCLID_placeholder&awinaffid=375899&platform=tp&networkref1=gclid_GCLID_placeholder&ued=https%3a%2f%2fwww.nike.com%2fnl%2ft%2fair-max-90-easyon-kleuterschoenen-JsLMJD%2fHF6357-001%3fclickref%3d",
+            "size": "28.5",
+            "shopReviewScore": 4.4,
+            "shopReviewAmount": 105,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 55,
+              "price": 84.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "00197597386294",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "d1c28f9f-a003-4df7-841f-f606dd8fc19c",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 65
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 59.49
+          },
+          "title": "Nike Air Max 90 EasyOn kleuterschoenen - Zwart",
+          "fixedTitle": "Nike Air Max 90 EasyOn kleuterschoenen - Zwart",
+          "indexIdentifierTimeStamp": 1744904449,
+          "description": "De look van veters zonder ze te moeten strikken? Dat is pas gemakkelijk. We hebben een icoon in de stijl van de jaren 90 aangepast zodat kleine voetjes er gemakkelijk in kunnen stappen. De bovenste veterlus is bevestigd aan klittenband, zodat kids de pasvorm snel losser of strakker kunnen maken en verder kunnen gaan met hun dag. Tijd om te spelen. Pluspunten:FlyEase is nu Nike EasyOn. Met ons praktische Nike EasyOn kunnen kids het zelf doen, zodat ze zich kunnen concentreren op wat het belangrijkst is: spelen.Dankzij elastische veters en een klittenbandsluiting kunnen ze de schoen makkelijk wijd openen, aantrekken en de pasvorm snel losser of strakker maken.De zichtbare Max Air unit is oorspronkelijk ontworpen voor performancegericht hardlopen en zorgt voor demping voor kleine voetjes.De rubberen buitenzool met wafelpatroon zorgt voor stevigheid, grip en een klassieke stijl.Flex-groeven in de buitenzool zorgen ervoor dat elke stap natuurlijk aanvoelt.",
+          "descriptionRaw": "De look van veters zonder ze te moeten strikken? Dat is pas gemakkelijk. We hebben een icoon in de stijl van de jaren 90 aangepast zodat kleine voetjes er gemakkelijk in kunnen stappen. De bovenste veterlus is bevestigd aan klittenband, zodat kids de pasvorm snel losser of strakker kunnen maken en verder kunnen gaan met hun dag. Tijd om te spelen. Pluspunten:FlyEase is nu Nike EasyOn. Met ons praktische Nike EasyOn kunnen kids het zelf doen, zodat ze zich kunnen concentreren op wat het belangrijkst is: spelen.Dankzij elastische veters en een klittenbandsluiting kunnen ze de schoen makkelijk wijd openen, aantrekken en de pasvorm snel losser of strakker maken.De zichtbare Max Air unit is oorspronkelijk ontworpen voor performancegericht hardlopen en zorgt voor demping voor kleine voetjes.De rubberen buitenzool met wafelpatroon zorgt voor stevigheid, grip en een klassieke stijl.Flex-groeven in de buitenzool zorgen ervoor dat elke stap natuurlijk aanvoelt.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-4HXuRXGUZRKB6gsU3HDJMareWWfP",
+          "categoryId": 9000619,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            642283
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 871,
+                "width": 1606
+              },
+              "type": "mainImage",
+              "url": "4HXuRX9vgRhGkMeoKHEqu1qnPgFX/394/{size}/057395a05dbec8025292577518417537/Sportschoenen/Nike-Air-Max-90-EasyOn-kleuterschoenen-Zwart.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRX9vgRhGkMeoKHEqu1qnPgFX",
+              "value": "31.5",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXTUqJcMRdz149oa6TSY3oYu",
+              "value": "33.5",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXBXvXkLVWK3yLoJ3qCbQ4o4",
+              "value": "28.5",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXJ98pZMMbmMdoGnViNjekYJ",
+              "value": "26",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXVu46bMxrbBZjnd1FoW9eyi",
+              "value": "35",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRX8EKQLpsiQtLhfjiRse8NjT",
+              "value": "27.5",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXTwawb5KwnyG1NRyVQs9jRv",
+              "value": "28",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXXMQ3Wrk1qAhk5Q4eigeHqJ",
+              "value": "30",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXFroBMj78Ci6Sypry3wuFpE",
+              "value": "31",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXdX2DkbFtwk7qEqbGUdUrSw",
+              "value": "33",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXKyK1qJfMVHMSPpZy3qoCaB",
+              "value": "25",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXaC6WY3fR4hfRXANYVkATeS",
+              "value": "34",
+              "available": true,
+              "price": 84.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430793,
+                  "caption": "Maat 25",
+                  "columnValue": "25",
+                  "crawlable": true,
+                  "detailValue": "Maat 25",
+                  "fullId": "3081_430793",
+                  "sequence": 22,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXKyK1qJfMVHMSPpZy3qoCaB",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430794,
+                  "caption": "Maat 26",
+                  "columnValue": "26",
+                  "crawlable": true,
+                  "detailValue": "Maat 26",
+                  "fullId": "3081_430794",
+                  "sequence": 25,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXJ98pZMMbmMdoGnViNjekYJ",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430795,
+                  "caption": "Maat 27",
+                  "columnValue": "27",
+                  "crawlable": true,
+                  "detailValue": "Maat 27",
+                  "fullId": "3081_430795",
+                  "sequence": 28,
+                  "urlName": null,
+                  "productIdV3": "4HXuRX8EKQLpsiQtLhfjiRse8NjT",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430796,
+                  "caption": "Maat 28",
+                  "columnValue": "28",
+                  "crawlable": true,
+                  "detailValue": "Maat 28",
+                  "fullId": "3081_430796",
+                  "sequence": 30,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXTwawb5KwnyG1NRyVQs9jRv",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810397,
+                  "caption": "Maat 28,5",
+                  "columnValue": "28,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 28,5",
+                  "fullId": "3081_23810397",
+                  "sequence": 31,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXBXvXkLVWK3yLoJ3qCbQ4o4",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430798,
+                  "caption": "Maat 30",
+                  "columnValue": "30",
+                  "crawlable": true,
+                  "detailValue": "Maat 30",
+                  "fullId": "3081_430798",
+                  "sequence": 35,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXXMQ3Wrk1qAhk5Q4eigeHqJ",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430799,
+                  "caption": "Maat 31",
+                  "columnValue": "31",
+                  "crawlable": true,
+                  "detailValue": "Maat 31",
+                  "fullId": "3081_430799",
+                  "sequence": 38,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXFroBMj78Ci6Sypry3wuFpE",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810399,
+                  "caption": "Maat 31,5",
+                  "columnValue": "31,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 31,5",
+                  "fullId": "3081_23810399",
+                  "sequence": 39,
+                  "urlName": null,
+                  "productIdV3": "4HXuRX9vgRhGkMeoKHEqu1qnPgFX",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430801,
+                  "caption": "Maat 33",
+                  "columnValue": "33",
+                  "crawlable": true,
+                  "detailValue": "Maat 33",
+                  "fullId": "3081_430801",
+                  "sequence": 43,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXdX2DkbFtwk7qEqbGUdUrSw",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 23810400,
+                  "caption": "Maat 33,5",
+                  "columnValue": "33,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 33,5",
+                  "fullId": "3081_23810400",
+                  "sequence": 44,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXTUqJcMRdz149oa6TSY3oYu",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430802,
+                  "caption": "Maat 34",
+                  "columnValue": "34",
+                  "crawlable": true,
+                  "detailValue": "Maat 34",
+                  "fullId": "3081_430802",
+                  "sequence": 46,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXaC6WY3fR4hfRXANYVkATeS",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430803,
+                  "caption": "Maat 35",
+                  "columnValue": "35",
+                  "crawlable": true,
+                  "detailValue": "Maat 35",
+                  "fullId": "3081_430803",
+                  "sequence": 50,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXVu46bMxrbBZjnd1FoW9eyi",
+                  "regularPrice": {
+                    "bucket": 55,
+                    "price": 84.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 431107,
+          "brandName": "Nike",
+          "brandRank": 1,
+          "brandRelativeDemandLabel": "A",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-01-09 00:00:00",
+          "popularity": 5297,
+          "popularityData": {
+            "clickFactor": 69,
+            "webshopsRevenuePerClick": 5.59,
+            "roasPercentage": 1000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "2 - 4 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 5,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Nike",
+              "values": [
+                {
+                  "id": 431107,
+                  "caption": "Nike",
+                  "columnValue": "Nike",
+                  "crawlable": true,
+                  "detailValue": "Nike",
+                  "fullId": "3078_431107",
+                  "sequence": 2105,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Nike.nl",
+              "values": [
+                {
+                  "id": 19244264,
+                  "caption": "Nike.nl",
+                  "columnValue": "Nike.nl",
+                  "crawlable": true,
+                  "detailValue": "Nike.nl",
+                  "fullId": "3079_19244264",
+                  "sequence": 1249,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 430776,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3080_430776",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "25",
+              "values": [
+                {
+                  "id": 430793,
+                  "caption": "Maat 25",
+                  "columnValue": "25",
+                  "crawlable": true,
+                  "detailValue": "Maat 25",
+                  "fullId": "3081_430793",
+                  "sequence": 22,
+                  "urlName": null
+                },
+                {
+                  "id": 430794,
+                  "caption": "Maat 26",
+                  "columnValue": "26",
+                  "crawlable": true,
+                  "detailValue": "Maat 26",
+                  "fullId": "3081_430794",
+                  "sequence": 25,
+                  "urlName": null
+                },
+                {
+                  "id": 430795,
+                  "caption": "Maat 27",
+                  "columnValue": "27",
+                  "crawlable": true,
+                  "detailValue": "Maat 27",
+                  "fullId": "3081_430795",
+                  "sequence": 28,
+                  "urlName": null
+                },
+                {
+                  "id": 430796,
+                  "caption": "Maat 28",
+                  "columnValue": "28",
+                  "crawlable": true,
+                  "detailValue": "Maat 28",
+                  "fullId": "3081_430796",
+                  "sequence": 30,
+                  "urlName": null
+                },
+                {
+                  "id": 23810397,
+                  "caption": "Maat 28,5",
+                  "columnValue": "28,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 28,5",
+                  "fullId": "3081_23810397",
+                  "sequence": 31,
+                  "urlName": null
+                },
+                {
+                  "id": 430798,
+                  "caption": "Maat 30",
+                  "columnValue": "30",
+                  "crawlable": true,
+                  "detailValue": "Maat 30",
+                  "fullId": "3081_430798",
+                  "sequence": 35,
+                  "urlName": null
+                },
+                {
+                  "id": 430799,
+                  "caption": "Maat 31",
+                  "columnValue": "31",
+                  "crawlable": true,
+                  "detailValue": "Maat 31",
+                  "fullId": "3081_430799",
+                  "sequence": 38,
+                  "urlName": null
+                },
+                {
+                  "id": 23810399,
+                  "caption": "Maat 31,5",
+                  "columnValue": "31,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 31,5",
+                  "fullId": "3081_23810399",
+                  "sequence": 39,
+                  "urlName": null
+                },
+                {
+                  "id": 430801,
+                  "caption": "Maat 33",
+                  "columnValue": "33",
+                  "crawlable": true,
+                  "detailValue": "Maat 33",
+                  "fullId": "3081_430801",
+                  "sequence": 43,
+                  "urlName": null
+                },
+                {
+                  "id": 23810400,
+                  "caption": "Maat 33,5",
+                  "columnValue": "33,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 33,5",
+                  "fullId": "3081_23810400",
+                  "sequence": 44,
+                  "urlName": null
+                },
+                {
+                  "id": 430802,
+                  "caption": "Maat 34",
+                  "columnValue": "34",
+                  "crawlable": true,
+                  "detailValue": "Maat 34",
+                  "fullId": "3081_430802",
+                  "sequence": 46,
+                  "urlName": null
+                },
+                {
+                  "id": 430803,
+                  "caption": "Maat 35",
+                  "columnValue": "35",
+                  "crawlable": true,
+                  "detailValue": "Maat 35",
+                  "fullId": "3081_430803",
+                  "sequence": 50,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 430827,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3082_430827",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 1465147,
+                  "caption": "Unisex",
+                  "columnValue": "Unisex",
+                  "crawlable": true,
+                  "detailValue": "Unisex",
+                  "fullId": "3082_1465147",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Klittenband",
+              "values": [
+                {
+                  "id": 430981,
+                  "caption": "Met klittenband",
+                  "columnValue": "Klittenband",
+                  "crawlable": true,
+                  "detailValue": "Met klittenband",
+                  "fullId": "3090_430981",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 19955980,
+                  "caption": "Zonder veters",
+                  "columnValue": "Zonder veters",
+                  "crawlable": true,
+                  "detailValue": "Zonder veters",
+                  "fullId": "3090_19955980",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 430982,
+                  "caption": "Met veters",
+                  "columnValue": "Veter",
+                  "crawlable": true,
+                  "detailValue": "Met veters",
+                  "fullId": "3090_430982",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3513,
+              "name": "Productlijn",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_serie",
+              "value": "Nike Air",
+              "values": [
+                {
+                  "id": 23467994,
+                  "caption": "Nike Air",
+                  "columnValue": "Nike Air",
+                  "crawlable": true,
+                  "detailValue": "Nike Air",
+                  "fullId": "3513_23467994",
+                  "sequence": 847,
+                  "urlName": null
+                },
+                {
+                  "id": 1334612,
+                  "caption": "Nike Air Max",
+                  "columnValue": "Nike Air Max",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max",
+                  "fullId": "3513_1334612",
+                  "sequence": 854,
+                  "urlName": null
+                },
+                {
+                  "id": 12895261,
+                  "caption": "Nike Air Max 90",
+                  "columnValue": "Nike Air Max 90",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max 90",
+                  "fullId": "3513_12895261",
+                  "sequence": 858,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "642283-HF6357",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-d1c28f9f-a003-4df7-841f-f606dd8fc19c",
+          "revenuePerClick": 0.56,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 0,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 65,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

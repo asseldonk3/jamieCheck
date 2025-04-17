@@ -1,0 +1,956 @@
+{
+  "offset": 0,
+  "numFound": 2,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 2,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 35.1,
+        "highestDiscount": 35,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3152,
+            "indexOnBrowse": null,
+            "isDetail": false,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat_mode_badpakken_bikini",
+            "values": [
+              {
+                "id": 471409,
+                "caption": "Maat 34",
+                "columnValue": "34",
+                "crawlable": true,
+                "detailValue": "Maat 34",
+                "fullId": "3152_471409",
+                "sequence": 22,
+                "urlName": null
+              },
+              {
+                "id": 471410,
+                "caption": "Maat 36",
+                "columnValue": "36",
+                "crawlable": true,
+                "detailValue": "Maat 36",
+                "fullId": "3152_471410",
+                "sequence": 23,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "2UVfhxPGGLujuDbbv6dtPNZRePZh",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2UVfhx4QZvNtoTRyEDND5YL1LUw2",
+            "advertisementIdV3": "2UVfhx4QZvNtoTRyEDND5YL1LUw2"
+          },
+          "shopItemId": 0,
+          "productId": "2UVfhxPGGLujuDbbv6dtPNZRePZh",
+          "ean": "",
+          "shopInfo": {
+            "id": 642665,
+            "shopName": "LaRedoute.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 5,
+            "productCount": 80000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/642665.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:25:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@LaRedoute.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 1675,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 642665,
+            "shopItemId": 0,
+            "shopItemTitle": "Badpak Endurance SPEEDO.  materiaal. Maten 38 FR - 36 EU. Zwart kleur",
+            "shopItemDescription": "",
+            "shopItemVersion": "35030519400010002722724-3503051941",
+            "shopName": "LaRedoute.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2UVfhxCbMXS46b2ZLKwd6YQPahwN",
+            "condition": "Nieuw",
+            "ean": "5059937284095",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.laredoute.nl/ppdp/prod-350305194.aspx?dim1=1&dim2=2&cod=CDP00119978NL",
+            "size": "38 FR - 36 EU",
+            "shopReviewScore": 4.2,
+            "shopReviewAmount": 100,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 34,
+              "price": 35.1,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 34,
+              "price": 54,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "35030519400010002722724",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "e12060a5-a567-4d50-9638-35f50c8a7ffd",
+            "title": "Speedo Hyperboom Placement Muscleback Swimsuit",
+            "description": "Speedo Hyperboom Placement Muscleback Swimsuit Met het Speedo Hyperboom Placement Muscleback Swimsuit ben je klaar voor een dagje zwemmen! Dit badpak is gemaakt van Endurance+ materiaal, wat zorgt voor een lange levensduur en een comfortabele pasvorm. De Muscleback rug biedt optimale bewegingsvrijheid en de Hyperboom print zorgt voor een opvallende look.  Het badpak is chloorbestendig en behoudt zijn kleur, zelfs na veelvuldig gebruik. Daarnaast biedt het badpak bescherming tegen de zon met een UPF 50+ rating. Het Speedo Hyperboom Placement Muscleback Swimsuit is perfect voor zowel trainingen als wedstrijden en is verkrijgbaar in verschillende maten.  Maak een statement in het zwembad met het Speedo Hyperboom Placement Muscleback Swimsuit! - Kleurrijk ontwerp met bloemenprint- Gemaakt van duurzaam materiaal- Comfortabele pasvorm met muscleback-stijl",
+            "descriptionRaw": "Speedo Hyperboom Placement Muscleback Swimsuit <br />Met het Speedo Hyperboom Placement Muscleback Swimsuit ben je klaar voor een dagje zwemmen! Dit badpak is gemaakt van Endurance+ materiaal, wat zorgt voor een lange levensduur en een comfortabele pasvorm. De Muscleback rug biedt optimale bewegingsvrijheid en de Hyperboom print zorgt voor een opvallende look. <br /> <br />Het badpak is chloorbestendig en behoudt zijn kleur, zelfs na veelvuldig gebruik. Daarnaast biedt het badpak bescherming tegen de zon met een UPF 50+ rating. Het Speedo Hyperboom Placement Muscleback Swimsuit is perfect voor zowel trainingen als wedstrijden en is verkrijgbaar in verschillende maten. <br /> <br />Maak een statement in het zwembad met het Speedo Hyperboom Placement Muscleback Swimsuit! <br />- Kleurrijk ontwerp met bloemenprint- Gemaakt van duurzaam materiaal- Comfortabele pasvorm met muscleback-stijl"
+          },
+          "priceHistory": {
+            "lowestPrice": 35.1
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 39.99
+          },
+          "title": "Badpak Endurance SPEEDO.  materiaal. Maten 36 FR - 34 EU. Zwart kleur",
+          "fixedTitle": "Badpak Endurance SPEEDO.  materiaal. Maten 36 FR - 34 EU. Zwart kleur",
+          "indexIdentifierTimeStamp": 1744885004,
+          "description": "Badpak Endurance SPEEDO. Maten 36 FR - 34 EU. zwart/blauw kleur. Details\u00a0\u2022\u00a0\u00a01 stuk\u00a0\u2022\u00a0\u00a0Sportuitsnijding achteraan\u00a0\u2022\u00a0\u00a0Zonder binnencups\u00a0\u2022\u00a0\u00a0Zonder beugels\u00a0\u2022\u00a0\u00a0Het spiervormige ontwerp van de rug biedt flexibiliteit en bewegingsvrijheid, zodat u comfortabel kunt zwemmen\u00a0\u2022\u00a0\u00a0De voering aan de voorkant zorgt voor extra comfort\u00a0\u2022\u00a0\u00a0Grafisch motief\u00a0\u2022\u00a0\u00a0Geschikt voor het zwembadSamenstelling en onderhoud\u00a0\u2022\u00a0\u00a0100% polyester\u00a0\u2022\u00a0\u00a0Onderhoud : zie etiket\u00a0\u2022\u00a0\u00a0RECYCLED POLYESTER. Het gebruik van recycled polyester betekent het behoud van hulpbronnen en vermindering van afval.",
+          "descriptionRaw": "Badpak Endurance SPEEDO. Maten 36 FR - 34 EU. zwart/blauw kleur. Details\u00a0\u2022\u00a0\u00a01 stuk\u00a0\u2022\u00a0\u00a0Sportuitsnijding achteraan\u00a0\u2022\u00a0\u00a0Zonder binnencups\u00a0\u2022\u00a0\u00a0Zonder beugels\u00a0\u2022\u00a0\u00a0Het spiervormige ontwerp van de rug biedt flexibiliteit en bewegingsvrijheid, zodat u comfortabel kunt zwemmen\u00a0\u2022\u00a0\u00a0De voering aan de voorkant zorgt voor extra comfort\u00a0\u2022\u00a0\u00a0Grafisch motief\u00a0\u2022\u00a0\u00a0Geschikt voor het zwembadSamenstelling en onderhoud\u00a0\u2022\u00a0\u00a0100% polyester\u00a0\u2022\u00a0\u00a0Onderhoud : zie etiket\u00a0\u2022\u00a0\u00a0RECYCLED POLYESTER. Het gebruik van recycled polyester betekent het behoud van hulpbronnen en vermindering van afval.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "pim",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-2UVfhx4QZvNtoTRyEDND5YL1LUw2",
+          "categoryId": 9000853,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            642665
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1154,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/5059937284088/394/{size}/1face22fb01a525d5b3ad937826f557e/Badpakken/Badpak-Endurance-SPEEDO.-materiaal.-Maten-36-FR-34-EU.-Zwart-kleur.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhxPGGLujuDbbv6dtPNZRePZh",
+              "value": "36 FR - 34 EU",
+              "available": true,
+              "price": 35.1,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2UVfhxCbMXS46b2ZLKwd6YQPahwN",
+              "value": "38 FR - 36 EU",
+              "available": true,
+              "price": 35.1,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3152,
+              "indexOnBrowse": null,
+              "isDetail": false,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat_mode_badpakken_bikini",
+              "values": [
+                {
+                  "id": 471409,
+                  "caption": "Maat 34",
+                  "columnValue": "34",
+                  "crawlable": true,
+                  "detailValue": "Maat 34",
+                  "fullId": "3152_471409",
+                  "sequence": 22,
+                  "urlName": null,
+                  "productIdV3": "2UVfhxPGGLujuDbbv6dtPNZRePZh",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 54,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.1,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 471410,
+                  "caption": "Maat 36",
+                  "columnValue": "36",
+                  "crawlable": true,
+                  "detailValue": "Maat 36",
+                  "fullId": "3152_471410",
+                  "sequence": 23,
+                  "urlName": null,
+                  "productIdV3": "2UVfhxCbMXS46b2ZLKwd6YQPahwN",
+                  "regularPrice": {
+                    "bucket": 34,
+                    "price": 54,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 34,
+                    "price": 35.1,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 84820,
+          "brandName": "Speedo",
+          "brandRank": 183,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-16 00:00:00",
+          "popularity": 10403,
+          "popularityData": {
+            "clickFactor": 302,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 - 7 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 2.99,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Speedo",
+              "values": [
+                {
+                  "id": 84820,
+                  "caption": "Speedo",
+                  "columnValue": "Speedo",
+                  "crawlable": true,
+                  "detailValue": "Speedo",
+                  "fullId": "48_84820",
+                  "sequence": 2451,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "LaRedoute.nl",
+              "values": [
+                {
+                  "id": 19249715,
+                  "caption": "LaRedoute.nl",
+                  "columnValue": "LaRedoute.nl",
+                  "crawlable": true,
+                  "detailValue": "LaRedoute.nl",
+                  "fullId": "49_19249715",
+                  "sequence": 433,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Polyester",
+              "values": [
+                {
+                  "id": 242264,
+                  "caption": "Polyester",
+                  "columnValue": "Polyester",
+                  "crawlable": true,
+                  "detailValue": "Polyester",
+                  "fullId": "2624_242264",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 401012,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3003_401012",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Badmode",
+              "values": [
+                {
+                  "id": 468980,
+                  "caption": "Badmode",
+                  "columnValue": "Badmode",
+                  "crawlable": true,
+                  "detailValue": "Badmode",
+                  "fullId": "3114_468980",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 8049145,
+                  "caption": "Strand",
+                  "columnValue": "Strandkleding",
+                  "crawlable": true,
+                  "detailValue": "Strand",
+                  "fullId": "3114_8049145",
+                  "sequence": 25,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3152,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat_mode_badpakken_bikini",
+              "value": "34",
+              "values": [
+                {
+                  "id": 471409,
+                  "caption": "Maat 34",
+                  "columnValue": "34",
+                  "crawlable": true,
+                  "detailValue": "Maat 34",
+                  "fullId": "3152_471409",
+                  "sequence": 22,
+                  "urlName": null
+                },
+                {
+                  "id": 471410,
+                  "caption": "Maat 36",
+                  "columnValue": "36",
+                  "crawlable": true,
+                  "detailValue": "Maat 36",
+                  "fullId": "3152_471410",
+                  "sequence": 23,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Comfort",
+              "values": [
+                {
+                  "id": 23581724,
+                  "caption": "Comfort",
+                  "columnValue": "Comfort",
+                  "crawlable": true,
+                  "detailValue": "Comfort",
+                  "fullId": "3730_23581724",
+                  "sequence": 16,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3875,
+              "name": "Sportkleding",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_sportkleding",
+              "value": "Zwemkleding",
+              "values": [
+                {
+                  "id": 6394557,
+                  "caption": "Zwem",
+                  "columnValue": "Zwemkleding",
+                  "crawlable": true,
+                  "detailValue": "Zwem",
+                  "fullId": "3875_6394557",
+                  "sequence": 18,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4017,
+              "name": "Print",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "pr_kleding",
+              "value": "Grafische print",
+              "values": [
+                {
+                  "id": 23585719,
+                  "caption": "Grafische",
+                  "columnValue": "Grafische print",
+                  "crawlable": true,
+                  "detailValue": "Grafische",
+                  "fullId": "4017_23585719",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-e12060a5-a567-4d50-9638-35f50c8a7ffd",
+          "revenuePerClick": 0.25,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 35.1,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 35,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 35
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        },
+        {
+          "id": "osEpCWscYcumEhN8Fna7EDzc7A",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "osEpKA26oz8PnYYiLmhq3ZFmps",
+            "advertisementIdV3": "osEpKA26oz8PnYYiLmhq3ZFmps"
+          },
+          "shopItemId": 0,
+          "productId": "osEpCWscYcumEhN8Fna7EDzc7A",
+          "ean": "",
+          "shopInfo": {
+            "id": 1,
+            "shopName": "bol.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 4200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/1.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:23:12+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "klantenservice@bol.com",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 1,
+            "shopItemId": 0,
+            "shopItemTitle": "Speedo Hyperboom Placement Muscleback Swimsuit",
+            "shopItemDescription": "",
+            "shopItemVersion": "9300000156666612-9300000198516693-Multikleur-9300000198516693",
+            "shopName": "bol.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "osEpCWscYcumEhN8Fna7EDzc7A",
+            "condition": "Nieuw",
+            "ean": "5059937284095",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://partner.bol.com/click/click?p=1&t=url&s=1126362&url=https%3a%2f%2fwww.bol.com%2fnl%2fnl%2fp%2fspeedo-hyperboom-placement-muscleback-swimsuit%2f9300000156666612%2f",
+            "size": "",
+            "shopReviewScore": 4,
+            "shopReviewAmount": 39257,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 34,
+              "price": 50.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 55,
+              "price": 57.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "9300000156666612",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "e12060a5-a567-4d50-9638-35f50c8a7ffd",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 35.1
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 39.99
+          },
+          "title": "Speedo Hyperboom Placement Muscleback Swimsuit",
+          "fixedTitle": "Speedo Hyperboom Placement Muscleback Swimsuit",
+          "indexIdentifierTimeStamp": 1744885004,
+          "description": "Speedo Hyperboom Placement Muscleback Swimsuit Met het Speedo Hyperboom Placement Muscleback Swimsuit ben je klaar voor de zomer! Dit zwempak is gemaakt van Endurance+ materiaal, wat zorgt voor een lange levensduur en een comfortabele pasvorm. De Muscleback rug biedt optimale bewegingsvrijheid tijdens het zwemmen. Het opvallende Hyperboom design zorgt ervoor dat je zeker opvalt in het zwembad. Het zwempak is chloorbestendig en behoudt zijn kleur, zelfs na veelvuldig gebruik. Het Speedo logo is subtiel verwerkt op de borst. Het Speedo Hyperboom Placement Muscleback Swimsuit is verkrijgbaar in verschillende maten. - Kleurrijk design met bloemenprint- Comfortabele pasvorm met spierback- Gemaakt van duurzaam materiaal voor langdurig gebruik",
+          "descriptionRaw": "Speedo Hyperboom Placement Muscleback Swimsuit <br />Met het Speedo Hyperboom Placement Muscleback Swimsuit ben je klaar voor de zomer! Dit zwempak is gemaakt van Endurance+ materiaal, wat zorgt voor een lange levensduur en een comfortabele pasvorm. De Muscleback rug biedt optimale bewegingsvrijheid tijdens het zwemmen. Het opvallende Hyperboom design zorgt ervoor dat je zeker opvalt in het zwembad. Het zwempak is chloorbestendig en behoudt zijn kleur, zelfs na veelvuldig gebruik. Het Speedo logo is subtiel verwerkt op de borst. Het Speedo Hyperboom Placement Muscleback Swimsuit is verkrijgbaar in verschillende maten. <br />- Kleurrijk design met bloemenprint- Comfortabele pasvorm met spierback- Gemaakt van duurzaam materiaal voor langdurig gebruik",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-osEpKA26oz8PnYYiLmhq3ZFmps",
+          "categoryId": 9000853,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            1
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1154,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/5059937284095/394/{size}/1face22fb01a525d5b3ad937826f557e/Badpakken/Speedo-Hyperboom-Placement-Muscleback-Swimsuit.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 84820,
+          "brandName": "Speedo",
+          "brandRank": 183,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-16 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 1.25,
+            "roasPercentage": 10000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "7 - 12 dagen",
+          "deliveryTimeSort": 5,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Speedo",
+              "values": [
+                {
+                  "id": 84820,
+                  "caption": "Speedo",
+                  "columnValue": "Speedo",
+                  "crawlable": true,
+                  "detailValue": "Speedo",
+                  "fullId": "48_84820",
+                  "sequence": 2451,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Bol.com",
+              "values": [
+                {
+                  "id": 401410,
+                  "caption": "Bol.com",
+                  "columnValue": "Bol.com",
+                  "crawlable": true,
+                  "detailValue": "Bol.com",
+                  "fullId": "49_401410",
+                  "sequence": 108,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23544691,
+                  "caption": "Unisex",
+                  "columnValue": "Unisex",
+                  "crawlable": true,
+                  "detailValue": "Unisex",
+                  "fullId": "3110_23544691",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Badmode",
+              "values": [
+                {
+                  "id": 468980,
+                  "caption": "Badmode",
+                  "columnValue": "Badmode",
+                  "crawlable": true,
+                  "detailValue": "Badmode",
+                  "fullId": "3114_468980",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 8049145,
+                  "caption": "Strand",
+                  "columnValue": "Strandkleding",
+                  "crawlable": true,
+                  "detailValue": "Strand",
+                  "fullId": "3114_8049145",
+                  "sequence": 25,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3812,
+              "name": "Soort",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type_badpak",
+              "value": "Zwempakken",
+              "values": [
+                {
+                  "id": 7527185,
+                  "caption": "Zwempakken",
+                  "columnValue": "Zwempakken",
+                  "crawlable": true,
+                  "detailValue": "Zwempakken",
+                  "fullId": "3812_7527185",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4759,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_badpakken",
+              "value": "Chloorbestendig",
+              "values": [
+                {
+                  "id": 9532706,
+                  "caption": "Chloorbestendig",
+                  "columnValue": "Chloorbestendig",
+                  "crawlable": true,
+                  "detailValue": "Chloorbestendig",
+                  "fullId": "4759_9532706",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "1-9300000198516693",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-e12060a5-a567-4d50-9638-35f50c8a7ffd",
+          "revenuePerClick": 0.01,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 35.1,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 12,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 12
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

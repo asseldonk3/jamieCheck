@@ -1,0 +1,945 @@
+{
+  "offset": 0,
+  "numFound": 4,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 4,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 6.37,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": []
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "363nBaxYdmpcR3MKXCxdpVjnH2DY",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "363nBaxYdmpcR3MKXCxdpVjnH2DY",
+            "advertisementIdV3": "363nBaxYdmpcR3MKXCxdpVjnH2DY"
+          },
+          "shopItemId": 0,
+          "productId": "363nBaxYdmpcR3MKXCxdpVjnH2DY",
+          "ean": "",
+          "shopInfo": {
+            "id": 642709,
+            "shopName": "Vibies.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 11,
+            "productCount": 7000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/642709.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T04:10:45+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24095,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@dtcwholesale.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 6,
+                "name": "DPD"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 642709,
+            "shopItemId": 0,
+            "shopItemTitle": "Obsessive Megies Tepel Covers met Kanten Strikjes",
+            "shopItemDescription": "",
+            "shopItemVersion": "114202117",
+            "shopName": "Vibies.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "363nBaxYdmpcR3MKXCxdpVjnH2DY",
+            "condition": "Nieuw",
+            "ean": "5901688224472",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.vibies.nl/megies-tepel-covers-met-kanten-strikjes.html?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "",
+            "shopReviewScore": 6.8,
+            "shopReviewAmount": 11,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 0,
+              "price": 6.37,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "114202117",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 6.37
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 6.37
+          },
+          "title": "Obsessive Megies Tepel Covers met Kanten Strikjes",
+          "fixedTitle": "Obsessive Megies Tepel Covers met Kanten Strikjes",
+          "indexIdentifierTimeStamp": 1744908286,
+          "description": "Perfect als aanvulling om het allemaal lekker spannend te maken. Met of zonder lingerie ben jij verleidelijker dan ooit en dat is nu ook goed te zien. Versierd met strikje en afgewerkt met kanten randen. Heerlijk! \u2022chique tepelhoezen\u2022speelse strikken -",
+          "descriptionRaw": "Perfect als aanvulling om het allemaal lekker spannend te maken. Met of zonder lingerie ben jij verleidelijker dan ooit en dat is nu ook goed te zien. Versierd met strikje en afgewerkt met kanten randen. Heerlijk! \u2022chique tepelhoezen\u2022speelse strikken -",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "452-363nBaxYdmpcR3MKXCxdpVjnH2DY",
+          "categoryId": 9002412,
+          "mainCategoryId": 452,
+          "mainCategoryUrl": "voor_volwassenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            642709
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1191,
+                "width": 516
+              },
+              "type": "mainImage",
+              "url": "pim/5901688224472/394/{size}/a8dedea7c97742a6b6577fd0e27abb4a/Erotische-BH%27s/Obsessive-Megies-Tepel-Covers-met-Kanten-Strikjes.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 207,
+                "width": 463
+              },
+              "type": "alternativeImage",
+              "url": "pim/5901688224472/15376/{size}/e50471ba48977d33f4ed4626dc2f0d5b/Erotische-BH%27s/Obsessive-Megies-Tepel-Covers-met-Kanten-Strikjes.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 309592,
+          "brandName": "Obsessive",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 20,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": null,
+            "roasPercentage": null
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 2 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 5.95,
+          "facets": [
+            {
+              "id": 111,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Obsessive",
+              "values": [
+                {
+                  "id": 309592,
+                  "caption": "Obsessive",
+                  "columnValue": "Obsessive",
+                  "crawlable": true,
+                  "detailValue": "Obsessive",
+                  "fullId": "111_309592",
+                  "sequence": 532,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 112,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Vibies.nl",
+              "values": [
+                {
+                  "id": 19591757,
+                  "caption": "Vibies.nl",
+                  "columnValue": "Vibies.nl",
+                  "crawlable": true,
+                  "detailValue": "Vibies.nl",
+                  "fullId": "112_19591757",
+                  "sequence": 778,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-5901688224472",
+          "revenuePerClick": 0.15,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 6.37,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        },
+        {
+          "id": "osEp7QZVTy5BBwytt6cdWJHEKQ",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "osEp7QZVTy5BBwytt6cdWJHEKQ",
+            "advertisementIdV3": "osEp7QZVTy5BBwytt6cdWJHEKQ"
+          },
+          "shopItemId": 0,
+          "productId": "osEp7QZVTy5BBwytt6cdWJHEKQ",
+          "ean": "",
+          "shopInfo": {
+            "id": 1,
+            "shopName": "bol.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 4200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/1.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T04:09:51+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "klantenservice@bol.com",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 1,
+            "shopItemId": 0,
+            "shopItemTitle": "Obsessive Megies Tepelcovers - Erotisch Lichaamssieraad - One Size - Rood",
+            "shopItemDescription": "",
+            "shopItemVersion": "9300000000836886",
+            "shopName": "bol.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "osEp7QZVTy5BBwytt6cdWJHEKQ",
+            "condition": "Nieuw",
+            "ean": "5901688224472",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://partner.bol.com/click/click?p=1&t=url&s=1126362&url=https%3a%2f%2fwww.bol.com%2fnl%2fnl%2fp%2fobsessive-megies-tepelcovers-erotisch-lichaamssieraad-one-size-rood%2f9300000000836886%2f",
+            "size": "",
+            "shopReviewScore": 4,
+            "shopReviewAmount": 39257,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 13,
+              "price": 14.51,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "9300000000836886",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 6.37
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 6.37
+          },
+          "title": "Obsessive Megies Tepelcovers - Erotisch Lichaamssieraad - One Size - Rood",
+          "fixedTitle": "Obsessive Megies Tepelcovers - Erotisch Lichaamssieraad - One Size - Rood",
+          "indexIdentifierTimeStamp": 1744908286,
+          "description": "Heb jij een spannend lingeriesetje met open cups, maar wil je nog niet alles laten zien? Dan zijn deze tepelstickers perfect voor jou! Ze bedekken je tepels en zorgen tegelijkertijd voor een sexy look. De stickers hebben strikjes en zijn voorzien van mooie kanten details. Door de plaklaag blijven de stickers goed op hun plek zitten. De tepelstickers zijn herbruikbaar. Specificaties:Eindoordeel - 5Kledingmaten - LargeSoort garantie - Good Warranty ServiceGarantie - JaMan/Vrouw/Unisex - VrouwKleur - RoodVerpakking - Retailverpakking (Karton)",
+          "descriptionRaw": "Heb jij een spannend lingeriesetje met open cups, maar wil je nog niet alles laten zien? Dan zijn deze tepelstickers perfect voor jou! Ze bedekken je tepels en zorgen tegelijkertijd voor een sexy look. De stickers hebben strikjes en zijn voorzien van mooie kanten details. Door de plaklaag blijven de stickers goed op hun plek zitten. De tepelstickers zijn herbruikbaar.<br /> <br /><h3>Specificaties:</h3><ul><li>Eindoordeel - 5</li><li>Kledingmaten - Large</li><li>Soort garantie - Good Warranty Service</li><li>Garantie - Ja</li><li>Man/Vrouw/Unisex - Vrouw</li><li>Kleur - Rood</li><li>Verpakking - Retailverpakking (Karton)</li></ul>",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "452-osEp7QZVTy5BBwytt6cdWJHEKQ",
+          "categoryId": 9002466,
+          "mainCategoryId": 452,
+          "mainCategoryUrl": "voor_volwassenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            1
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1191,
+                "width": 516
+              },
+              "type": "mainImage",
+              "url": "pim/5901688224472/394/{size}/a8dedea7c97742a6b6577fd0e27abb4a/Erotische-sieraden/Obsessive-Megies-Tepelcovers-Erotisch-Lichaamssieraad-One-Size-Rood.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 207,
+                "width": 463
+              },
+              "type": "alternativeImage",
+              "url": "pim/5901688224472/15376/{size}/e50471ba48977d33f4ed4626dc2f0d5b/Erotische-sieraden/Obsessive-Megies-Tepelcovers-Erotisch-Lichaamssieraad-One-Size-Rood.jpg"
+            }
+          ],
+          "sizes": [],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 309592,
+          "brandName": "Obsessive",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 0,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.19,
+            "roasPercentage": 10000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "onbekend",
+          "deliveryTimeSort": 8,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 111,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Obsessive",
+              "values": [
+                {
+                  "id": 309592,
+                  "caption": "Obsessive",
+                  "columnValue": "Obsessive",
+                  "crawlable": true,
+                  "detailValue": "Obsessive",
+                  "fullId": "111_309592",
+                  "sequence": 532,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 112,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Bol.com",
+              "values": [
+                {
+                  "id": 2331523,
+                  "caption": "Bol.com",
+                  "columnValue": "Bol.com",
+                  "crawlable": true,
+                  "detailValue": "Bol.com",
+                  "fullId": "112_2331523",
+                  "sequence": 82,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3008,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Rood",
+              "values": [
+                {
+                  "id": 401072,
+                  "caption": "Rode",
+                  "columnValue": "Rood",
+                  "crawlable": true,
+                  "detailValue": "Rode",
+                  "fullId": "3008_401072",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3332,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Polyamide",
+              "values": [
+                {
+                  "id": 562412,
+                  "caption": "Polyamide",
+                  "columnValue": "Polyamide",
+                  "crawlable": true,
+                  "detailValue": "Polyamide",
+                  "fullId": "3332_562412",
+                  "sequence": 26,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-5901688224472",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 2,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 6.37,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "29L4VnEvCj2g3bMwEehjGWH2XLVb",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "29L4VnEvCj2g3bMwEehjGWH2XLVb",
+            "advertisementIdV3": "29L4VnEvCj2g3bMwEehjGWH2XLVb"
+          },
+          "shopItemId": 0,
+          "productId": "29L4VnEvCj2g3bMwEehjGWH2XLVb",
+          "ean": "",
+          "shopInfo": {
+            "id": 595538,
+            "shopName": "Sextoyland.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 7,
+            "productCount": 25000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/595538.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T08:27:25+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22361,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@esupplies.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 27,
+                "name": "Webshop Keurmerk"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 595538,
+            "shopItemId": 0,
+            "shopItemTitle": "Obsessive Megies Nipple Covers",
+            "shopItemDescription": "",
+            "shopItemVersion": "24443",
+            "shopName": "Sextoyland.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "29L4VnEvCj2g3bMwEehjGWH2XLVb",
+            "condition": "Nieuw",
+            "ean": "5901688224472",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.sextoyland.nl/obsessive-megies-nipple-covers.html?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "One Size",
+            "shopReviewScore": 4,
+            "shopReviewAmount": 18,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 13,
+              "price": 14.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "24443",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 6.37
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 6.37
+          },
+          "title": "Obsessive Megies Nipple Covers",
+          "fixedTitle": "Obsessive Megies Nipple Covers",
+          "indexIdentifierTimeStamp": 1744908286,
+          "description": "De Megies Nipple Covers zijn een luxe verschijning uit de Megies serie van Obsessive. De nipple covers zijn herbruikbaar en zijn te bevestigen met de plakkende achterkant over de tepel. De nipple covers hebben handgeweven randjes en een satijnen achtergrond. Over het rode satijn is zwart bloemen kant aangebracht. De nipple covers zijn helemaal compleet door de satijnen strikjes en speelse kraaltjes.\\\\nCombineer de Megies Nipple Covers met lingerie uit de Megies serie voor een complete verleidelijke look!\\\\n&nbsp;\\\\nEigenschappen Megies Nipple Covers:\\\\n- Tepel stickers\\\\n- Charmant design\\\\n- Handgeweven randjes\\\\n- Satijnen strikken\\\\n- Speelse kraaltjes\\\\n- Rode achtergrond\\\\n- Zwart kant\\\\n- Plakkende binnenkant\\\\n- Herbruikbaar\\\\n- 2 stuks per verpakking\\\\n- Kleur: Zwart / Rood\\\\n- Materiaal: 65% Polyester 25% Polyurethaan, 5% Lijm, 5% PVC\\\\n- Maat: One Size\\\\n",
+          "descriptionRaw": "De Megies Nipple Covers zijn een luxe verschijning uit de Megies serie van Obsessive. De nipple covers zijn herbruikbaar en zijn te bevestigen met de plakkende achterkant over de tepel. De nipple covers hebben handgeweven randjes en een satijnen achtergrond. Over het rode satijn is zwart bloemen kant aangebracht. De nipple covers zijn helemaal compleet door de satijnen strikjes en speelse kraaltjes.\\\\nCombineer de Megies Nipple Covers met lingerie uit de Megies serie voor een complete verleidelijke look!\\\\n&nbsp;\\\\nEigenschappen Megies Nipple Covers:\\\\n- Tepel stickers\\\\n- Charmant design\\\\n- Handgeweven randjes\\\\n- Satijnen strikken\\\\n- Speelse kraaltjes\\\\n- Rode achtergrond\\\\n- Zwart kant\\\\n- Plakkende binnenkant\\\\n- Herbruikbaar\\\\n- 2 stuks per verpakking\\\\n- Kleur: Zwart / Rood\\\\n- Materiaal: 65% Polyester 25% Polyurethaan, 5% Lijm, 5% PVC\\\\n- Maat: One Size\\\\n",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-29L4VnEvCj2g3bMwEehjGWH2XLVb",
+          "categoryId": 9005057,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            595538
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1191,
+                "width": 516
+              },
+              "type": "mainImage",
+              "url": "pim/5901688224472/394/{size}/a8dedea7c97742a6b6577fd0e27abb4a/BH-accessoires/Obsessive-Megies-Nipple-Covers.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 207,
+                "width": 463
+              },
+              "type": "alternativeImage",
+              "url": "pim/5901688224472/15376/{size}/e50471ba48977d33f4ed4626dc2f0d5b/BH-accessoires/Obsessive-Megies-Nipple-Covers.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "29L4VnEvCj2g3bMwEehjGWH2XLVb",
+              "value": "One Size",
+              "available": true,
+              "price": 14.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 3154796,
+          "brandName": "Obsessive",
+          "brandRank": 698,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-01 00:00:00",
+          "popularity": 6556,
+          "popularityData": {
+            "clickFactor": 306,
+            "webshopsRevenuePerClick": 1.03,
+            "roasPercentage": 450
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 23:59 uur besteld, volgende dag in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 5.95,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Obsessive",
+              "values": [
+                {
+                  "id": 3154796,
+                  "caption": "Obsessive",
+                  "columnValue": "Obsessive",
+                  "crawlable": true,
+                  "detailValue": "Obsessive",
+                  "fullId": "48_3154796",
+                  "sequence": 1929,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Sextoyland.nl",
+              "values": [
+                {
+                  "id": 16797310,
+                  "caption": "Sextoyland.nl",
+                  "columnValue": "Sextoyland.nl",
+                  "crawlable": true,
+                  "detailValue": "Sextoyland.nl",
+                  "fullId": "49_16797310",
+                  "sequence": 665,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Satijn",
+              "values": [
+                {
+                  "id": 242295,
+                  "caption": "Satijnen",
+                  "columnValue": "Satijn",
+                  "crawlable": true,
+                  "detailValue": "Satijnen",
+                  "fullId": "2624_242295",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 401012,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3003_401012",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 432482,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3110_432482",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3114,
+              "name": "Thema's",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_themas_mode",
+              "value": "Ondermode",
+              "values": [
+                {
+                  "id": 468982,
+                  "caption": "Ondermode",
+                  "columnValue": "Ondermode",
+                  "crawlable": true,
+                  "detailValue": "Ondermode",
+                  "fullId": "3114_468982",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met strikjes",
+              "values": [
+                {
+                  "id": 9511526,
+                  "caption": "Met strikjes",
+                  "columnValue": "Met strikjes",
+                  "crawlable": true,
+                  "detailValue": "Met strikjes",
+                  "fullId": "3730_9511526",
+                  "sequence": 69,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-5901688224472",
+          "revenuePerClick": 0.23,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 0,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 14.95,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": null,
+          "isGoogleBestseller": null,
+          "isGoogleBestsellerTop100": null,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

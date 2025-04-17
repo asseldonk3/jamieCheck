@@ -1,0 +1,943 @@
+{
+  "offset": 0,
+  "numFound": 2,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 2,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 89.95,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": []
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "38qEzMZtYg22bBk58xei4bFANfQo",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "38qEzMfYyuSm48b2y2go2XyAgVt2",
+            "advertisementIdV3": "38qEzMfYyuSm48b2y2go2XyAgVt2"
+          },
+          "shopItemId": 0,
+          "productId": "38qEzMZtYg22bBk58xei4bFANfQo",
+          "ean": "",
+          "shopInfo": {
+            "id": 16537,
+            "shopName": "OverhemdenOnline.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 9,
+            "productCount": 11000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/16537.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-16T00:50:03+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@OverhemdenOnline.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 2267,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 16537,
+            "shopItemId": 0,
+            "shopItemTitle": "Eden Valley Modern Fit overhemd oranje effen mouwlengte 7",
+            "shopItemDescription": "",
+            "shopItemVersion": "00153977-4950-00153977",
+            "shopName": "OverhemdenOnline.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "38qEzMZtYg22bBk58xei4bFANfQo",
+            "condition": "Nieuw",
+            "ean": "8718752764041",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://pla.daisycon.io/csd/?si=18911&li=1814670&wi=394427&pid=9f897d7fe2f46c3d1e68f13f78a94f5a&force_domain=true&dl=https%3a%2f%2fwww.overhemdenonline.nl%2feden-valley-overhemd-oranje-mouwlengte-7-00153977.html&ws=UUID_placeholder",
+            "size": "4950",
+            "shopReviewScore": 7,
+            "shopReviewAmount": 6,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 89,
+              "price": 89.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "00153977-4950",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 89.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Eden Valley Modern Fit overhemd oranje effen mouwlengte 7",
+          "fixedTitle": "Eden Valley Modern Fit overhemd oranje effen mouwlengte 7",
+          "indexIdentifierTimeStamp": 1744876539,
+          "description": "Eden valley maat 4950 in kleur oranje",
+          "descriptionRaw": "Eden valley maat 4950 in kleur oranje",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-38qEzMfYyuSm48b2y2go2XyAgVt2",
+          "categoryId": 9000919,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 2,
+          "shopIds": [
+            16537
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1695,
+                "width": 1007
+              },
+              "type": "mainImage",
+              "url": "38qEzMZtYg22bBk58xei4bFANfQo/394/{size}/6281e555515a24f093d572b2171d1324/Overhemden/Eden-Valley-Modern-Fit-overhemd-oranje-effen-mouwlengte-7.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "38qEzMZtYg22bBk58xei4bFANfQo",
+              "value": "4950",
+              "available": true,
+              "price": 89.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 23735907,
+          "brandName": "Eden Valley",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-11-05 00:00:00",
+          "popularity": 6219,
+          "popularityData": {
+            "clickFactor": 312,
+            "webshopsRevenuePerClick": 1.98,
+            "roasPercentage": 1000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Eden Valley",
+              "values": [
+                {
+                  "id": 23735907,
+                  "caption": "Eden Valley",
+                  "columnValue": "Eden Valley",
+                  "crawlable": true,
+                  "detailValue": "Eden Valley",
+                  "fullId": "48_23735907",
+                  "sequence": 795,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Overhemdenonline.nl",
+              "values": [
+                {
+                  "id": 1320507,
+                  "caption": "Overhemdenonline.nl",
+                  "columnValue": "Overhemdenonline.nl",
+                  "crawlable": true,
+                  "detailValue": "Overhemdenonline.nl",
+                  "fullId": "49_1320507",
+                  "sequence": 573,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Katoen",
+              "values": [
+                {
+                  "id": 242265,
+                  "caption": "Katoenen",
+                  "columnValue": "Katoen",
+                  "crawlable": true,
+                  "detailValue": "Katoenen",
+                  "fullId": "2624_242265",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Oranje",
+              "values": [
+                {
+                  "id": 401014,
+                  "caption": "Oranje",
+                  "columnValue": "Oranje",
+                  "crawlable": true,
+                  "detailValue": "Oranje",
+                  "fullId": "3003_401014",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Met mouwen",
+              "values": [
+                {
+                  "id": 15836705,
+                  "caption": "Met mouwen",
+                  "columnValue": "Met mouwen",
+                  "crawlable": true,
+                  "detailValue": "Met mouwen",
+                  "fullId": "3730_15836705",
+                  "sequence": 58,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4158,
+              "name": "Soort mouw",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_mouw",
+              "value": "Extra lange mouwen",
+              "values": [
+                {
+                  "id": 9540753,
+                  "caption": "Extra lange mouwen",
+                  "columnValue": "Extra lange mouwen",
+                  "crawlable": true,
+                  "detailValue": "Extra lange mouwen",
+                  "fullId": "4158_9540753",
+                  "sequence": 8,
+                  "urlName": null
+                },
+                {
+                  "id": 6510251,
+                  "caption": "Lange mouwen",
+                  "columnValue": "Lange mouwen",
+                  "crawlable": true,
+                  "detailValue": "Lange mouwen",
+                  "fullId": "4158_6510251",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 23743663,
+                  "caption": "Mouwlengte 7",
+                  "columnValue": "Mouwlengte 7",
+                  "crawlable": true,
+                  "detailValue": "Mouwlengte 7",
+                  "fullId": "4158_23743663",
+                  "sequence": 30,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4729,
+              "name": "Pasvorm",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pasvorm",
+              "value": "Modern fit",
+              "values": [
+                {
+                  "id": 9511534,
+                  "caption": "Modern fit",
+                  "columnValue": "Modern fit",
+                  "crawlable": true,
+                  "detailValue": "Modern fit",
+                  "fullId": "4729_9511534",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Natuurlijk materiaal",
+              "values": [
+                {
+                  "id": 23597271,
+                  "caption": "Natuurlijk materiaal",
+                  "columnValue": "Natuurlijk materiaal",
+                  "crawlable": true,
+                  "detailValue": "Natuurlijk materiaal",
+                  "fullId": "6290_23597271",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8718752764041",
+          "revenuePerClick": 0.2,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 89.95,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "C",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        },
+        {
+          "id": "2WN3PCnKRcR7TCEznkcVc2SS126X",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2WN3PCsyrqqqv95xcpeaZyASJrZk",
+            "advertisementIdV3": "2WN3PCsyrqqqv95xcpeaZyASJrZk"
+          },
+          "shopItemId": 0,
+          "productId": "2WN3PCnKRcR7TCEznkcVc2SS126X",
+          "ean": "",
+          "shopInfo": {
+            "id": 204396,
+            "shopName": "SchulteHerenmode.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 9,
+            "productCount": 15000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/204396.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-16T00:50:03+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@SchulteHerenmode.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 2267,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 204396,
+            "shopItemId": 0,
+            "shopItemTitle": "Eden Valley overhemd oranje effen mouwlengte 7 normale fit",
+            "shopItemDescription": "",
+            "shopItemVersion": "00153977-4950-00153977",
+            "shopName": "SchulteHerenmode.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2WN3PCnKRcR7TCEznkcVc2SS126X",
+            "condition": "Nieuw",
+            "ean": "8718752764041",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://pla.daisycon.io/csd/?si=18843&li=1814669&wi=382479&pid=cda6faa97f61e5d6855f702c576796d0&force_domain=true&dl=https%3a%2f%2fwww.schulteherenmode.nl%2feden-valley-overhemd-oranje-mouwlengte-7-00153977.html&ws=UUID_placeholder",
+            "size": "4950",
+            "shopReviewScore": 7.6,
+            "shopReviewAmount": 25,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 89,
+              "price": 89.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "00153977-4950",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 89.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Eden Valley overhemd oranje effen mouwlengte 7 normale fit",
+          "fixedTitle": "Eden Valley overhemd oranje effen mouwlengte 7 normale fit",
+          "indexIdentifierTimeStamp": 1744876539,
+          "description": "Het eden valley overhemd in levendige oranje tint is een stijlvolle keuze voor elke casual gelegenheid. Met een normale pasvorm en mouwlengte 7 biedt dit overhemd een comfortabele en flatterende pasvorm. De effen kleur en button-down boord voegen een moderne touch toe aan dit klassieke overhemd. Gemaakt van 100% katoen is het overhemd niet alleen stijlvol maar ook ademend en duurzaam. Ideaal voor de wintermaanden zorgt dit overhemd voor een warme en trendy look. Upgrade je garderobe met dit eden valley casual overhemd en maak een modieuze statement. Maak je klaar om dit overhemd nu te kopen en je casual look naar een hoger niveau te tillen.",
+          "descriptionRaw": "Het eden valley overhemd in levendige oranje tint is een stijlvolle keuze voor elke casual gelegenheid. Met een normale pasvorm en mouwlengte 7 biedt dit overhemd een comfortabele en flatterende pasvorm. De effen kleur en button-down boord voegen een moderne touch toe aan dit klassieke overhemd. Gemaakt van 100% katoen is het overhemd niet alleen stijlvol maar ook ademend en duurzaam. Ideaal voor de wintermaanden zorgt dit overhemd voor een warme en trendy look. Upgrade je garderobe met dit eden valley casual overhemd en maak een modieuze statement. Maak je klaar om dit overhemd nu te kopen en je casual look naar een hoger niveau te tillen.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "137-2WN3PCsyrqqqv95xcpeaZyASJrZk",
+          "categoryId": 9000919,
+          "mainCategoryId": 137,
+          "mainCategoryUrl": "mode",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 2,
+          "shopIds": [
+            204396
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1695,
+                "width": 1007
+              },
+              "type": "mainImage",
+              "url": "2WN3PCnKRcR7TCEznkcVc2SS126X/394/{size}/6281e555515a24f093d572b2171d1324/Overhemden/Eden-Valley-overhemd-oranje-effen-mouwlengte-7-normale-fit.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2WN3PCnKRcR7TCEznkcVc2SS126X",
+              "value": "4950",
+              "available": true,
+              "price": 89.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [],
+          "defaultSizeAvailable": false,
+          "brandId": 23735907,
+          "brandName": "Eden Valley",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-02-14 00:00:00",
+          "popularity": 4,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.31,
+            "roasPercentage": 1000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 48,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Eden Valley",
+              "values": [
+                {
+                  "id": 23735907,
+                  "caption": "Eden Valley",
+                  "columnValue": "Eden Valley",
+                  "crawlable": true,
+                  "detailValue": "Eden Valley",
+                  "fullId": "48_23735907",
+                  "sequence": 795,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 49,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Schulteherenmode.nl",
+              "values": [
+                {
+                  "id": 5018848,
+                  "caption": "Schulteherenmode.nl",
+                  "columnValue": "Schulteherenmode.nl",
+                  "crawlable": true,
+                  "detailValue": "Schulteherenmode.nl",
+                  "fullId": "49_5018848",
+                  "sequence": 659,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 2624,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materials",
+              "value": "Katoen",
+              "values": [
+                {
+                  "id": 242265,
+                  "caption": "Katoenen",
+                  "columnValue": "Katoen",
+                  "crawlable": true,
+                  "detailValue": "Katoenen",
+                  "fullId": "2624_242265",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3003,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Oranje",
+              "values": [
+                {
+                  "id": 401014,
+                  "caption": "Oranje",
+                  "columnValue": "Oranje",
+                  "crawlable": true,
+                  "detailValue": "Oranje",
+                  "fullId": "3003_401014",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3110,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_mode",
+              "value": "Heren",
+              "values": [
+                {
+                  "id": 432483,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3110_432483",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3730,
+              "name": "Kenmerken",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "type",
+              "value": "Ademend",
+              "values": [
+                {
+                  "id": 23500774,
+                  "caption": "Ademende",
+                  "columnValue": "Ademend",
+                  "crawlable": true,
+                  "detailValue": "Ademende",
+                  "fullId": "3730_23500774",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 15836705,
+                  "caption": "Met mouwen",
+                  "columnValue": "Met mouwen",
+                  "crawlable": true,
+                  "detailValue": "Met mouwen",
+                  "fullId": "3730_15836705",
+                  "sequence": 58,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4158,
+              "name": "Soort mouw",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "soort_mouw",
+              "value": "Extra lange mouwen",
+              "values": [
+                {
+                  "id": 9540753,
+                  "caption": "Extra lange mouwen",
+                  "columnValue": "Extra lange mouwen",
+                  "crawlable": true,
+                  "detailValue": "Extra lange mouwen",
+                  "fullId": "4158_9540753",
+                  "sequence": 8,
+                  "urlName": null
+                },
+                {
+                  "id": 6510251,
+                  "caption": "Lange mouwen",
+                  "columnValue": "Lange mouwen",
+                  "crawlable": true,
+                  "detailValue": "Lange mouwen",
+                  "fullId": "4158_6510251",
+                  "sequence": 9,
+                  "urlName": null
+                },
+                {
+                  "id": 23743663,
+                  "caption": "Mouwlengte 7",
+                  "columnValue": "Mouwlengte 7",
+                  "crawlable": true,
+                  "detailValue": "Mouwlengte 7",
+                  "fullId": "4158_23743663",
+                  "sequence": 30,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4729,
+              "name": "Pasvorm",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "pasvorm",
+              "value": "Regular fit",
+              "values": [
+                {
+                  "id": 9343450,
+                  "caption": "Regular fit",
+                  "columnValue": "Regular fit",
+                  "crawlable": true,
+                  "detailValue": "Regular fit",
+                  "fullId": "4729_9343450",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4762,
+              "name": "Type boord",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "t_boord",
+              "value": "Button down kraag",
+              "values": [
+                {
+                  "id": 9556851,
+                  "caption": "Button down kraag",
+                  "columnValue": "Button down kraag",
+                  "crawlable": true,
+                  "detailValue": "Button down kraag",
+                  "fullId": "4762_9556851",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6290,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Natuurlijk materiaal",
+              "values": [
+                {
+                  "id": 23597271,
+                  "caption": "Natuurlijk materiaal",
+                  "columnValue": "Natuurlijk materiaal",
+                  "crawlable": true,
+                  "detailValue": "Natuurlijk materiaal",
+                  "fullId": "6290_23597271",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-8718752764041",
+          "revenuePerClick": 0.03,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 89.95,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "C",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

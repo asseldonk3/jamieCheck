@@ -4,7 +4,8 @@ Edit this file to change default settings without modifying the main code.
 """
 
 # Default category to use for API requests
-DEFAULT_CATEGORY = "schoenen"
+#DEFAULT_CATEGORY = "schoenen"
+DEFAULT_CATEGORY = "mode"
 
 # Default number of products to fetch
 DEFAULT_LIMIT = 50
