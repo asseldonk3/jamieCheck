@@ -1,0 +1,1928 @@
+{
+  "offset": 0,
+  "numFound": 7,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 7,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 129.95,
+        "highestDiscount": 6,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 430806,
+                "caption": "Maat 38",
+                "columnValue": "38",
+                "crawlable": true,
+                "detailValue": "Maat 38",
+                "fullId": "3081_430806",
+                "sequence": 65,
+                "urlName": null
+              },
+              {
+                "id": 16389766,
+                "caption": "Maat 38,5",
+                "columnValue": "38,5",
+                "crawlable": true,
+                "detailValue": "Maat 38,5",
+                "fullId": "3081_16389766",
+                "sequence": 67,
+                "urlName": null
+              },
+              {
+                "id": 16389768,
+                "caption": "Maat 40,5",
+                "columnValue": "40,5",
+                "crawlable": true,
+                "detailValue": "Maat 40,5",
+                "fullId": "3081_16389768",
+                "sequence": 77,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3LpYrCgTqbQEzatvBhokM4mthmCu",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3LpYrCnGnT6KNaXAzDq1Fo2XN3sE",
+            "advertisementIdV3": "3LpYrCnGnT6KNaXAzDq1Fo2XN3sE"
+          },
+          "shopItemId": 0,
+          "productId": "3LpYrCgTqbQEzatvBhokM4mthmCu",
+          "ean": "",
+          "shopInfo": {
+            "id": 399016,
+            "shopName": "To-be-dressed.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 6,
+            "productCount": 175000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/399016.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:50:07+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 14358,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "wouter@to-be-dressed.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 6,
+                "name": "DPD"
+              },
+              {
+                "id": 7,
+                "name": "GLS"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 34,
+                "name": "Billink "
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 399016,
+            "shopItemId": 0,
+            "shopItemTitle": "Nike Air max 90",
+            "shopItemDescription": "",
+            "shopItemVersion": "17100429-wit-40-plus-17100429",
+            "shopName": "To-be-dressed.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3LpYrCgTqbQEzatvBhokM4mthmCu",
+            "condition": "Nieuw",
+            "ean": "0195866187726",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.to-be-dressed.nl/nike-air-max-wit-90.html?utm_source=beslist&utm_medium=referral",
+            "size": "40.5",
+            "shopReviewScore": 4.4,
+            "shopReviewAmount": 250,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 89,
+              "price": 129.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "17100429-wit-40-plus",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "df1eb904-a652-4f25-a6c5-4a5edf0576cd",
+            "title": null,
+            "description": "Specificaties  Pasvorm normale pasvorm; vetersluiting Bovenwerk leer met synthetisch materiaal en textiel Demping Max Air unit in de hak is oorspronkelijk ontworpen als hardlooptechnologie en zorgt voor veel demping Buitenzool rubberen buitenzool met wafelpatroon biedt grip en stevigheid Kleur wit Materiaal leer - synthetisch materiaal - textiel - rubber ",
+            "descriptionRaw": "<b>Specificaties</b> <ul> <li><b>Pasvorm</b> normale pasvorm; vetersluiting</li> <li><b>Bovenwerk</b> leer met synthetisch materiaal en textiel</li> <li><b>Demping</b> Max Air unit in de hak is oorspronkelijk ontworpen als hardlooptechnologie en zorgt voor veel demping</li> <li><b>Buitenzool</b> rubberen buitenzool met wafelpatroon biedt grip en stevigheid</li> <li><b>Kleur</b> wit</li> <li><b>Materiaal</b> leer - synthetisch materiaal - textiel - rubber</li> </ul>"
+          },
+          "priceHistory": {
+            "lowestPrice": 89.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 104.99
+          },
+          "title": "Nike Air max 90",
+          "fixedTitle": "Nike Air max 90",
+          "indexIdentifierTimeStamp": 1744868187,
+          "description": "De Nike Air Max 90 is een damesschoen. Ontzettend strak, ontzettend comfortabel en ontzettend populair: de Nike Air Max 90 blijft trouw aan zijn roots met de iconische zool met wafelpatroon, gestikte overlays en klassieke TPU-accenten. Frisse details zorgen voor een moderne look en de Max Air demping zorgt voor comfort.  De Max Air unit in de hak is oorspronkelijk ontworpen als hardlooptechnologie en zorgt voor ongelooflijke demping De gewatteerde kraag van de low top ziet er gestroomlijnd uit en voelt heerlijk aan  De rubberen zool met wafelpatroon biedt een vintage look, grip en stevigheid Opgestikte overlays en TPU-accenten op de hak en bij de veters zorgen voor stevigheid, comfort en de iconische look van de jaren 90 Middenzool van foam zorgt voor een zacht gevoel ",
+          "descriptionRaw": "De Nike Air Max 90 is een damesschoen. Ontzettend strak, ontzettend comfortabel en ontzettend populair: de Nike Air Max 90 blijft trouw aan zijn roots met de iconische zool met wafelpatroon, gestikte overlays en klassieke TPU-accenten. Frisse details zorgen voor een moderne look en de Max Air demping zorgt voor comfort. <ul> <li>De Max Air unit in de hak is oorspronkelijk ontworpen als hardlooptechnologie en zorgt voor ongelooflijke demping</li> <li>De gewatteerde kraag van de low top ziet er gestroomlijnd uit en voelt heerlijk aan </li> <li>De rubberen zool met wafelpatroon biedt een vintage look, grip en stevigheid</li> <li>Opgestikte overlays en TPU-accenten op de hak en bij de veters zorgen voor stevigheid, comfort en de iconische look van de jaren 90</li> <li>Middenzool van foam zorgt voor een zacht gevoel</li> </ul>",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "pim",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-3LpYrCnGnT6KNaXAzDq1Fo2XN3sE",
+          "categoryId": 9000608,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 8,
+          "shopIds": [
+            399016
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 507,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/0195866187726/394/{size}/c74a2991c2d309efa85156380a98d8eb/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 529,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15376/{size}/4531995ad9307e37064df52b4f297acf/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 887
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15377/{size}/2e9ecde3210b2181f1e9084610c1d926/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 532,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15378/{size}/397080ace40a5a4b59687d97c24b9d6e/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1199,
+                "width": 877
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15379/{size}/109a9ffd74c6dc23b91bcd90782b99e8/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 445,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15380/{size}/a577717642651c9c07e79fd8ea3ca1e9/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15381/{size}/501b61a54bc7f8d197989c6b7dffeffd/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 572,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15382/{size}/f5eda1303106b75d13d47142de86de54/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15383/{size}/e38effbaa3b966369adb53d331c3779f/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 572,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15384/{size}/4491fabbbe54b05a7548808cb5579c26/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 716,
+                "width": 1198
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15385/{size}/202263b6fa4c44e735d479bff27d435e/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage11",
+              "size": {
+                "height": 1193,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15386/{size}/f0b5f9c0bde80b6ab4d0488c5fd0ca44/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage12",
+              "size": {
+                "height": 426,
+                "width": 1198
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15387/{size}/9621074fd2396ebe722bbef538010aec/Sneakers/Nike-Air-max-90.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3LpYrCgTqbQEzatvBhokM4mthmCu",
+              "value": "40.5",
+              "available": true,
+              "price": 129.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 16389768,
+                  "caption": "Maat 40,5",
+                  "columnValue": "40,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 40,5",
+                  "fullId": "3081_16389768",
+                  "sequence": 77,
+                  "urlName": null,
+                  "productIdV3": "3LpYrCgTqbQEzatvBhokM4mthmCu",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 129.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431107,
+          "brandName": "Nike",
+          "brandRank": 1,
+          "brandRelativeDemandLabel": "A",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-16 00:00:00",
+          "popularity": 28,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 2.69,
+            "roasPercentage": 1100
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Nike",
+              "values": [
+                {
+                  "id": 431107,
+                  "caption": "Nike",
+                  "columnValue": "Nike",
+                  "crawlable": true,
+                  "detailValue": "Nike",
+                  "fullId": "3078_431107",
+                  "sequence": 2105,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "To-be-dressed.nl",
+              "values": [
+                {
+                  "id": 20085395,
+                  "caption": "To-be-dressed.nl",
+                  "columnValue": "To-be-dressed.nl",
+                  "crawlable": true,
+                  "detailValue": "To-be-dressed.nl",
+                  "fullId": "3079_20085395",
+                  "sequence": 1796,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "40,5",
+              "values": [
+                {
+                  "id": 16389768,
+                  "caption": "Maat 40,5",
+                  "columnValue": "40,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 40,5",
+                  "fullId": "3081_16389768",
+                  "sequence": 77,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Synthetisch",
+              "values": [
+                {
+                  "id": 430861,
+                  "caption": "Synthetisch",
+                  "columnValue": "Synthetisch",
+                  "crawlable": true,
+                  "detailValue": "Synthetisch",
+                  "fullId": "3083_430861",
+                  "sequence": 36,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3513,
+              "name": "Productlijn",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_serie",
+              "value": "Nike Air",
+              "values": [
+                {
+                  "id": 23467994,
+                  "caption": "Nike Air",
+                  "columnValue": "Nike Air",
+                  "crawlable": true,
+                  "detailValue": "Nike Air",
+                  "fullId": "3513_23467994",
+                  "sequence": 847,
+                  "urlName": null
+                },
+                {
+                  "id": 1334612,
+                  "caption": "Nike Air Max",
+                  "columnValue": "Nike Air Max",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max",
+                  "fullId": "3513_1334612",
+                  "sequence": 854,
+                  "urlName": null
+                },
+                {
+                  "id": 12895261,
+                  "caption": "Nike Air Max 90",
+                  "columnValue": "Nike Air Max 90",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max 90",
+                  "fullId": "3513_12895261",
+                  "sequence": 858,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4100,
+              "name": "Hoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "hoogte",
+              "value": "Laag",
+              "values": [
+                {
+                  "id": 6380618,
+                  "caption": "Lage/low",
+                  "columnValue": "Laag",
+                  "crawlable": true,
+                  "detailValue": "Lage/low",
+                  "fullId": "4100_6380618",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Klassiek",
+              "values": [
+                {
+                  "id": 23580860,
+                  "caption": "Klassieke",
+                  "columnValue": "Klassiek",
+                  "crawlable": true,
+                  "detailValue": "Klassieke",
+                  "fullId": "6097_23580860",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-df1eb904-a652-4f25-a6c5-4a5edf0576cd",
+          "revenuePerClick": 0.24,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 129.95,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "S1fLYuEgUr6vv2WzDWTxaNBdo7m",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "S1fLYpTA1qaPW1aGPrKq9TekDEB",
+            "advertisementIdV3": "S1fLYpTA1qaPW1aGPrKq9TekDEB"
+          },
+          "shopItemId": 0,
+          "productId": "S1fLYuEgUr6vv2WzDWTxaNBdo7m",
+          "ean": "",
+          "shopInfo": {
+            "id": 652318,
+            "shopName": "VD.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652318.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:49:32+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 14358,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "wouter@to-be-dressed.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 6,
+                "name": "DPD"
+              },
+              {
+                "id": 7,
+                "name": "GLS"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 34,
+                "name": "Billink "
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 652318,
+            "shopItemId": 0,
+            "shopItemTitle": "Nike Air max 90",
+            "shopItemDescription": "",
+            "shopItemVersion": "5153852-wit-40-plus-5153852",
+            "shopName": "VD.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "S1fLYuEgUr6vv2WzDWTxaNBdo7m",
+            "condition": "Nieuw",
+            "ean": "0195866187726",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://vd.nl/nike-air-max-wit-90.html?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "40.5",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 89,
+              "price": 129.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "5153852-wit-40-plus",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "df1eb904-a652-4f25-a6c5-4a5edf0576cd",
+            "title": null,
+            "description": "Specificaties  Pasvorm normale pasvorm; vetersluiting Bovenwerk leer met synthetisch materiaal en textiel Demping Max Air unit in de hak is oorspronkelijk ontworpen als hardlooptechnologie en zorgt voor veel demping Buitenzool rubberen buitenzool met wafelpatroon biedt grip en stevigheid Kleur wit Materiaal leer - synthetisch materiaal - textiel - rubber ",
+            "descriptionRaw": "<b>Specificaties</b> <ul> <li><b>Pasvorm</b> normale pasvorm; vetersluiting</li> <li><b>Bovenwerk</b> leer met synthetisch materiaal en textiel</li> <li><b>Demping</b> Max Air unit in de hak is oorspronkelijk ontworpen als hardlooptechnologie en zorgt voor veel demping</li> <li><b>Buitenzool</b> rubberen buitenzool met wafelpatroon biedt grip en stevigheid</li> <li><b>Kleur</b> wit</li> <li><b>Materiaal</b> leer - synthetisch materiaal - textiel - rubber</li> </ul>"
+          },
+          "priceHistory": {
+            "lowestPrice": 89.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 104.99
+          },
+          "title": "Nike Air max 90",
+          "fixedTitle": "Nike Air max 90",
+          "indexIdentifierTimeStamp": 1744868187,
+          "description": "De Nike Air Max 90 is een damesschoen. Ontzettend strak, ontzettend comfortabel en ontzettend populair: de Nike Air Max 90 blijft trouw aan zijn roots met de iconische zool met wafelpatroon, gestikte overlays en klassieke TPU-accenten. Frisse details zorgen voor een moderne look en de Max Air demping zorgt voor comfort.  De Max Air unit in de hak is oorspronkelijk ontworpen als hardlooptechnologie en zorgt voor ongelooflijke demping De gewatteerde kraag van de low top ziet er gestroomlijnd uit en voelt heerlijk aan  De rubberen zool met wafelpatroon biedt een vintage look, grip en stevigheid Opgestikte overlays en TPU-accenten op de hak en bij de veters zorgen voor stevigheid, comfort en de iconische look van de jaren 90 Middenzool van foam zorgt voor een zacht gevoel ",
+          "descriptionRaw": "De Nike Air Max 90 is een damesschoen. Ontzettend strak, ontzettend comfortabel en ontzettend populair: de Nike Air Max 90 blijft trouw aan zijn roots met de iconische zool met wafelpatroon, gestikte overlays en klassieke TPU-accenten. Frisse details zorgen voor een moderne look en de Max Air demping zorgt voor comfort. <ul> <li>De Max Air unit in de hak is oorspronkelijk ontworpen als hardlooptechnologie en zorgt voor ongelooflijke demping</li> <li>De gewatteerde kraag van de low top ziet er gestroomlijnd uit en voelt heerlijk aan </li> <li>De rubberen zool met wafelpatroon biedt een vintage look, grip en stevigheid</li> <li>Opgestikte overlays en TPU-accenten op de hak en bij de veters zorgen voor stevigheid, comfort en de iconische look van de jaren 90</li> <li>Middenzool van foam zorgt voor een zacht gevoel</li> </ul>",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-S1fLYpTA1qaPW1aGPrKq9TekDEB",
+          "categoryId": 9000608,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 8,
+          "shopIds": [
+            652318
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 507,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/0195866187726/394/{size}/c74a2991c2d309efa85156380a98d8eb/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 529,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15376/{size}/4531995ad9307e37064df52b4f297acf/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 887
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15377/{size}/2e9ecde3210b2181f1e9084610c1d926/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 532,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15378/{size}/397080ace40a5a4b59687d97c24b9d6e/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1199,
+                "width": 877
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15379/{size}/109a9ffd74c6dc23b91bcd90782b99e8/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 445,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15380/{size}/a577717642651c9c07e79fd8ea3ca1e9/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15381/{size}/501b61a54bc7f8d197989c6b7dffeffd/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 572,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15382/{size}/f5eda1303106b75d13d47142de86de54/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15383/{size}/e38effbaa3b966369adb53d331c3779f/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 572,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15384/{size}/4491fabbbe54b05a7548808cb5579c26/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 716,
+                "width": 1198
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15385/{size}/202263b6fa4c44e735d479bff27d435e/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage11",
+              "size": {
+                "height": 1193,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15386/{size}/f0b5f9c0bde80b6ab4d0488c5fd0ca44/Sneakers/Nike-Air-max-90.jpg"
+            },
+            {
+              "imageType": "alternativeImage12",
+              "size": {
+                "height": 426,
+                "width": 1198
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187726/15387/{size}/9621074fd2396ebe722bbef538010aec/Sneakers/Nike-Air-max-90.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "S1fLYuEgUr6vv2WzDWTxaNBdo7m",
+              "value": "40.5",
+              "available": true,
+              "price": 129.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 16389768,
+                  "caption": "Maat 40,5",
+                  "columnValue": "40,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 40,5",
+                  "fullId": "3081_16389768",
+                  "sequence": 77,
+                  "urlName": null,
+                  "productIdV3": "S1fLYuEgUr6vv2WzDWTxaNBdo7m",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 129.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431107,
+          "brandName": "Nike",
+          "brandRank": 1,
+          "brandRelativeDemandLabel": "A",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-16 00:00:00",
+          "popularity": 25,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 2.26,
+            "roasPercentage": 1100
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Nike",
+              "values": [
+                {
+                  "id": 431107,
+                  "caption": "Nike",
+                  "columnValue": "Nike",
+                  "crawlable": true,
+                  "detailValue": "Nike",
+                  "fullId": "3078_431107",
+                  "sequence": 2105,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "VD.nl",
+              "values": [
+                {
+                  "id": 4425271,
+                  "caption": "VD.nl",
+                  "columnValue": "VD.nl",
+                  "crawlable": true,
+                  "detailValue": "VD.nl",
+                  "fullId": "3079_4425271",
+                  "sequence": 1918,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "40,5",
+              "values": [
+                {
+                  "id": 16389768,
+                  "caption": "Maat 40,5",
+                  "columnValue": "40,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 40,5",
+                  "fullId": "3081_16389768",
+                  "sequence": 77,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Synthetisch",
+              "values": [
+                {
+                  "id": 430861,
+                  "caption": "Synthetisch",
+                  "columnValue": "Synthetisch",
+                  "crawlable": true,
+                  "detailValue": "Synthetisch",
+                  "fullId": "3083_430861",
+                  "sequence": 36,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3513,
+              "name": "Productlijn",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_serie",
+              "value": "Nike Air",
+              "values": [
+                {
+                  "id": 23467994,
+                  "caption": "Nike Air",
+                  "columnValue": "Nike Air",
+                  "crawlable": true,
+                  "detailValue": "Nike Air",
+                  "fullId": "3513_23467994",
+                  "sequence": 847,
+                  "urlName": null
+                },
+                {
+                  "id": 1334612,
+                  "caption": "Nike Air Max",
+                  "columnValue": "Nike Air Max",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max",
+                  "fullId": "3513_1334612",
+                  "sequence": 854,
+                  "urlName": null
+                },
+                {
+                  "id": 12895261,
+                  "caption": "Nike Air Max 90",
+                  "columnValue": "Nike Air Max 90",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max 90",
+                  "fullId": "3513_12895261",
+                  "sequence": 858,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4100,
+              "name": "Hoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "hoogte",
+              "value": "Laag",
+              "values": [
+                {
+                  "id": 6380618,
+                  "caption": "Lage/low",
+                  "columnValue": "Laag",
+                  "crawlable": true,
+                  "detailValue": "Lage/low",
+                  "fullId": "4100_6380618",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Klassiek",
+              "values": [
+                {
+                  "id": 23580860,
+                  "caption": "Klassieke",
+                  "columnValue": "Klassiek",
+                  "crawlable": true,
+                  "detailValue": "Klassieke",
+                  "fullId": "6097_23580860",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-df1eb904-a652-4f25-a6c5-4a5edf0576cd",
+          "revenuePerClick": 0.21,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 129.95,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        },
+        {
+          "id": "2NqyCBEEJu97dnVrK2owJ3813cB7",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2NqyCBNBtXoZwGawUjAkqv5b7c65",
+            "advertisementIdV3": "2NqyCBNBtXoZwGawUjAkqv5b7c65"
+          },
+          "shopItemId": 0,
+          "productId": "2NqyCBEEJu97dnVrK2owJ3813cB7",
+          "ean": "",
+          "shopInfo": {
+            "id": 512098,
+            "shopName": "Amazon.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 3200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/512098.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:49:29+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "info@Amazon.nl",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 22562,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 512098,
+            "shopItemId": 0,
+            "shopItemTitle": "Nike Air Max 90 Sneaker White/White/White 38.5",
+            "shopItemDescription": "",
+            "shopItemVersion": "B09QX9R4M5-B0958B4G6K-White/White/White-B0958B4G6K",
+            "shopName": "Amazon.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2NqyCBLxhcBYAPDRcUwh1Xqvuojn",
+            "condition": "Nieuw",
+            "ean": "0195866187696",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.amazon.nl/dp/B09QX9R4M5/ref=asc_df_B09QX9R4M5/?creative=380333&creativeASIN=B09QX9R4M5&linkCode=asn&tag=beslistnl20-21&ascsubtag=UUID_placeholder",
+            "size": "38.5",
+            "shopReviewScore": 4.2,
+            "shopReviewAmount": 686,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 144,
+              "price": 149,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 144,
+              "price": 159.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "B09QX9R4M5",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "df1eb904-a652-4f25-a6c5-4a5edf0576cd",
+            "title": null,
+            "description": "Specificaties  Pasvorm normale pasvorm; vetersluiting Bovenwerk leer met synthetisch materiaal en textiel Demping Max Air unit in de hak is oorspronkelijk ontworpen als hardlooptechnologie en zorgt voor veel demping Buitenzool rubberen buitenzool met wafelpatroon biedt grip en stevigheid Kleur wit Materiaal leer - synthetisch materiaal - textiel - rubber ",
+            "descriptionRaw": "<b>Specificaties</b> <ul> <li><b>Pasvorm</b> normale pasvorm; vetersluiting</li> <li><b>Bovenwerk</b> leer met synthetisch materiaal en textiel</li> <li><b>Demping</b> Max Air unit in de hak is oorspronkelijk ontworpen als hardlooptechnologie en zorgt voor veel demping</li> <li><b>Buitenzool</b> rubberen buitenzool met wafelpatroon biedt grip en stevigheid</li> <li><b>Kleur</b> wit</li> <li><b>Materiaal</b> leer - synthetisch materiaal - textiel - rubber</li> </ul>"
+          },
+          "priceHistory": {
+            "lowestPrice": 89.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 104.99
+          },
+          "title": "NIKE WMNS AIR MAX 90 Sneaker voor dames, wit/wit-wit, 4.5 UK, wit, 38 EU",
+          "fixedTitle": "NIKE WMNS AIR MAX 90 Sneaker voor dames, wit/wit-wit, 4.5 UK, wit, 38 EU",
+          "indexIdentifierTimeStamp": 1744868187,
+          "description": "Oorspronkelijk ontworpen voor prestatiegericht hardlopen De gewatteerde, lage kraag ziet er strak uit en voelt geweldig aan Comfort en de iconische jaren 90-look waar je van houdt De rubberen buitenzool met wafelpatroon zorgt voor een historische look, grip en duurzaamheid",
+          "descriptionRaw": "Oorspronkelijk ontworpen voor prestatiegericht hardlopen De gewatteerde, lage kraag ziet er strak uit en voelt geweldig aan Comfort en de iconische jaren 90-look waar je van houdt De rubberen buitenzool met wafelpatroon zorgt voor een historische look, grip en duurzaamheid",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-2NqyCBNBtXoZwGawUjAkqv5b7c65",
+          "categoryId": 9000638,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 8,
+          "shopIds": [
+            512098
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 507,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/0195866187689/394/{size}/c74a2991c2d309efa85156380a98d8eb/Hardloopschoenen/NIKE-WMNS-AIR-MAX-90-Sneaker-voor-dames%2c-wit-wit-wit%2c-4.5-UK%2c-wit%2c-38-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 530,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187689/15376/{size}/cf6a07d42aec670cd53a6f0b20e75fa9/Hardloopschoenen/NIKE-WMNS-AIR-MAX-90-Sneaker-voor-dames%2c-wit-wit-wit%2c-4.5-UK%2c-wit%2c-38-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 888
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187689/15377/{size}/41e74d826c4ef3a05f10c990c361b88c/Hardloopschoenen/NIKE-WMNS-AIR-MAX-90-Sneaker-voor-dames%2c-wit-wit-wit%2c-4.5-UK%2c-wit%2c-38-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 426,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187689/15378/{size}/ba79ecd247f7337bb60fc76cc6d6670f/Hardloopschoenen/NIKE-WMNS-AIR-MAX-90-Sneaker-voor-dames%2c-wit-wit-wit%2c-4.5-UK%2c-wit%2c-38-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1199,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187689/15379/{size}/352747dbd70c7fa519bc6419f52f5081/Hardloopschoenen/NIKE-WMNS-AIR-MAX-90-Sneaker-voor-dames%2c-wit-wit-wit%2c-4.5-UK%2c-wit%2c-38-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 716,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187689/15380/{size}/e430848fa83820e211ef4190eef03ad3/Hardloopschoenen/NIKE-WMNS-AIR-MAX-90-Sneaker-voor-dames%2c-wit-wit-wit%2c-4.5-UK%2c-wit%2c-38-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 1193,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187689/15381/{size}/f0b5f9c0bde80b6ab4d0488c5fd0ca44/Hardloopschoenen/NIKE-WMNS-AIR-MAX-90-Sneaker-voor-dames%2c-wit-wit-wit%2c-4.5-UK%2c-wit%2c-38-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 532,
+                "width": 1183
+              },
+              "type": "alternativeImage",
+              "url": "pim/0195866187689/15382/{size}/b6e9502be884340173da13065232d437/Hardloopschoenen/NIKE-WMNS-AIR-MAX-90-Sneaker-voor-dames%2c-wit-wit-wit%2c-4.5-UK%2c-wit%2c-38-EU.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCBEEJu97dnVrK2owJ3813cB7",
+              "value": "38",
+              "available": true,
+              "price": 149,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2NqyCBLxhcBYAPDRcUwh1Xqvuojn",
+              "value": "38.5",
+              "available": true,
+              "price": 149,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "2NqyCBEEJu97dnVrK2owJ3813cB7",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 144,
+                    "price": 149,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 16389766,
+                  "caption": "Maat 38,5",
+                  "columnValue": "38,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 38,5",
+                  "fullId": "3081_16389766",
+                  "sequence": 67,
+                  "urlName": null,
+                  "productIdV3": "2NqyCBLxhcBYAPDRcUwh1Xqvuojn",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 144,
+                    "price": 149,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431107,
+          "brandName": "Nike",
+          "brandRank": 1,
+          "brandRelativeDemandLabel": "A",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-16 00:00:00",
+          "popularity": 24,
+          "popularityData": {
+            "clickFactor": 1,
+            "webshopsRevenuePerClick": 2.22,
+            "roasPercentage": 1100
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 430777,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3080_430777",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Nike",
+              "values": [
+                {
+                  "id": 431107,
+                  "caption": "Nike",
+                  "columnValue": "Nike",
+                  "crawlable": true,
+                  "detailValue": "Nike",
+                  "fullId": "3078_431107",
+                  "sequence": 2105,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Amazon.nl",
+              "values": [
+                {
+                  "id": 19275875,
+                  "caption": "Amazon.nl",
+                  "columnValue": "Amazon.nl",
+                  "crawlable": true,
+                  "detailValue": "Amazon.nl",
+                  "fullId": "3079_19275875",
+                  "sequence": 53,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "38",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 16389766,
+                  "caption": "Maat 38,5",
+                  "columnValue": "38,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 38,5",
+                  "fullId": "3081_16389766",
+                  "sequence": 67,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 430829,
+                  "caption": "Kinder",
+                  "columnValue": "Kinderen",
+                  "crawlable": true,
+                  "detailValue": "Kinder",
+                  "fullId": "3082_430829",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3092,
+              "name": "Kinderafdeling",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_kinder_babyschoenen",
+              "value": "Meisjesschoenen",
+              "values": [
+                {
+                  "id": 430986,
+                  "caption": "Meisjes",
+                  "columnValue": "Meisjesschoenen",
+                  "crawlable": true,
+                  "detailValue": "Meisjes",
+                  "fullId": "3092_430986",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3513,
+              "name": "Productlijn",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_serie",
+              "value": "Nike Air",
+              "values": [
+                {
+                  "id": 23467994,
+                  "caption": "Nike Air",
+                  "columnValue": "Nike Air",
+                  "crawlable": true,
+                  "detailValue": "Nike Air",
+                  "fullId": "3513_23467994",
+                  "sequence": 847,
+                  "urlName": null
+                },
+                {
+                  "id": 1334612,
+                  "caption": "Nike Air Max",
+                  "columnValue": "Nike Air Max",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max",
+                  "fullId": "3513_1334612",
+                  "sequence": 854,
+                  "urlName": null
+                },
+                {
+                  "id": 12895261,
+                  "caption": "Nike Air Max 90",
+                  "columnValue": "Nike Air Max 90",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max 90",
+                  "fullId": "3513_12895261",
+                  "sequence": 858,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4100,
+              "name": "Hoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "hoogte",
+              "value": "Laag",
+              "values": [
+                {
+                  "id": 6380618,
+                  "caption": "Lage/low",
+                  "columnValue": "Laag",
+                  "crawlable": true,
+                  "detailValue": "Lage/low",
+                  "fullId": "4100_6380618",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Outdoor",
+              "values": [
+                {
+                  "id": 16524274,
+                  "caption": "Outdoor",
+                  "columnValue": "Outdoor",
+                  "crawlable": true,
+                  "detailValue": "Outdoor",
+                  "fullId": "4550_16524274",
+                  "sequence": 30,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Sportief",
+              "values": [
+                {
+                  "id": 23580856,
+                  "caption": "Sportieve",
+                  "columnValue": "Sportief",
+                  "crawlable": true,
+                  "detailValue": "Sportieve",
+                  "fullId": "6097_23580856",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6291,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Duurzaam",
+              "values": [
+                {
+                  "id": 23735390,
+                  "caption": "Duurzame",
+                  "columnValue": "Duurzaam",
+                  "crawlable": true,
+                  "detailValue": "Duurzame",
+                  "fullId": "6291_23735390",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "512098-B0958B4G6K",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-df1eb904-a652-4f25-a6c5-4a5edf0576cd",
+          "revenuePerClick": 0.2,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 2,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 129.95,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": true,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 6,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 6
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

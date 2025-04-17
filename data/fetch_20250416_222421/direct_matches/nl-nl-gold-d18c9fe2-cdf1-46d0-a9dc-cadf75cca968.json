@@ -1,0 +1,2156 @@
+{
+  "offset": 0,
+  "numFound": 5,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 5,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 199.99,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 430804,
+                "caption": "Maat 36",
+                "columnValue": "36",
+                "crawlable": true,
+                "detailValue": "Maat 36",
+                "fullId": "3081_430804",
+                "sequence": 55,
+                "urlName": null
+              },
+              {
+                "id": 430805,
+                "caption": "Maat 37",
+                "columnValue": "37",
+                "crawlable": true,
+                "detailValue": "Maat 37",
+                "fullId": "3081_430805",
+                "sequence": 60,
+                "urlName": null
+              },
+              {
+                "id": 430806,
+                "caption": "Maat 38",
+                "columnValue": "38",
+                "crawlable": true,
+                "detailValue": "Maat 38",
+                "fullId": "3081_430806",
+                "sequence": 65,
+                "urlName": null
+              },
+              {
+                "id": 430807,
+                "caption": "Maat 39",
+                "columnValue": "39",
+                "crawlable": true,
+                "detailValue": "Maat 39",
+                "fullId": "3081_430807",
+                "sequence": 70,
+                "urlName": null
+              },
+              {
+                "id": 430808,
+                "caption": "Maat 40",
+                "columnValue": "40",
+                "crawlable": true,
+                "detailValue": "Maat 40",
+                "fullId": "3081_430808",
+                "sequence": 75,
+                "urlName": null
+              },
+              {
+                "id": 430809,
+                "caption": "Maat 41",
+                "columnValue": "41",
+                "crawlable": true,
+                "detailValue": "Maat 41",
+                "fullId": "3081_430809",
+                "sequence": 80,
+                "urlName": null
+              },
+              {
+                "id": 16389769,
+                "caption": "Maat 41,5",
+                "columnValue": "41,5",
+                "crawlable": true,
+                "detailValue": "Maat 41,5",
+                "fullId": "3081_16389769",
+                "sequence": 82,
+                "urlName": null
+              },
+              {
+                "id": 430810,
+                "caption": "Maat 42",
+                "columnValue": "42",
+                "crawlable": true,
+                "detailValue": "Maat 42",
+                "fullId": "3081_430810",
+                "sequence": 84,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "39JhiHt5ysN5BTDkRjaXqComx5k",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "39JhiDDLgD2mQbVf8qrmemXvuuX",
+            "advertisementIdV3": "39JhiDDLgD2mQbVf8qrmemXvuuX"
+          },
+          "shopItemId": 0,
+          "productId": "39JhiHt5ysN5BTDkRjaXqComx5k",
+          "ean": "",
+          "shopInfo": {
+            "id": 42754,
+            "shopName": "Durlinger.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 7,
+            "productCount": 2100,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/42754.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-16T01:38:12+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 21708,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@durlinger.com",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 34,
+                "name": "Billink "
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 42754,
+            "shopItemId": 0,
+            "shopItemTitle": "Hartjes Sneakers",
+            "shopItemDescription": "",
+            "shopItemVersion": "254256-254264-Blauw-254264",
+            "shopName": "Durlinger.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "39Jhi8tyLLWTaV1HgoBVDFbUbz5",
+            "condition": "Nieuw",
+            "ean": "9010579107018",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.durlinger.com/hartjes-sneakers-blauw-dames-62403.html?utm_campaign=Beslist&utm_content=&utm_source=Channable&utm_medium=Affiliate&utm_term=",
+            "size": "40",
+            "shopReviewScore": 8,
+            "shopReviewAmount": 70,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 199.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "254256",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "d18c9fe2-cdf1-46d0-a9dc-cadf75cca968",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 176.98
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 189.95
+          },
+          "title": "Hartjes Sneakers",
+          "fixedTitle": "Hartjes Sneakers",
+          "indexIdentifierTimeStamp": 1744834909,
+          "description": "Combineer stijl en comfort met deze Hartjes sneaker! De damessneaker heeft een mooie jeansblauwe kleur en is heel licht van gewicht.\n\n\n\n Deze sneaker is helemaal gemaakt van su\u00e8de. \nDeze sneakers hebben een voorgevormd en uitneembaar voetbed en zijn ook geschikt voor je eigen steunzolen. \nDe sneaker heeft voetwijdte K. Dit betekent dat de schoen geschikt is voor een brede voet.\n",
+          "descriptionRaw": "Combineer stijl en comfort met deze Hartjes sneaker! De damessneaker heeft een mooie jeansblauwe kleur en is heel licht van gewicht.\n<br>\n<br>\n<ul>\n <li>Deze sneaker is helemaal gemaakt van su\u00e8de. </li>\n<li>Deze sneakers hebben een voorgevormd en uitneembaar voetbed en zijn ook geschikt voor je eigen steunzolen. </li>\n<li>De sneaker heeft voetwijdte K. Dit betekent dat de schoen geschikt is voor een brede voet.</li>\n</ul>",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-39JhiDDLgD2mQbVf8qrmemXvuuX",
+          "categoryId": 9000608,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 5,
+          "shopIds": [
+            42754
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1095,
+                "width": 2499
+              },
+              "type": "mainImage",
+              "url": "39JhiHt5ysN5BTDkRjaXqComx5k/394/{size}/489823b59daf0922912bb361ee8acfbc/Sneakers/Hartjes-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 765,
+                "width": 1729
+              },
+              "type": "alternativeImage",
+              "url": "39JhiHt5ysN5BTDkRjaXqComx5k/15376/{size}/bf08afa705dd9043345db2ec82c699e4/Sneakers/Hartjes-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1221,
+                "width": 2499
+              },
+              "type": "alternativeImage",
+              "url": "39JhiHt5ysN5BTDkRjaXqComx5k/15377/{size}/ec9653416f953f40a8edfdf615bff312/Sneakers/Hartjes-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1349,
+                "width": 2499
+              },
+              "type": "alternativeImage",
+              "url": "39JhiHt5ysN5BTDkRjaXqComx5k/15378/{size}/79ffe81f988dee190e0b005e3f100eb1/Sneakers/Hartjes-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 2388,
+                "width": 2321
+              },
+              "type": "alternativeImage",
+              "url": "39JhiHt5ysN5BTDkRjaXqComx5k/15379/{size}/bd3a3f5ba4f6273b1d499f17fd5ebd0f/Sneakers/Hartjes-Sneakers.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiHt5ysN5BTDkRjaXqComx5k",
+              "value": "37\u00bd",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiPMY5egGfhTvKJs1pio4aQX",
+              "value": "42",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39Jhi8tyLLWTaV1HgoBVDFbUbz5",
+              "value": "40",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhhzQ3DK8pc2iAXfQVZfh9AEC",
+              "value": "37",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiTQGuiDnrmRnFSQMu8tyY1K",
+              "value": "38\u00bd",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiEJCsT2xVgnvFWeptkYTk1Z",
+              "value": "41",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39Jhi6yNi43f68VBZB6euhLX8k9",
+              "value": "39",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiCMA1noPHweK9e1NsWCTxmU",
+              "value": "41\u00bd",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiHG1LH5EzXMDBYttVDqNNsf",
+              "value": "38",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiN1iLWiuU7okaEDaQ2mJsJS",
+              "value": "36\u00bd",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430804,
+                  "caption": "Maat 36",
+                  "columnValue": "36",
+                  "crawlable": true,
+                  "detailValue": "Maat 36",
+                  "fullId": "3081_430804",
+                  "sequence": 55,
+                  "urlName": null,
+                  "productIdV3": "39JhiN1iLWiuU7okaEDaQ2mJsJS",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "39JhiHt5ysN5BTDkRjaXqComx5k",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "39JhhzQ3DK8pc2iAXfQVZfh9AEC",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "39JhiTQGuiDnrmRnFSQMu8tyY1K",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "39JhiHG1LH5EzXMDBYttVDqNNsf",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "39Jhi6yNi43f68VBZB6euhLX8k9",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "39Jhi8tyLLWTaV1HgoBVDFbUbz5",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "39JhiEJCsT2xVgnvFWeptkYTk1Z",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 16389769,
+                  "caption": "Maat 41,5",
+                  "columnValue": "41,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 41,5",
+                  "fullId": "3081_16389769",
+                  "sequence": 82,
+                  "urlName": null,
+                  "productIdV3": "39JhiCMA1noPHweK9e1NsWCTxmU",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "39JhiPMY5egGfhTvKJs1pio4aQX",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 5085490,
+          "brandName": "Hartjes",
+          "brandRank": 180,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-10 00:00:00",
+          "popularity": 9022,
+          "popularityData": {
+            "clickFactor": 133,
+            "webshopsRevenuePerClick": 3.91,
+            "roasPercentage": 600
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 2 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Hartjes",
+              "values": [
+                {
+                  "id": 5085490,
+                  "caption": "Hartjes",
+                  "columnValue": "Hartjes",
+                  "crawlable": true,
+                  "detailValue": "Hartjes",
+                  "fullId": "3078_5085490",
+                  "sequence": 1314,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Durlinger.com",
+              "values": [
+                {
+                  "id": 15137876,
+                  "caption": "Durlinger.com",
+                  "columnValue": "Durlinger.com",
+                  "crawlable": true,
+                  "detailValue": "Durlinger.com",
+                  "fullId": "3079_15137876",
+                  "sequence": 464,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Blauw",
+              "values": [
+                {
+                  "id": 430773,
+                  "caption": "Blauwe",
+                  "columnValue": "Blauw",
+                  "crawlable": true,
+                  "detailValue": "Blauwe",
+                  "fullId": "3080_430773",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "36",
+              "values": [
+                {
+                  "id": 430804,
+                  "caption": "Maat 36",
+                  "columnValue": "36",
+                  "crawlable": true,
+                  "detailValue": "Maat 36",
+                  "fullId": "3081_430804",
+                  "sequence": 55,
+                  "urlName": null
+                },
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                },
+                {
+                  "id": 16389769,
+                  "caption": "Maat 41,5",
+                  "columnValue": "41,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 41,5",
+                  "fullId": "3081_16389769",
+                  "sequence": 82,
+                  "urlName": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Suede",
+              "values": [
+                {
+                  "id": 430860,
+                  "caption": "Suede",
+                  "columnValue": "Suede",
+                  "crawlable": true,
+                  "detailValue": "Suede",
+                  "fullId": "3083_430860",
+                  "sequence": 34,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Brede voeten",
+              "values": [
+                {
+                  "id": 15482619,
+                  "caption": "Brede voeten",
+                  "columnValue": "Brede voeten",
+                  "crawlable": true,
+                  "detailValue": "Brede voeten",
+                  "fullId": "4550_15482619",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 11228162,
+                  "caption": "Uitneembaar voetbed",
+                  "columnValue": "Uitneembaar voetbed",
+                  "crawlable": true,
+                  "detailValue": "Uitneembaar voetbed",
+                  "fullId": "4550_11228162",
+                  "sequence": 44,
+                  "urlName": null
+                },
+                {
+                  "id": 23588099,
+                  "caption": "met voetbed",
+                  "columnValue": "Voetbed",
+                  "crawlable": true,
+                  "detailValue": "met voetbed",
+                  "fullId": "4550_23588099",
+                  "sequence": 47,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "K",
+              "values": [
+                {
+                  "id": 16475786,
+                  "caption": "Wijdte K",
+                  "columnValue": "K",
+                  "crawlable": true,
+                  "detailValue": "Wijdte K",
+                  "fullId": "5211_16475786",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Sportief",
+              "values": [
+                {
+                  "id": 23580856,
+                  "caption": "Sportieve",
+                  "columnValue": "Sportief",
+                  "crawlable": true,
+                  "detailValue": "Sportieve",
+                  "fullId": "6097_23580856",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "42754-254264",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-d18c9fe2-cdf1-46d0-a9dc-cadf75cca968",
+          "revenuePerClick": 0.65,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 194.95,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "shopReviewScore",
+              "score": 8,
+              "amount": 70
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "4D2f3AUMtU5vLzBS3xKmEjnePhk6",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "4D2f3AQBUGjuRJNdPJQepRW2tioA",
+            "advertisementIdV3": "4D2f3AQBUGjuRJNdPJQepRW2tioA"
+          },
+          "shopItemId": 1056031285,
+          "productId": "4D2f3AUMtU5vLzBS3xKmEjnePhk6",
+          "ean": "",
+          "shopInfo": {
+            "id": 80358,
+            "shopName": "Shoerama.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "WW",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": false,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 8,
+            "productCount": 4900,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/80358.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T01:38:08+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 20085,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "klantenservice@shoerama.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 27,
+                "name": "Webshop Keurmerk"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 80358,
+            "shopItemId": 1056027148,
+            "shopItemTitle": "Dames Veterschoenen Hartjes Hartjes 162.1604/99 blauw blauw",
+            "shopItemDescription": "",
+            "shopItemVersion": "2300.24.0101-blauw-4\u00bd-2300.24.0101-blauw-2300.24.0101",
+            "shopName": "Shoerama.nl",
+            "shopType": "WW",
+            "productIdentifier": "",
+            "productIdV3": "4D2f3APW5Qy7UcdQjridqVeZa2Fe",
+            "condition": "Nieuw",
+            "ean": "9010579106974",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.shoerama.nl/hartjes-162-1604-99-blauw-2300-24-0101",
+            "size": "4\u00bd",
+            "shopReviewScore": 2.6,
+            "shopReviewAmount": 384,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 199.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "2300.24.0101-blauw-4\u00bd",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "d18c9fe2-cdf1-46d0-a9dc-cadf75cca968",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 176.98
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 189.95
+          },
+          "title": "Dames Veterschoenen Hartjes Hartjes 162.1604/99 blauw blauw",
+          "fixedTitle": "Dames Veterschoenen Hartjes Hartjes 162.1604/99 blauw blauw",
+          "indexIdentifierTimeStamp": 1744834909,
+          "description": "Hartjes 162.1604/99 blauw",
+          "descriptionRaw": "Hartjes 162.1604/99 blauw",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1210675559,
+          "gtinGroupId": "32000-4D2f3AQBUGjuRJNdPJQepRW2tioA",
+          "categoryId": 32000,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": 137440164147559,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 5,
+          "shopIds": [
+            80358
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1175,
+                "width": 1929
+              },
+              "type": "mainImage",
+              "url": "4D2f3AUMtU5vLzBS3xKmEjnePhk6/394/{size}/2aedf5cae61a5e3be858ad7e573d3ad8/Schoenen/Dames-Veterschoenen-Hartjes-Hartjes-162.1604-99-blauw-blauw.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "4D2f3AUMtU5vLzBS3xKmEjnePhk6",
+              "value": "8",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4D2f3ABC28vv4XJE1RT4qPXoUxVj",
+              "value": "5",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4D2f3A2yNN3ZZwxMezRnxfcVfkEq",
+              "value": "7\u00bd",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4D2f3ACrHgJeoShbJ2Gmkb5YGzFx",
+              "value": "6",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4D2f3APW5Qy7UcdQjridqVeZa2Fe",
+              "value": "4\u00bd",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4D2f3AUnRNUqWnJBVKLPk8kHx2JU",
+              "value": "5\u00bd",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "4D2f3ANjLPk7bpzUixFVv6cXwGuR",
+              "value": "7",
+              "available": true,
+              "price": 199.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 16389769,
+                  "caption": "Maat 41,5",
+                  "columnValue": "41,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 41,5",
+                  "fullId": "3081_16389769",
+                  "sequence": 82,
+                  "urlName": null,
+                  "productIdV3": "4D2f3A2yNN3ZZwxMezRnxfcVfkEq",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "4D2f3AUMtU5vLzBS3xKmEjnePhk6",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 199.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 5085490,
+          "brandName": "Hartjes",
+          "brandRank": 180,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-10 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 650
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Voor 17:00 besteld, dezelfde dag verzonden",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "41,5",
+              "values": [
+                {
+                  "id": 16389769,
+                  "caption": "Maat 41,5",
+                  "columnValue": "41,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 41,5",
+                  "fullId": "3081_16389769",
+                  "sequence": 82,
+                  "urlName": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Hartjes",
+              "values": [
+                {
+                  "id": 5085490,
+                  "caption": "Hartjes",
+                  "columnValue": "Hartjes",
+                  "crawlable": true,
+                  "detailValue": "Hartjes",
+                  "fullId": "3078_5085490",
+                  "sequence": 1314,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Shoerama.nl",
+              "values": [
+                {
+                  "id": 16026570,
+                  "caption": "Shoerama.nl",
+                  "columnValue": "Shoerama.nl",
+                  "crawlable": true,
+                  "detailValue": "Shoerama.nl",
+                  "fullId": "3079_16026570",
+                  "sequence": 1564,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Blauw",
+              "values": [
+                {
+                  "id": 430773,
+                  "caption": "Blauwe",
+                  "columnValue": "Blauw",
+                  "crawlable": true,
+                  "detailValue": "Blauwe",
+                  "fullId": "3080_430773",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Veter",
+              "values": [
+                {
+                  "id": 430982,
+                  "caption": "Met veters",
+                  "columnValue": "Veter",
+                  "crawlable": true,
+                  "detailValue": "Met veters",
+                  "fullId": "3090_430982",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "shoerama.nl-2300.24.0101",
+          "relatedSiblingDetails": {
+            "id": null,
+            "detail": null,
+            "isTopDetail": null,
+            "value": "Blauw"
+          },
+          "bidData": null,
+          "bidApiData": {
+            "cps": {
+              "brandId": 5085490,
+              "categoryId": 32000,
+              "isDisplayGuaranteed": true,
+              "origin": 108,
+              "shopId": 80358,
+              "uuid": "a2d7756d-c829-430e-8fbe-bd0530232eaa",
+              "value": 15.5
+            }
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-d18c9fe2-cdf1-46d0-a9dc-cadf75cca968",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 2,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 194.95,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "beslistWarranty"
+            }
+          ]
+        },
+        {
+          "id": "2x5tfxvfVBMtQuhykXAMCwbBcMmS",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2x5tfxqLiagc39unXyZqnzPKKGdL",
+            "advertisementIdV3": "2x5tfxqLiagc39unXyZqnzPKKGdL"
+          },
+          "shopItemId": 0,
+          "productId": "2x5tfxvfVBMtQuhykXAMCwbBcMmS",
+          "ean": "",
+          "shopInfo": {
+            "id": 652171,
+            "shopName": "Topshoe.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 5,
+            "productCount": 33900,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652171.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T01:38:07+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 38281,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 652171,
+            "shopItemId": 0,
+            "shopItemTitle": "Hartjes 116260 wijdte K Veterschoenen",
+            "shopItemDescription": "",
+            "shopItemVersion": "10022261-https://cdn.nextchapter-ecommerce.com/pim/Files/Product/xlarge/4904728_hartjes 162.1604.99 42.19 1.jpg",
+            "shopName": "Topshoe.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2x5tfyDyfgDWsJqRN7vXJnf1Ydnd",
+            "condition": "Nieuw",
+            "ean": "9010579107018",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://to.topshoe.nl/t/t?a=1848077725&as=1794440627&t=2&tk=1&epi=UUID_placeholder&epi2=GCLID_placeholder&at_gd=GCLID_placeholder&url=https://www.topshoe.nl/nl/2129535/hartjes-116260-wijdte-k/?affiliatenetwork=daisycon",
+            "size": "6.5",
+            "shopReviewScore": 5.8,
+            "shopReviewAmount": 33,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 209.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "10022261",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "d18c9fe2-cdf1-46d0-a9dc-cadf75cca968",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 176.98
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 189.95
+          },
+          "title": "Hartjes 116260 wijdte K Veterschoenen",
+          "fixedTitle": "Hartjes 116260 wijdte K Veterschoenen",
+          "indexIdentifierTimeStamp": 1744834909,
+          "description": "Hartjes op Topshoe.nl Schoenen van het Oostenrijkse topmerk Hartjes op Topshoe.nl Dit model heeft een rits- en een vetersluiting. Doordat het voetbed uitneembaar is, kunnen ook eigen inlegzolen gedragen worden. Deze extra brede, wijdte K, schoenen van Hartjes, artikelnummer 162.1604, bestel je gemakkelijk op Topshoe.nl",
+          "descriptionRaw": "Hartjes op Topshoe.nl Schoenen van het Oostenrijkse topmerk Hartjes op Topshoe.nl Dit model heeft een rits- en een vetersluiting. Doordat het voetbed uitneembaar is, kunnen ook eigen inlegzolen gedragen worden. Deze extra brede, wijdte K, schoenen van Hartjes, artikelnummer 162.1604, bestel je gemakkelijk op Topshoe.nl",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-2x5tfxqLiagc39unXyZqnzPKKGdL",
+          "categoryId": 9002642,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 5,
+          "shopIds": [
+            652171
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 367,
+                "width": 599
+              },
+              "type": "mainImage",
+              "url": "2x5tfxvfVBMtQuhykXAMCwbBcMmS/394/{size}/8beb6eb51a7a5b4b4343169c6972340f/Nette-schoenen/Hartjes-116260-wijdte-K-Veterschoenen.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxvfVBMtQuhykXAMCwbBcMmS",
+              "value": "4",
+              "available": true,
+              "price": 209.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfy1rFdmJff72h3orXjXmcAiX",
+              "value": "8.5",
+              "available": true,
+              "price": 199.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfy5wkpEqnddvcf96P9HPzndx",
+              "value": "5",
+              "available": true,
+              "price": 209.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxvuWphYKFfixU8PrizFxZHF",
+              "value": "9",
+              "available": true,
+              "price": 209.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfy9mQY2jBCjCLzQE3rLPiUhM",
+              "value": "7.5",
+              "available": true,
+              "price": 204.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfyD6uFMi15JfcJLVcDtRUk2P",
+              "value": "6",
+              "available": true,
+              "price": 209.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxsr6Vey3GAmT9Exadj3UBLp",
+              "value": "8",
+              "available": true,
+              "price": 209.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxudYgtrdqKtX9EvvKYi4GcW",
+              "value": "5.5",
+              "available": true,
+              "price": 209.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxrMDZWqrHCJtdoVfUVpwaRu",
+              "value": "7",
+              "available": true,
+              "price": 209.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxtiLGWc8HkzQR8sqWaCEHB2",
+              "value": "4.5",
+              "available": true,
+              "price": 209.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfyDyfgDWsJqRN7vXJnf1Ydnd",
+              "value": "6.5",
+              "available": true,
+              "price": 209.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 16389769,
+                  "caption": "Maat 41,5",
+                  "columnValue": "41,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 41,5",
+                  "fullId": "3081_16389769",
+                  "sequence": 82,
+                  "urlName": null,
+                  "productIdV3": "2x5tfy9mQY2jBCjCLzQE3rLPiUhM",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 204.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "2x5tfxsr6Vey3GAmT9Exadj3UBLp",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 209.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 5085490,
+          "brandName": "Hartjes",
+          "brandRank": 180,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-10 00:00:00",
+          "popularity": 16,
+          "popularityData": {
+            "clickFactor": 3,
+            "webshopsRevenuePerClick": 0.99,
+            "roasPercentage": 3300
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Hartjes",
+              "values": [
+                {
+                  "id": 5085490,
+                  "caption": "Hartjes",
+                  "columnValue": "Hartjes",
+                  "crawlable": true,
+                  "detailValue": "Hartjes",
+                  "fullId": "3078_5085490",
+                  "sequence": 1314,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Topshoe.nl",
+              "values": [
+                {
+                  "id": 23803113,
+                  "caption": "Topshoe.nl",
+                  "columnValue": "Topshoe.nl",
+                  "crawlable": true,
+                  "detailValue": "Topshoe.nl",
+                  "fullId": "3079_23803113",
+                  "sequence": 2149,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Blauw",
+              "values": [
+                {
+                  "id": 430773,
+                  "caption": "Blauwe",
+                  "columnValue": "Blauw",
+                  "crawlable": true,
+                  "detailValue": "Blauwe",
+                  "fullId": "3080_430773",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Suede",
+              "values": [
+                {
+                  "id": 430860,
+                  "caption": "Suede",
+                  "columnValue": "Suede",
+                  "crawlable": true,
+                  "detailValue": "Suede",
+                  "fullId": "3083_430860",
+                  "sequence": 34,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Veter",
+              "values": [
+                {
+                  "id": 430982,
+                  "caption": "Met veters",
+                  "columnValue": "Veter",
+                  "crawlable": true,
+                  "detailValue": "Met veters",
+                  "fullId": "3090_430982",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 431495,
+                  "caption": "Met rits",
+                  "columnValue": "Rits",
+                  "crawlable": true,
+                  "detailValue": "Met rits",
+                  "fullId": "3090_431495",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Brede voeten",
+              "values": [
+                {
+                  "id": 15482619,
+                  "caption": "Brede voeten",
+                  "columnValue": "Brede voeten",
+                  "crawlable": true,
+                  "detailValue": "Brede voeten",
+                  "fullId": "4550_15482619",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 11228162,
+                  "caption": "Uitneembaar voetbed",
+                  "columnValue": "Uitneembaar voetbed",
+                  "crawlable": true,
+                  "detailValue": "Uitneembaar voetbed",
+                  "fullId": "4550_11228162",
+                  "sequence": 44,
+                  "urlName": null
+                },
+                {
+                  "id": 23588099,
+                  "caption": "met voetbed",
+                  "columnValue": "Voetbed",
+                  "crawlable": true,
+                  "detailValue": "met voetbed",
+                  "fullId": "4550_23588099",
+                  "sequence": 47,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "K",
+              "values": [
+                {
+                  "id": 16475786,
+                  "caption": "Wijdte K",
+                  "columnValue": "K",
+                  "crawlable": true,
+                  "detailValue": "Wijdte K",
+                  "fullId": "5211_16475786",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "41,5",
+              "values": [
+                {
+                  "id": 16389769,
+                  "caption": "Maat 41,5",
+                  "columnValue": "41,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 41,5",
+                  "fullId": "3081_16389769",
+                  "sequence": 82,
+                  "urlName": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-d18c9fe2-cdf1-46d0-a9dc-cadf75cca968",
+          "revenuePerClick": 0.03,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 1,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 194.95,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

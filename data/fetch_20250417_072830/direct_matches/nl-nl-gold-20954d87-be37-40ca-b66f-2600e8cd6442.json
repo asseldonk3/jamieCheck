@@ -1,0 +1,2185 @@
+{
+  "offset": 0,
+  "numFound": 4,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 4,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 143.95,
+        "highestDiscount": 10,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 430805,
+                "caption": "Maat 37",
+                "columnValue": "37",
+                "crawlable": true,
+                "detailValue": "Maat 37",
+                "fullId": "3081_430805",
+                "sequence": 60,
+                "urlName": null
+              },
+              {
+                "id": 430806,
+                "caption": "Maat 38",
+                "columnValue": "38",
+                "crawlable": true,
+                "detailValue": "Maat 38",
+                "fullId": "3081_430806",
+                "sequence": 65,
+                "urlName": null
+              },
+              {
+                "id": 430807,
+                "caption": "Maat 39",
+                "columnValue": "39",
+                "crawlable": true,
+                "detailValue": "Maat 39",
+                "fullId": "3081_430807",
+                "sequence": 70,
+                "urlName": null
+              },
+              {
+                "id": 430808,
+                "caption": "Maat 40",
+                "columnValue": "40",
+                "crawlable": true,
+                "detailValue": "Maat 40",
+                "fullId": "3081_430808",
+                "sequence": 75,
+                "urlName": null
+              },
+              {
+                "id": 430809,
+                "caption": "Maat 41",
+                "columnValue": "41",
+                "crawlable": true,
+                "detailValue": "Maat 41",
+                "fullId": "3081_430809",
+                "sequence": 80,
+                "urlName": null
+              },
+              {
+                "id": 430810,
+                "caption": "Maat 42",
+                "columnValue": "42",
+                "crawlable": true,
+                "detailValue": "Maat 42",
+                "fullId": "3081_430810",
+                "sequence": 84,
+                "urlName": null
+              },
+              {
+                "id": 430811,
+                "caption": "Maat 43",
+                "columnValue": "43",
+                "crawlable": true,
+                "detailValue": "Maat 43",
+                "fullId": "3081_430811",
+                "sequence": 88,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3j9E8oB3gStikWJSkaEP3iKBYVH8",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3j9E8o24337sTN2NEpyCMTcdpyQh",
+            "advertisementIdV3": "3j9E8o24337sTN2NEpyCMTcdpyQh"
+          },
+          "shopItemId": 0,
+          "productId": "3j9E8oB3gStikWJSkaEP3iKBYVH8",
+          "ean": "",
+          "shopInfo": {
+            "id": 374467,
+            "shopName": "Etrias.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "WW",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": false,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 6,
+            "productCount": 85000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/374467.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:50:08+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 4078,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "klantenservice@etrias.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 6,
+                "name": "DPD"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 374467,
+            "shopItemId": 0,
+            "shopItemTitle": "Sandaal Wolky Women Medusa Bronze-Schoenmaat 41",
+            "shopItemDescription": "",
+            "shopItemVersion": "2516267-2516276",
+            "shopName": "Etrias.nl",
+            "shopType": "WW",
+            "productIdentifier": "",
+            "productIdV3": "3j9E8oB3gStikWJSkaEP3iKBYVH8",
+            "condition": "Nieuw",
+            "ean": "8719205635123",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.etrias.nl/sandaal-wolky-women-medusa-bronze.html?utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslist",
+            "size": "41",
+            "shopReviewScore": 7.6,
+            "shopReviewAmount": 2807,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 89,
+              "price": 143.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 144,
+              "price": 159.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "2516267",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "20954d87-be37-40ca-b66f-2600e8cd6442",
+            "title": "Wolky Sandalen Medusa brons leer",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 95.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 95.95
+          },
+          "title": "Sandaal Wolky Women Medusa Bronze-Schoenmaat 41",
+          "fixedTitle": "Sandaal Wolky Women Medusa Bronze-Schoenmaat 40",
+          "indexIdentifierTimeStamp": 1744867738,
+          "description": "Ontdek het ultieme loopcomfort met deze hoogwaardige sandaal van het gerenommeerde Nederlandse merk Wolky. Bekend om hun onge\u00ebvenaarde aandacht voor pasvorm en comfort, biedt deze sandaal een perfecte combinatie van stijl en functionaliteit. Gemaakt van zacht en soepel leer, met een volledig leren voering, zorgt deze sandaal voor een luxueus gevoel bij elke stap. De opvallende, golvende zool is vervaardigd uit TR-materiaal, wat zorgt voor uitstekende demping, flexibiliteit en stabiliteit. Daarnaast is de zool lichtgewicht en flexibel, wat het loopcomfort aanzienlijk bevordert. Het anatomisch gevormde voetbed, gemaakt van PU met memory foam, is uitneembaar en kan indien nodig worden vervangen door eigen zooltjes. Deze sandaal is uitgerust met drie verstelbare klittenbandsluitingen op de voorvoet, wreef en enkel, waardoor een perfecte pasvorm gegarandeerd is. De pasvorm is ideaal voor gemiddelde tot bolle voeten, maar het wordt aanbevolen een maat groter te bestellen, aangezien de sandaal klein valt. Met een effectieve hakhoogte van 1 cm biedt deze sandaal een subtiele lift zonder in te boeten aan comfort. Wolky blijft trouw aan zijn visie door schoenen te cre\u00ebren die niet alleen stijlvol zijn, maar ook bijdragen aan het welzijn van de voet. Perfect voor dagelijks gebruik, deze sandaal is een must-have voor wie niet wil kiezen tussen stijl en comfort.\\\\n\\\\nSandaal\\\\nMerk: Wolky\\\\nSerie: Medusa\\\\nKleur: Bronze\\\\nMateriaal: Leer\\\\nVoering: 100% Leer\\\\nZool: 100% PU\\\\nPasvorm: Geschikt voor gemiddelde tot bolle voeten\\\\nSandaal met drie klittenbandsluitingen: op de voorvoet, wreef \u00e9n enkel\\\\nUnieke zool gemaakt van TR\\\\nZorgt voor demping, flexibiliteit en stabiliteit\\\\nStoere opvallende zool met golvend effect\\\\nAnatomisch gevormd voetbed gemaakt van PU met memory foam\\\\nZacht en soepel leer?\\\\nUitneembaar voetbed\\\\nLoopcomfort wordt optimaal bevorderd?\\\\nEffectieve hakhoogte: 1 cm\\\\nFlexibele en lichtgewichte zool\\\\nMet klittenband verstelbaar voor perfecte pasvorm\\\\nMaatadvies: Valt klein, dus we raden aan om een maat groter te bestellen\\\\nGeschikt voor: Women",
+          "descriptionRaw": "Ontdek het ultieme loopcomfort met deze hoogwaardige sandaal van het gerenommeerde Nederlandse merk Wolky. Bekend om hun onge\u00ebvenaarde aandacht voor pasvorm en comfort, biedt deze sandaal een perfecte combinatie van stijl en functionaliteit. Gemaakt van zacht en soepel leer, met een volledig leren voering, zorgt deze sandaal voor een luxueus gevoel bij elke stap. De opvallende, golvende zool is vervaardigd uit TR-materiaal, wat zorgt voor uitstekende demping, flexibiliteit en stabiliteit. Daarnaast is de zool lichtgewicht en flexibel, wat het loopcomfort aanzienlijk bevordert. Het anatomisch gevormde voetbed, gemaakt van PU met memory foam, is uitneembaar en kan indien nodig worden vervangen door eigen zooltjes. Deze sandaal is uitgerust met drie verstelbare klittenbandsluitingen op de voorvoet, wreef en enkel, waardoor een perfecte pasvorm gegarandeerd is. De pasvorm is ideaal voor gemiddelde tot bolle voeten, maar het wordt aanbevolen een maat groter te bestellen, aangezien de sandaal klein valt. Met een effectieve hakhoogte van 1 cm biedt deze sandaal een subtiele lift zonder in te boeten aan comfort. Wolky blijft trouw aan zijn visie door schoenen te cre\u00ebren die niet alleen stijlvol zijn, maar ook bijdragen aan het welzijn van de voet. Perfect voor dagelijks gebruik, deze sandaal is een must-have voor wie niet wil kiezen tussen stijl en comfort.\\\\n\\\\nSandaal\\\\nMerk: Wolky\\\\nSerie: Medusa\\\\nKleur: Bronze\\\\nMateriaal: Leer\\\\nVoering: 100% Leer\\\\nZool: 100% PU\\\\nPasvorm: Geschikt voor gemiddelde tot bolle voeten\\\\nSandaal met drie klittenbandsluitingen: op de voorvoet, wreef \u00e9n enkel\\\\nUnieke zool gemaakt van TR\\\\nZorgt voor demping, flexibiliteit en stabiliteit\\\\nStoere opvallende zool met golvend effect\\\\nAnatomisch gevormd voetbed gemaakt van PU met memory foam\\\\nZacht en soepel leer?\\\\nUitneembaar voetbed\\\\nLoopcomfort wordt optimaal bevorderd?\\\\nEffectieve hakhoogte: 1 cm\\\\nFlexibele en lichtgewichte zool\\\\nMet klittenband verstelbaar voor perfecte pasvorm\\\\nMaatadvies: Valt klein, dus we raden aan om een maat groter te bestellen\\\\nGeschikt voor: Women",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-3j9E8o24337sTN2NEpyCMTcdpyQh",
+          "categoryId": 9000616,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 4,
+          "shopIds": [
+            374467
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1199,
+                "width": 884
+              },
+              "type": "mainImage",
+              "url": "pim/8719205635116/394/{size}/c6de0c39db5eb713caa2a4df8192f0e8/Sandalen/Sandaal-Wolky-Women-Medusa-Bronze-Schoenmaat-40.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1198,
+                "width": 883
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635116/15376/{size}/9870e1704481e562e689564ff19b4c00/Sandalen/Sandaal-Wolky-Women-Medusa-Bronze-Schoenmaat-40.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1197,
+                "width": 884
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635116/15377/{size}/3e6b5d4dae963286a432c761f9454ea7/Sandalen/Sandaal-Wolky-Women-Medusa-Bronze-Schoenmaat-40.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1196,
+                "width": 883
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635116/15378/{size}/2ef22af198c413a5e5267ca871c42a5d/Sandalen/Sandaal-Wolky-Women-Medusa-Bronze-Schoenmaat-40.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 543,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635116/15379/{size}/06185fff6b5abd147cd0d6a857e78b3a/Sandalen/Sandaal-Wolky-Women-Medusa-Bronze-Schoenmaat-40.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1196,
+                "width": 878
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635116/15380/{size}/cf648c8fc8104205fc7ad753dfa2ec22/Sandalen/Sandaal-Wolky-Women-Medusa-Bronze-Schoenmaat-40.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 633,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635116/15381/{size}/63f0dec8b429136b29bec7e2fb7f15b8/Sandalen/Sandaal-Wolky-Women-Medusa-Bronze-Schoenmaat-40.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 579,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635116/15382/{size}/abccb1af059d55245a15cca2c889a22c/Sandalen/Sandaal-Wolky-Women-Medusa-Bronze-Schoenmaat-40.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 551,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635116/15383/{size}/59ee045e83119a2fd460306848b164ad/Sandalen/Sandaal-Wolky-Women-Medusa-Bronze-Schoenmaat-40.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 1199,
+                "width": 1108
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635116/15384/{size}/116ca4ce7b01d62c3913e122b839adf1/Sandalen/Sandaal-Wolky-Women-Medusa-Bronze-Schoenmaat-40.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 565,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635116/15385/{size}/d4953859bdddce421e2fe00541a48822/Sandalen/Sandaal-Wolky-Women-Medusa-Bronze-Schoenmaat-40.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3j9E8oB3gStikWJSkaEP3iKBYVH8",
+              "value": "41",
+              "available": true,
+              "price": 143.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3j9E8nq9EzSRuzo8hiUCZ6HfxZHn",
+              "value": "40",
+              "available": true,
+              "price": 143.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "3j9E8nq9EzSRuzo8hiUCZ6HfxZHn",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 143.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "3j9E8oB3gStikWJSkaEP3iKBYVH8",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 143.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431353,
+          "brandName": "Wolky",
+          "brandRank": 121,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-08 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 500
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 - 5 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "40",
+              "values": [
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Wolky",
+              "values": [
+                {
+                  "id": 431353,
+                  "caption": "Wolky",
+                  "columnValue": "Wolky",
+                  "crawlable": true,
+                  "detailValue": "Wolky",
+                  "fullId": "3078_431353",
+                  "sequence": 3268,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Etrias.nl",
+              "values": [
+                {
+                  "id": 8913135,
+                  "caption": "Etrias.nl",
+                  "columnValue": "Etrias.nl",
+                  "crawlable": true,
+                  "detailValue": "Etrias.nl",
+                  "fullId": "3079_8913135",
+                  "sequence": 509,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Bruin",
+              "values": [
+                {
+                  "id": 430779,
+                  "caption": "Bruine",
+                  "columnValue": "Bruin",
+                  "crawlable": true,
+                  "detailValue": "Bruine",
+                  "fullId": "3080_430779",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Gevoerd",
+              "values": [
+                {
+                  "id": 10994651,
+                  "caption": "Gevoerde",
+                  "columnValue": "Gevoerd",
+                  "crawlable": true,
+                  "detailValue": "Gevoerde",
+                  "fullId": "4550_10994651",
+                  "sequence": 14,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": {
+              "brandId": 431353,
+              "categoryId": 9000616,
+              "isDisplayGuaranteed": false,
+              "origin": 101,
+              "shopId": 374467,
+              "uuid": "d090426e-23e6-4bce-a7e5-87c8f8e0268b",
+              "value": 12.2
+            }
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-20954d87-be37-40ca-b66f-2600e8cd6442",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 2,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 142.95,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 10,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 10
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "beslistWarranty"
+            }
+          ]
+        },
+        {
+          "id": "39JhiESMWBxzmaNkU76veiax25D",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "39JhhzisXkxoGN1fipbuw8z5DjY",
+            "advertisementIdV3": "39JhhzisXkxoGN1fipbuw8z5DjY"
+          },
+          "shopItemId": 1055948700,
+          "productId": "39JhiESMWBxzmaNkU76veiax25D",
+          "ean": "",
+          "shopInfo": {
+            "id": 42754,
+            "shopName": "Durlinger.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 7,
+            "productCount": 2100,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/42754.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T01:50:13+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 21708,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@durlinger.com",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 34,
+                "name": "Billink "
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 42754,
+            "shopItemId": 1055948764,
+            "shopItemTitle": "Wolky Medusa Sandalen",
+            "shopItemDescription": "",
+            "shopItemVersion": "213631-213626-bruin-213626",
+            "shopName": "Durlinger.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "39JhiABmHCcs61BXbYzukVn9dUf",
+            "condition": "Nieuw",
+            "ean": "8719205635109",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.durlinger.com/wolky-medusa-sandalen-bruin-dames-48243.html?utm_campaign=Beslist&utm_content=&utm_source=Channable&utm_medium=Affiliate&utm_term=",
+            "size": "39",
+            "shopReviewScore": 8,
+            "shopReviewAmount": 70,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 149.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "213631",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "20954d87-be37-40ca-b66f-2600e8cd6442",
+            "title": "Wolky Sandalen Medusa brons leer",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 95.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 95.95
+          },
+          "title": "Wolky Medusa Sandalen",
+          "fixedTitle": "PS Poelman Boots Dames",
+          "indexIdentifierTimeStamp": 1744867738,
+          "description": "Prachtige metallic bronzen Wolky Medusa sandaal. De sandaal loopt heel comfortabel door het voorgevormde voetbed. Het voetbed is uitneembaar daarom is deze sandaal geschikt voor je eigen steunzolen. Deze schoen heeft klittenband sluiting voor een makkelijke instap. De sandaal is helemaal gemaakt van leer!",
+          "descriptionRaw": "Prachtige metallic bronzen Wolky Medusa sandaal. De sandaal loopt heel comfortabel door het voorgevormde voetbed. Het voetbed is uitneembaar daarom is deze sandaal geschikt voor je eigen steunzolen. Deze schoen heeft klittenband sluiting voor een makkelijke instap. De sandaal is helemaal gemaakt van leer!",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1209911040,
+          "gtinGroupId": "32000-39JhhzisXkxoGN1fipbuw8z5DjY",
+          "categoryId": 9000616,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": 137440163383040,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 4,
+          "shopIds": [
+            42754
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1196,
+                "width": 878
+              },
+              "type": "mainImage",
+              "url": "pim/8719205635086/394/{size}/cf648c8fc8104205fc7ad753dfa2ec22/Sandalen/PS-Poelman-Boots-Dames.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1198,
+                "width": 883
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15376/{size}/9870e1704481e562e689564ff19b4c00/Sandalen/PS-Poelman-Boots-Dames.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1196,
+                "width": 883
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15377/{size}/2ef22af198c413a5e5267ca871c42a5d/Sandalen/PS-Poelman-Boots-Dames.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 543,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15378/{size}/06185fff6b5abd147cd0d6a857e78b3a/Sandalen/PS-Poelman-Boots-Dames.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1197,
+                "width": 884
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15379/{size}/3e6b5d4dae963286a432c761f9454ea7/Sandalen/PS-Poelman-Boots-Dames.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 884
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15380/{size}/c6de0c39db5eb713caa2a4df8192f0e8/Sandalen/PS-Poelman-Boots-Dames.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 551,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15381/{size}/59ee045e83119a2fd460306848b164ad/Sandalen/PS-Poelman-Boots-Dames.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 633,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15382/{size}/63f0dec8b429136b29bec7e2fb7f15b8/Sandalen/PS-Poelman-Boots-Dames.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 579,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15383/{size}/abccb1af059d55245a15cca2c889a22c/Sandalen/PS-Poelman-Boots-Dames.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 1199,
+                "width": 1108
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15384/{size}/116ca4ce7b01d62c3913e122b839adf1/Sandalen/PS-Poelman-Boots-Dames.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 565,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15385/{size}/d4953859bdddce421e2fe00541a48822/Sandalen/PS-Poelman-Boots-Dames.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiESMWBxzmaNkU76veiax25D",
+              "value": "37",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiMB7s2wdAerpV5s3EBgEM6A",
+              "value": "40",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiABmHCcs61BXbYzukVn9dUf",
+              "value": "39",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39Jhi3PXz5UaFGb9yYA9BioTwD7",
+              "value": "38",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiPSPCH7z4MV6KqjU63YjPjB",
+              "value": "42",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39Jhi3eS3qoxXWhqAEjauFVHmS2",
+              "value": "41",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "39JhiESMWBxzmaNkU76veiax25D",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "39Jhi3PXz5UaFGb9yYA9BioTwD7",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "39JhiABmHCcs61BXbYzukVn9dUf",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "39JhiMB7s2wdAerpV5s3EBgEM6A",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "39Jhi3eS3qoxXWhqAEjauFVHmS2",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "39JhiPSPCH7z4MV6KqjU63YjPjB",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": false,
+          "brandId": 431353,
+          "brandName": "Wolky",
+          "brandRank": 121,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-05-26 00:00:00",
+          "popularity": 6968,
+          "popularityData": {
+            "clickFactor": 133,
+            "webshopsRevenuePerClick": 3.07,
+            "roasPercentage": 600
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 2 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Wolky",
+              "values": [
+                {
+                  "id": 431353,
+                  "caption": "Wolky",
+                  "columnValue": "Wolky",
+                  "crawlable": true,
+                  "detailValue": "Wolky",
+                  "fullId": "3078_431353",
+                  "sequence": 3268,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Durlinger.com",
+              "values": [
+                {
+                  "id": 15137876,
+                  "caption": "Durlinger.com",
+                  "columnValue": "Durlinger.com",
+                  "crawlable": true,
+                  "detailValue": "Durlinger.com",
+                  "fullId": "3079_15137876",
+                  "sequence": 464,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Bruin",
+              "values": [
+                {
+                  "id": 430779,
+                  "caption": "Bruine",
+                  "columnValue": "Bruin",
+                  "crawlable": true,
+                  "detailValue": "Bruine",
+                  "fullId": "3080_430779",
+                  "sequence": 8,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Klittenband",
+              "values": [
+                {
+                  "id": 430981,
+                  "caption": "Met klittenband",
+                  "columnValue": "Klittenband",
+                  "crawlable": true,
+                  "detailValue": "Met klittenband",
+                  "fullId": "3090_430981",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 19955980,
+                  "caption": "Zonder veters",
+                  "columnValue": "Zonder veters",
+                  "crawlable": true,
+                  "detailValue": "Zonder veters",
+                  "fullId": "3090_19955980",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Metallic",
+              "values": [
+                {
+                  "id": 19258006,
+                  "caption": "Metallic",
+                  "columnValue": "Metallic",
+                  "crawlable": true,
+                  "detailValue": "Metallic",
+                  "fullId": "4550_19258006",
+                  "sequence": 24,
+                  "urlName": null
+                },
+                {
+                  "id": 11228162,
+                  "caption": "Uitneembaar voetbed",
+                  "columnValue": "Uitneembaar voetbed",
+                  "crawlable": true,
+                  "detailValue": "Uitneembaar voetbed",
+                  "fullId": "4550_11228162",
+                  "sequence": 44,
+                  "urlName": null
+                },
+                {
+                  "id": 23588099,
+                  "caption": "met voetbed",
+                  "columnValue": "Voetbed",
+                  "crawlable": true,
+                  "detailValue": "met voetbed",
+                  "fullId": "4550_23588099",
+                  "sequence": 47,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "durlinger.com-213626",
+          "relatedSiblingDetails": {
+            "id": null,
+            "detail": null,
+            "isTopDetail": null,
+            "value": "Bruin"
+          },
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-20954d87-be37-40ca-b66f-2600e8cd6442",
+          "revenuePerClick": 0.51,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 142.95,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "shopReviewScore",
+              "score": 8,
+              "amount": 70
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "2x5tfyExRBTQNmRPu6o31YDHHyBt",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2x5tfy5sKG1rTsBbBYtmXhLJ12uc",
+            "advertisementIdV3": "2x5tfy5sKG1rTsBbBYtmXhLJ12uc"
+          },
+          "shopItemId": 0,
+          "productId": "2x5tfyExRBTQNmRPu6o31YDHHyBt",
+          "ean": "",
+          "shopInfo": {
+            "id": 652171,
+            "shopName": "Topshoe.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 5,
+            "productCount": 33900,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652171.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:50:07+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 38281,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 652171,
+            "shopItemId": 0,
+            "shopItemTitle": "Wolky 00235071 Medusa Floater leather Sandalen",
+            "shopItemDescription": "",
+            "shopItemVersion": "18701604-https://cdn.nextchapter-ecommerce.com/pim/Files/Product/xlarge/4436994_0235071 3201.JPG",
+            "shopName": "Topshoe.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2x5tfyExRBTQNmRPu6o31YDHHyBt",
+            "condition": "Nieuw",
+            "ean": "8719205635093",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://to.topshoe.nl/t/t?a=1848077725&as=1794440627&t=2&tk=1&epi=UUID_placeholder&epi2=GCLID_placeholder&at_gd=GCLID_placeholder&url=https://www.topshoe.nl/nl/3756502/wolky-00235071-medusa-floater-leather/?affiliatenetwork=daisycon",
+            "size": "38",
+            "shopReviewScore": 5.8,
+            "shopReviewAmount": 33,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 159.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "18701604",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "20954d87-be37-40ca-b66f-2600e8cd6442",
+            "title": "Wolky Sandalen Medusa brons leer",
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 95.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 95.95
+          },
+          "title": "Wolky 00235071 Medusa Floater leather Sandalen",
+          "fixedTitle": "Wolky 00235071 Medusa Floater leather Sandalen",
+          "indexIdentifierTimeStamp": 1744867738,
+          "description": "Artikel 00235071 Medusa Floater leather 320  in de kleur bronze shop je gemakkelijk en snel op onze webshop. Bekijk de gehele collectie van Wolky online",
+          "descriptionRaw": "Artikel 00235071 Medusa Floater leather 320  in de kleur bronze shop je gemakkelijk en snel op onze webshop. Bekijk de gehele collectie van Wolky online",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-2x5tfy5sKG1rTsBbBYtmXhLJ12uc",
+          "categoryId": 9000616,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 4,
+          "shopIds": [
+            652171
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 1196,
+                "width": 878
+              },
+              "type": "mainImage",
+              "url": "pim/8719205635086/394/{size}/cf648c8fc8104205fc7ad753dfa2ec22/Sandalen/Wolky-00235071-Medusa-Floater-leather-Sandalen.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 1198,
+                "width": 883
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15376/{size}/9870e1704481e562e689564ff19b4c00/Sandalen/Wolky-00235071-Medusa-Floater-leather-Sandalen.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1196,
+                "width": 883
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15377/{size}/2ef22af198c413a5e5267ca871c42a5d/Sandalen/Wolky-00235071-Medusa-Floater-leather-Sandalen.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 543,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15378/{size}/06185fff6b5abd147cd0d6a857e78b3a/Sandalen/Wolky-00235071-Medusa-Floater-leather-Sandalen.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1197,
+                "width": 884
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15379/{size}/3e6b5d4dae963286a432c761f9454ea7/Sandalen/Wolky-00235071-Medusa-Floater-leather-Sandalen.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 884
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15380/{size}/c6de0c39db5eb713caa2a4df8192f0e8/Sandalen/Wolky-00235071-Medusa-Floater-leather-Sandalen.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 551,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15381/{size}/59ee045e83119a2fd460306848b164ad/Sandalen/Wolky-00235071-Medusa-Floater-leather-Sandalen.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 633,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15382/{size}/63f0dec8b429136b29bec7e2fb7f15b8/Sandalen/Wolky-00235071-Medusa-Floater-leather-Sandalen.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 579,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15383/{size}/abccb1af059d55245a15cca2c889a22c/Sandalen/Wolky-00235071-Medusa-Floater-leather-Sandalen.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 1199,
+                "width": 1108
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15384/{size}/116ca4ce7b01d62c3913e122b839adf1/Sandalen/Wolky-00235071-Medusa-Floater-leather-Sandalen.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 565,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/8719205635086/15385/{size}/d4953859bdddce421e2fe00541a48822/Sandalen/Wolky-00235071-Medusa-Floater-leather-Sandalen.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfyExRBTQNmRPu6o31YDHHyBt",
+              "value": "38",
+              "available": true,
+              "price": 159.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxo1YteJ9iTDwQ7bFJqmJqG8",
+              "value": "41",
+              "available": true,
+              "price": 159.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfy4eZho7oyZzSpbfVJLTXkd3",
+              "value": "42",
+              "available": true,
+              "price": 159.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxwHneUjbQRx21nEUNfKQocS",
+              "value": "37",
+              "available": true,
+              "price": 159.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfy95WneHjobSJgsvjepwKKcX",
+              "value": "40",
+              "available": true,
+              "price": 159.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxoDVrgCdXqpMuYa5EBAGNMg",
+              "value": "43",
+              "available": true,
+              "price": 159.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfy5udfJgPzbRg2wdci2yTwwR",
+              "value": "39",
+              "available": true,
+              "price": 159.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "2x5tfxwHneUjbQRx21nEUNfKQocS",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "2x5tfyExRBTQNmRPu6o31YDHHyBt",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "2x5tfy5udfJgPzbRg2wdci2yTwwR",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "2x5tfy95WneHjobSJgsvjepwKKcX",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "2x5tfxo1YteJ9iTDwQ7bFJqmJqG8",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "2x5tfy4eZho7oyZzSpbfVJLTXkd3",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430811,
+                  "caption": "Maat 43",
+                  "columnValue": "43",
+                  "crawlable": true,
+                  "detailValue": "Maat 43",
+                  "fullId": "3081_430811",
+                  "sequence": 88,
+                  "urlName": null,
+                  "productIdV3": "2x5tfxoDVrgCdXqpMuYa5EBAGNMg",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431353,
+          "brandName": "Wolky",
+          "brandRank": 121,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-08 00:00:00",
+          "popularity": 4,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.84,
+            "roasPercentage": 3300
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null
+                },
+                {
+                  "id": 430811,
+                  "caption": "Maat 43",
+                  "columnValue": "43",
+                  "crawlable": true,
+                  "detailValue": "Maat 43",
+                  "fullId": "3081_430811",
+                  "sequence": 88,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Wolky",
+              "values": [
+                {
+                  "id": 431353,
+                  "caption": "Wolky",
+                  "columnValue": "Wolky",
+                  "crawlable": true,
+                  "detailValue": "Wolky",
+                  "fullId": "3078_431353",
+                  "sequence": 3268,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Topshoe.nl",
+              "values": [
+                {
+                  "id": 23803113,
+                  "caption": "Topshoe.nl",
+                  "columnValue": "Topshoe.nl",
+                  "crawlable": true,
+                  "detailValue": "Topshoe.nl",
+                  "fullId": "3079_23803113",
+                  "sequence": 2149,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Brons",
+              "values": [
+                {
+                  "id": 10392041,
+                  "caption": "Bronskleurige",
+                  "columnValue": "Brons",
+                  "crawlable": true,
+                  "detailValue": "Bronskleurige",
+                  "fullId": "3080_10392041",
+                  "sequence": 15,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Grote maten",
+              "values": [
+                {
+                  "id": 18892715,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "4550_18892715",
+                  "sequence": 16,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-20954d87-be37-40ca-b66f-2600e8cd6442",
+          "revenuePerClick": 0.03,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 1,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 142.95,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

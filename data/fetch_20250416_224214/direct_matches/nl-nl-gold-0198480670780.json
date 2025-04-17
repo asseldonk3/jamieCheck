@@ -1,0 +1,552 @@
+{
+  "offset": 0,
+  "numFound": 1,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 1,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 119.99,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 430808,
+                "caption": "Maat 40",
+                "columnValue": "40",
+                "crawlable": true,
+                "detailValue": "Maat 40",
+                "fullId": "3081_430808",
+                "sequence": 75,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "4HXuRXasNqtAyURvz7oWhsWsavZA",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "4HXuRXeNyHm3heGEpizMA2myStvQ",
+            "advertisementIdV3": "4HXuRXeNyHm3heGEpizMA2myStvQ"
+          },
+          "shopItemId": 0,
+          "productId": "4HXuRXasNqtAyURvz7oWhsWsavZA",
+          "ean": "",
+          "shopInfo": {
+            "id": 642283,
+            "shopName": "Nike.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 6,
+            "productCount": 13000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/642283.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-16T08:22:04+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 23222,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@nike.be",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 642283,
+            "shopItemId": 0,
+            "shopItemTitle": "Nike Air Max 90 LTR Kinderschoenen - Wit",
+            "shopItemDescription": "",
+            "shopItemVersion": "00198480670780-CD6864-129_Wit-CD6864",
+            "shopName": "Nike.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "4HXuRXasNqtAyURvz7oWhsWsavZA",
+            "condition": "Nieuw",
+            "ean": "0198480670780",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.awin1.com/cread.php?force_transparent=true&awinmid=16332&clickref=UUID_placeholder&pref2=GCLID_placeholder&awinaffid=375899&platform=tp&networkref1=gclid_GCLID_placeholder&ued=https%3a%2f%2fwww.nike.com%2fnl%2ft%2fair-max-90-ltr-kinderschoenen-47VbL1%2fCD6864-129%3fclickref%3d",
+            "size": "40",
+            "shopReviewScore": 4.4,
+            "shopReviewAmount": 105,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 89,
+              "price": 119.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "00198480670780",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": null
+          },
+          "priceHistoryBe": {
+            "lowestPrice": null
+          },
+          "title": "Nike Air Max 90 LTR Kinderschoenen - Wit",
+          "fixedTitle": "Nike Air Max 90 LTR Kinderschoenen - Wit",
+          "indexIdentifierTimeStamp": 1744834947,
+          "description": "De Nike Air Max 90 LTR keert terug met een nog betere feel voor jou. De demping is zachter en flexibeler, de Max Air unit is afgestemd op groeiende voetjes en de vorm geeft tenen meer bewegingsvrijheid. Het design en de look zijn nog altijd hetzelfde, zodat een nieuwe generatie van deze favoriet uit de jaren 90 kan genieten. Vernieuwde klassieker:De low top schoenen zijn gemaakt van echt en synthetisch leer voor stevigheid met een klassieke uitstraling. De vorm geeft tenen meer bewegingsvrijheid en de pasvorm houdt groeiende voetjes comfortabel.,Comfortabele demping:De Max Air unit voelt zachter aan en is afgestemd op kids. Bovendien loopt het zachte en flexibele foam prettig.,Gewatteerd design:Extra voering rond de enkel zorgt voor een heerlijk zacht gevoel.,Natuurlijke bewegingen:De rubberen zool over de hele lengte heeft groeven voor flexibiliteit zodat elke stap natuurlijk aanvoelt.",
+          "descriptionRaw": "De Nike Air Max 90 LTR keert terug met een nog betere feel voor jou. De demping is zachter en flexibeler, de Max Air unit is afgestemd op groeiende voetjes en de vorm geeft tenen meer bewegingsvrijheid. Het design en de look zijn nog altijd hetzelfde, zodat een nieuwe generatie van deze favoriet uit de jaren 90 kan genieten. Vernieuwde klassieker:De low top schoenen zijn gemaakt van echt en synthetisch leer voor stevigheid met een klassieke uitstraling. De vorm geeft tenen meer bewegingsvrijheid en de pasvorm houdt groeiende voetjes comfortabel.,Comfortabele demping:De Max Air unit voelt zachter aan en is afgestemd op kids. Bovendien loopt het zachte en flexibele foam prettig.,Gewatteerd design:Extra voering rond de enkel zorgt voor een heerlijk zacht gevoel.,Natuurlijke bewegingen:De rubberen zool over de hele lengte heeft groeven voor flexibiliteit zodat elke stap natuurlijk aanvoelt.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-4HXuRXeNyHm3heGEpizMA2myStvQ",
+          "categoryId": 9000608,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 1,
+          "shopIds": [
+            642283
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 868,
+                "width": 1791
+              },
+              "type": "mainImage",
+              "url": "4HXuRXasNqtAyURvz7oWhsWsavZA/394/{size}/f806266326f5daaacdf862af690314b3/Sneakers/Nike-Air-Max-90-LTR-Kinderschoenen-Wit.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "4HXuRXasNqtAyURvz7oWhsWsavZA",
+              "value": "40",
+              "available": true,
+              "price": 119.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "4HXuRXasNqtAyURvz7oWhsWsavZA",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 119.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431107,
+          "brandName": "Nike",
+          "brandRank": 1,
+          "brandRelativeDemandLabel": "A",
+          "extras": {
+            "used": false,
+            "is_new": true
+          },
+          "firstAddition": "2025-04-17 00:00:00",
+          "popularity": 4720,
+          "popularityData": {
+            "clickFactor": 134,
+            "webshopsRevenuePerClick": 3.56,
+            "roasPercentage": 1000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "2 - 4 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Nike",
+              "values": [
+                {
+                  "id": 431107,
+                  "caption": "Nike",
+                  "columnValue": "Nike",
+                  "crawlable": true,
+                  "detailValue": "Nike",
+                  "fullId": "3078_431107",
+                  "sequence": 2105,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Nike.nl",
+              "values": [
+                {
+                  "id": 19244264,
+                  "caption": "Nike.nl",
+                  "columnValue": "Nike.nl",
+                  "crawlable": true,
+                  "detailValue": "Nike.nl",
+                  "fullId": "3079_19244264",
+                  "sequence": 1249,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 430777,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3080_430777",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "40",
+              "values": [
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 430827,
+                  "caption": "Heren",
+                  "columnValue": "Heren",
+                  "crawlable": true,
+                  "detailValue": "Heren",
+                  "fullId": "3082_430827",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 1465147,
+                  "caption": "Unisex",
+                  "columnValue": "Unisex",
+                  "crawlable": true,
+                  "detailValue": "Unisex",
+                  "fullId": "3082_1465147",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Imitatieleer",
+              "values": [
+                {
+                  "id": 430842,
+                  "caption": "Imitatieleren",
+                  "columnValue": "Imitatieleer",
+                  "crawlable": true,
+                  "detailValue": "Imitatieleren",
+                  "fullId": "3083_430842",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 430861,
+                  "caption": "Synthetisch",
+                  "columnValue": "Synthetisch",
+                  "crawlable": true,
+                  "detailValue": "Synthetisch",
+                  "fullId": "3083_430861",
+                  "sequence": 36,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3513,
+              "name": "Productlijn",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_serie",
+              "value": "Nike Air",
+              "values": [
+                {
+                  "id": 23467994,
+                  "caption": "Nike Air",
+                  "columnValue": "Nike Air",
+                  "crawlable": true,
+                  "detailValue": "Nike Air",
+                  "fullId": "3513_23467994",
+                  "sequence": 847,
+                  "urlName": null
+                },
+                {
+                  "id": 1334612,
+                  "caption": "Nike Air Max",
+                  "columnValue": "Nike Air Max",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max",
+                  "fullId": "3513_1334612",
+                  "sequence": 854,
+                  "urlName": null
+                },
+                {
+                  "id": 12895261,
+                  "caption": "Nike Air Max 90",
+                  "columnValue": "Nike Air Max 90",
+                  "crawlable": true,
+                  "detailValue": "Nike Air Max 90",
+                  "fullId": "3513_12895261",
+                  "sequence": 858,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3821,
+              "name": "Type",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_productlijn",
+              "value": "LTR",
+              "values": [
+                {
+                  "id": 23445241,
+                  "caption": "LTR",
+                  "columnValue": "LTR",
+                  "crawlable": true,
+                  "detailValue": "LTR",
+                  "fullId": "3821_23445241",
+                  "sequence": 724,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4100,
+              "name": "Hoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "hoogte",
+              "value": "Laag",
+              "values": [
+                {
+                  "id": 6380618,
+                  "caption": "Lage/low",
+                  "columnValue": "Laag",
+                  "crawlable": true,
+                  "detailValue": "Lage/low",
+                  "fullId": "4100_6380618",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Klassiek",
+              "values": [
+                {
+                  "id": 23580860,
+                  "caption": "Klassieke",
+                  "columnValue": "Klassiek",
+                  "crawlable": true,
+                  "detailValue": "Klassieke",
+                  "fullId": "6097_23580860",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "642283-CD6864",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-0198480670780",
+          "revenuePerClick": 0.36,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 119.99,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": null,
+          "isGoogleBestseller": null,
+          "isGoogleBestsellerTop100": null,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

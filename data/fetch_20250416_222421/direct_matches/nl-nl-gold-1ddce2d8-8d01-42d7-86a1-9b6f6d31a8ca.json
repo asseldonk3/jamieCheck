@@ -1,0 +1,1855 @@
+{
+  "offset": 0,
+  "numFound": 3,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 3,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 83.95,
+        "highestDiscount": 30,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 430806,
+                "caption": "Maat 38",
+                "columnValue": "38",
+                "crawlable": true,
+                "detailValue": "Maat 38",
+                "fullId": "3081_430806",
+                "sequence": 65,
+                "urlName": null
+              },
+              {
+                "id": 430811,
+                "caption": "Maat 43",
+                "columnValue": "43",
+                "crawlable": true,
+                "detailValue": "Maat 43",
+                "fullId": "3081_430811",
+                "sequence": 88,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "2SU8W5DE67BipmsowcbFQQGpwViE",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2SU8W5XYxAgjpeae37TZqCVihakK",
+            "advertisementIdV3": "2SU8W5XYxAgjpeae37TZqCVihakK"
+          },
+          "shopItemId": 0,
+          "productId": "2SU8W5DE67BipmsowcbFQQGpwViE",
+          "ean": "",
+          "shopInfo": {
+            "id": 19559,
+            "shopName": "Laarzenwinkel.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 12,
+            "productCount": 760,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/19559.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T01:38:16+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 4078,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "klantenservice@etrias.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 6,
+                "name": "DPD"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 19559,
+            "shopItemId": 0,
+            "shopItemTitle": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 38",
+            "shopItemDescription": "",
+            "shopItemVersion": "1027422-1027429",
+            "shopName": "Laarzenwinkel.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2SU8W5DE67BipmsowcbFQQGpwViE",
+            "condition": "Nieuw",
+            "ean": "8718926270354",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.laarzenwinkel.com/enkellaars-custom-made-pessac-zwart-voetbreedte-h.html?etrias_source=2&etrias_campaign=15&p=1027422&utm_campaign=beslist&utm_medium=cpc&utm_source=beslist&utm_content=beslist-Enkellaars",
+            "size": "38",
+            "shopReviewScore": 9.2,
+            "shopReviewAmount": 388,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 55,
+              "price": 83.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 89,
+              "price": 119.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "1027422",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "1ddce2d8-8d01-42d7-86a1-9b6f6d31a8ca",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 83.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 83.95
+          },
+          "title": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 38",
+          "fixedTitle": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 38",
+          "indexIdentifierTimeStamp": 1744834931,
+          "description": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 38.Maak uw outfit compleet en kom goed voor de dag met de prachtige Pessac zwart enkellaarsje van het hoogwaardige kwaliteitsmerk Custom Made. Met de Pessac enkellaars haalt u een echt paar tijdloze klassiekers in huis. Het laarsje is voorzien van een uitneembaar voetbed en is verkrijgbaar in verschillende voetbreedtes. De schoen laat u zien waartoe ambacht en perfectie kunnen leiden. Dit paar enkellaarsjes is vervaardigd uit leer en voorzien van een PU zool.",
+          "descriptionRaw": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 38.Maak uw outfit compleet en kom goed voor de dag met de prachtige Pessac zwart enkellaarsje van het hoogwaardige kwaliteitsmerk Custom Made. Met de Pessac enkellaars haalt u een echt paar tijdloze klassiekers in huis. Het laarsje is voorzien van een uitneembaar voetbed en is verkrijgbaar in verschillende voetbreedtes. De schoen laat u zien waartoe ambacht en perfectie kunnen leiden. Dit paar enkellaarsjes is vervaardigd uit leer en voorzien van een PU zool.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-2SU8W5XYxAgjpeae37TZqCVihakK",
+          "categoryId": 9000625,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            19559
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 223,
+                "width": 279
+              },
+              "type": "mainImage",
+              "url": "pim/8718926270354/394/{size}/c4ca12780bfb78cfceda08bc8de14b2a/Enkellaarsjes/Enkellaars-Custom-Made-Pessac-Zwart-Voetbreedte-H-Schoenmaat-38.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2SU8W5DE67BipmsowcbFQQGpwViE",
+              "value": "38",
+              "available": true,
+              "price": 83.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2SU8W5c1ANnaFamckcvv1zehXqsC",
+              "value": "43",
+              "available": true,
+              "price": 83.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "2SU8W5DE67BipmsowcbFQQGpwViE",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 119.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 83.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430811,
+                  "caption": "Maat 43",
+                  "columnValue": "43",
+                  "crawlable": true,
+                  "detailValue": "Maat 43",
+                  "fullId": "3081_430811",
+                  "sequence": 88,
+                  "urlName": null,
+                  "productIdV3": "2SU8W5c1ANnaFamckcvv1zehXqsC",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 119.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 83.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-05 00:00:00",
+          "popularity": 5443,
+          "popularityData": {
+            "clickFactor": 118,
+            "webshopsRevenuePerClick": 4.76,
+            "roasPercentage": 1400
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 werkdag",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Laarzenwinkel.com",
+              "values": [
+                {
+                  "id": 1452150,
+                  "caption": "Laarzenwinkel.com",
+                  "columnValue": "Laarzenwinkel.com",
+                  "crawlable": true,
+                  "detailValue": "Laarzenwinkel.com",
+                  "fullId": "3079_1452150",
+                  "sequence": 1003,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 430776,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3080_430776",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "38",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430811,
+                  "caption": "Maat 43",
+                  "columnValue": "43",
+                  "crawlable": true,
+                  "detailValue": "Maat 43",
+                  "fullId": "3081_430811",
+                  "sequence": 88,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Winterschoenen",
+              "values": [
+                {
+                  "id": 8693401,
+                  "caption": "Winter",
+                  "columnValue": "Winterschoenen",
+                  "crawlable": true,
+                  "detailValue": "Winter",
+                  "fullId": "3093_8693401",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4100,
+              "name": "Hoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "hoogte",
+              "value": "Middel",
+              "values": [
+                {
+                  "id": 6380619,
+                  "caption": "Middel/mid/halfhoge",
+                  "columnValue": "Middel",
+                  "crawlable": true,
+                  "detailValue": "Middel/mid/halfhoge",
+                  "fullId": "4100_6380619",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4159,
+              "name": "Schachthoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "schachthoogte",
+              "value": "Korte",
+              "values": [
+                {
+                  "id": 6510247,
+                  "caption": "Korte / lage",
+                  "columnValue": "Korte",
+                  "crawlable": true,
+                  "detailValue": "Korte / lage",
+                  "fullId": "4159_6510247",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Brede voeten",
+              "values": [
+                {
+                  "id": 15482619,
+                  "caption": "Brede voeten",
+                  "columnValue": "Brede voeten",
+                  "crawlable": true,
+                  "detailValue": "Brede voeten",
+                  "fullId": "4550_15482619",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 18892715,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "4550_18892715",
+                  "sequence": 16,
+                  "urlName": null
+                },
+                {
+                  "id": 23588099,
+                  "caption": "met voetbed",
+                  "columnValue": "Voetbed",
+                  "crawlable": true,
+                  "detailValue": "met voetbed",
+                  "fullId": "4550_23588099",
+                  "sequence": 47,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "H",
+              "values": [
+                {
+                  "id": 16475783,
+                  "caption": "Wijdte H",
+                  "columnValue": "H",
+                  "crawlable": true,
+                  "detailValue": "Wijdte H",
+                  "fullId": "5211_16475783",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Klassiek",
+              "values": [
+                {
+                  "id": 23580860,
+                  "caption": "Klassieke",
+                  "columnValue": "Klassiek",
+                  "crawlable": true,
+                  "detailValue": "Klassieke",
+                  "fullId": "6097_23580860",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-1ddce2d8-8d01-42d7-86a1-9b6f6d31a8ca",
+          "revenuePerClick": 0.34,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 83.95,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 30,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 9.2,
+              "amount": 388
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "discount",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "id": "NZvvu1iGj2fVdWM3Pm5SAEexZP4",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "NZvvuL38nXgVWDB8tdPrxTYieR9",
+            "advertisementIdV3": "NZvvuL38nXgVWDB8tdPrxTYieR9"
+          },
+          "shopItemId": 0,
+          "productId": "NZvvu1iGj2fVdWM3Pm5SAEexZP4",
+          "ean": "",
+          "shopInfo": {
+            "id": 569626,
+            "shopName": "Schoenfashion.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 6,
+            "productCount": 10500,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/569626.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T01:38:08+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 4078,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "klantenservice@etrias.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 6,
+                "name": "DPD"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 569626,
+            "shopItemId": 0,
+            "shopItemTitle": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 43",
+            "shopItemDescription": "",
+            "shopItemVersion": "1027427-1027429",
+            "shopName": "Schoenfashion.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "NZvvuQVLzdWvSQ9rQ6k3kcXYuY2",
+            "condition": "Nieuw",
+            "ean": "8718926270408",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.schoenfashion.nl/enkellaars-custom-made-pessac-zwart-voetbreedte-h.html?etrias_source=2&etrias_campaign=15&p=1027427&utm_campaign=beslist&utm_medium=cpc&utm_source=beslist&utm_content=beslist-Enkellaars",
+            "size": "43",
+            "shopReviewScore": 9.2,
+            "shopReviewAmount": 547,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 55,
+              "price": 83.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 89,
+              "price": 119.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "1027427",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "1ddce2d8-8d01-42d7-86a1-9b6f6d31a8ca",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 83.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 83.95
+          },
+          "title": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 38",
+          "fixedTitle": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 38",
+          "indexIdentifierTimeStamp": 1744834931,
+          "description": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 38.Maak uw outfit compleet en kom goed voor de dag met de prachtige Pessac zwart enkellaarsje van het hoogwaardige kwaliteitsmerk Custom Made. Met de Pessac enkellaars haalt u een echt paar tijdloze klassiekers in huis. Het laarsje is voorzien van een uitneembaar voetbed en is verkrijgbaar in verschillende voetbreedtes. De schoen laat u zien waartoe ambacht en perfectie kunnen leiden. Dit paar enkellaarsjes is vervaardigd uit leer en voorzien van een PU zool.",
+          "descriptionRaw": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 38.Maak uw outfit compleet en kom goed voor de dag met de prachtige Pessac zwart enkellaarsje van het hoogwaardige kwaliteitsmerk Custom Made. Met de Pessac enkellaars haalt u een echt paar tijdloze klassiekers in huis. Het laarsje is voorzien van een uitneembaar voetbed en is verkrijgbaar in verschillende voetbreedtes. De schoen laat u zien waartoe ambacht en perfectie kunnen leiden. Dit paar enkellaarsjes is vervaardigd uit leer en voorzien van een PU zool.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "none",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-NZvvuL38nXgVWDB8tdPrxTYieR9",
+          "categoryId": 9000625,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            569626
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 223,
+                "width": 279
+              },
+              "type": "mainImage",
+              "url": "pim/8718926270354/394/{size}/c4ca12780bfb78cfceda08bc8de14b2a/Enkellaarsjes/Enkellaars-Custom-Made-Pessac-Zwart-Voetbreedte-H-Schoenmaat-38.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "NZvvu1iGj2fVdWM3Pm5SAEexZP4",
+              "value": "38",
+              "available": true,
+              "price": 83.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "NZvvuQVLzdWvSQ9rQ6k3kcXYuY2",
+              "value": "43",
+              "available": true,
+              "price": 83.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "NZvvu1iGj2fVdWM3Pm5SAEexZP4",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 119.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 83.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430811,
+                  "caption": "Maat 43",
+                  "columnValue": "43",
+                  "crawlable": true,
+                  "detailValue": "Maat 43",
+                  "fullId": "3081_430811",
+                  "sequence": 88,
+                  "urlName": null,
+                  "productIdV3": "NZvvuQVLzdWvSQ9rQ6k3kcXYuY2",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 119.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 83.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-20 00:00:00",
+          "popularity": 79,
+          "popularityData": {
+            "clickFactor": 15,
+            "webshopsRevenuePerClick": 0.3,
+            "roasPercentage": 900
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 werkdag",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Schoenfashion.nl",
+              "values": [
+                {
+                  "id": 9742731,
+                  "caption": "Schoenfashion.nl",
+                  "columnValue": "Schoenfashion.nl",
+                  "crawlable": true,
+                  "detailValue": "Schoenfashion.nl",
+                  "fullId": "3079_9742731",
+                  "sequence": 1530,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 430776,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3080_430776",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "38",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430811,
+                  "caption": "Maat 43",
+                  "columnValue": "43",
+                  "crawlable": true,
+                  "detailValue": "Maat 43",
+                  "fullId": "3081_430811",
+                  "sequence": 88,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Winterschoenen",
+              "values": [
+                {
+                  "id": 8693401,
+                  "caption": "Winter",
+                  "columnValue": "Winterschoenen",
+                  "crawlable": true,
+                  "detailValue": "Winter",
+                  "fullId": "3093_8693401",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4100,
+              "name": "Hoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "hoogte",
+              "value": "Middel",
+              "values": [
+                {
+                  "id": 6380619,
+                  "caption": "Middel/mid/halfhoge",
+                  "columnValue": "Middel",
+                  "crawlable": true,
+                  "detailValue": "Middel/mid/halfhoge",
+                  "fullId": "4100_6380619",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4159,
+              "name": "Schachthoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "schachthoogte",
+              "value": "Korte",
+              "values": [
+                {
+                  "id": 6510247,
+                  "caption": "Korte / lage",
+                  "columnValue": "Korte",
+                  "crawlable": true,
+                  "detailValue": "Korte / lage",
+                  "fullId": "4159_6510247",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Brede voeten",
+              "values": [
+                {
+                  "id": 15482619,
+                  "caption": "Brede voeten",
+                  "columnValue": "Brede voeten",
+                  "crawlable": true,
+                  "detailValue": "Brede voeten",
+                  "fullId": "4550_15482619",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 18892715,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "4550_18892715",
+                  "sequence": 16,
+                  "urlName": null
+                },
+                {
+                  "id": 23588099,
+                  "caption": "met voetbed",
+                  "columnValue": "Voetbed",
+                  "crawlable": true,
+                  "detailValue": "met voetbed",
+                  "fullId": "4550_23588099",
+                  "sequence": 47,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "H",
+              "values": [
+                {
+                  "id": 16475783,
+                  "caption": "Wijdte H",
+                  "columnValue": "H",
+                  "crawlable": true,
+                  "detailValue": "Wijdte H",
+                  "fullId": "5211_16475783",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Klassiek",
+              "values": [
+                {
+                  "id": 23580860,
+                  "caption": "Klassieke",
+                  "columnValue": "Klassiek",
+                  "crawlable": true,
+                  "detailValue": "Klassieke",
+                  "fullId": "6097_23580860",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-1ddce2d8-8d01-42d7-86a1-9b6f6d31a8ca",
+          "revenuePerClick": 0.03,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 83.95,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 30,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "shopReviewScore",
+              "score": 9.2,
+              "amount": 547
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "id": "3j9E8njv2sZrUoDXrYLGUQgwNoxJ",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3j9E8o4Etw4sUfvMx3CauCuq8tzP",
+            "advertisementIdV3": "3j9E8o4Etw4sUfvMx3CauCuq8tzP"
+          },
+          "shopItemId": 0,
+          "productId": "3j9E8njv2sZrUoDXrYLGUQgwNoxJ",
+          "ean": "",
+          "shopInfo": {
+            "id": 374467,
+            "shopName": "Etrias.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "WW",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": false,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 6,
+            "productCount": 85000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/374467.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T01:38:07+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 4078,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "klantenservice@etrias.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 6,
+                "name": "DPD"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 374467,
+            "shopItemId": 0,
+            "shopItemTitle": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 43",
+            "shopItemDescription": "",
+            "shopItemVersion": "1027427-1027429",
+            "shopName": "Etrias.nl",
+            "shopType": "WW",
+            "productIdentifier": "",
+            "productIdV3": "3j9E8o8h79Ahuc7LfYfw614oyA7G",
+            "condition": "Nieuw",
+            "ean": "8718926270408",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.etrias.nl/enkellaars-custom-made-pessac-zwart-voetbreedte-h.html?utm_source=beslist&utm_medium=cpc-beslist&utm_campaign=beslist",
+            "size": "43",
+            "shopReviewScore": 7.6,
+            "shopReviewAmount": 2807,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 55,
+              "price": 83.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 89,
+              "price": 119.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "1027427",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "1ddce2d8-8d01-42d7-86a1-9b6f6d31a8ca",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 83.95
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 83.95
+          },
+          "title": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 38",
+          "fixedTitle": "Enkellaars Custom Made Pessac Zwart Voetbreedte H-Schoenmaat 38",
+          "indexIdentifierTimeStamp": 1744834931,
+          "description": "Maak uw outfit compleet en kom goed voor de dag met de prachtige Pessac zwart enkellaarsje van het hoogwaardige kwaliteitsmerk Custom Made. Met de Pessac enkellaars haalt u een echt paar tijdloze klassiekers in huis. Het laarsje is voorzien van een uitneembaar voetbed en is verkrijgbaar in verschillende voetbreedtes. De schoen laat u zien waartoe ambacht en perfectie kunnen leiden. Dit paar enkellaarsjes is vervaardigd uit leer en voorzien van een PU zool.\\\\n\\\\nEnkellaars\\\\nMerk: Custom Made\\\\nModel: Pessac\\\\nKleur: Zwart\\\\nMateriaal: Leer\\\\nZool: pu\\\\nVoetbed: Uitneembaar\\\\nSchachthoogte: 15 cm\\\\nHakhoogte: 4 cm\\\\nGeschikt voor: Dames",
+          "descriptionRaw": "Maak uw outfit compleet en kom goed voor de dag met de prachtige Pessac zwart enkellaarsje van het hoogwaardige kwaliteitsmerk Custom Made. Met de Pessac enkellaars haalt u een echt paar tijdloze klassiekers in huis. Het laarsje is voorzien van een uitneembaar voetbed en is verkrijgbaar in verschillende voetbreedtes. De schoen laat u zien waartoe ambacht en perfectie kunnen leiden. Dit paar enkellaarsjes is vervaardigd uit leer en voorzien van een PU zool.\\\\n\\\\nEnkellaars\\\\nMerk: Custom Made\\\\nModel: Pessac\\\\nKleur: Zwart\\\\nMateriaal: Leer\\\\nZool: pu\\\\nVoetbed: Uitneembaar\\\\nSchachthoogte: 15 cm\\\\nHakhoogte: 4 cm\\\\nGeschikt voor: Dames",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-3j9E8o4Etw4sUfvMx3CauCuq8tzP",
+          "categoryId": 9000625,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            374467
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 223,
+                "width": 279
+              },
+              "type": "mainImage",
+              "url": "pim/8718926270354/394/{size}/c4ca12780bfb78cfceda08bc8de14b2a/Enkellaarsjes/Enkellaars-Custom-Made-Pessac-Zwart-Voetbreedte-H-Schoenmaat-38.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3j9E8njv2sZrUoDXrYLGUQgwNoxJ",
+              "value": "38",
+              "available": true,
+              "price": 83.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3j9E8o8h79Ahuc7LfYfw614oyA7G",
+              "value": "43",
+              "available": true,
+              "price": 83.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "3j9E8njv2sZrUoDXrYLGUQgwNoxJ",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 119.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 83.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430811,
+                  "caption": "Maat 43",
+                  "columnValue": "43",
+                  "crawlable": true,
+                  "detailValue": "Maat 43",
+                  "fullId": "3081_430811",
+                  "sequence": 88,
+                  "urlName": null,
+                  "productIdV3": "3j9E8o8h79Ahuc7LfYfw614oyA7G",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 119.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 55,
+                    "price": 83.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-19 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 500
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 - 5 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Etrias.nl",
+              "values": [
+                {
+                  "id": 8913135,
+                  "caption": "Etrias.nl",
+                  "columnValue": "Etrias.nl",
+                  "crawlable": true,
+                  "detailValue": "Etrias.nl",
+                  "fullId": "3079_8913135",
+                  "sequence": 509,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Zwart",
+              "values": [
+                {
+                  "id": 430776,
+                  "caption": "Zwarte",
+                  "columnValue": "Zwart",
+                  "crawlable": true,
+                  "detailValue": "Zwarte",
+                  "fullId": "3080_430776",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "38",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430811,
+                  "caption": "Maat 43",
+                  "columnValue": "43",
+                  "crawlable": true,
+                  "detailValue": "Maat 43",
+                  "fullId": "3081_430811",
+                  "sequence": 88,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Imitatieleer",
+              "values": [
+                {
+                  "id": 430842,
+                  "caption": "Imitatieleren",
+                  "columnValue": "Imitatieleer",
+                  "crawlable": true,
+                  "detailValue": "Imitatieleren",
+                  "fullId": "3083_430842",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Winterschoenen",
+              "values": [
+                {
+                  "id": 8693401,
+                  "caption": "Winter",
+                  "columnValue": "Winterschoenen",
+                  "crawlable": true,
+                  "detailValue": "Winter",
+                  "fullId": "3093_8693401",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4100,
+              "name": "Hoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "hoogte",
+              "value": "Middel",
+              "values": [
+                {
+                  "id": 6380619,
+                  "caption": "Middel/mid/halfhoge",
+                  "columnValue": "Middel",
+                  "crawlable": true,
+                  "detailValue": "Middel/mid/halfhoge",
+                  "fullId": "4100_6380619",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4159,
+              "name": "Schachthoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "schachthoogte",
+              "value": "Korte",
+              "values": [
+                {
+                  "id": 6510247,
+                  "caption": "Korte / lage",
+                  "columnValue": "Korte",
+                  "crawlable": true,
+                  "detailValue": "Korte / lage",
+                  "fullId": "4159_6510247",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Brede voeten",
+              "values": [
+                {
+                  "id": 15482619,
+                  "caption": "Brede voeten",
+                  "columnValue": "Brede voeten",
+                  "crawlable": true,
+                  "detailValue": "Brede voeten",
+                  "fullId": "4550_15482619",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 18892715,
+                  "caption": "Grote maten",
+                  "columnValue": "Grote maten",
+                  "crawlable": true,
+                  "detailValue": "Grote maten",
+                  "fullId": "4550_18892715",
+                  "sequence": 16,
+                  "urlName": null
+                },
+                {
+                  "id": 11228162,
+                  "caption": "Uitneembaar voetbed",
+                  "columnValue": "Uitneembaar voetbed",
+                  "crawlable": true,
+                  "detailValue": "Uitneembaar voetbed",
+                  "fullId": "4550_11228162",
+                  "sequence": 44,
+                  "urlName": null
+                },
+                {
+                  "id": 23588099,
+                  "caption": "met voetbed",
+                  "columnValue": "Voetbed",
+                  "crawlable": true,
+                  "detailValue": "met voetbed",
+                  "fullId": "4550_23588099",
+                  "sequence": 47,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "H",
+              "values": [
+                {
+                  "id": 16475783,
+                  "caption": "Wijdte H",
+                  "columnValue": "H",
+                  "crawlable": true,
+                  "detailValue": "Wijdte H",
+                  "fullId": "5211_16475783",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Klassiek",
+              "values": [
+                {
+                  "id": 23580860,
+                  "caption": "Klassieke",
+                  "columnValue": "Klassiek",
+                  "crawlable": true,
+                  "detailValue": "Klassieke",
+                  "fullId": "6097_23580860",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": {
+              "brandId": 0,
+              "categoryId": 9000605,
+              "isDisplayGuaranteed": false,
+              "origin": 101,
+              "shopId": 374467,
+              "uuid": "14ea0ed8-a9a5-4a52-83d7-a5a9d140d2cb",
+              "value": 12.2
+            }
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-1ddce2d8-8d01-42d7-86a1-9b6f6d31a8ca",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 2,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 83.95,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 30,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "beslistWarranty"
+            },
+            {
+              "type": "discount",
+              "value": 30
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

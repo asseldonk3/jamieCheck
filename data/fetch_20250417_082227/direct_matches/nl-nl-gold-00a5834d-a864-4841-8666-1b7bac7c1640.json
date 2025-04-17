@@ -1,0 +1,1991 @@
+{
+  "offset": 0,
+  "numFound": 3,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 3,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 89.96,
+        "highestDiscount": 24,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 23435448,
+                "caption": "Maat 35,5",
+                "columnValue": "35,5",
+                "crawlable": true,
+                "detailValue": "Maat 35,5",
+                "fullId": "3081_23435448",
+                "sequence": 52,
+                "urlName": null
+              },
+              {
+                "id": 430804,
+                "caption": "Maat 36",
+                "columnValue": "36",
+                "crawlable": true,
+                "detailValue": "Maat 36",
+                "fullId": "3081_430804",
+                "sequence": 55,
+                "urlName": null
+              },
+              {
+                "id": 430805,
+                "caption": "Maat 37",
+                "columnValue": "37",
+                "crawlable": true,
+                "detailValue": "Maat 37",
+                "fullId": "3081_430805",
+                "sequence": 60,
+                "urlName": null
+              },
+              {
+                "id": 430806,
+                "caption": "Maat 38",
+                "columnValue": "38",
+                "crawlable": true,
+                "detailValue": "Maat 38",
+                "fullId": "3081_430806",
+                "sequence": 65,
+                "urlName": null
+              },
+              {
+                "id": 16389766,
+                "caption": "Maat 38,5",
+                "columnValue": "38,5",
+                "crawlable": true,
+                "detailValue": "Maat 38,5",
+                "fullId": "3081_16389766",
+                "sequence": 67,
+                "urlName": null
+              },
+              {
+                "id": 430808,
+                "caption": "Maat 40",
+                "columnValue": "40",
+                "crawlable": true,
+                "detailValue": "Maat 40",
+                "fullId": "3081_430808",
+                "sequence": 75,
+                "urlName": null
+              },
+              {
+                "id": 16389768,
+                "caption": "Maat 40,5",
+                "columnValue": "40,5",
+                "crawlable": true,
+                "detailValue": "Maat 40,5",
+                "fullId": "3081_16389768",
+                "sequence": 77,
+                "urlName": null
+              },
+              {
+                "id": 430809,
+                "caption": "Maat 41",
+                "columnValue": "41",
+                "crawlable": true,
+                "detailValue": "Maat 41",
+                "fullId": "3081_430809",
+                "sequence": 80,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "osEpKo7bDQuPTkZVjq1C7PsLdg",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "osEpWg2Ppo57CYv3KTJEjp9h6b",
+            "advertisementIdV3": "osEpWg2Ppo57CYv3KTJEjp9h6b"
+          },
+          "shopItemId": 0,
+          "productId": "osEpKo7bDQuPTkZVjq1C7PsLdg",
+          "ean": "",
+          "shopInfo": {
+            "id": 1,
+            "shopName": "bol.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": true,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 1,
+            "productCount": 4200000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/1.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T01:49:26+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "klantenservice@bol.com",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 1,
+            "shopItemId": 0,
+            "shopItemTitle": "Gabor Sneakers - Dames - Blauw",
+            "shopItemDescription": "",
+            "shopItemVersion": "9300000178758957-9300000185144180-Blauw-9300000185144180",
+            "shopName": "bol.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "osEpKo7bDQuPTkZVjq1C7PsLdg",
+            "condition": "Nieuw",
+            "ean": "4099935852866",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://partner.bol.com/click/click?p=1&t=url&s=1126362&url=https%3a%2f%2fwww.bol.com%2fnl%2fnl%2fp%2fgabor-gabor-dames-sneakers-blauw-maat-37-dames-sneakers-blauw-maat-37%2f9300000178758957%2f",
+            "size": "37",
+            "shopReviewScore": 4,
+            "shopReviewAmount": 39257,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 89,
+              "price": 89.96,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 89,
+              "price": 119,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "9300000178758957",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "00a5834d-a864-4841-8666-1b7bac7c1640",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 59.98
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 59.98
+          },
+          "title": "Gabor Sneakers - Dames - Blauw",
+          "fixedTitle": "Gabor Sneakers - Dames - Blauw",
+          "indexIdentifierTimeStamp": 1744868220,
+          "description": "fijne blauwe Gabor sneaker die zeker niet mag ontbreken in je collectie! Deze damessneaker is helemaal gemaakt van su\u00e8de en heeft een sportieve zool.    De schoen heeft een voorgevormd en uitneembaar voetbed en is daardoor ook geschikt voor je eigen steunzolen. De sneakers zijn daarnaast ook nog voorzien van een verharde hiel. Dit zorgt voor extra stevigheid tijdens het lopen! De schoenen hebben voetwijdte H. Dit betekent dat de schoen geschikt is voor een bredere voet. ",
+          "descriptionRaw": "fijne blauwe Gabor sneaker die zeker niet mag ontbreken in je collectie! Deze damessneaker is helemaal gemaakt van su\u00e8de en heeft een sportieve zool. <br /> <br /> <ul> <li>De schoen heeft een voorgevormd en uitneembaar voetbed en is daardoor ook geschikt voor je eigen steunzolen.</li> <li>De sneakers zijn daarnaast ook nog voorzien van een verharde hiel. Dit zorgt voor extra stevigheid tijdens het lopen!</li> <li>De schoenen hebben voetwijdte H. Dit betekent dat de schoen geschikt is voor een bredere voet.</li> </ul>",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-osEpWg2Ppo57CYv3KTJEjp9h6b",
+          "categoryId": 9000608,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            1
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 591,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/4099935852866/394/{size}/badfbad5f3a439a7ffda4a078eddca43/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 577,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852866/15376/{size}/1c9d150d0270059b077723f709f44465/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 602,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852866/15377/{size}/625cc137c86507a2fc8d2d1f52e61b19/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 668,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852866/15378/{size}/4db4f7bd9f598c7600a49f48f7949d9e/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 1199,
+                "width": 754
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852866/15379/{size}/0179040ca12f284dba08442b9b788fc6/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 432,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852866/15380/{size}/21e66a4220e9dcbc8f342bdbe2276a18/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 584,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852866/15381/{size}/1ef96eebfb52742908ed8f276d416a52/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1117,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852866/15382/{size}/de7b77a99294262ce80a4fe2c6e5310d/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 578,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852866/15383/{size}/68c397a6f3bf57800e2819172baf9ae0/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 727,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852866/15384/{size}/a432d66a642276b7da37c4109fd26451/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 1193,
+                "width": 835
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852866/15385/{size}/9d7bdc8386d0341f74f1e806923a20fb/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage11",
+              "size": {
+                "height": 1199,
+                "width": 870
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852866/15386/{size}/2901a33c40e51673b9f22b94ccbda499/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage12",
+              "size": {
+                "height": 1199,
+                "width": 416
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852866/15387/{size}/8a77b2c841d3605892169e87a08618cd/Sneakers/Gabor-Sneakers-Dames-Blauw.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEpKo7bDQuPTkZVjq1C7PsLdg",
+              "value": "37",
+              "available": true,
+              "price": 89.96,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "osEp7BFVj512GSAVCuSEg8G4bb",
+              "value": "40.5",
+              "available": true,
+              "price": 124.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "osEpKo7bDQuPTkZVjq1C7PsLdg",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 119,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 89.96,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 16389768,
+                  "caption": "Maat 40,5",
+                  "columnValue": "40,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 40,5",
+                  "fullId": "3081_16389768",
+                  "sequence": 77,
+                  "urlName": null,
+                  "productIdV3": "osEp7BFVj512GSAVCuSEg8G4bb",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 124.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431162,
+          "brandName": "Gabor",
+          "brandRank": 11,
+          "brandRelativeDemandLabel": "D",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-16 00:00:00",
+          "popularity": 3,
+          "popularityData": {
+            "clickFactor": 2,
+            "webshopsRevenuePerClick": 1.34,
+            "roasPercentage": 10000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "onbekend",
+          "deliveryTimeSort": 8,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 16389768,
+                  "caption": "Maat 40,5",
+                  "columnValue": "40,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 40,5",
+                  "fullId": "3081_16389768",
+                  "sequence": 77,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Gabor",
+              "values": [
+                {
+                  "id": 431162,
+                  "caption": "Gabor",
+                  "columnValue": "Gabor",
+                  "crawlable": true,
+                  "detailValue": "Gabor",
+                  "fullId": "3078_431162",
+                  "sequence": 1172,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Bol.com",
+              "values": [
+                {
+                  "id": 1333828,
+                  "caption": "Bol.com",
+                  "columnValue": "Bol.com",
+                  "crawlable": true,
+                  "detailValue": "Bol.com",
+                  "fullId": "3079_1333828",
+                  "sequence": 232,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Suede",
+              "values": [
+                {
+                  "id": 430860,
+                  "caption": "Suede",
+                  "columnValue": "Suede",
+                  "crawlable": true,
+                  "detailValue": "Suede",
+                  "fullId": "3083_430860",
+                  "sequence": 34,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Brede voeten",
+              "values": [
+                {
+                  "id": 15482619,
+                  "caption": "Brede voeten",
+                  "columnValue": "Brede voeten",
+                  "crawlable": true,
+                  "detailValue": "Brede voeten",
+                  "fullId": "4550_15482619",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 11228162,
+                  "caption": "Uitneembaar voetbed",
+                  "columnValue": "Uitneembaar voetbed",
+                  "crawlable": true,
+                  "detailValue": "Uitneembaar voetbed",
+                  "fullId": "4550_11228162",
+                  "sequence": 44,
+                  "urlName": null
+                },
+                {
+                  "id": 23588099,
+                  "caption": "met voetbed",
+                  "columnValue": "Voetbed",
+                  "crawlable": true,
+                  "detailValue": "met voetbed",
+                  "fullId": "4550_23588099",
+                  "sequence": 47,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "H",
+              "values": [
+                {
+                  "id": 16475783,
+                  "caption": "Wijdte H",
+                  "columnValue": "H",
+                  "crawlable": true,
+                  "detailValue": "Wijdte H",
+                  "fullId": "5211_16475783",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Sportief",
+              "values": [
+                {
+                  "id": 23580856,
+                  "caption": "Sportieve",
+                  "columnValue": "Sportief",
+                  "crawlable": true,
+                  "detailValue": "Sportieve",
+                  "fullId": "6097_23580856",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "1-9300000185144180",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-00a5834d-a864-4841-8666-1b7bac7c1640",
+          "revenuePerClick": 0.01,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 1,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 89.96,
+          "facetsValues": [],
+          "productScoreLabel": "B",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 3,
+            "rating": 94
+          },
+          "labels": [],
+          "discountPercentage": 24,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "discount",
+              "value": 24
+            }
+          ]
+        },
+        {
+          "id": "WGoTuuporYhLdQEUvWhRtzdH6c3",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "WGoTupmEdzizHYP2P1i1iQ4agXM",
+            "advertisementIdV3": "WGoTupmEdzizHYP2P1i1iQ4agXM"
+          },
+          "shopItemId": 1056015823,
+          "productId": "WGoTuuporYhLdQEUvWhRtzdH6c3",
+          "ean": "",
+          "shopInfo": {
+            "id": 80420,
+            "shopName": "Molders.be",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": true,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 9,
+            "productCount": 6000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/80420.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:50:11+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 10656,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "lorenzo@indiegroup.be",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 80420,
+            "shopItemId": 1056015823,
+            "shopItemTitle": "GABOR Sneakers Blauw",
+            "shopItemDescription": "",
+            "shopItemVersion": "133444974167-348330",
+            "shopName": "Molders.be",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "WGoTuuporYhLdQEUvWhRtzdH6c3",
+            "condition": "Nieuw",
+            "ean": "4099935852934",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://molders.be/nl/GABOR-Sneakers-133444-120_56_dot_528_dot_46_slash_slash_h_dark_blue.html#1?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist-benl",
+            "size": "41",
+            "shopReviewScore": 7.8,
+            "shopReviewAmount": 9,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 89,
+              "price": 114.95,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "133444974167",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "00a5834d-a864-4841-8666-1b7bac7c1640",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 59.98
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 59.98
+          },
+          "title": "GABOR Sneakers Blauw",
+          "fixedTitle": "GABOR Sneakers Blauw",
+          "indexIdentifierTimeStamp": 1744868220,
+          "description": "GABOR Sneakers Blauw in maat 41.",
+          "descriptionRaw": "GABOR Sneakers Blauw in maat 41.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": 1210663335,
+          "gtinGroupId": "32000-WGoTupmEdzizHYP2P1i1iQ4agXM",
+          "categoryId": 9000608,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": 137440164135335,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            80420
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 591,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/4099935852880/394/{size}/badfbad5f3a439a7ffda4a078eddca43/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 577,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852880/15376/{size}/1c9d150d0270059b077723f709f44465/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 602,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852880/15377/{size}/625cc137c86507a2fc8d2d1f52e61b19/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 668,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852880/15378/{size}/4db4f7bd9f598c7600a49f48f7949d9e/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 432,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852880/15379/{size}/21e66a4220e9dcbc8f342bdbe2276a18/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 754
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852880/15380/{size}/0179040ca12f284dba08442b9b788fc6/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 584,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852880/15381/{size}/1ef96eebfb52742908ed8f276d416a52/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1117,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852880/15382/{size}/de7b77a99294262ce80a4fe2c6e5310d/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 578,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852880/15383/{size}/68c397a6f3bf57800e2819172baf9ae0/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 727,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852880/15384/{size}/a432d66a642276b7da37c4109fd26451/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 1193,
+                "width": 835
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852880/15385/{size}/9d7bdc8386d0341f74f1e806923a20fb/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage11",
+              "size": {
+                "height": 1199,
+                "width": 870
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852880/15386/{size}/2901a33c40e51673b9f22b94ccbda499/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            },
+            {
+              "imageType": "alternativeImage12",
+              "size": {
+                "height": 1199,
+                "width": 416
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099935852880/15387/{size}/8a77b2c841d3605892169e87a08618cd/Sneakers/GABOR-Sneakers-Blauw.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "WGoTuuporYhLdQEUvWhRtzdH6c3",
+              "value": "41",
+              "available": true,
+              "price": 114.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "WGoTv18FwYVVMMJoo3yjTM66ZU4",
+              "value": "40",
+              "available": true,
+              "price": 114.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "WGoTv4oWyofCphKH3XbBmgFDBnC",
+              "value": "38",
+              "available": true,
+              "price": 114.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "WGoTv4oWyofCphKH3XbBmgFDBnC",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 114.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "WGoTv18FwYVVMMJoo3yjTM66ZU4",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 114.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "WGoTuuporYhLdQEUvWhRtzdH6c3",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 114.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431162,
+          "brandName": "Gabor",
+          "brandRank": 11,
+          "brandRelativeDemandLabel": "D",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-16 00:00:00",
+          "popularity": 6021,
+          "popularityData": {
+            "clickFactor": 90,
+            "webshopsRevenuePerClick": 2.32,
+            "roasPercentage": 400
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 20:00 uur besteld, volgende dag in huis",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "38",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Gabor",
+              "values": [
+                {
+                  "id": 431162,
+                  "caption": "Gabor",
+                  "columnValue": "Gabor",
+                  "crawlable": true,
+                  "detailValue": "Gabor",
+                  "fullId": "3078_431162",
+                  "sequence": 1172,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Molders.be",
+              "values": [
+                {
+                  "id": 5287051,
+                  "caption": "Molders.be",
+                  "columnValue": "Molders.be",
+                  "crawlable": true,
+                  "detailValue": "Molders.be",
+                  "fullId": "3079_5287051",
+                  "sequence": 1187,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Blauw",
+              "values": [
+                {
+                  "id": 430773,
+                  "caption": "Blauwe",
+                  "columnValue": "Blauw",
+                  "crawlable": true,
+                  "detailValue": "Blauwe",
+                  "fullId": "3080_430773",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                },
+                {
+                  "id": 430861,
+                  "caption": "Synthetisch",
+                  "columnValue": "Synthetisch",
+                  "crawlable": true,
+                  "detailValue": "Synthetisch",
+                  "fullId": "3083_430861",
+                  "sequence": 36,
+                  "urlName": null
+                },
+                {
+                  "id": 430862,
+                  "caption": "Textiel",
+                  "columnValue": "Textiel",
+                  "crawlable": true,
+                  "detailValue": "Textiel",
+                  "fullId": "3083_430862",
+                  "sequence": 38,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": {
+            "id": null,
+            "detail": null,
+            "isTopDetail": null,
+            "value": "Blauw"
+          },
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-00a5834d-a864-4841-8666-1b7bac7c1640",
+          "revenuePerClick": 0.58,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 89.96,
+          "facetsValues": [],
+          "productScoreLabel": null,
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 3,
+            "rating": 94
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        },
+        {
+          "id": "3AChdGTQDteRxY7A1XTAtSaj5BFF",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3AChdFy1Lr26AYayBTViJY4qLAHg",
+            "advertisementIdV3": "3AChdFy1Lr26AYayBTViJY4qLAHg"
+          },
+          "shopItemId": 0,
+          "productId": "3AChdGTQDteRxY7A1XTAtSaj5BFF",
+          "ean": "",
+          "shopInfo": {
+            "id": 651930,
+            "shopName": "Miinto.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/651930.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:50:06+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 40007,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 3,
+                "name": "UPS"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 651930,
+            "shopItemId": 0,
+            "shopItemTitle": "Gabor, Dames, Schoenen, Blauw, Maat: 36 EU Leer,",
+            "shopItemDescription": "",
+            "shopItemVersion": "fee68280-fa52-43ff-b275-794f6148ccd4-3a5d3cd9-d8c5-788b-f4c4-c7042d51381f",
+            "shopName": "Miinto.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3AChdGTQDteRxY7A1XTAtSaj5BFF",
+            "condition": "Nieuw",
+            "ean": "4099935852859",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://meintobeneluxbv.sjv.io/c/5824848/2822130/30765?prodsku=fee68280-fa52-43ff-b275-794f6148ccd4&force_deeplink=1&u=https%3A%2F%2Fwww.miinto.nl%2Fp-winter-casual-sportieve-basket-sneakers-50fbc0b7-3feb-40b1-bf1a-0f38e6d93754%3Futm_source%3Dawin%26utm_medium%3Daffiliate%26utm_campaign%3Dfeed&intsrc=CATF_22310&subId1=UUID_placeholder&subId2=GCLID_placeholder",
+            "size": "36",
+            "shopReviewScore": 7,
+            "shopReviewAmount": 13634,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 89,
+              "price": 137.2,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "fee68280-fa52-43ff-b275-794f6148ccd4",
+            "bidLabel": "Winter Casual Sportieve Basket Sneakers"
+          },
+          "pim": {
+            "groupId": "00a5834d-a864-4841-8666-1b7bac7c1640",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 59.98
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 59.98
+          },
+          "title": "Gabor, Dames, Schoenen, Blauw, Maat: 36 EU Leer,",
+          "fixedTitle": "Gabor, Dames, Schoenen, Blauw, Maat: 35 1/2 EU Leer,",
+          "indexIdentifierTimeStamp": 1744868220,
+          "description": "Blijf stijlvol en comfortabel met deze winter casual sportieve basket sneakers, perfect voor winterse wandelingen. Met een modern design met een mix van materialen en kleuren, zijn deze sneakers een must-have voor het koude seizoen. Belangrijkste kenmerken: Navy | Blauw | Leer | Verwijderbare leren binnenzool | Warme voering | 15mm sleehak | Dikke rubberen zool | Afmetingen en pasvorm: Comfortabele G-wijdte |",
+          "descriptionRaw": "Blijf stijlvol en comfortabel met deze winter casual sportieve basket sneakers, perfect voor winterse wandelingen. Met een modern design met een mix van materialen en kleuren, zijn deze sneakers een must-have voor het koude seizoen. Belangrijkste kenmerken: Navy | Blauw | Leer | Verwijderbare leren binnenzool | Warme voering | 15mm sleehak | Dikke rubberen zool | Afmetingen en pasvorm: Comfortabele G-wijdte |",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-3AChdFy1Lr26AYayBTViJY4qLAHg",
+          "categoryId": 9000631,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 3,
+          "shopIds": [
+            651930
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 425,
+                "width": 863
+              },
+              "type": "mainImage",
+              "url": "3AChdGTQDteRxY7A1XTAtSaj5BFF/394/{size}/c0462b13fdc99fc2c1fd9479662beab3/Basketbalschoenen/Gabor%2c-Dames%2c-Schoenen%2c-Blauw%2c-Maat%3a-35-1-2-EU-Leer%2c.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 791,
+                "width": 581
+              },
+              "type": "alternativeImage",
+              "url": "3AChdGTQDteRxY7A1XTAtSaj5BFF/15378/{size}/274512ad336ef7c19517f179940faaee/Basketbalschoenen/Gabor%2c-Dames%2c-Schoenen%2c-Blauw%2c-Maat%3a-35-1-2-EU-Leer%2c.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 788,
+                "width": 551
+              },
+              "type": "alternativeImage",
+              "url": "3AChdGTQDteRxY7A1XTAtSaj5BFF/15379/{size}/1db1b9e6d20db4cdabfcb0f332dc21b9/Basketbalschoenen/Gabor%2c-Dames%2c-Schoenen%2c-Blauw%2c-Maat%3a-35-1-2-EU-Leer%2c.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 913,
+                "width": 319
+              },
+              "type": "alternativeImage",
+              "url": "3AChdGTQDteRxY7A1XTAtSaj5BFF/15380/{size}/8fc1688b2b1ad1cc1023188b82fdc714/Basketbalschoenen/Gabor%2c-Dames%2c-Schoenen%2c-Blauw%2c-Maat%3a-35-1-2-EU-Leer%2c.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 363,
+                "width": 871
+              },
+              "type": "alternativeImage",
+              "url": "3AChdGTQDteRxY7A1XTAtSaj5BFF/15381/{size}/0bcf22366ca9b8853791606ba791b3a6/Basketbalschoenen/Gabor%2c-Dames%2c-Schoenen%2c-Blauw%2c-Maat%3a-35-1-2-EU-Leer%2c.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3AChdGTQDteRxY7A1XTAtSaj5BFF",
+              "value": "36",
+              "available": true,
+              "price": 137.2,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3AChdGCPsF21NK9kmZmbsYR9ZYaH",
+              "value": "35 1/2",
+              "available": true,
+              "price": 137.2,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3AChdGN8CXcuj1Gh77anTVjcsjGQ",
+              "value": "38 1/2",
+              "available": true,
+              "price": 137.2,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 23435448,
+                  "caption": "Maat 35,5",
+                  "columnValue": "35,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 35,5",
+                  "fullId": "3081_23435448",
+                  "sequence": 52,
+                  "urlName": null,
+                  "productIdV3": "3AChdGCPsF21NK9kmZmbsYR9ZYaH",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 137.2,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430804,
+                  "caption": "Maat 36",
+                  "columnValue": "36",
+                  "crawlable": true,
+                  "detailValue": "Maat 36",
+                  "fullId": "3081_430804",
+                  "sequence": 55,
+                  "urlName": null,
+                  "productIdV3": "3AChdGTQDteRxY7A1XTAtSaj5BFF",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 137.2,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 16389766,
+                  "caption": "Maat 38,5",
+                  "columnValue": "38,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 38,5",
+                  "fullId": "3081_16389766",
+                  "sequence": 67,
+                  "urlName": null,
+                  "productIdV3": "3AChdGN8CXcuj1Gh77anTVjcsjGQ",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 137.2,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431162,
+          "brandName": "Gabor",
+          "brandRank": 11,
+          "brandRelativeDemandLabel": "D",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-16 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 3000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 5 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "35,5",
+              "values": [
+                {
+                  "id": 23435448,
+                  "caption": "Maat 35,5",
+                  "columnValue": "35,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 35,5",
+                  "fullId": "3081_23435448",
+                  "sequence": 52,
+                  "urlName": null
+                },
+                {
+                  "id": 430804,
+                  "caption": "Maat 36",
+                  "columnValue": "36",
+                  "crawlable": true,
+                  "detailValue": "Maat 36",
+                  "fullId": "3081_430804",
+                  "sequence": 55,
+                  "urlName": null
+                },
+                {
+                  "id": 16389766,
+                  "caption": "Maat 38,5",
+                  "columnValue": "38,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 38,5",
+                  "fullId": "3081_16389766",
+                  "sequence": 67,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Gabor",
+              "values": [
+                {
+                  "id": 431162,
+                  "caption": "Gabor",
+                  "columnValue": "Gabor",
+                  "crawlable": true,
+                  "detailValue": "Gabor",
+                  "fullId": "3078_431162",
+                  "sequence": 1172,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Miinto.nl",
+              "values": [
+                {
+                  "id": 8034317,
+                  "caption": "Miinto.nl",
+                  "columnValue": "Miinto.nl",
+                  "crawlable": true,
+                  "detailValue": "Miinto.nl",
+                  "fullId": "3079_8034317",
+                  "sequence": 1150,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Blauw",
+              "values": [
+                {
+                  "id": 430773,
+                  "caption": "Blauwe",
+                  "columnValue": "Blauw",
+                  "crawlable": true,
+                  "detailValue": "Blauwe",
+                  "fullId": "3080_430773",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Uitneembaar voetbed",
+              "values": [
+                {
+                  "id": 11228162,
+                  "caption": "Uitneembaar voetbed",
+                  "columnValue": "Uitneembaar voetbed",
+                  "crawlable": true,
+                  "detailValue": "Uitneembaar voetbed",
+                  "fullId": "4550_11228162",
+                  "sequence": 44,
+                  "urlName": null
+                },
+                {
+                  "id": 23745484,
+                  "caption": "Warme",
+                  "columnValue": "Warm",
+                  "crawlable": true,
+                  "detailValue": "Warme",
+                  "fullId": "4550_23745484",
+                  "sequence": 50,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "G",
+              "values": [
+                {
+                  "id": 16475782,
+                  "caption": "Wijdte G",
+                  "columnValue": "G",
+                  "crawlable": true,
+                  "detailValue": "Wijdte G",
+                  "fullId": "5211_16475782",
+                  "sequence": 5,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Sportief",
+              "values": [
+                {
+                  "id": 23580856,
+                  "caption": "Sportieve",
+                  "columnValue": "Sportief",
+                  "crawlable": true,
+                  "detailValue": "Sportieve",
+                  "fullId": "6097_23580856",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-00a5834d-a864-4841-8666-1b7bac7c1640",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 2,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 89.96,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": {
+            "bestRating": 100,
+            "count": 3,
+            "rating": 94
+          },
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

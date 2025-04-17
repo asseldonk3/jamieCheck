@@ -1,0 +1,2351 @@
+{
+  "offset": 0,
+  "numFound": 4,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 4,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 99.99,
+        "highestDiscount": 9,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 430805,
+                "caption": "Maat 37",
+                "columnValue": "37",
+                "crawlable": true,
+                "detailValue": "Maat 37",
+                "fullId": "3081_430805",
+                "sequence": 60,
+                "urlName": null
+              },
+              {
+                "id": 16389765,
+                "caption": "Maat 37,5",
+                "columnValue": "37,5",
+                "crawlable": true,
+                "detailValue": "Maat 37,5",
+                "fullId": "3081_16389765",
+                "sequence": 62,
+                "urlName": null
+              },
+              {
+                "id": 430806,
+                "caption": "Maat 38",
+                "columnValue": "38",
+                "crawlable": true,
+                "detailValue": "Maat 38",
+                "fullId": "3081_430806",
+                "sequence": 65,
+                "urlName": null
+              },
+              {
+                "id": 430807,
+                "caption": "Maat 39",
+                "columnValue": "39",
+                "crawlable": true,
+                "detailValue": "Maat 39",
+                "fullId": "3081_430807",
+                "sequence": 70,
+                "urlName": null
+              },
+              {
+                "id": 430808,
+                "caption": "Maat 40",
+                "columnValue": "40",
+                "crawlable": true,
+                "detailValue": "Maat 40",
+                "fullId": "3081_430808",
+                "sequence": 75,
+                "urlName": null
+              },
+              {
+                "id": 16389768,
+                "caption": "Maat 40,5",
+                "columnValue": "40,5",
+                "crawlable": true,
+                "detailValue": "Maat 40,5",
+                "fullId": "3081_16389768",
+                "sequence": 77,
+                "urlName": null
+              },
+              {
+                "id": 430809,
+                "caption": "Maat 41",
+                "columnValue": "41",
+                "crawlable": true,
+                "detailValue": "Maat 41",
+                "fullId": "3081_430809",
+                "sequence": 80,
+                "urlName": null
+              },
+              {
+                "id": 16389769,
+                "caption": "Maat 41,5",
+                "columnValue": "41,5",
+                "crawlable": true,
+                "detailValue": "Maat 41,5",
+                "fullId": "3081_16389769",
+                "sequence": 82,
+                "urlName": null
+              },
+              {
+                "id": 16389770,
+                "caption": "Maat 42,5",
+                "columnValue": "42,5",
+                "crawlable": true,
+                "detailValue": "Maat 42,5",
+                "fullId": "3081_16389770",
+                "sequence": 85,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "2Ys31s11ThcLtwSwqL6Zr5x2VNdE",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2Ys31sN1XrpwZuiaFU6x6rvYFPFi",
+            "advertisementIdV3": "2Ys31sN1XrpwZuiaFU6x6rvYFPFi"
+          },
+          "shopItemId": 0,
+          "productId": "2Ys31s11ThcLtwSwqL6Zr5x2VNdE",
+          "ean": "",
+          "shopInfo": {
+            "id": 341615,
+            "shopName": "Wbsport.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 7,
+            "productCount": 4048,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/341615.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:50:07+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 24730,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "webshop@wbsport.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 36,
+                "name": "Apple Pay"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 341615,
+            "shopItemId": 0,
+            "shopItemTitle": "New Balance 574 V2 Dames - Sneakers - Kleur Wit - Maat 41",
+            "shopItemDescription": "",
+            "shopItemVersion": "0197968041104-013943-100",
+            "shopName": "Wbsport.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2Ys31sN1Yx9bpfLXBHEAJzohYRqz",
+            "condition": "Nieuw",
+            "ean": "0197968041104",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.wbsport.nl/new-balance-574-v2-wl574cgr-sea_wit_17709.html?channable=06d36f6964003031393739363830343131303468&utm_campaign=new+balance&utm_content=&utm_source=beslist&utm_medium=cpc&utm_term=",
+            "size": "41",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 89,
+              "price": 99.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 89,
+              "price": 109.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "0197968041104",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 81.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 99.99
+          },
+          "title": "New Balance 574 V2 Dames - Sneakers - Kleur Wit - Maat 40,5",
+          "fixedTitle": "New Balance 574 V2 Dames - Sneakers - Kleur Wit - Maat 37",
+          "indexIdentifierTimeStamp": 1744869692,
+          "description": "De New Balance Women U530csc Reflection Sneaker Combineert Een Retro Uitstraling Met Hedendaags Comfort, Perfect Voor De Modebewuste Vrouw. Met Een Ademend Bovenwerk Van Mesh En Een Robuuste Rubberen Buitenzool, Biedt Deze Sneaker Duurzaamheid En Stijl. De Abzorb-tussenzool Zorgt Voor Uitstekende Demping En Schokabsorptie, Waardoor Elke Stap Comfortabel Aanvoelt. De Iconische N-logo Op De Zijkant Voegt Een Vleugje Authenticiteit Toe Aan Het Ontwerp. Ge\u00efnspireerd Door Klassieke Hardloopschoenen Uit De Jaren 2000, Is Dit Model Ideaal Voor Dagelijks Gebruik. De Handige Hiellus En Vetersluiting Zorgen Voor Een Optimale Pasvorm, Waardoor Deze Sneaker Zowel Functioneel Als Modieus Is.",
+          "descriptionRaw": "De New Balance Women U530csc Reflection Sneaker Combineert Een Retro Uitstraling Met Hedendaags Comfort, Perfect Voor De Modebewuste Vrouw. Met Een Ademend Bovenwerk Van Mesh En Een Robuuste Rubberen Buitenzool, Biedt Deze Sneaker Duurzaamheid En Stijl. De Abzorb-tussenzool Zorgt Voor Uitstekende Demping En Schokabsorptie, Waardoor Elke Stap Comfortabel Aanvoelt. De Iconische N-logo Op De Zijkant Voegt Een Vleugje Authenticiteit Toe Aan Het Ontwerp. Ge\u00efnspireerd Door Klassieke Hardloopschoenen Uit De Jaren 2000, Is Dit Model Ideaal Voor Dagelijks Gebruik. De Handige Hiellus En Vetersluiting Zorgen Voor Een Optimale Pasvorm, Waardoor Deze Sneaker Zowel Functioneel Als Modieus Is.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-2Ys31sN1XrpwZuiaFU6x6rvYFPFi",
+          "categoryId": 9000619,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 5,
+          "shopIds": [
+            341615
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 719,
+                "width": 1492
+              },
+              "type": "mainImage",
+              "url": "2Ys31s11ThcLtwSwqL6Zr5x2VNdE/394/{size}/aae7b3f03bd0eb40cbdf3dfbca3fb1e8/Sportschoenen/New-Balance-574-V2-Dames-Sneakers-Kleur-Wit-Maat-37.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2Ys31s11ThcLtwSwqL6Zr5x2VNdE",
+              "value": "40.5",
+              "available": true,
+              "price": 99.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2Ys31sJnajffaYa4xYJ7anDHTmgR",
+              "value": "37",
+              "available": true,
+              "price": 99.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2Ys31sMC4RMoAxE5bMoNNVEHDiKP",
+              "value": "39",
+              "available": true,
+              "price": 99.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2Ys31sN1Yx9bpfLXBHEAJzohYRqz",
+              "value": "41",
+              "available": true,
+              "price": 99.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2Ys31s3imiqvtEeuZ8stSUz4BicJ",
+              "value": "37.5",
+              "available": true,
+              "price": 99.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2Ys31s7qXhFHZ1AYo7NW51tRt9qc",
+              "value": "38",
+              "available": true,
+              "price": 99.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2Ys31s3VmxXu6dfZTVoA2TgEnxPE",
+              "value": "40",
+              "available": true,
+              "price": 99.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "2Ys31sJnajffaYa4xYJ7anDHTmgR",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 99.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 16389765,
+                  "caption": "Maat 37,5",
+                  "columnValue": "37,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 37,5",
+                  "fullId": "3081_16389765",
+                  "sequence": 62,
+                  "urlName": null,
+                  "productIdV3": "2Ys31s3imiqvtEeuZ8stSUz4BicJ",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 99.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "2Ys31s7qXhFHZ1AYo7NW51tRt9qc",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 99.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "2Ys31sMC4RMoAxE5bMoNNVEHDiKP",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 99.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "2Ys31s3VmxXu6dfZTVoA2TgEnxPE",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 99.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 16389768,
+                  "caption": "Maat 40,5",
+                  "columnValue": "40,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 40,5",
+                  "fullId": "3081_16389768",
+                  "sequence": 77,
+                  "urlName": null,
+                  "productIdV3": "2Ys31s11ThcLtwSwqL6Zr5x2VNdE",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 99.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "2Ys31sN1Yx9bpfLXBHEAJzohYRqz",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 99.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431579,
+          "brandName": "New Balance",
+          "brandRank": 3,
+          "brandRelativeDemandLabel": "B",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-03-16 00:00:00",
+          "popularity": 5004,
+          "popularityData": {
+            "clickFactor": 148,
+            "webshopsRevenuePerClick": 2.35,
+            "roasPercentage": 800
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 werkdag",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "New Balance",
+              "values": [
+                {
+                  "id": 431579,
+                  "caption": "New Balance",
+                  "columnValue": "New Balance",
+                  "crawlable": true,
+                  "detailValue": "New Balance",
+                  "fullId": "3078_431579",
+                  "sequence": 2087,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 430777,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3080_430777",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 16389765,
+                  "caption": "Maat 37,5",
+                  "columnValue": "37,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 37,5",
+                  "fullId": "3081_16389765",
+                  "sequence": 62,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 16389768,
+                  "caption": "Maat 40,5",
+                  "columnValue": "40,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 40,5",
+                  "fullId": "3081_16389768",
+                  "sequence": 77,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Mesh",
+              "values": [
+                {
+                  "id": 10392043,
+                  "caption": "Mesh",
+                  "columnValue": "Mesh",
+                  "crawlable": true,
+                  "detailValue": "Mesh",
+                  "fullId": "3083_10392043",
+                  "sequence": 27,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3513,
+              "name": "Productlijn",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_serie",
+              "value": "New Balance 574",
+              "values": [
+                {
+                  "id": 4379305,
+                  "caption": "New Balance 574",
+                  "columnValue": "New Balance 574",
+                  "crawlable": true,
+                  "detailValue": "New Balance 574",
+                  "fullId": "3513_4379305",
+                  "sequence": 811,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3821,
+              "name": "Type",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "type_productlijn",
+              "value": "WL574",
+              "values": [
+                {
+                  "id": 23468061,
+                  "caption": "WL574",
+                  "columnValue": "WL574",
+                  "crawlable": true,
+                  "detailValue": "WL574",
+                  "fullId": "3821_23468061",
+                  "sequence": 642,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Ademend",
+              "values": [
+                {
+                  "id": 19256583,
+                  "caption": "Ademende",
+                  "columnValue": "Ademend",
+                  "crawlable": true,
+                  "detailValue": "Ademende",
+                  "fullId": "4550_19256583",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Sportief",
+              "values": [
+                {
+                  "id": 23580856,
+                  "caption": "Sportieve",
+                  "columnValue": "Sportief",
+                  "crawlable": true,
+                  "detailValue": "Sportieve",
+                  "fullId": "6097_23580856",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6291,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Duurzaam",
+              "values": [
+                {
+                  "id": 23735390,
+                  "caption": "Duurzame",
+                  "columnValue": "Duurzaam",
+                  "crawlable": true,
+                  "detailValue": "Duurzame",
+                  "fullId": "6291_23735390",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-0197968041067",
+          "revenuePerClick": 0.29,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 81.99,
+          "facetsValues": [],
+          "productScoreLabel": "A",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 9,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "id": "W2tjgdKTLbm5fHxBqFjJJ7Yewvy",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "W2tjgVUAMcnGFJLxQxvMtv5e3dk",
+            "advertisementIdV3": "W2tjgVUAMcnGFJLxQxvMtv5e3dk"
+          },
+          "shopItemId": 0,
+          "productId": "W2tjgdKTLbm5fHxBqFjJJ7Yewvy",
+          "ean": "",
+          "shopInfo": {
+            "id": 519715,
+            "shopName": "Intersporttwinsport.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 6,
+            "productCount": 32785,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/519715.png",
+            "coolingOffPeriod": 100,
+            "activeSince": "2025-04-17T01:50:10+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 19614,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "Davey@twinsport.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 519715,
+            "shopItemId": 0,
+            "shopItemTitle": "New Balance Lifestyle Sneakers Dames",
+            "shopItemDescription": "",
+            "shopItemVersion": "323422-100-8,5-323422-100",
+            "shopName": "Intersporttwinsport.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "W2tjgbb1iS484nCEkTsRjZ5a319",
+            "condition": "Nieuw",
+            "ean": "0197968041081",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.intersporttwinsport.nl/new-balance-lifestyle-sneakers-dames-wit-wl574cgr-b/457897?utm_campaign=New+Balance&utm_content=&utm_source=beslist&utm_medium=cpc&utm_term=",
+            "size": "40",
+            "shopReviewScore": 4.8,
+            "shopReviewAmount": 78,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 89,
+              "price": 104.49,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 89,
+              "price": 109.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "323422-100-8,5",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 81.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 99.99
+          },
+          "title": "New Balance Lifestyle Sneakers Dames",
+          "fixedTitle": "New Balance Lifestyle Sneakers Dames",
+          "indexIdentifierTimeStamp": 1744869692,
+          "description": "De New Balance 574 sneakers zijn een echte klassieker die iedereen dient te hebben. Deze schoenen combineren moeiteloos comfort met een stijlvol ontwerp, waardoor ze perfect zijn voor zowel sportieve als casual outfits. Bovendien zijn ze direct herkenbaar en blijven ze populair, ongeacht de trends.\n\n\n\n\n Producteigenschappen:\n\n  \n * Iconisch ontwerp dat zowel trendy als tijdloos is \n * Uitstekende demping voor ultiem comfort \n * Veelzijdig genoeg voor elke gelegenheid en outfit  \n Bij Twinsport ben je verzekerd van de laatste trends en de hipste schoenen. Wacht niet langer, bestel jouw New Balance 574 sneakers vandaag nog en ontdek het gemak en de stijl die ze te bieden hebben!",
+          "descriptionRaw": "De New Balance 574 sneakers zijn een echte klassieker die iedereen dient te hebben. Deze schoenen combineren moeiteloos comfort met een stijlvol ontwerp, waardoor ze perfect zijn voor zowel sportieve als casual outfits. Bovendien zijn ze direct herkenbaar en blijven ze populair, ongeacht de trends.\n\n\n\n\n Producteigenschappen:\n\n  \n * Iconisch ontwerp dat zowel trendy als tijdloos is \n * Uitstekende demping voor ultiem comfort \n * Veelzijdig genoeg voor elke gelegenheid en outfit  \n Bij Twinsport ben je verzekerd van de laatste trends en de hipste schoenen. Wacht niet langer, bestel jouw New Balance 574 sneakers vandaag nog en ontdek het gemak en de stijl die ze te bieden hebben!",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-W2tjgVUAMcnGFJLxQxvMtv5e3dk",
+          "categoryId": 9000608,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 5,
+          "shopIds": [
+            519715
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 615,
+                "width": 1103
+              },
+              "type": "mainImage",
+              "url": "W2tjgdKTLbm5fHxBqFjJJ7Yewvy/394/{size}/53e1500ba067b1fd74fa6b99bcefdc0d/Sneakers/New-Balance-Lifestyle-Sneakers-Dames.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "W2tjgdKTLbm5fHxBqFjJJ7Yewvy",
+              "value": "41",
+              "available": true,
+              "price": 104.49,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "W2tjgbb1iS484nCEkTsRjZ5a319",
+              "value": "40",
+              "available": true,
+              "price": 104.49,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "W2tjgUYGbyozkQWJJGCFS6kPpDn",
+              "value": "41 1/2",
+              "available": true,
+              "price": 104.49,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "W2tjgmgs9qHTQiM3mQtoGjbWrTb",
+              "value": "38",
+              "available": true,
+              "price": 104.49,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "W2tjgJJkpuLSWwwXp5Hx5aa3wsg",
+              "value": "37 1/2",
+              "available": true,
+              "price": 104.49,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "W2tjgh1Lgbfk2LQmMGedZjWKBad",
+              "value": "37",
+              "available": true,
+              "price": 104.49,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "W2tjgUGdbnHktFvztTYowJdmkg5",
+              "value": "39",
+              "available": true,
+              "price": 104.49,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "W2tjgicoTDnkGo28qs8mbEqPJMc",
+              "value": "40 1/2",
+              "available": true,
+              "price": 104.49,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "W2tjgZKtLXGi7dZfyieQcWU5zgG",
+              "value": "42 1/2",
+              "available": true,
+              "price": 104.49,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "W2tjgh1Lgbfk2LQmMGedZjWKBad",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 104.49,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 16389765,
+                  "caption": "Maat 37,5",
+                  "columnValue": "37,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 37,5",
+                  "fullId": "3081_16389765",
+                  "sequence": 62,
+                  "urlName": null,
+                  "productIdV3": "W2tjgJJkpuLSWwwXp5Hx5aa3wsg",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 104.49,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "W2tjgmgs9qHTQiM3mQtoGjbWrTb",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 104.49,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "W2tjgUGdbnHktFvztTYowJdmkg5",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 104.49,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "W2tjgbb1iS484nCEkTsRjZ5a319",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 104.49,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 16389768,
+                  "caption": "Maat 40,5",
+                  "columnValue": "40,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 40,5",
+                  "fullId": "3081_16389768",
+                  "sequence": 77,
+                  "urlName": null,
+                  "productIdV3": "W2tjgicoTDnkGo28qs8mbEqPJMc",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 104.49,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "W2tjgdKTLbm5fHxBqFjJJ7Yewvy",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 104.49,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 16389769,
+                  "caption": "Maat 41,5",
+                  "columnValue": "41,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 41,5",
+                  "fullId": "3081_16389769",
+                  "sequence": 82,
+                  "urlName": null,
+                  "productIdV3": "W2tjgUYGbyozkQWJJGCFS6kPpDn",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 104.49,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                },
+                {
+                  "id": 16389770,
+                  "caption": "Maat 42,5",
+                  "columnValue": "42,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 42,5",
+                  "fullId": "3081_16389770",
+                  "sequence": 85,
+                  "urlName": null,
+                  "productIdV3": "W2tjgZKtLXGi7dZfyieQcWU5zgG",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 104.49,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431579,
+          "brandName": "New Balance",
+          "brandRank": 3,
+          "brandRelativeDemandLabel": "B",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-03-16 00:00:00",
+          "popularity": 11,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.71,
+            "roasPercentage": 750
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "Op werkdagen voor 16:00 besteld, dezelfde dag verzonden",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 4.99,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "New Balance",
+              "values": [
+                {
+                  "id": 431579,
+                  "caption": "New Balance",
+                  "columnValue": "New Balance",
+                  "crawlable": true,
+                  "detailValue": "New Balance",
+                  "fullId": "3078_431579",
+                  "sequence": 2087,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Intersporttwinsport.nl",
+              "values": [
+                {
+                  "id": 19248684,
+                  "caption": "Intersporttwinsport.nl",
+                  "columnValue": "Intersporttwinsport.nl",
+                  "crawlable": true,
+                  "detailValue": "Intersporttwinsport.nl",
+                  "fullId": "3079_19248684",
+                  "sequence": 834,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Wit",
+              "values": [
+                {
+                  "id": 430777,
+                  "caption": "Witte",
+                  "columnValue": "Wit",
+                  "crawlable": true,
+                  "detailValue": "Witte",
+                  "fullId": "3080_430777",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 16389765,
+                  "caption": "Maat 37,5",
+                  "columnValue": "37,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 37,5",
+                  "fullId": "3081_16389765",
+                  "sequence": 62,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 16389768,
+                  "caption": "Maat 40,5",
+                  "columnValue": "40,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 40,5",
+                  "fullId": "3081_16389768",
+                  "sequence": 77,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                },
+                {
+                  "id": 16389769,
+                  "caption": "Maat 41,5",
+                  "columnValue": "41,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 41,5",
+                  "fullId": "3081_16389769",
+                  "sequence": 82,
+                  "urlName": null
+                },
+                {
+                  "id": 16389770,
+                  "caption": "Maat 42,5",
+                  "columnValue": "42,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 42,5",
+                  "fullId": "3081_16389770",
+                  "sequence": 85,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Sportief",
+              "values": [
+                {
+                  "id": 23580856,
+                  "caption": "Sportieve",
+                  "columnValue": "Sportief",
+                  "crawlable": true,
+                  "detailValue": "Sportieve",
+                  "fullId": "6097_23580856",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-0197968041067",
+          "revenuePerClick": 0.09,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 2,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 81.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 5,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "discount",
+              "value": 5
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        },
+        {
+          "id": "2kmmLdJfuBrDE6dKrvqgWefaDCSK",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2kmmLdUpqYQ6bGB6Z2XYaJEMU7t5",
+            "advertisementIdV3": "2kmmLdUpqYQ6bGB6Z2XYaJEMU7t5"
+          },
+          "shopItemId": 0,
+          "productId": "2kmmLdJfuBrDE6dKrvqgWefaDCSK",
+          "ean": "",
+          "shopInfo": {
+            "id": 652157,
+            "shopName": "Nelson.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 6,
+            "productCount": 5663,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652157.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-17T01:50:08+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 38269,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 652157,
+            "shopItemId": 0,
+            "shopItemTitle": "New Balance 574 lage sneakers",
+            "shopItemDescription": "",
+            "shopItemVersion": "40818486037-481534",
+            "shopName": "Nelson.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2kmmLdJfuBrDE6dKrvqgWefaDCSK",
+            "condition": "Nieuw",
+            "ean": "0197968041104",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.awin1.com/cread.php?force_transparent=true&awinmid=9203&clickref=UUID_placeholder&pref2=GCLID_placeholder&awinaffid=375899&platform=tp&networkref1=gclid_GCLID_placeholder&ued=https%3a%2f%2fwww.nelson.nl%2fpdp-redirect%2f481534%2f",
+            "size": "41",
+            "shopReviewScore": 9.2,
+            "shopReviewAmount": 55813,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 89,
+              "price": 109.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "40818486037",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": null,
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 81.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 99.99
+          },
+          "title": "New Balance 574 lage sneakers",
+          "fixedTitle": "New Balance 574 lage sneakers",
+          "indexIdentifierTimeStamp": 1744869692,
+          "description": "New Balance 574 dames sneaker Ervaar zelf het comfort wat deze all-time favourite van New Balance te bieden heeft. DIt model valt bovendien breder uit. Uitgevoerd in een combinatie van su\u00e8de en textiel. Deze combinatie maakt de sneaker goed ademend wat beter is voor het  voetklimaat. Gevoerd met textiel wat een goede vochtabsorptie heeft en de schoenen en voeten droog en fris houdt. De gewatteerde hielkap biedt daarnaast aangename zachtheid tijdens het lopen. Voorzien van een foam-voetbed voor optimale demping. Het voetbed is tevens uitneembaar waardoor de sneaker geschikt is voor het gebruik van eigen steunzolen. Dankzij de ENCAP-tussenzool, gemaakt van EVA-schuimmix, heeft de sneaker een uitstekend schokabsorberende werking. De rubberen loopzool heeft goede grip bij iedere stap.",
+          "descriptionRaw": "New Balance 574 dames sneaker Ervaar zelf het comfort wat deze all-time favourite van New Balance te bieden heeft. DIt model valt bovendien breder uit. Uitgevoerd in een combinatie van su\u00e8de en textiel. Deze combinatie maakt de sneaker goed ademend wat beter is voor het  voetklimaat. Gevoerd met textiel wat een goede vochtabsorptie heeft en de schoenen en voeten droog en fris houdt. De gewatteerde hielkap biedt daarnaast aangename zachtheid tijdens het lopen. Voorzien van een foam-voetbed voor optimale demping. Het voetbed is tevens uitneembaar waardoor de sneaker geschikt is voor het gebruik van eigen steunzolen. Dankzij de ENCAP-tussenzool, gemaakt van EVA-schuimmix, heeft de sneaker een uitstekend schokabsorberende werking. De rubberen loopzool heeft goede grip bij iedere stap.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-2kmmLdUpqYQ6bGB6Z2XYaJEMU7t5",
+          "categoryId": 9000608,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 5,
+          "shopIds": [
+            652157
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 615,
+                "width": 1337
+              },
+              "type": "mainImage",
+              "url": "2kmmLdJfuBrDE6dKrvqgWefaDCSK/394/{size}/21b6387738a140d2f9b4d88a698745df/Sneakers/New-Balance-574-lage-sneakers.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2kmmLdJfuBrDE6dKrvqgWefaDCSK",
+              "value": "41",
+              "available": true,
+              "price": 109.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2kmmLdhhJ2PJ3b3ehHPQZfSM6zKH",
+              "value": "38",
+              "available": true,
+              "price": 109.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2kmmLdeefig2Hx5JqsGGzQ4YRmHH",
+              "value": "39",
+              "available": true,
+              "price": 109.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2kmmLdUZ6vCbEwH9HGTHNyS5BiGg",
+              "value": "40",
+              "available": true,
+              "price": 109.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2kmmLdSroBt7idLPy3xBmbLx4DbQ",
+              "value": "37",
+              "available": true,
+              "price": 109.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "2kmmLdSroBt7idLPy3xBmbLx4DbQ",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "2kmmLdhhJ2PJ3b3ehHPQZfSM6zKH",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "2kmmLdeefig2Hx5JqsGGzQ4YRmHH",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "2kmmLdUZ6vCbEwH9HGTHNyS5BiGg",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "2kmmLdJfuBrDE6dKrvqgWefaDCSK",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 109.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431579,
+          "brandName": "New Balance",
+          "brandRank": 3,
+          "brandRelativeDemandLabel": "B",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2025-03-16 00:00:00",
+          "popularity": 18,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 3.33,
+            "roasPercentage": 2200
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "voor 23:00 uur besteld, de volgende dag in huis!",
+          "deliveryTimeSort": 2,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "New Balance",
+              "values": [
+                {
+                  "id": 431579,
+                  "caption": "New Balance",
+                  "columnValue": "New Balance",
+                  "crawlable": true,
+                  "detailValue": "New Balance",
+                  "fullId": "3078_431579",
+                  "sequence": 2087,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Nelson.nl",
+              "values": [
+                {
+                  "id": 3735771,
+                  "caption": "Nelson.nl",
+                  "columnValue": "Nelson.nl",
+                  "crawlable": true,
+                  "detailValue": "Nelson.nl",
+                  "fullId": "3079_3735771",
+                  "sequence": 1232,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Beige",
+              "values": [
+                {
+                  "id": 456664,
+                  "caption": "Beige",
+                  "columnValue": "Beige",
+                  "crawlable": true,
+                  "detailValue": "Beige",
+                  "fullId": "3080_456664",
+                  "sequence": 16,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Suede",
+              "values": [
+                {
+                  "id": 430860,
+                  "caption": "Suede",
+                  "columnValue": "Suede",
+                  "crawlable": true,
+                  "detailValue": "Suede",
+                  "fullId": "3083_430860",
+                  "sequence": 34,
+                  "urlName": null
+                },
+                {
+                  "id": 430862,
+                  "caption": "Textiel",
+                  "columnValue": "Textiel",
+                  "crawlable": true,
+                  "detailValue": "Textiel",
+                  "fullId": "3083_430862",
+                  "sequence": 38,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3513,
+              "name": "Productlijn",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "populaire_serie",
+              "value": "New Balance 574",
+              "values": [
+                {
+                  "id": 4379305,
+                  "caption": "New Balance 574",
+                  "columnValue": "New Balance 574",
+                  "crawlable": true,
+                  "detailValue": "New Balance 574",
+                  "fullId": "3513_4379305",
+                  "sequence": 811,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4100,
+              "name": "Hoogte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "hoogte",
+              "value": "Laag",
+              "values": [
+                {
+                  "id": 6380618,
+                  "caption": "Lage/low",
+                  "columnValue": "Laag",
+                  "crawlable": true,
+                  "detailValue": "Lage/low",
+                  "fullId": "4100_6380618",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Ademend",
+              "values": [
+                {
+                  "id": 19256583,
+                  "caption": "Ademende",
+                  "columnValue": "Ademend",
+                  "crawlable": true,
+                  "detailValue": "Ademende",
+                  "fullId": "4550_19256583",
+                  "sequence": 1,
+                  "urlName": null
+                },
+                {
+                  "id": 10994651,
+                  "caption": "Gevoerde",
+                  "columnValue": "Gevoerd",
+                  "crawlable": true,
+                  "detailValue": "Gevoerde",
+                  "fullId": "4550_10994651",
+                  "sequence": 14,
+                  "urlName": null
+                },
+                {
+                  "id": 23588099,
+                  "caption": "met voetbed",
+                  "columnValue": "Voetbed",
+                  "crawlable": true,
+                  "detailValue": "met voetbed",
+                  "fullId": "4550_23588099",
+                  "sequence": 47,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Sportief",
+              "values": [
+                {
+                  "id": 23580856,
+                  "caption": "Sportieve",
+                  "columnValue": "Sportief",
+                  "crawlable": true,
+                  "detailValue": "Sportieve",
+                  "fullId": "6097_23580856",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-0197968041067",
+          "revenuePerClick": 0.15,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 81.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "A",
+          "isGoogleBestseller": true,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 9.2,
+              "amount": 55813
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

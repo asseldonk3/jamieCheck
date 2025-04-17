@@ -1,0 +1,1981 @@
+{
+  "offset": 0,
+  "numFound": 6,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 6,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 117.55,
+        "highestDiscount": 29,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 430805,
+                "caption": "Maat 37",
+                "columnValue": "37",
+                "crawlable": true,
+                "detailValue": "Maat 37",
+                "fullId": "3081_430805",
+                "sequence": 60,
+                "urlName": null
+              },
+              {
+                "id": 16389765,
+                "caption": "Maat 37,5",
+                "columnValue": "37,5",
+                "crawlable": true,
+                "detailValue": "Maat 37,5",
+                "fullId": "3081_16389765",
+                "sequence": 62,
+                "urlName": null
+              },
+              {
+                "id": 430806,
+                "caption": "Maat 38",
+                "columnValue": "38",
+                "crawlable": true,
+                "detailValue": "Maat 38",
+                "fullId": "3081_430806",
+                "sequence": 65,
+                "urlName": null
+              },
+              {
+                "id": 430807,
+                "caption": "Maat 39",
+                "columnValue": "39",
+                "crawlable": true,
+                "detailValue": "Maat 39",
+                "fullId": "3081_430807",
+                "sequence": 70,
+                "urlName": null
+              },
+              {
+                "id": 430808,
+                "caption": "Maat 40",
+                "columnValue": "40",
+                "crawlable": true,
+                "detailValue": "Maat 40",
+                "fullId": "3081_430808",
+                "sequence": 75,
+                "urlName": null
+              },
+              {
+                "id": 430810,
+                "caption": "Maat 42",
+                "columnValue": "42",
+                "crawlable": true,
+                "detailValue": "Maat 42",
+                "fullId": "3081_430810",
+                "sequence": 84,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3AChdG3rwxjuUWoFENBz1T74Y5JP",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3AChdG9jEidGZipfPu8mNjjmWP7V",
+            "advertisementIdV3": "3AChdG9jEidGZipfPu8mNjjmWP7V"
+          },
+          "shopItemId": 0,
+          "productId": "3AChdG3rwxjuUWoFENBz1T74Y5JP",
+          "ean": "",
+          "shopInfo": {
+            "id": 651930,
+            "shopName": "Miinto.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/651930.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T01:38:08+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 40007,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 3,
+                "name": "UPS"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 29,
+                "name": "Klarna"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 651930,
+            "shopItemId": 0,
+            "shopItemTitle": "Waldl\u00e4ufer, Dames, Schoenen, Zwart, Maat: 37 1/2 EU",
+            "shopItemDescription": "",
+            "shopItemVersion": "f445fa56-c229-4083-adf8-1ca618b47340-9eb3a35c-9da3-4a82-0876-103703f49309",
+            "shopName": "Miinto.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3AChdG3rwxjuUWoFENBz1T74Y5JP",
+            "condition": "Nieuw",
+            "ean": "4099595768811",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://meintobeneluxbv.sjv.io/c/5824848/2822127/30765?prodsku=f445fa56-c229-4083-adf8-1ca618b47340&force_deeplink=1&u=https%3A%2F%2Fwww.miinto.nl%2Fp-zwarte-rits-sneakers-dames-schoenen-8ec50e83-98f4-4f24-ae0d-4f5335d7d16a%3Futm_source%3Dawin%26utm_medium%3Daffiliate%26utm_campaign%3Dfeed&intsrc=CATF_22307&subId1=UUID_placeholder&subId2=GCLID_placeholder",
+            "size": "37 1/2",
+            "shopReviewScore": 7,
+            "shopReviewAmount": 13634,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": {
+              "bucket": 89,
+              "price": 117.55,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "regularPrice": {
+              "bucket": 144,
+              "price": 167.53,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "f445fa56-c229-4083-adf8-1ca618b47340",
+            "bidLabel": "Zwarte Rits Sneakers Dames Schoenen"
+          },
+          "pim": {
+            "groupId": "e2d582fe-a2e7-4e06-ae5a-eb3db0d6efac",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 89.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 89.99
+          },
+          "title": "Waldl\u00e4ufer, Dames, Schoenen, Zwart, Maat: 37 1/2 EU",
+          "fixedTitle": "Waldl\u00e4ufer, Dames, Schoenen, Zwart, Maat: 37 1/2 EU",
+          "indexIdentifierTimeStamp": 1744835076,
+          "description": "Upgrade je stijl met deze Waldl\u00e4ufer Sneakers voor dames met een strak zwart leren ontwerp. Maat: 42.",
+          "descriptionRaw": "Upgrade je stijl met deze Waldl\u00e4ufer Sneakers voor dames met een strak zwart leren ontwerp. Maat: 42.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-3AChdG9jEidGZipfPu8mNjjmWP7V",
+          "categoryId": 9000608,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 6,
+          "shopIds": [
+            651930
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 549,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/4099595768811/394/{size}/1a9eea63a06af55a5481801ea6953e53/Sneakers/Waldl%c3%a4ufer%2c-Dames%2c-Schoenen%2c-Zwart%2c-Maat%3a-37-1-2-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 706,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15376/{size}/242aa3b354d97efa1ccd3ce34eca21e4/Sneakers/Waldl%c3%a4ufer%2c-Dames%2c-Schoenen%2c-Zwart%2c-Maat%3a-37-1-2-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15377/{size}/19b519b017034f83002f1306c0f26b19/Sneakers/Waldl%c3%a4ufer%2c-Dames%2c-Schoenen%2c-Zwart%2c-Maat%3a-37-1-2-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 1148
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15378/{size}/28f20d9f71b9f0b0aba8ce515f046f12/Sneakers/Waldl%c3%a4ufer%2c-Dames%2c-Schoenen%2c-Zwart%2c-Maat%3a-37-1-2-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 619,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15379/{size}/3c9ccc463c4cb5782e6e7c72775d2672/Sneakers/Waldl%c3%a4ufer%2c-Dames%2c-Schoenen%2c-Zwart%2c-Maat%3a-37-1-2-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 832,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15380/{size}/b1435be17b37416ead2dd5f5cbcdf9f7/Sneakers/Waldl%c3%a4ufer%2c-Dames%2c-Schoenen%2c-Zwart%2c-Maat%3a-37-1-2-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15381/{size}/85f0ff1825298e1b01b393d7604602b0/Sneakers/Waldl%c3%a4ufer%2c-Dames%2c-Schoenen%2c-Zwart%2c-Maat%3a-37-1-2-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 1163
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15382/{size}/baabee6bc22dafef7e26d889bea3b565/Sneakers/Waldl%c3%a4ufer%2c-Dames%2c-Schoenen%2c-Zwart%2c-Maat%3a-37-1-2-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 645,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15383/{size}/6587475818045f9e82a40de8356a5346/Sneakers/Waldl%c3%a4ufer%2c-Dames%2c-Schoenen%2c-Zwart%2c-Maat%3a-37-1-2-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 611,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15384/{size}/579676fd16a230f03602286389588e18/Sneakers/Waldl%c3%a4ufer%2c-Dames%2c-Schoenen%2c-Zwart%2c-Maat%3a-37-1-2-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 529,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15385/{size}/35ce9b29607a6f5e103b74ee56ea39fc/Sneakers/Waldl%c3%a4ufer%2c-Dames%2c-Schoenen%2c-Zwart%2c-Maat%3a-37-1-2-EU.jpg"
+            },
+            {
+              "imageType": "alternativeImage11",
+              "size": {
+                "height": 817,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15386/{size}/4c314a4af76b53c44c2a631832a07000/Sneakers/Waldl%c3%a4ufer%2c-Dames%2c-Schoenen%2c-Zwart%2c-Maat%3a-37-1-2-EU.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3AChdG3rwxjuUWoFENBz1T74Y5JP",
+              "value": "37 1/2",
+              "available": true,
+              "price": 117.55,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 16389765,
+                  "caption": "Maat 37,5",
+                  "columnValue": "37,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 37,5",
+                  "fullId": "3081_16389765",
+                  "sequence": 62,
+                  "urlName": null,
+                  "productIdV3": "3AChdG3rwxjuUWoFENBz1T74Y5JP",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 167.53,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": {
+                    "bucket": 89,
+                    "price": 117.55,
+                    "validFrom": null,
+                    "validThrough": null
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431351,
+          "brandName": "Waldl\u00e4ufer",
+          "brandRank": 404,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-16 00:00:00",
+          "popularity": 1,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.01,
+            "roasPercentage": 3000
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 5 werkdagen",
+          "deliveryTimeSort": 4,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Waldl\u00e4ufer",
+              "values": [
+                {
+                  "id": 431351,
+                  "caption": "Waldl\u00e4ufer",
+                  "columnValue": "Waldl\u00e4ufer",
+                  "crawlable": true,
+                  "detailValue": "Waldl\u00e4ufer",
+                  "fullId": "3078_431351",
+                  "sequence": 3213,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Miinto.nl",
+              "values": [
+                {
+                  "id": 8034317,
+                  "caption": "Miinto.nl",
+                  "columnValue": "Miinto.nl",
+                  "crawlable": true,
+                  "detailValue": "Miinto.nl",
+                  "fullId": "3079_8034317",
+                  "sequence": 1150,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37,5",
+              "values": [
+                {
+                  "id": 16389765,
+                  "caption": "Maat 37,5",
+                  "columnValue": "37,5",
+                  "crawlable": true,
+                  "detailValue": "Maat 37,5",
+                  "fullId": "3081_16389765",
+                  "sequence": 62,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-e2d582fe-a2e7-4e06-ae5a-eb3db0d6efac",
+          "revenuePerClick": 0,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 2,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 89.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": 29,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "discount",
+              "value": 29
+            }
+          ]
+        },
+        {
+          "id": "39JhiTnHva3GYNPJXBZd9Pvova2",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "39JhiP1MSL88fnSHVqUofJo76jE",
+            "advertisementIdV3": "39JhiP1MSL88fnSHVqUofJo76jE"
+          },
+          "shopItemId": 0,
+          "productId": "39JhiTnHva3GYNPJXBZd9Pvova2",
+          "ean": "",
+          "shopInfo": {
+            "id": 42754,
+            "shopName": "Durlinger.com",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 7,
+            "productCount": 2100,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/42754.png",
+            "coolingOffPeriod": 30,
+            "activeSince": "2025-04-16T01:38:12+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 21708,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "info@durlinger.com",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 34,
+                "name": "Billink "
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 42754,
+            "shopItemId": 0,
+            "shopItemTitle": "Waldlaufer Funky Sneakers",
+            "shopItemDescription": "",
+            "shopItemVersion": "226029-225914-Zwart-225914",
+            "shopName": "Durlinger.com",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "39JhiGEwRpStZ76RdDQ8VG5buyw",
+            "condition": "Nieuw",
+            "ean": "4099595768866",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.durlinger.com/waldlaufer-funky-sneakers-zwart-dames-60618.html?utm_campaign=Beslist&utm_content=&utm_source=Channable&utm_medium=Affiliate&utm_term=",
+            "size": "40\u00bd",
+            "shopReviewScore": 8,
+            "shopReviewAmount": 70,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 149.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "226029",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "e2d582fe-a2e7-4e06-ae5a-eb3db0d6efac",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 89.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 89.99
+          },
+          "title": "Waldlaufer Funky Sneakers",
+          "fixedTitle": "Waldlaufer Funky Sneakers",
+          "indexIdentifierTimeStamp": 1744835076,
+          "description": "Deze basic zwarte Waldlaufer Funky sneaker is heel licht en loopt daarom super comfortabel. De binnenzool is uitneembaar zodat je ook je eigen steunzolen kunt gebruiken.\n\n\n\nDe sneakers hebben een gevormd en uitneembaar voetbed, dit voetbed vormt naar je voet zodat je super comfortabel kan lopen!\nDe sneakers zijn ook gepolsterd, hierdoor bieden de schoenen extra stevigheid rondom je enkels.\nDe damessneaker heeft voetwijdte K en is  dus geschikt voor een brede voet. \n",
+          "descriptionRaw": "Deze basic zwarte Waldlaufer Funky sneaker is heel licht en loopt daarom super comfortabel. De binnenzool is uitneembaar zodat je ook je eigen steunzolen kunt gebruiken.\n<br>\n<br>\n<ul>\n<li>De sneakers hebben een gevormd en uitneembaar voetbed, dit voetbed vormt naar je voet zodat je super comfortabel kan lopen!</li>\n<li>De sneakers zijn ook gepolsterd, hierdoor bieden de schoenen extra stevigheid rondom je enkels.</li>\n<li>De damessneaker heeft voetwijdte K en is  dus geschikt voor een brede voet. </li>\n</ul>",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-39JhiP1MSL88fnSHVqUofJo76jE",
+          "categoryId": 9000608,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 6,
+          "shopIds": [
+            42754
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 665,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/4099595768804/394/{size}/85d77e1deceb8540eeddab0137139faf/Sneakers/Waldlaufer-Funky-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768804/15376/{size}/19b519b017034f83002f1306c0f26b19/Sneakers/Waldlaufer-Funky-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 1199,
+                "width": 1148
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768804/15377/{size}/28f20d9f71b9f0b0aba8ce515f046f12/Sneakers/Waldlaufer-Funky-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 619,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768804/15378/{size}/3c9ccc463c4cb5782e6e7c72775d2672/Sneakers/Waldlaufer-Funky-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768804/15379/{size}/85f0ff1825298e1b01b393d7604602b0/Sneakers/Waldlaufer-Funky-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 1199,
+                "width": 1163
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768804/15380/{size}/baabee6bc22dafef7e26d889bea3b565/Sneakers/Waldlaufer-Funky-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 645,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768804/15381/{size}/6587475818045f9e82a40de8356a5346/Sneakers/Waldlaufer-Funky-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 637,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768804/15382/{size}/b46e96b3214338c9446b18dd3ca98ec9/Sneakers/Waldlaufer-Funky-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 976,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768804/15383/{size}/047312fa7af39930f6f048c07ca3a5e5/Sneakers/Waldlaufer-Funky-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 549,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768804/15384/{size}/1a9eea63a06af55a5481801ea6953e53/Sneakers/Waldlaufer-Funky-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 611,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768804/15385/{size}/579676fd16a230f03602286389588e18/Sneakers/Waldlaufer-Funky-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage11",
+              "size": {
+                "height": 529,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768804/15386/{size}/35ce9b29607a6f5e103b74ee56ea39fc/Sneakers/Waldlaufer-Funky-Sneakers.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiTnHva3GYNPJXBZd9Pvova2",
+              "value": "38",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiPTetHTunbbhComgShuKGbj",
+              "value": "40",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiU8s8pqgh7aaAzLuzAT3DUZ",
+              "value": "38\u00bd",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiDQwJ3yRdV1Dv7iwZi2D6hR",
+              "value": "37\u00bd",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiJMbpfzNLrFPHS3yyukkfC6",
+              "value": "37",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiGEwRpStZ76RdDQ8VG5buyw",
+              "value": "40\u00bd",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "39JhiRD4bHKUAKNiN8MwbUTkLyf",
+              "value": "39",
+              "available": true,
+              "price": 149.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "39JhiDQwJ3yRdV1Dv7iwZi2D6hR",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "39JhiJMbpfzNLrFPHS3yyukkfC6",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "39JhiTnHva3GYNPJXBZd9Pvova2",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "39JhiU8s8pqgh7aaAzLuzAT3DUZ",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "39JhiRD4bHKUAKNiN8MwbUTkLyf",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "39JhiPTetHTunbbhComgShuKGbj",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "39JhiGEwRpStZ76RdDQ8VG5buyw",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-16 00:00:00",
+          "popularity": 5588,
+          "popularityData": {
+            "clickFactor": 82,
+            "webshopsRevenuePerClick": 3.91,
+            "roasPercentage": 600
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 2 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Durlinger.com",
+              "values": [
+                {
+                  "id": 15137876,
+                  "caption": "Durlinger.com",
+                  "columnValue": "Durlinger.com",
+                  "crawlable": true,
+                  "detailValue": "Durlinger.com",
+                  "fullId": "3079_15137876",
+                  "sequence": 464,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Leer",
+              "values": [
+                {
+                  "id": 430843,
+                  "caption": "Leren",
+                  "columnValue": "Leer",
+                  "crawlable": true,
+                  "detailValue": "Leren",
+                  "fullId": "3083_430843",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Brede voeten",
+              "values": [
+                {
+                  "id": 15482619,
+                  "caption": "Brede voeten",
+                  "columnValue": "Brede voeten",
+                  "crawlable": true,
+                  "detailValue": "Brede voeten",
+                  "fullId": "4550_15482619",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 11228162,
+                  "caption": "Uitneembaar voetbed",
+                  "columnValue": "Uitneembaar voetbed",
+                  "crawlable": true,
+                  "detailValue": "Uitneembaar voetbed",
+                  "fullId": "4550_11228162",
+                  "sequence": 44,
+                  "urlName": null
+                },
+                {
+                  "id": 23588099,
+                  "caption": "met voetbed",
+                  "columnValue": "Voetbed",
+                  "crawlable": true,
+                  "detailValue": "met voetbed",
+                  "fullId": "4550_23588099",
+                  "sequence": 47,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "K",
+              "values": [
+                {
+                  "id": 16475786,
+                  "caption": "Wijdte K",
+                  "columnValue": "K",
+                  "crawlable": true,
+                  "detailValue": "Wijdte K",
+                  "fullId": "5211_16475786",
+                  "sequence": 9,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6097,
+              "name": "Stijl",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "stijl_schoenen",
+              "value": "Sportief",
+              "values": [
+                {
+                  "id": 23580856,
+                  "caption": "Sportieve",
+                  "columnValue": "Sportief",
+                  "crawlable": true,
+                  "detailValue": "Sportieve",
+                  "fullId": "6097_23580856",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "42754-225914",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-e2d582fe-a2e7-4e06-ae5a-eb3db0d6efac",
+          "revenuePerClick": 0.65,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 0,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 89.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "shopReviewScore",
+              "score": 8,
+              "amount": 70
+            },
+            {
+              "type": "freeDeliveryCost"
+            },
+            {
+              "type": "freeReturnCost"
+            }
+          ]
+        },
+        {
+          "id": "2x5tfxyKzwSNRM5MQbFvMbS1nr8N",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2x5tfxvhTtLZtHbRUXRgFZQc4wvQ",
+            "advertisementIdV3": "2x5tfxvhTtLZtHbRUXRgFZQc4wvQ"
+          },
+          "shopItemId": 0,
+          "productId": "2x5tfxyKzwSNRM5MQbFvMbS1nr8N",
+          "ean": "",
+          "shopInfo": {
+            "id": 652171,
+            "shopName": "Topshoe.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 5,
+            "productCount": 33900,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652171.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-16T01:38:07+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 38281,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 652171,
+            "shopItemId": 0,
+            "shopItemTitle": "Waldl\u00e4ufer 668001 Order Bukle Softlamm Taip Sneakers",
+            "shopItemDescription": "",
+            "shopItemVersion": "19272283-https://cdn.nextchapter-ecommerce.com/pim/Files/Product/xlarge/4496850_DSC02524.JPG",
+            "shopName": "Topshoe.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2x5tfxwAjQQYRPd7Sxim1oXdUTfq",
+            "condition": "Nieuw",
+            "ean": "4099595768866",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://to.topshoe.nl/t/t?a=1848077725&as=1794440627&t=2&tk=1&epi=UUID_placeholder&epi2=GCLID_placeholder&at_gd=GCLID_placeholder&url=https://www.topshoe.nl/nl/3844898/waldlaeufer-668001-order-bukle-softlamm-taip/?affiliatenetwork=daisycon",
+            "size": "7",
+            "shopReviewScore": 5.8,
+            "shopReviewAmount": 33,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 144,
+              "price": 159.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "19272283",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "e2d582fe-a2e7-4e06-ae5a-eb3db0d6efac",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 89.99
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 89.99
+          },
+          "title": "Waldl\u00e4ufer 668001 Order Bukle Softlamm Taip Sneakers",
+          "fixedTitle": "Waldl\u00e4ufer 668001 Order Bukle Softlamm Taip Sneakers",
+          "indexIdentifierTimeStamp": 1744835076,
+          "description": "Artikel 668001 Order Bukle Softlamm Taip 402 001  in de kleur schwarz shop je gemakkelijk en snel op onze webshop. Bekijk de gehele collectie van Waldl\u00e4ufer online",
+          "descriptionRaw": "Artikel 668001 Order Bukle Softlamm Taip 402 001  in de kleur schwarz shop je gemakkelijk en snel op onze webshop. Bekijk de gehele collectie van Waldl\u00e4ufer online",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-2x5tfxvhTtLZtHbRUXRgFZQc4wvQ",
+          "categoryId": 9000608,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 6,
+          "shopIds": [
+            652171
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 549,
+                "width": 1199
+              },
+              "type": "mainImage",
+              "url": "pim/4099595768811/394/{size}/1a9eea63a06af55a5481801ea6953e53/Sneakers/Waldl%c3%a4ufer-668001-Order-Bukle-Softlamm-Taip-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage1",
+              "size": {
+                "height": 706,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15376/{size}/242aa3b354d97efa1ccd3ce34eca21e4/Sneakers/Waldl%c3%a4ufer-668001-Order-Bukle-Softlamm-Taip-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage2",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15377/{size}/19b519b017034f83002f1306c0f26b19/Sneakers/Waldl%c3%a4ufer-668001-Order-Bukle-Softlamm-Taip-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage3",
+              "size": {
+                "height": 1199,
+                "width": 1148
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15378/{size}/28f20d9f71b9f0b0aba8ce515f046f12/Sneakers/Waldl%c3%a4ufer-668001-Order-Bukle-Softlamm-Taip-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage4",
+              "size": {
+                "height": 619,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15379/{size}/3c9ccc463c4cb5782e6e7c72775d2672/Sneakers/Waldl%c3%a4ufer-668001-Order-Bukle-Softlamm-Taip-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage5",
+              "size": {
+                "height": 832,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15380/{size}/b1435be17b37416ead2dd5f5cbcdf9f7/Sneakers/Waldl%c3%a4ufer-668001-Order-Bukle-Softlamm-Taip-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage6",
+              "size": {
+                "height": 553,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15381/{size}/85f0ff1825298e1b01b393d7604602b0/Sneakers/Waldl%c3%a4ufer-668001-Order-Bukle-Softlamm-Taip-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage7",
+              "size": {
+                "height": 1199,
+                "width": 1163
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15382/{size}/baabee6bc22dafef7e26d889bea3b565/Sneakers/Waldl%c3%a4ufer-668001-Order-Bukle-Softlamm-Taip-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage8",
+              "size": {
+                "height": 645,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15383/{size}/6587475818045f9e82a40de8356a5346/Sneakers/Waldl%c3%a4ufer-668001-Order-Bukle-Softlamm-Taip-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage9",
+              "size": {
+                "height": 611,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15384/{size}/579676fd16a230f03602286389588e18/Sneakers/Waldl%c3%a4ufer-668001-Order-Bukle-Softlamm-Taip-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage10",
+              "size": {
+                "height": 529,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15385/{size}/35ce9b29607a6f5e103b74ee56ea39fc/Sneakers/Waldl%c3%a4ufer-668001-Order-Bukle-Softlamm-Taip-Sneakers.jpg"
+            },
+            {
+              "imageType": "alternativeImage11",
+              "size": {
+                "height": 817,
+                "width": 1199
+              },
+              "type": "alternativeImage",
+              "url": "pim/4099595768811/15386/{size}/4c314a4af76b53c44c2a631832a07000/Sneakers/Waldl%c3%a4ufer-668001-Order-Bukle-Softlamm-Taip-Sneakers.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxyKzwSNRM5MQbFvMbS1nr8N",
+              "value": "6",
+              "available": true,
+              "price": 159.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxt3YngLUp6JyifneSAMmZLy",
+              "value": "5",
+              "available": true,
+              "price": 149.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxoYK44y6bcHKfcnApVcKGyH",
+              "value": "4.5",
+              "available": true,
+              "price": 149.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfy2sipG3BabkunmJGDZD7VA5",
+              "value": "7.5",
+              "available": true,
+              "price": 149.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfyDUe5VGr4W3xxWh2wJpvBu4",
+              "value": "8",
+              "available": true,
+              "price": 149.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfy9hYku291fbGZ7EqJA5mFLZ",
+              "value": "9",
+              "available": true,
+              "price": 149.95,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxvRoGhHCygzjMosjVLoxCkc",
+              "value": "5.5",
+              "available": true,
+              "price": 159.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxwAjQQYRPd7Sxim1oXdUTfq",
+              "value": "7",
+              "available": true,
+              "price": 159.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "2x5tfxt3YngLUp6JyifneSAMmZLy",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "2x5tfxyKzwSNRM5MQbFvMbS1nr8N",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 159.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "2x5tfyDUe5VGr4W3xxWh2wJpvBu4",
+                  "regularPrice": {
+                    "bucket": 144,
+                    "price": 149.95,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 0,
+          "brandName": "",
+          "brandRank": null,
+          "brandRelativeDemandLabel": null,
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-10-16 00:00:00",
+          "popularity": 4,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 1.14,
+            "roasPercentage": 3300
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "38",
+              "values": [
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Topshoe.nl",
+              "values": [
+                {
+                  "id": 23803113,
+                  "caption": "Topshoe.nl",
+                  "columnValue": "Topshoe.nl",
+                  "crawlable": true,
+                  "detailValue": "Topshoe.nl",
+                  "fullId": "3079_23803113",
+                  "sequence": 2149,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Nubuck",
+              "values": [
+                {
+                  "id": 7454010,
+                  "caption": "Nubuck",
+                  "columnValue": "Nubuck",
+                  "crawlable": true,
+                  "detailValue": "Nubuck",
+                  "fullId": "3083_7454010",
+                  "sequence": 29,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 23580578,
+                  "caption": "Lente",
+                  "columnValue": "Lente schoenen",
+                  "crawlable": true,
+                  "detailValue": "Lente",
+                  "fullId": "3093_23580578",
+                  "sequence": 3,
+                  "urlName": null
+                },
+                {
+                  "id": 23580579,
+                  "caption": "Herfst",
+                  "columnValue": "Herfstschoenen",
+                  "crawlable": true,
+                  "detailValue": "Herfst",
+                  "fullId": "3093_23580579",
+                  "sequence": 4,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-e2d582fe-a2e7-4e06-ae5a-eb3db0d6efac",
+          "revenuePerClick": 0.03,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 1,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 89.99,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}

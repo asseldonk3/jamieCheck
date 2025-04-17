@@ -1,0 +1,2067 @@
+{
+  "offset": 0,
+  "numFound": 7,
+  "resultTypesAvailable": [
+    "DIRECT_MATCH"
+  ],
+  "errors": [],
+  "flattenedQuery": null,
+  "results": [
+    {
+      "numFound": 7,
+      "offset": 0,
+      "metaData": {
+        "lowestPrice": 89.99,
+        "highestDiscount": 0,
+        "resultType": "DIRECT_MATCH",
+        "uniqueFacetValuesPerFacet": [
+          {
+            "id": 3081,
+            "indexOnBrowse": null,
+            "isDetail": true,
+            "isPlpFacet": false,
+            "isShownOnPlp": true,
+            "isTopFacet": false,
+            "name": "Maat",
+            "urlName": "maat",
+            "values": [
+              {
+                "id": 430805,
+                "caption": "Maat 37",
+                "columnValue": "37",
+                "crawlable": true,
+                "detailValue": "Maat 37",
+                "fullId": "3081_430805",
+                "sequence": 60,
+                "urlName": null
+              },
+              {
+                "id": 430806,
+                "caption": "Maat 38",
+                "columnValue": "38",
+                "crawlable": true,
+                "detailValue": "Maat 38",
+                "fullId": "3081_430806",
+                "sequence": 65,
+                "urlName": null
+              },
+              {
+                "id": 430807,
+                "caption": "Maat 39",
+                "columnValue": "39",
+                "crawlable": true,
+                "detailValue": "Maat 39",
+                "fullId": "3081_430807",
+                "sequence": 70,
+                "urlName": null
+              },
+              {
+                "id": 430808,
+                "caption": "Maat 40",
+                "columnValue": "40",
+                "crawlable": true,
+                "detailValue": "Maat 40",
+                "fullId": "3081_430808",
+                "sequence": 75,
+                "urlName": null
+              },
+              {
+                "id": 430809,
+                "caption": "Maat 41",
+                "columnValue": "41",
+                "crawlable": true,
+                "detailValue": "Maat 41",
+                "fullId": "3081_430809",
+                "sequence": 80,
+                "urlName": null
+              },
+              {
+                "id": 430810,
+                "caption": "Maat 42",
+                "columnValue": "42",
+                "crawlable": true,
+                "detailValue": "Maat 42",
+                "fullId": "3081_430810",
+                "sequence": 84,
+                "urlName": null
+              }
+            ]
+          }
+        ]
+      },
+      "stats": [],
+      "categorySet": [],
+      "errors": [],
+      "flattenedQuery": "",
+      "categoryDirectionMarkers": [],
+      "resultSet": [
+        {
+          "id": "3LpYrCwvCiHQQzAB8cpSWhFUvCM9",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "3LpYrCbELxgXJ29jUrDrN8LxDRre",
+            "advertisementIdV3": "3LpYrCbELxgXJ29jUrDrN8LxDRre"
+          },
+          "shopItemId": 0,
+          "productId": "3LpYrCwvCiHQQzAB8cpSWhFUvCM9",
+          "ean": "",
+          "shopInfo": {
+            "id": 399016,
+            "shopName": "To-be-dressed.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 6,
+            "productCount": 175000,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/399016.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:50:07+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 14358,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "wouter@to-be-dressed.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 6,
+                "name": "DPD"
+              },
+              {
+                "id": 7,
+                "name": "GLS"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 34,
+                "name": "Billink "
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 399016,
+            "shopItemId": 0,
+            "shopItemTitle": "Rieker V7474 wijdte h",
+            "shopItemDescription": "",
+            "shopItemVersion": "19020139-taupe-40-19020139",
+            "shopName": "To-be-dressed.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "3LpYrCSbrMVvrwwbtoEa8zRSyoVi",
+            "condition": "Nieuw",
+            "ean": "4061811396757",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://www.to-be-dressed.nl/rieker-v7474-wijdte-h-taupe.html?utm_source=beslist&utm_medium=referral",
+            "size": "40",
+            "shopReviewScore": 4.4,
+            "shopReviewAmount": 250,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 89,
+              "price": 89.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "19020139-taupe-40",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "cd9685a7-8f1f-4d37-bee0-fc2e4402c3a6",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 42.22
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 71.74
+          },
+          "title": "Rieker V7474 wijdte h",
+          "fixedTitle": "Rieker V7474 wijdte h",
+          "indexIdentifierTimeStamp": 1744867726,
+          "description": "De Rieker V7474 damessandaal combineert stijl en comfort op een unieke manier. Het gebruik van hoogwaardig su\u00e8de zorgt voor een luxe uitstraling en duurzaamheid. Dankzij de verstelbare klittenbandsluiting is de sandaal eenvoudig aan te passen voor een perfecte pasvorm, terwijl de extra brede wijdtemaat H ervoor zorgt dat ook dames met bredere voeten optimaal comfort ervaren.Het zachte en comfortabele voetbed is ontworpen voor langdurig draagplezier, waardoor deze sandaal ideaal is voor dagelijks gebruik. De lichtgewicht en flexibele zool biedt uitstekende schokabsorptie en grip, wat bijdraagt aan een stabiele en comfortabele loopervaring. Het modieuze ontwerp in de kleur Iceberg maakt het eenvoudig om deze sandaal te combineren met verschillende outfits, van casual tot meer geklede stijlen.Bij Hafkamp Modeschoenen profiteert u van gratis verzending binnen Nederland bij bestellingen boven de \u20ac30,-. Mocht de sandaal toch niet helemaal naar wens zijn, dan is retourneren eveneens kosteloos. De instructies hiervoor vindt u op de bijgeleverde pakbon.",
+          "descriptionRaw": "De Rieker V7474 damessandaal combineert stijl en comfort op een unieke manier. Het gebruik van hoogwaardig su\u00e8de zorgt voor een luxe uitstraling en duurzaamheid. Dankzij de verstelbare klittenbandsluiting is de sandaal eenvoudig aan te passen voor een perfecte pasvorm, terwijl de extra brede wijdtemaat H ervoor zorgt dat ook dames met bredere voeten optimaal comfort ervaren.Het zachte en comfortabele voetbed is ontworpen voor langdurig draagplezier, waardoor deze sandaal ideaal is voor dagelijks gebruik. De lichtgewicht en flexibele zool biedt uitstekende schokabsorptie en grip, wat bijdraagt aan een stabiele en comfortabele loopervaring. Het modieuze ontwerp in de kleur Iceberg maakt het eenvoudig om deze sandaal te combineren met verschillende outfits, van casual tot meer geklede stijlen.Bij Hafkamp Modeschoenen profiteert u van gratis verzending binnen Nederland bij bestellingen boven de \u20ac30,-. Mocht de sandaal toch niet helemaal naar wens zijn, dan is retourneren eveneens kosteloos. De instructies hiervoor vindt u op de bijgeleverde pakbon.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-3LpYrCbELxgXJ29jUrDrN8LxDRre",
+          "categoryId": 9000616,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 7,
+          "shopIds": [
+            399016
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 445,
+                "width": 862
+              },
+              "type": "mainImage",
+              "url": "3LpYrCwvCiHQQzAB8cpSWhFUvCM9/394/{size}/edde31c6c6f6c1f0dff83ebc5b34e020/Sandalen/Rieker-V7474-wijdte-h.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "3LpYrCwvCiHQQzAB8cpSWhFUvCM9",
+              "value": "37",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3LpYrCSbrMVvrwwbtoEa8zRSyoVi",
+              "value": "40",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3LpYrCn81sejXGrvd5LWHrhVu9AP",
+              "value": "39",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3LpYrCiyAjbHteCohpLGK5JM68v6",
+              "value": "41",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3LpYrCTYzrHNMADVV6CfiEKUQ3uu",
+              "value": "42",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "3LpYrCusUaEdB3rJBwCaD4gjCmuK",
+              "value": "38",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "3LpYrCwvCiHQQzAB8cpSWhFUvCM9",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "3LpYrCusUaEdB3rJBwCaD4gjCmuK",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "3LpYrCn81sejXGrvd5LWHrhVu9AP",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "3LpYrCSbrMVvrwwbtoEa8zRSyoVi",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "3LpYrCiyAjbHteCohpLGK5JM68v6",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "3LpYrCTYzrHNMADVV6CfiEKUQ3uu",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431226,
+          "brandName": "Rieker",
+          "brandRank": 37,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-08 00:00:00",
+          "popularity": 11,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 1.04,
+            "roasPercentage": 1100
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Rieker",
+              "values": [
+                {
+                  "id": 431226,
+                  "caption": "Rieker",
+                  "columnValue": "Rieker",
+                  "crawlable": true,
+                  "detailValue": "Rieker",
+                  "fullId": "3078_431226",
+                  "sequence": 2525,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "To-be-dressed.nl",
+              "values": [
+                {
+                  "id": 20085395,
+                  "caption": "To-be-dressed.nl",
+                  "columnValue": "To-be-dressed.nl",
+                  "crawlable": true,
+                  "detailValue": "To-be-dressed.nl",
+                  "fullId": "3079_20085395",
+                  "sequence": 1796,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Taupe",
+              "values": [
+                {
+                  "id": 456666,
+                  "caption": "Taupe",
+                  "columnValue": "Taupe",
+                  "crawlable": true,
+                  "detailValue": "Taupe",
+                  "fullId": "3080_456666",
+                  "sequence": 10,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Suede",
+              "values": [
+                {
+                  "id": 430860,
+                  "caption": "Suede",
+                  "columnValue": "Suede",
+                  "crawlable": true,
+                  "detailValue": "Suede",
+                  "fullId": "3083_430860",
+                  "sequence": 34,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Klittenband",
+              "values": [
+                {
+                  "id": 430981,
+                  "caption": "Met klittenband",
+                  "columnValue": "Klittenband",
+                  "crawlable": true,
+                  "detailValue": "Met klittenband",
+                  "fullId": "3090_430981",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 19955980,
+                  "caption": "Zonder veters",
+                  "columnValue": "Zonder veters",
+                  "crawlable": true,
+                  "detailValue": "Zonder veters",
+                  "fullId": "3090_19955980",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Brede voeten",
+              "values": [
+                {
+                  "id": 15482619,
+                  "caption": "Brede voeten",
+                  "columnValue": "Brede voeten",
+                  "crawlable": true,
+                  "detailValue": "Brede voeten",
+                  "fullId": "4550_15482619",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 23588099,
+                  "caption": "met voetbed",
+                  "columnValue": "Voetbed",
+                  "crawlable": true,
+                  "detailValue": "met voetbed",
+                  "fullId": "4550_23588099",
+                  "sequence": 47,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "H",
+              "values": [
+                {
+                  "id": 16475783,
+                  "caption": "Wijdte H",
+                  "columnValue": "H",
+                  "crawlable": true,
+                  "detailValue": "Wijdte H",
+                  "fullId": "5211_16475783",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6291,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Duurzaam",
+              "values": [
+                {
+                  "id": 23735390,
+                  "caption": "Duurzame",
+                  "columnValue": "Duurzaam",
+                  "crawlable": true,
+                  "detailValue": "Duurzame",
+                  "fullId": "6291_23735390",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-cd9685a7-8f1f-4d37-bee0-fc2e4402c3a6",
+          "revenuePerClick": 0.09,
+          "sorting": {
+            "fastestDelivery": 0,
+            "priceIncludingDelivery": 0,
+            "priceExcludingDelivery": 0,
+            "revenuePerClick": 0,
+            "shopscore": 1
+          },
+          "allShopsLowestPrice": 61.21,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "2x5tfy35mNWYH345CY9yFHwv7Hew",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "2x5tfxx3Ry8CWvw5sgwRhdZrK4xR",
+            "advertisementIdV3": "2x5tfxx3Ry8CWvw5sgwRhdZrK4xR"
+          },
+          "shopItemId": 0,
+          "productId": "2x5tfy35mNWYH345CY9yFHwv7Hew",
+          "ean": "",
+          "shopInfo": {
+            "id": 652171,
+            "shopName": "Topshoe.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": true,
+            "hasFreeReturnCondition": true,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": false,
+            "bvBucket": 5,
+            "productCount": 33900,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652171.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:50:07+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 38281,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 33,
+                "name": "Riverty (AfterPay)"
+              },
+              {
+                "id": 24,
+                "name": "Bancontact"
+              }
+            ],
+            "qualityMarks": [
+              {
+                "id": 2,
+                "name": "Thuiswinkel Waarborg"
+              }
+            ]
+          },
+          "shopItem": {
+            "shopId": 652171,
+            "shopItemId": 0,
+            "shopItemTitle": "Rieker V7474 Sandalen",
+            "shopItemDescription": "",
+            "shopItemVersion": "18720889-https://cdn.nextchapter-ecommerce.com/pim/Files/Product/xlarge/4444133_202403.jpg",
+            "shopName": "Topshoe.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "2x5tfxtitY2zvaXXXhGNV19SypNF",
+            "condition": "Nieuw",
+            "ean": "4061811396726",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://to.topshoe.nl/t/t?a=1848077725&as=1794440627&t=2&tk=1&epi=UUID_placeholder&epi2=GCLID_placeholder&at_gd=GCLID_placeholder&url=https://www.topshoe.nl/nl/3759682/rieker-v7474/?affiliatenetwork=daisycon",
+            "size": "37",
+            "shopReviewScore": 5.8,
+            "shopReviewAmount": 33,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 89,
+              "price": 89.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "18720889",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "cd9685a7-8f1f-4d37-bee0-fc2e4402c3a6",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 42.22
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 71.74
+          },
+          "title": "Rieker V7474 Sandalen",
+          "fixedTitle": "Rieker V7474 Sandalen",
+          "indexIdentifierTimeStamp": 1744867726,
+          "description": "Artikel V7474 60  in de kleur iceberg/lightgold shop je gemakkelijk en snel op onze webshop. Bekijk de gehele collectie van Rieker online",
+          "descriptionRaw": "Artikel V7474 60  in de kleur iceberg/lightgold shop je gemakkelijk en snel op onze webshop. Bekijk de gehele collectie van Rieker online",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "shop",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-2x5tfxx3Ry8CWvw5sgwRhdZrK4xR",
+          "categoryId": 9000616,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 7,
+          "shopIds": [
+            652171
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 299,
+                "width": 613
+              },
+              "type": "mainImage",
+              "url": "2x5tfy35mNWYH345CY9yFHwv7Hew/394/{size}/b97fd407817971f39f37143f0f12d964/Sandalen/Rieker-V7474-Sandalen.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfy35mNWYH345CY9yFHwv7Hew",
+              "value": "42",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfyAjYBrPd3JZhsMpy71JdmDd",
+              "value": "40",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxtitY2zvaXXXhGNV19SypNF",
+              "value": "37",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfy2r1qomTrBdfqKQ3UxKMp2f",
+              "value": "41",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfyBUGvgMWq9U1dPXDNJXYASd",
+              "value": "38",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "2x5tfxqpnDz2CQxRCTg1ayH8B2wU",
+              "value": "39",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "2x5tfxtitY2zvaXXXhGNV19SypNF",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "2x5tfyBUGvgMWq9U1dPXDNJXYASd",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "2x5tfxqpnDz2CQxRCTg1ayH8B2wU",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "2x5tfyAjYBrPd3JZhsMpy71JdmDd",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "2x5tfy2r1qomTrBdfqKQ3UxKMp2f",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "2x5tfy35mNWYH345CY9yFHwv7Hew",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431226,
+          "brandName": "Rieker",
+          "brandRank": 37,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-08 00:00:00",
+          "popularity": 9,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 2.32,
+            "roasPercentage": 3300
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "1 - 3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Rieker",
+              "values": [
+                {
+                  "id": 431226,
+                  "caption": "Rieker",
+                  "columnValue": "Rieker",
+                  "crawlable": true,
+                  "detailValue": "Rieker",
+                  "fullId": "3078_431226",
+                  "sequence": 2525,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "Topshoe.nl",
+              "values": [
+                {
+                  "id": 23803113,
+                  "caption": "Topshoe.nl",
+                  "columnValue": "Topshoe.nl",
+                  "crawlable": true,
+                  "detailValue": "Topshoe.nl",
+                  "fullId": "3079_23803113",
+                  "sequence": 2149,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Beige",
+              "values": [
+                {
+                  "id": 456664,
+                  "caption": "Beige",
+                  "columnValue": "Beige",
+                  "crawlable": true,
+                  "detailValue": "Beige",
+                  "fullId": "3080_456664",
+                  "sequence": 16,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-cd9685a7-8f1f-4d37-bee0-fc2e4402c3a6",
+          "revenuePerClick": 0.07,
+          "sorting": {
+            "fastestDelivery": 1,
+            "priceIncludingDelivery": 1,
+            "priceExcludingDelivery": 1,
+            "revenuePerClick": 1,
+            "shopscore": 0
+          },
+          "allShopsLowestPrice": 61.21,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": [
+            {
+              "type": "freeReturnCost"
+            },
+            {
+              "type": "freeDeliveryCost"
+            }
+          ]
+        },
+        {
+          "id": "S1fLYfyHCtDrJGUmDsS8ryujXR6",
+          "type": "nonmatching",
+          "productSearchId": {
+            "familyIdV3": "S1fLYdRMxP5wK4Gb4jz9P1sTeXQ",
+            "advertisementIdV3": "S1fLYdRMxP5wK4Gb4jz9P1sTeXQ"
+          },
+          "shopItemId": 0,
+          "productId": "S1fLYfyHCtDrJGUmDsS8ryujXR6",
+          "ean": "",
+          "shopInfo": {
+            "id": 652318,
+            "shopName": "VD.nl",
+            "shopPhase": 1,
+            "isActive": true,
+            "isAffiliate": false,
+            "hasFreeReturnCondition": false,
+            "shopType": "CPC",
+            "isClosedOnSunday": false,
+            "isBlendedCpcWw": false,
+            "isCSSShop": false,
+            "allowBackOrder": true,
+            "sortLower": null,
+            "feedBiddingEnabled": false,
+            "smartBiddingEnabled": true,
+            "listedOnNl": true,
+            "listedOnBe": true,
+            "bvBucket": 0,
+            "productCount": 0,
+            "isDisabled": false,
+            "hideOnline": false,
+            "includesVat": true,
+            "logo": "/beslist-images/shop_images/LARGE/652318.png",
+            "coolingOffPeriod": 14,
+            "activeSince": "2025-04-17T01:49:32+02:00",
+            "emailGeneral": "",
+            "emailFinanceAdmin": "",
+            "emailCustomerContact": "",
+            "sharesGoogleAnalyticsData": false,
+            "principalClient": {
+              "clientId": 14358,
+              "clientName": "",
+              "clientAddress": "",
+              "clientZipCode": "",
+              "clientCity": "",
+              "clientCountry": "",
+              "clientEmailITAccess": "",
+              "clientEmailGeneral": "wouter@to-be-dressed.nl",
+              "clientEmailFinanceAdmin": "",
+              "clientEmailCustomerContact": "",
+              "clientVatNumber": ""
+            },
+            "deliveryCompanies": [
+              {
+                "id": 1,
+                "name": "PostNL"
+              },
+              {
+                "id": 4,
+                "name": "DHL"
+              },
+              {
+                "id": 6,
+                "name": "DPD"
+              },
+              {
+                "id": 7,
+                "name": "GLS"
+              }
+            ],
+            "paymentOptions": [
+              {
+                "id": 17,
+                "name": "iDEAL"
+              },
+              {
+                "id": 9,
+                "name": "PayPal"
+              },
+              {
+                "id": 18,
+                "name": "Visa"
+              },
+              {
+                "id": 19,
+                "name": "Mastercard"
+              },
+              {
+                "id": 35,
+                "name": "Maestro"
+              },
+              {
+                "id": 34,
+                "name": "Billink "
+              }
+            ],
+            "qualityMarks": []
+          },
+          "shopItem": {
+            "shopId": 652318,
+            "shopItemId": 0,
+            "shopItemTitle": "Rieker V7474 wijdte h",
+            "shopItemDescription": "",
+            "shopItemVersion": "6748692-taupe-40-6748692",
+            "shopName": "VD.nl",
+            "shopType": "CPC",
+            "productIdentifier": "",
+            "productIdV3": "S1fLYfyHCtDrJGUmDsS8ryujXR6",
+            "condition": "Nieuw",
+            "ean": "4061811396757",
+            "blockStatus": 0,
+            "disabledInFeed": false,
+            "url": "https://vd.nl/rieker-v7474-wijdte-h-taupe.html?utm_source=beslist&utm_medium=cpc&utm_campaign=beslist",
+            "size": "40",
+            "shopReviewScore": null,
+            "shopReviewAmount": null,
+            "isBlendedCpcWw": false,
+            "shopPhase": 1,
+            "salePrice": null,
+            "regularPrice": {
+              "bucket": 89,
+              "price": 89.99,
+              "validFrom": null,
+              "validThrough": null
+            },
+            "bvbCode": "6748692-taupe-40",
+            "bidLabel": null
+          },
+          "pim": {
+            "groupId": "cd9685a7-8f1f-4d37-bee0-fc2e4402c3a6",
+            "title": null,
+            "description": null,
+            "descriptionRaw": null
+          },
+          "priceHistory": {
+            "lowestPrice": 42.22
+          },
+          "priceHistoryBe": {
+            "lowestPrice": 71.74
+          },
+          "title": "Rieker V7474 wijdte h",
+          "fixedTitle": "Rieker V7474 wijdte h",
+          "indexIdentifierTimeStamp": 1744867726,
+          "description": "De Rieker V7474 damessandaal combineert stijl en comfort op een unieke manier. Het gebruik van hoogwaardig su\u00e8de zorgt voor een luxe uitstraling en duurzaamheid. Dankzij de verstelbare klittenbandsluiting is de sandaal eenvoudig aan te passen voor een perfecte pasvorm, terwijl de extra brede wijdtemaat H ervoor zorgt dat ook dames met bredere voeten optimaal comfort ervaren.Het zachte en comfortabele voetbed is ontworpen voor langdurig draagplezier, waardoor deze sandaal ideaal is voor dagelijks gebruik. De lichtgewicht en flexibele zool biedt uitstekende schokabsorptie en grip, wat bijdraagt aan een stabiele en comfortabele loopervaring. Het modieuze ontwerp in de kleur Iceberg maakt het eenvoudig om deze sandaal te combineren met verschillende outfits, van casual tot meer geklede stijlen.Bij Hafkamp Modeschoenen profiteert u van gratis verzending binnen Nederland bij bestellingen boven de \u20ac30,-. Mocht de sandaal toch niet helemaal naar wens zijn, dan is retourneren eveneens kosteloos. De instructies hiervoor vindt u op de bijgeleverde pakbon.",
+          "descriptionRaw": "De Rieker V7474 damessandaal combineert stijl en comfort op een unieke manier. Het gebruik van hoogwaardig su\u00e8de zorgt voor een luxe uitstraling en duurzaamheid. Dankzij de verstelbare klittenbandsluiting is de sandaal eenvoudig aan te passen voor een perfecte pasvorm, terwijl de extra brede wijdtemaat H ervoor zorgt dat ook dames met bredere voeten optimaal comfort ervaren.Het zachte en comfortabele voetbed is ontworpen voor langdurig draagplezier, waardoor deze sandaal ideaal is voor dagelijks gebruik. De lichtgewicht en flexibele zool biedt uitstekende schokabsorptie en grip, wat bijdraagt aan een stabiele en comfortabele loopervaring. Het modieuze ontwerp in de kleur Iceberg maakt het eenvoudig om deze sandaal te combineren met verschillende outfits, van casual tot meer geklede stijlen.Bij Hafkamp Modeschoenen profiteert u van gratis verzending binnen Nederland bij bestellingen boven de \u20ac30,-. Mocht de sandaal toch niet helemaal naar wens zijn, dan is retourneren eveneens kosteloos. De instructies hiervoor vindt u op de bijgeleverde pakbon.",
+          "descriptionDuplicate": false,
+          "descriptionToShow": "none",
+          "properties": "",
+          "price": null,
+          "itemId": null,
+          "gtinGroupId": "32000-S1fLYdRMxP5wK4Gb4jz9P1sTeXQ",
+          "categoryId": 9000616,
+          "mainCategoryId": 32000,
+          "mainCategoryUrl": "schoenen",
+          "csvId": null,
+          "shopCount": 1,
+          "paidShopCount": 1,
+          "hybridShopCount": 7,
+          "shopIds": [
+            652318
+          ],
+          "images": [
+            {
+              "imageType": "mainImage",
+              "size": {
+                "height": 445,
+                "width": 862
+              },
+              "type": "mainImage",
+              "url": "S1fLYfyHCtDrJGUmDsS8ryujXR6/394/{size}/b033abf5b4ef1e66c8163c589da0a290/Sandalen/Rieker-V7474-wijdte-h.jpg"
+            }
+          ],
+          "sizes": [
+            {
+              "productIdentifier": null,
+              "productIdV3": "S1fLYfyHCtDrJGUmDsS8ryujXR6",
+              "value": "40",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "S1fLYc7EMkEKKG4cSiV2aKuSKLM",
+              "value": "42",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "S1fLZ6HowB9Z1QzFEjMhZbCa97e",
+              "value": "37",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "S1fLYkk3AAEpjudhHECFC8Su3L1",
+              "value": "38",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "S1fLYjWwnNg35rdr8UxdxSDoiG4",
+              "value": "39",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            },
+            {
+              "productIdentifier": null,
+              "productIdV3": "S1fLYbsAykBK4LuMLtakLmnLvbD",
+              "value": "41",
+              "available": true,
+              "price": 89.99,
+              "blockedStatus": 0,
+              "disabledInFeed": false
+            }
+          ],
+          "columnsPerOffer": [
+            {
+              "id": 3081,
+              "indexOnBrowse": null,
+              "isDetail": true,
+              "isPlpFacet": false,
+              "isShownOnPlp": true,
+              "isTopFacet": false,
+              "name": "Maat",
+              "urlName": "maat",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null,
+                  "productIdV3": "S1fLZ6HowB9Z1QzFEjMhZbCa97e",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null,
+                  "productIdV3": "S1fLYkk3AAEpjudhHECFC8Su3L1",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null,
+                  "productIdV3": "S1fLYjWwnNg35rdr8UxdxSDoiG4",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null,
+                  "productIdV3": "S1fLYfyHCtDrJGUmDsS8ryujXR6",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null,
+                  "productIdV3": "S1fLYbsAykBK4LuMLtakLmnLvbD",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null,
+                  "productIdV3": "S1fLYc7EMkEKKG4cSiV2aKuSKLM",
+                  "regularPrice": {
+                    "bucket": 89,
+                    "price": 89.99,
+                    "validFrom": null,
+                    "validThrough": null
+                  },
+                  "salePrice": null
+                }
+              ]
+            }
+          ],
+          "defaultSizeAvailable": true,
+          "brandId": 431226,
+          "brandName": "Rieker",
+          "brandRank": 37,
+          "brandRelativeDemandLabel": "E",
+          "extras": {
+            "used": false
+          },
+          "firstAddition": "2024-12-08 00:00:00",
+          "popularity": 5,
+          "popularityData": {
+            "clickFactor": 0,
+            "webshopsRevenuePerClick": 0.44,
+            "roasPercentage": 1100
+          },
+          "searchScore": 0,
+          "searchGroup": 0,
+          "searchGroupName": null,
+          "enriched": null,
+          "deliveryText": "3 werkdagen",
+          "deliveryTimeSort": 3,
+          "deliveryCosts": 0,
+          "facets": [
+            {
+              "id": 3081,
+              "name": "Maat",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "maat",
+              "value": "37",
+              "values": [
+                {
+                  "id": 430805,
+                  "caption": "Maat 37",
+                  "columnValue": "37",
+                  "crawlable": true,
+                  "detailValue": "Maat 37",
+                  "fullId": "3081_430805",
+                  "sequence": 60,
+                  "urlName": null
+                },
+                {
+                  "id": 430806,
+                  "caption": "Maat 38",
+                  "columnValue": "38",
+                  "crawlable": true,
+                  "detailValue": "Maat 38",
+                  "fullId": "3081_430806",
+                  "sequence": 65,
+                  "urlName": null
+                },
+                {
+                  "id": 430807,
+                  "caption": "Maat 39",
+                  "columnValue": "39",
+                  "crawlable": true,
+                  "detailValue": "Maat 39",
+                  "fullId": "3081_430807",
+                  "sequence": 70,
+                  "urlName": null
+                },
+                {
+                  "id": 430808,
+                  "caption": "Maat 40",
+                  "columnValue": "40",
+                  "crawlable": true,
+                  "detailValue": "Maat 40",
+                  "fullId": "3081_430808",
+                  "sequence": 75,
+                  "urlName": null
+                },
+                {
+                  "id": 430809,
+                  "caption": "Maat 41",
+                  "columnValue": "41",
+                  "crawlable": true,
+                  "detailValue": "Maat 41",
+                  "fullId": "3081_430809",
+                  "sequence": 80,
+                  "urlName": null
+                },
+                {
+                  "id": 430810,
+                  "caption": "Maat 42",
+                  "columnValue": "42",
+                  "crawlable": true,
+                  "detailValue": "Maat 42",
+                  "fullId": "3081_430810",
+                  "sequence": 84,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3078,
+              "name": "Merk",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "merk",
+              "value": "Rieker",
+              "values": [
+                {
+                  "id": 431226,
+                  "caption": "Rieker",
+                  "columnValue": "Rieker",
+                  "crawlable": true,
+                  "detailValue": "Rieker",
+                  "fullId": "3078_431226",
+                  "sequence": 2525,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3079,
+              "name": "Winkel",
+              "isTopFacet": false,
+              "isShownOnPlp": true,
+              "urlName": "winkel",
+              "value": "VD.nl",
+              "values": [
+                {
+                  "id": 4425271,
+                  "caption": "VD.nl",
+                  "columnValue": "VD.nl",
+                  "crawlable": true,
+                  "detailValue": "VD.nl",
+                  "fullId": "3079_4425271",
+                  "sequence": 1918,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3080,
+              "name": "Kleur",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "kleur",
+              "value": "Taupe",
+              "values": [
+                {
+                  "id": 456666,
+                  "caption": "Taupe",
+                  "columnValue": "Taupe",
+                  "crawlable": true,
+                  "detailValue": "Taupe",
+                  "fullId": "3080_456666",
+                  "sequence": 10,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3082,
+              "name": "Doelgroep",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "doelgroep_schoenen",
+              "value": "Dames",
+              "values": [
+                {
+                  "id": 430828,
+                  "caption": "Dames",
+                  "columnValue": "Dames",
+                  "crawlable": true,
+                  "detailValue": "Dames",
+                  "fullId": "3082_430828",
+                  "sequence": 1,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3083,
+              "name": "Materiaal",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "materiaal",
+              "value": "Suede",
+              "values": [
+                {
+                  "id": 430860,
+                  "caption": "Suede",
+                  "columnValue": "Suede",
+                  "crawlable": true,
+                  "detailValue": "Suede",
+                  "fullId": "3083_430860",
+                  "sequence": 34,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3090,
+              "name": "Soort schoensluiting",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "sluiting_schoen",
+              "value": "Klittenband",
+              "values": [
+                {
+                  "id": 430981,
+                  "caption": "Met klittenband",
+                  "columnValue": "Klittenband",
+                  "crawlable": true,
+                  "detailValue": "Met klittenband",
+                  "fullId": "3090_430981",
+                  "sequence": 2,
+                  "urlName": null
+                },
+                {
+                  "id": 19955980,
+                  "caption": "Zonder veters",
+                  "columnValue": "Zonder veters",
+                  "crawlable": true,
+                  "detailValue": "Zonder veters",
+                  "fullId": "3090_19955980",
+                  "sequence": 3,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 3093,
+              "name": "Seizoen",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "seizoen_schoenen",
+              "value": "Zomerschoenen",
+              "values": [
+                {
+                  "id": 8693402,
+                  "caption": "Zomer",
+                  "columnValue": "Zomerschoenen",
+                  "crawlable": true,
+                  "detailValue": "Zomer",
+                  "fullId": "3093_8693402",
+                  "sequence": 2,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 4550,
+              "name": "Opties",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "o_schoenen",
+              "value": "Brede voeten",
+              "values": [
+                {
+                  "id": 15482619,
+                  "caption": "Brede voeten",
+                  "columnValue": "Brede voeten",
+                  "crawlable": true,
+                  "detailValue": "Brede voeten",
+                  "fullId": "4550_15482619",
+                  "sequence": 5,
+                  "urlName": null
+                },
+                {
+                  "id": 23588099,
+                  "caption": "met voetbed",
+                  "columnValue": "Voetbed",
+                  "crawlable": true,
+                  "detailValue": "met voetbed",
+                  "fullId": "4550_23588099",
+                  "sequence": 47,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 5211,
+              "name": "Wijdte",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "w_schoenen",
+              "value": "H",
+              "values": [
+                {
+                  "id": 16475783,
+                  "caption": "Wijdte H",
+                  "columnValue": "H",
+                  "crawlable": true,
+                  "detailValue": "Wijdte H",
+                  "fullId": "5211_16475783",
+                  "sequence": 6,
+                  "urlName": null
+                }
+              ]
+            },
+            {
+              "id": 6291,
+              "name": "Duurzaamheid",
+              "isTopFacet": true,
+              "isShownOnPlp": true,
+              "urlName": "duurzaamheid",
+              "value": "Duurzaam",
+              "values": [
+                {
+                  "id": 23735390,
+                  "caption": "Duurzame",
+                  "columnValue": "Duurzaam",
+                  "crawlable": true,
+                  "detailValue": "Duurzame",
+                  "fullId": "6291_23735390",
+                  "sequence": 7,
+                  "urlName": null
+                }
+              ]
+            }
+          ],
+          "siblingCode": "",
+          "relatedSiblingDetails": null,
+          "bidData": null,
+          "bidApiData": {
+            "cps": null
+          },
+          "missingSearchWords": [],
+          "shopActive": true,
+          "pim3puntNullId": "nl-nl-gold-cd9685a7-8f1f-4d37-bee0-fc2e4402c3a6",
+          "revenuePerClick": 0.04,
+          "sorting": {
+            "fastestDelivery": 2,
+            "priceIncludingDelivery": 2,
+            "priceExcludingDelivery": 2,
+            "revenuePerClick": 2,
+            "shopscore": 2
+          },
+          "allShopsLowestPrice": 61.21,
+          "facetsValues": [],
+          "productScoreLabel": "C",
+          "eanScoreLabel": "B",
+          "isGoogleBestseller": false,
+          "isGoogleBestsellerTop100": false,
+          "productRating": null,
+          "labels": [],
+          "discountPercentage": null,
+          "debugData": [],
+          "usps": []
+        }
+      ],
+      "facetSet": [],
+      "facetSetSelected": [],
+      "shopInfoSet": []
+    }
+  ]
+}
