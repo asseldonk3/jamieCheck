@@ -222,6 +222,7 @@ class ProductAnalyzer:
             "has_multiple_images": False,
             "has_size_in_title": False,
             "has_reviews": False,
+            "review_count": 0,  # Add review count field
             "shop_size_counts": {},
             "has_shop_with_many_sizes": False,
             "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -249,9 +250,58 @@ class ProductAnalyzer:
             thumb_images = soup.find_all('img', class_='thumb__image--rkNhS')
             result["has_multiple_images"] = len(thumb_images) > 1
             
-            # Check for reviews
-            review_stars = soup.find('span', class_='reviewStars--cqhaF')
-            result["has_reviews"] = review_stars is not None
+            # Improved review detection focused on review count
+            review_count = 0
+            
+            # 1. Check for specific review class from the example
+            product_reviews = soup.find('span', class_='productReviews__text--By4jj')
+            if product_reviews:
+                print(f"  Found product reviews element: {product_reviews.get_text()}")
+                # Extract the review count from text like "3.3/5 (3 reviews)"
+                review_text = product_reviews.get_text()
+                # Look for numbers in parentheses which typically indicate review count
+                count_match = re.search(r'\(\s*(\d+)\s*(?:review|recensie)', review_text, re.IGNORECASE)
+                if count_match:
+                    try:
+                        review_count = int(count_match.group(1))
+                        print(f"  Extracted review count: {review_count}")
+                    except ValueError:
+                        print(f"  Could not convert review count to integer: {count_match.group(1)}")
+            
+            # 2. Try other common review count patterns if specific class not found
+            if review_count == 0:
+                # Look for elements with review classes
+                review_elements = soup.find_all(['span', 'div'], class_=lambda c: c and ('review' in c.lower() or 'rating' in c.lower()))
+                
+                for element in review_elements:
+                    element_text = element.get_text()
+                    # Check for patterns like "(3)" or "3 reviews"
+                    count_match = re.search(r'\(\s*(\d+)\s*\)|\b(\d+)\s*(?:review|recensie)', element_text, re.IGNORECASE)
+                    if count_match:
+                        try:
+                            # Extract matched group, accounting for two possible capture groups
+                            matched_count = count_match.group(1) or count_match.group(2)
+                            review_count = int(matched_count)
+                            print(f"  Found review count in element: {element_text} -> {review_count}")
+                            break
+                        except (ValueError, IndexError):
+                            continue
+            
+            # 3. If still no count but we have review indicators, set a default count of 1
+            if review_count == 0:
+                # Check for star rating elements
+                star_ratings = soup.find_all(['span', 'div'], class_=lambda c: c and ('star' in c.lower() or 'rating' in c.lower()))
+                # Look specifically for orange/yellow stars which usually indicate a review
+                if any(star_ratings):
+                    review_count = 1
+                    print(f"  Found star rating elements, setting default review count to 1")
+            
+            # Set review results
+            result["review_count"] = review_count
+            result["has_reviews"] = review_count > 0
+            
+            print(f"  Final review count: {review_count}")
+            print(f"  Has reviews: {result['has_reviews']}")
             
             # Count available sizes from shops
             shop_size_counts, has_shop_with_many_sizes = self.count_shop_sizes(soup)
@@ -262,7 +312,7 @@ class ProductAnalyzer:
             print(f"  Title: {result['title']}")
             print(f"  Multiple images: {result['has_multiple_images']}")
             print(f"  Size in title: {result['has_size_in_title']}")
-            print(f"  Has reviews: {result['has_reviews']}")
+            print(f"  Has reviews: {result['has_reviews']} (Count: {result['review_count']})")
             print(f"  Shop size counts: {result['shop_size_counts']}")
             print(f"  Has shop with 5+ sizes: {result['has_shop_with_many_sizes']}")
             
@@ -334,10 +384,10 @@ class ProductAnalyzer:
             return None
         
         try:
-            # Create document with custom page size and margins
+            # Create document with custom page size and margins (explicitly set portrait orientation)
             doc = SimpleDocTemplate(
                 str(output_file), 
-                pagesize=A4,
+                pagesize=A4,  # A4 is portrait by default: (width=595.2, height=841.8) points
                 rightMargin=30,
                 leftMargin=30,
                 topMargin=30,
@@ -466,7 +516,7 @@ class ProductAnalyzer:
                 analysis_text = f"""
                 <b>Multiple Images:</b> {'Yes' if result.get('has_multiple_images') else 'No'}<br/>
                 <b>Size in Title:</b> {'Yes' if result.get('has_size_in_title') else 'No'}<br/>
-                <b>Has Reviews:</b> {'Yes' if result.get('has_reviews') else 'No'}<br/>
+                <b>Has Reviews:</b> {'Yes' if result.get('has_reviews') else 'No'} {f"({result.get('review_count')} reviews)" if result.get('review_count', 0) > 0 else ""}<br/>
                 <b>Min 1 offer met >5 maten:</b> {'Yes' if has_shop_with_many_sizes else 'No'}<br/>
                 """
                 
