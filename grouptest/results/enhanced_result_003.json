@@ -1,0 +1,31 @@
+{
+  "url_index": 3,
+  "original_url": "https://www.beslist.nl/products/fietsen/r/driewielers_volwassen/",
+  "visits": 252,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/r/driewielers_volwassen/?opt_seg=5",
+    "screenshot": "url_003_variant_A_65440acd.png",
+    "h1_title": "Driewielers voor Volwassenen Fietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/r/driewielers_volwassen/?opt_seg=6",
+    "screenshot": "url_003_variant_B_fc4539a7.png",
+    "h1_title": "Driewielers voor Volwassenen Fietsen",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.86,
+    "reasoning": "Algorithm A returns a more relevant and useful set for the query. The top results in A include a range of actual adult tricycles (fat-tire trike, electric trike, cargo/retro cruisers) across price points which match user intent. A shows better product variety (fat-tire, electric, classic and cargo trikes) and the top slots contain full tricycles rather than accessories. Algorithm B surfaces several accessories (large bike seat) and repeated product photos near the top, reducing immediate relevance and discoverability of distinct adult tricycles.",
+    "key_differences": "A provides broader, more relevant variety of full adult tricycles in top positions (including electric and cargo options). B over-promotes accessories and repeats the same product image, lowering diversity and usefulness of the top results.",
+    "duplicate_notes": "In B the large black bike seat image appears twice within the first 8 items (an exact image duplication). B also shows repeated-looking cargo/trike images clustered near the top. A's first 8 are all distinct images (no exact-photo duplicates).",
+    "duplicates_comparison": "A has 0 duplicates, B has 2 duplicates"
+  }
+}

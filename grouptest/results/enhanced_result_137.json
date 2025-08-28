@@ -1,0 +1,31 @@
+{
+  "url_index": 137,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_577380/",
+  "visits": 49,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_577380/?opt_seg=5",
+    "screenshot": "url_137_variant_A_1374d04a.png",
+    "h1_title": "Scooters",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_577380/?opt_seg=6",
+    "screenshot": "url_137_variant_B_688a1f2b.png",
+    "h1_title": "Scooters",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A surfaces a broader set of full scooters among the top results (off-road scooter, compact Xiaomi models, a 3‑wheel mobility scooter) so the top results are more relevant to a generic 'scooters' query. Algorithm B does show a strong consumer scooter (Xiaomi 4 Lite) at #1, but B places several spare parts/accessory items much higher (positions 3–4) which reduces immediate relevance and user value for shoppers expecting scooters rather than components.",
+    "key_differences": "A prioritizes complete scooter products and presents more product-type variety in the top slots; B elevates spare parts/controllers earlier and therefore has lower immediate relevance and user value despite having a popular scooter at #1.",
+    "duplicate_notes": "No identical product images were repeated within the first 8 items of either screenshot. (There are repeated model images elsewhere on the page, but not inside the top-8 view for either A or B.)",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

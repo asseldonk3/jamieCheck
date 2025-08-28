@@ -1,0 +1,31 @@
+{
+  "url_index": 76,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484521_6425242/c/merk~877180",
+  "visits": 64,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_6425242/c/merk~877180?opt_seg=5",
+    "screenshot": "url_076_variant_A_85c3ca78.png",
+    "h1_title": "Giant Fiets-accu's",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 3,
+    "unique_products": 5
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_6425242/c/merk~877180?opt_seg=6",
+    "screenshot": "url_076_variant_B_e239947b.png",
+    "h1_title": "Giant Fiets-accu's",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.85,
+    "reasoning": "Both lists are relevant to the query 'Giant Fiets-accu\\'s' (they show Giant batteries and related accessories), but B provides better ranking quality: the top results are more diverse (different battery styles and accessories), show clear product variety and a better mix of item types and price points, and avoid repeating the same product image many times in the very top slots. A surfaces multiple identical listings of the same canbus battery image in the top positions, which reduces useful variety and wastes prime screen real estate for users searching for Giant batteries.",
+    "key_differences": "A repeats the same canbus battery image multiple times among the top 8, causing low variety. B shows a broader mix of distinct Giant battery types and accessories in the top positions, improving discovery and user value.",
+    "duplicate_notes": "In A the rectangular CANBUS battery image appears 4 times within the first 8 (resulting in 3 extra duplicate occurrences). In B there are fewer repeats: the CANBUS image appears twice and a downtube battery image is repeated once within the first 8. Duplicates are coming from multiple sellers listing the same product image.",
+    "duplicates_comparison": "A has 3 duplicates, B has 2 duplicates"
+  }
+}

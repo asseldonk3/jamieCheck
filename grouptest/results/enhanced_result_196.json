@@ -1,0 +1,31 @@
+{
+  "url_index": 196,
+  "original_url": "https://www.beslist.nl/products/fietsen/r/kinderfiets_3_jaar/page_2/",
+  "visits": 40,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/r/kinderfiets_3_jaar/page_2/?opt_seg=5",
+    "screenshot": "url_196_variant_A_8ae26b0b.png",
+    "h1_title": "Kinderfiets 3 Jaar",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/r/kinderfiets_3_jaar/page_2/?opt_seg=6",
+    "screenshot": "url_196_variant_B_d025ff41.png",
+    "h1_title": "Kinderfiets 3 Jaar",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.87,
+    "reasoning": "Algorithm A returns more relevant items for the query 'Kinderfiets 3 Jaar' — mostly age-appropriate children's bicycles with clear white-background product images, visible products aimed at 3-year-olds and a variety of styles. The top results in A surface obvious kids bikes (training wheels, small frames) and visible price/compare info, which gives immediate user value. Algorithm B mixes in non-bike items (child seat, protective pads) and lifestyle shots early in the ranking, reducing relevance and utility for a user explicitly searching for a 3-year-old's bike.",
+    "key_differences": "A emphasizes direct matches (kid bicycles) and a range of distinct models in the top positions. B interleaves accessories and lifestyle/child-in-photo images among the top slots, reducing relevance and harming immediate comparison/selection.",
+    "duplicate_notes": "A shows one identical product image repeated among the first 8 (a white basket-style kids bike appears twice). Several items are similar models in different colors (e.g. Royal Baby variants) but those were not counted as duplicates per instructions. B had no exact identical images in its first 8 results; it does show repeated models in different colors which were not counted.",
+    "duplicates_comparison": "A has 1 duplicates, B has 0 duplicates"
+  }
+}

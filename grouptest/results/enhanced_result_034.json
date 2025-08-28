@@ -1,0 +1,31 @@
+{
+  "url_index": 34,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/r/ombouw_verwarming/",
+  "visits": 97,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/r/ombouw_verwarming/?opt_seg=5",
+    "screenshot": "url_034_variant_A_1da5f63c.png",
+    "h1_title": "Ombouw Verwarming - Sanitair",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/r/ombouw_verwarming/?opt_seg=6",
+    "screenshot": "url_034_variant_B_6e9e5eb9.png",
+    "h1_title": "Ombouw Verwarming - Sanitair",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 4,
+    "unique_products": 4
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Algorithm A returns a tightly focused set of radiator covers that directly match the query 'Ombouw Verwarming - Sanitair'. Top results are relevant and show a variety of popular styles (angled product photos, straight-on product shots, different finishes) and likely higher user value because the top tiles are the expected products for this search. Algorithm B includes several relevant covers but also surfaces unrelated items (accessory parts, a decorative panel image) and repeats visually identical items in prominent positions, reducing the overall perceived relevance and usefulness of the top results.",
+    "key_differences": "A ranks directly relevant radiator covers consistently in the top positions, providing better variety of models and clear product photos. B shows more duplicates and a few off-target items among the top slots, which reduces diversity and makes the top results less useful.",
+    "duplicate_notes": "In B the same white straight-front radiator cover image appears more than once in the top 8, and a black slatted cover image also appears twice; A's top 8 show distinct product images with no exact image repeats.",
+    "duplicates_comparison": "A has 0 duplicates, B has 4 duplicates"
+  }
+}

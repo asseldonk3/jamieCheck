@@ -1,0 +1,31 @@
+{
+  "url_index": 131,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/r/pvc_terugslagklep_met/c/merk~390436",
+  "visits": 49,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/r/pvc_terugslagklep_met/c/merk~390436?opt_seg=5",
+    "screenshot": "url_131_variant_A_db4c19a4.png",
+    "h1_title": "PVC Terugslagklep - Dyka Sanitair",
+    "product_count": 0,
+    "score": 4,
+    "duplicates": 3,
+    "unique_products": 5
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/r/pvc_terugslagklep_met/c/merk~390436?opt_seg=6",
+    "screenshot": "url_131_variant_B_7b8688d2.png",
+    "h1_title": "PVC Terugslagklep - Dyka Sanitair",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.9,
+    "reasoning": "B returns results that are clearly centered on backwater/terugslagklep products (multiple dedicated backflow valve units and related Dyka/backwater items), matching the query intent. Results are more relevant, show brand-specific products and appropriate product types up front. A surfaces many generic PVC fittings, drains and shower strips that are less relevant to the specific query (terugslagklep) and therefore provides lower immediate user value.",
+    "key_differences": "B ranks actual terugslagklep/backwater valve units and brand-relevant items higher; A shows a mix of unrelated plumbing parts (elbows, T-pieces, drains, seals) and less query-focused variety at the top.",
+    "duplicate_notes": "In A the second row contains three identical images of the same Dyka inset/adaptor ring (same photo repeated across sellers). In B there are repeated grey First Plast backwater-unit images (same box image appears more than once among the top items). Duplicates appear to be same-item listings from different sellers.",
+    "duplicates_comparison": "A has 3 duplicates, B has 2 duplicates"
+  }
+}

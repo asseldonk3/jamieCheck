@@ -1,0 +1,31 @@
+{
+  "url_index": 63,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484478",
+  "visits": 68,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484478?opt_seg=5",
+    "screenshot": "url_063_variant_A_48bbe57e.png",
+    "h1_title": "Heren Elektrische fietsen",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484478?opt_seg=6",
+    "screenshot": "url_063_variant_B_1b074dca.png",
+    "h1_title": "Heren Elektrische fietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.85,
+    "reasoning": "Version B produces more relevant and useful rankings for the query 'Heren Elektrische fietsen'. The top results in B are primarily bikes (various models and types), whereas A surfaces several non-bike items (an e-bike display unit and a kitchen juicer) in the top positions, which reduces relevance. B shows better product variety across brands and types in the top positions and places more clearly bike-related items higher, improving immediate user value and likely matching shopper intent better.",
+    "key_differences": "A surfaces irrelevant products (accessory and a household appliance) among the top tiles and repeats the same models more aggressively, reducing perceived variety. B keeps mostly bikes in top positions, offers a broader set of bike models and types, and therefore provides better relevance and user value.",
+    "duplicate_notes": "Both sets show duplicate product images in the top 8: the ENGWE E26 (blue) appears multiple times and the Elops/Decathlon city bike image appears twice. Duplicates come from multiple sellers listing the identical product image and reduce visible diversity by occupying multiple slots.",
+    "duplicates_comparison": "A has 2 duplicates, B has 2 duplicates"
+  }
+}

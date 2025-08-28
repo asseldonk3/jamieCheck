@@ -1,0 +1,31 @@
+{
+  "url_index": 38,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~484584~~o_fietsen~19252912",
+  "visits": 93,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~484584~~o_fietsen~19252912?opt_seg=5",
+    "screenshot": "url_038_variant_A_85dc6340.png",
+    "h1_title": "Gazelle Elektrische fietsen Lage instap",
+    "product_count": 0,
+    "score": 4,
+    "duplicates": 6,
+    "unique_products": 2
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~484584~~o_fietsen~19252912?opt_seg=6",
+    "screenshot": "url_038_variant_B_5561e2d4.png",
+    "h1_title": "Gazelle Elektrische fietsen Lage instap",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 4,
+    "unique_products": 4
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Overall B produces a slightly better result set for the query 'Gazelle Elektrische fietsen Lage instap'. Both pages show poor precision for the Gazelle brand (many ENGWE/Vogue/Tomos items appear), but B shows a bit more variety in recognizable models and better top-row deal/discount prominence (visible discounted prices and a Tomos entry). A concentrates more on repeated ENGWE listings (many visually identical thumbnails), which reduces the usefulness of the top results. Quality of top results in B feels more varied and therefore more likely to surface a relevant option for different user intents (best price / different models).",
+    "key_differences": "Algorithm A surfaces many near-duplicate ENGWE E26 thumbnails near the top, reducing diversity and exploration value. Algorithm B shows fewer immediate repeats and a slightly broader set of models (including a Tomos and distinct city/commuter bikes and discounted items), improving perceived variety and user value.",
+    "duplicate_notes": "Top results are dominated by repeated ENGWE E26 product photos across different sellers/variants. Duplicates appear in color variants and repeated same-photo listings (sometimes with small overlay badges). This repetition reduces browsing efficiency — users must wade through multiple identical images representing the same item from different shops.",
+    "duplicates_comparison": "A has 6 duplicates, B has 4 duplicates"
+  }
+}

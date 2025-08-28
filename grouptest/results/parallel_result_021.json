@@ -1,0 +1,31 @@
+{
+  "url_index": 21,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/",
+  "visits": 121,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/?opt_seg=5",
+    "screenshot": "url_021_variant_A_25fe470c.png",
+    "h1_title": "Sanitair",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/?opt_seg=6",
+    "screenshot": "url_021_variant_B_a9c1f4d7.png",
+    "h1_title": "Sanitair",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Results in A show a broader, more useful mix of sanitary categories up front (toilets, mixers, shower cabin, valves, pumps and smart thermostat), giving better topical coverage for a general 'Sanitair' query. Top items in A are relevant and include popular/recognizable items and useful price/compare cues. B is relevant but exposes more repetitions of very similar products (same thermostatic mixer image appears more than once) and places somewhat less varied items in the top slots, reducing immediate user utility.",
+    "key_differences": "A provides greater product variety and category coverage in the top results, improving exploration for general sanitary shopping. B shows more repeated product imagery and similar product types (thermostatic mixers) in the first slots, lowering diversity and perceived catalog breadth.",
+    "duplicate_notes": "B contains a repeated image of the silver GROHE thermostatic mixer within the first 8 results; otherwise duplicates are minimal. A's first 8 results show no identical images.",
+    "duplicates_comparison": "A has 0 duplicates, B has 1 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 171,
+  "original_url": "https://www.beslist.nl/products/fietsen/r/e_bike_met_middenmotor/",
+  "visits": 43,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/r/e_bike_met_middenmotor/?opt_seg=5",
+    "screenshot": "url_171_variant_A_031abd69.png",
+    "h1_title": "E-bike met Middenmotor",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/r/e_bike_met_middenmotor/?opt_seg=6",
+    "screenshot": "url_171_variant_B_1479d22c.png",
+    "h1_title": "E-bike met Middenmotor",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.88,
+    "reasoning": "Algorithm A returns a higher proportion of actual mid-motor e-bikes in the top results, showing a variety of full-bike listings and recognizable consumer models (Vogue, Altec, Puch, SachsenRAD). Top slots in A are relevant to the query, include popular models and visible price/compare labels that help user value decisions. Algorithm B surfaces more non-bike items (chains/chainrings/accessory packaging) and repeats identical product images among the top slots, which reduces relevance and immediate user value for someone searching specifically for “E-bike met Middenmotor.”",
+    "key_differences": "A favors full e-bike listings with more model variety and user-relevant signals up front; B mixes bike parts/accessories into top positions and shows repeated identical images, reducing perceived relevance and variety.",
+    "duplicate_notes": "A shows one repeated bike image within the first 8 (same Vogue listing image across sellers). B has two duplicates in the first 8: the KMC chain-pack image appears twice and a Vogue black bike image repeats, reducing unique bike exposures and increasing noise from parts/accessories.",
+    "duplicates_comparison": "A has 1 duplicates, B has 2 duplicates"
+  }
+}

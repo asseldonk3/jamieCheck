@@ -1,0 +1,31 @@
+{
+  "url_index": 174,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_3053637/c/f_fiets~19967588",
+  "visits": 43,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_3053637/c/f_fiets~19967588?opt_seg=5",
+    "screenshot": "url_174_variant_A_e33743cd.png",
+    "h1_title": "Kleine Bakfietsen",
+    "product_count": 0,
+    "score": 4,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_3053637/c/f_fiets~19967588?opt_seg=6",
+    "screenshot": "url_174_variant_B_e8d468cc.png",
+    "h1_title": "Kleine Bakfietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.85,
+    "reasoning": "Version B presents a more useful result set for the query 'Kleine Bakfietsen': it shows a better variety of distinct small cargo-bike models near the top (different vendors/models and relevant cargo-bike types) and reduces repetition of the same listing image. A surfaces the same SociBike product image multiple times in the top slots, reducing diversity and crowding out other relevant small bakfiets options. B also places clearly relevant cargo-bikes and compact models earlier, which improves user value for comparison and discovery.",
+    "key_differences": "A is dominated in the top results by repeated listings of the same product images (low diversity), while B surfaces more distinct cargo-bike models and relevant items in the top positions (higher variety and better coverage of the small bakfiets category).",
+    "duplicate_notes": "A shows obvious repetition of the SociBike Compact product image (same green front view and same black side view each appearing more than once among the first 8). B reduces those repeats but still has at least one repeated product image (a Vogue/Journey-style model appears twice within the first 8). Overall duplicates come from the same item being listed by multiple sellers with identical photos.",
+    "duplicates_comparison": "A has 2 duplicates, B has 1 duplicates"
+  }
+}

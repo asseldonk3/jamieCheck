@@ -1,0 +1,31 @@
+{
+  "url_index": 55,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484521/",
+  "visits": 75,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521/?opt_seg=5",
+    "screenshot": "url_055_variant_A_46d7c59b.png",
+    "h1_title": "Fietsonderdelen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521/?opt_seg=6",
+    "screenshot": "url_055_variant_B_9fe20f2d.png",
+    "h1_title": "Fietsonderdelen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Both results are relevant to the broad query 'Fietsonderdelen' (bike parts), but B provides a slightly better mix of part types and concrete components in the top positions. B surfaces a clear variety of functional parts (tire, rack, cylinder, saddle, charger, tyre set) whereas A places many visually similar saddles and tyres near the top, which reduces perceived variety. B's top results balance popular items and useful components more evenly, improving likely user value for a general parts search.",
+    "key_differences": "B shows greater product-type diversity in the top results (including a cylinder, rack, multi-tire pack and chargers) while A clusters multiple saddle images and similar tyres near the top. B therefore delivers broader coverage of likely user intents for 'Fietsonderdelen'.",
+    "duplicate_notes": "I observed the same product photos (e.g., Schwalbe tyre, Selle Royal saddle, charger) appearing across the two result pages, but within the first eight items of each screenshot there were no exact image duplicates (each of the first 8 images on A and on B appears unique).",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

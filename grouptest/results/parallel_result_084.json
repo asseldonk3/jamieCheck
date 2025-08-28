@@ -1,0 +1,31 @@
+{
+  "url_index": 84,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/r/doorstromer_elektrisch_220v/",
+  "visits": 62,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/r/doorstromer_elektrisch_220v/?opt_seg=5",
+    "screenshot": "url_084_variant_A_79e16690.png",
+    "h1_title": "Elektrische Doorstromer 220V Sanitair",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/r/doorstromer_elektrisch_220v/?opt_seg=6",
+    "screenshot": "url_084_variant_B_6df1a5df.png",
+    "h1_title": "Elektrische Doorstromer 220V Sanitair",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Version A shows a more focused set of products relevant to the query (various compact inline and wall-mounted electric flow heaters, chrome faucet heaters and different price points). The top results in A are generally on-topic and include recognizable heater form factors and useful price variety, which is better for a user searching specifically for 'Elektrische Doorstromer 220V Sanitair'. Version B places at least one clearly irrelevant item (a mobile washing machine) high in the listing and mixes less-relevant items into the top slots, reducing immediate relevance and user value.",
+    "key_differences": "A prioritizes on-topic heater types (compact inline units, wall-mounted heaters, faucet heaters) and a clearer spread of product form-factors and prices in top positions. B has an off-topic item ranked near the top and a less consistent ordering by product relevance, leading to worse top-result quality.",
+    "duplicate_notes": "In the first 8 of A the small white inline shower/heater image appears three times (two extra duplicate occurrences). In B the same small white heater image appears twice within the first 8 (one extra duplicate). The white rectangular inline heater and chrome faucet heater images also appear in both lists; duplicates reduce perceived variety and can push other relevant models further down.",
+    "duplicates_comparison": "A has 2 duplicates, B has 1 duplicates"
+  }
+}

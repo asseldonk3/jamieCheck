@@ -1,0 +1,31 @@
+{
+  "url_index": 92,
+  "original_url": "https://www.beslist.be/products/fietsen/fietsen_484521_23807884/r/action/",
+  "visits": 62,
+  "variant_a": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484521_23807884/r/action/?opt_seg=5",
+    "screenshot": "url_092_variant_A_7165bcdf.png",
+    "h1_title": "Action Fietsspiegels",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484521_23807884/r/action/?opt_seg=6",
+    "screenshot": "url_092_variant_B_ac4eb1b7.png",
+    "h1_title": "Action Fietsspiegels",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 4,
+    "unique_products": 4
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Ignoring duplicate occurrences, version B shows a tighter, more relevant set of bicycle mirrors for the query (various bar-end, handlebar and compact mirrors, visible discount/best-seller cues) and surface-level product types a shopper would expect. Version A contains a few non-relevant or low-quality top images (an unrelated decorative heart image and an adapter-looking image) which lowers the perceived relevance and top-result quality.",
+    "key_differences": "B places common consumer mirror types and clearly photographed products higher (bar-end, compact handlebar mirrors, discount labels), improving immediate shopping usefulness. A shows more visual noise and at least one clearly irrelevant image in the top results, reducing perceived result quality and variety despite having no duplicate photos in the sampled set.",
+    "duplicate_notes": "In the first 8 results B contains two image duplicates appearing twice each (the boxed flexible mirror listing and a bar-end mirror listing), reducing visible variety. A's first 8 are all visually distinct but include at least one irrelevant/non-product image.",
+    "duplicates_comparison": "A has 0 duplicates, B has 4 duplicates"
+  }
+}

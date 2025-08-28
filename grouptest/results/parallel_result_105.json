@@ -1,0 +1,31 @@
+{
+  "url_index": 105,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559438/r/verkorte_toiletpot_43cm/",
+  "visits": 55,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559438/r/verkorte_toiletpot_43cm/?opt_seg=5",
+    "screenshot": "url_105_variant_A_caee0d8d.png",
+    "h1_title": "Verkorte Toiletpot 43 cm",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559438/r/verkorte_toiletpot_43cm/?opt_seg=6",
+    "screenshot": "url_105_variant_B_3236461a.png",
+    "h1_title": "Verkorte Toiletpot 43 cm",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Version A presents a more relevant and useful result set for the query “Verkorte Toiletpot 43 cm.” The top results in A are largely compact/wall-hung shortened toilet bowls from different brands and show a good spread of common, popular models (BWS, Royal Plaza, Duravit, Villeroy & Boch). A avoids obvious repeated listings in the visible top results which keeps variety high and increases the chance the user will quickly find an appropriate model. Version B contains a clear repeated product image within the first 8 listings (the same Boss & Wessing / Burgos image appears twice), which reduces visible variety and hurts the browsing experience. Overall A shows better diversity and higher quality of unique top matches for the query.",
+    "key_differences": "Main difference is diversity at the top of the list: A surfaces distinct models/brands across the first eight results, whereas B repeats the same product image in the top eight (reducing variety). A’s top items also include recognizable popular models without visible repetition.",
+    "duplicate_notes": "In version B the Boss & Wessing (Burgos) wall-hung toilet image appears twice among the first eight results. No exact duplicate images were observed among the first eight in version A. Several models/images repeat across the two pages overall, but only B shows a duplicate within its top-8 grid.",
+    "duplicates_comparison": "A has 0 duplicates, B has 1 duplicates"
+  }
+}

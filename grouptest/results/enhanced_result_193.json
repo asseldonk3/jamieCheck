@@ -1,0 +1,31 @@
+{
+  "url_index": 193,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484525/c/doelgroep_fietsen~484478",
+  "visits": 41,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484525/c/doelgroep_fietsen~484478?opt_seg=5",
+    "screenshot": "url_193_variant_A_250c0565.png",
+    "h1_title": "Heren Fietshelmen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484525/c/doelgroep_fietsen~484478?opt_seg=6",
+    "screenshot": "url_193_variant_B_ae42e5fc.png",
+    "h1_title": "Heren Fietshelmen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Algorithm A surfaces highly relevant men’s helmets (many popular Abus urban models and best‑seller items) at the top, shows a good spread of price points and visible discounts, and keeps primarily adult/commuter helmets in the top slots. Algorithm B includes a clearly irrelevant children’s/’smiley’ helmet among the first results and a very high‑end Giro appears early (less helpful for a generic ‘Heren Fietshelmen’ query), reducing perceived relevance and user value.",
+    "key_differences": "A favors popular urban/commuter men’s helmets and sale/best‑seller items up front (better relevance and immediate user value). B has more visual variety but injects irrelevant items (kids helmet) and niche/high‑end models early, lowering overall relevance for a general men’s helmet search.",
+    "duplicate_notes": "A shows one repeated product image in the top 8 (the beige Purl‑Y appears twice). Overall both pages heavily feature the same few Abus models across sellers, but B’s top 8 shows no exact image duplicates while A has one exact image repeat.",
+    "duplicates_comparison": "A has 2 duplicates, B has 0 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 122,
+  "original_url": "https://www.beslist.be/products/fietsen/fietsen_484519_23808019/c/bevestiging_fietstas~23808236~~merk~484584",
+  "visits": 52,
+  "variant_a": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484519_23808019/c/bevestiging_fietstas~23808236~~merk~484584?opt_seg=5",
+    "screenshot": "url_122_variant_A_79ebf5cc.png",
+    "h1_title": "Gazelle Fietstassen MIK",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 4,
+    "unique_products": 4
+  },
+  "variant_b": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484519_23808019/c/bevestiging_fietstas~23808236~~merk~484584?opt_seg=6",
+    "screenshot": "url_122_variant_B_7eea1c5f.png",
+    "h1_title": "Gazelle Fietstassen MIK",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A returns highly relevant Gazelle MIK panniers at the very top of the page — the top slots are Gazelle models (the user explicitly searched for \"Gazelle Fietstassen MIK\"), so relevance to the query is stronger. The top results in A are clear Gazelle MIK items and good quality product images, which helps users quickly find the brand and mounting system they requested. Algorithm B shows more variety of brands and unique items in the top positions (higher diversity) but places fewer Gazelle-specific results in the absolute top slots, so it is less tightly aligned with the brand-focused query.",
+    "key_differences": "A prioritizes Gazelle MIK products in the top slots (higher brand/query relevance) but at the cost of repeated listings; B surfaces more varied and unique products (better diversity) but is less focused on Gazelle-first results.",
+    "duplicate_notes": "In A I observed two distinct Gazelle product images each appearing twice within the first 8 results (a black Gazelle model with badge and a Gazelle Deluxe flap model), resulting in 4 listings that are image-duplicates. In B the first 8 images are all unique.",
+    "duplicates_comparison": "A has 4 duplicates, B has 0 duplicates"
+  }
+}

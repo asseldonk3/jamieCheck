@@ -1,0 +1,31 @@
+{
+  "url_index": 77,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559438/",
+  "visits": 63,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559438/?opt_seg=5",
+    "screenshot": "url_077_variant_A_aed17bd7.png",
+    "h1_title": "Toiletten",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 4,
+    "unique_products": 4
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559438/?opt_seg=6",
+    "screenshot": "url_077_variant_B_2055918f.png",
+    "h1_title": "Toiletten",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 4,
+    "unique_products": 4
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.75,
+    "reasoning": "Algorithm A shows more immediately relevant items for the query 'Toiletten' — a variety of actual toilet models (standing, wall-hung, bidet/seat variants) and recognizable best-sellers appear high in the grid. Results feel more focused on core product intent (toilets) and provide useful choices up-front. Algorithm B surfaces a few accessory items (flush plate, handheld bidet fitting) and repeated listings earlier in the view, which reduces top-result relevance and immediate user value.",
+    "key_differences": "A prioritizes actual toilet units and a balanced mix of form factors; B includes non-toilet accessories and more repeats in prime positions, hurting relevance and perceived variety.",
+    "duplicate_notes": "Both screenshots show repeated identical product photos among the first 8 results — notably the boxy cistern model (GO/VM Go X-Joy) and a pedestal/raised toilet bowl appear multiple times, suggesting duplicate listings from different sellers crowding top slots.",
+    "duplicates_comparison": "A has 4 duplicates, B has 4 duplicates"
+  }
+}

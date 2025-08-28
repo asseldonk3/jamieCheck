@@ -1,0 +1,31 @@
+{
+  "url_index": 49,
+  "original_url": "https://www.beslist.be/products/fietsen/",
+  "visits": 78,
+  "variant_a": {
+    "url": "https://www.beslist.be/products/fietsen/?opt_seg=5",
+    "screenshot": "url_049_variant_A_8e5aeb1e.png",
+    "h1_title": "Fietsen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "variant_b": {
+    "url": "https://www.beslist.be/products/fietsen/?opt_seg=6",
+    "screenshot": "url_049_variant_B_8ba8f895.png",
+    "h1_title": "Fietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Overall B produces a stronger result list for the broad query 'Fietsen'. It shows a better mix of bikes and useful bike-related accessories (locks, bags, panniers) alongside bicycles and helmets, giving broader coverage and more shopper value. The top items in B are more diverse and useful to different shopper intents (buying a bike vs. buying bike accessories). A has more helmet-heavy placements and near-duplicate bike imagery among the top results, reducing variety and likely hurting the experience for users seeking a range of bicycle options.",
+    "key_differences": "B ranks a wider variety of relevant subcategories (bikes, locks, bags, tyres) in the top results and avoids repeating the same product image; A places multiple similar helmets and shows what appears to be the same bike image twice in the first 8, lowering perceived diversity and freshness.",
+    "duplicate_notes": "In A the two Engwe folding/boost bikes in positions 7–8 use the exact same product photo (duplicate). Otherwise A shows several similar helmet images/brands; B's first 8 contain no exact image duplicates and are more varied (locks, panniers, tyres, bikes, helmets).",
+    "duplicates_comparison": "A has 1 duplicates, B has 0 duplicates"
+  }
+}

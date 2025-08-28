@@ -1,0 +1,31 @@
+{
+  "url_index": 118,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559440_559596/c/inhoud_verwarmingen~19257851~~type_boiler~5335087",
+  "visits": 52,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559440_559596/c/inhoud_verwarmingen~19257851~~type_boiler~5335087?opt_seg=5",
+    "screenshot": "url_118_variant_A_e2a8f4ea.png",
+    "h1_title": "Elektrische boilers 80 liter",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559440_559596/c/inhoud_verwarmingen~19257851~~type_boiler~5335087?opt_seg=6",
+    "screenshot": "url_118_variant_B_3abe7efc.png",
+    "h1_title": "Elektrische boilers 80 liter",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "Tie",
+    "confidence": 0.85,
+    "reasoning": "Both A and B return highly relevant items for the query 'Elektrische boilers 80 liter' — the results show expected electric 80 L cylinder and horizontal boilers from common brands (Tesy, Haier, Ariston, etc.). The top results in both sets surface recognizable 80 L form-factors (vertical cylinders and a horizontal model), sensible price ranges and a mix of brands. Quality of top results is comparable: identifiable brand models, mixed price points and likely useful items for a buyer looking specifically for an 80 L electric boiler. There are only minor reorderings between the two algorithms and no substantial difference in apparent product quality or deal prominence in the visible top results.",
+    "key_differences": "Differences are minor ranking/order shifts only — B places a black vertical model one position higher while A puts a white Tesy cylinder slightly earlier. Neither shows a clear improvement in relevance, variety, or user-value compared with the other.",
+    "duplicate_notes": "Both A and B have one exact image repeat within the first 8 results (the same Tesy white cylindrical boiler image appears twice). Aside from that, images are distinct — duplicates are simple repeated seller listings of the identical product image, reducing perceived variety slightly.",
+    "duplicates_comparison": "A has 1 duplicates, B has 1 duplicates"
+  }
+}

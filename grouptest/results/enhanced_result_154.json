@@ -1,0 +1,31 @@
+{
+  "url_index": 154,
+  "original_url": "https://www.beslist.nl/products/fietsen/r/elektrische_fiets_kinderzitjes/",
+  "visits": 46,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/r/elektrische_fiets_kinderzitjes/?opt_seg=5",
+    "screenshot": "url_154_variant_A_bcaf5c77.png",
+    "h1_title": "Elektrische Fiets Kinderzitje",
+    "product_count": 0,
+    "score": 4,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/r/elektrische_fiets_kinderzitjes/?opt_seg=6",
+    "screenshot": "url_154_variant_B_8a66f669.png",
+    "h1_title": "Elektrische Fiets Kinderzitje",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.85,
+    "reasoning": "Algorithm B returns results that are more directly relevant to the query 'Elektrische Fiets Kinderzitje' — several child seats, footrests and mounting accessories are visible near the top. B surfaces a variety of actual child-seat types (platforms, rear seats, cushions) that match user intent. Algorithm A surfaces many whole electric bikes (longtail/cargo e-bikes) and other peripheral items in the top positions, which reduces immediate relevance for a user specifically looking for a child seat. B therefore provides better top-result quality and user value for this query.",
+    "key_differences": "B prioritizes product types matching the query (child seats, footrests, cushions) and shows a broader set of seat/accessory options in top slots. A prioritizes full e-bikes and some unrelated accessories, so the top results are less relevant and less useful to a shopper searching for a child seat.",
+    "duplicate_notes": "A's top results are mostly unique images (several different e-bike photos). B shows repeated identical images of the same seat/cushion across different sellers within the first rows (duplicate product images for seat cushions/mounting pads). These duplicates reduce visual variety and can crowd out other product choices.",
+    "duplicates_comparison": "A has 0 duplicates, B has 2 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 2,
+  "original_url": "https://www.beslist.nl/products/mode/",
+  "visits": 0,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/mode/?opt_seg=5",
+    "screenshot": "url_002_variant_A_e9af20bf.png",
+    "h1_title": "Kleding",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/mode/?opt_seg=6",
+    "screenshot": "url_002_variant_B_50898880.png",
+    "h1_title": "Kleding",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "Tie",
+    "confidence": 0.9,
+    "reasoning": "Both A and B produce very similar rankings for the broad query 'Kleding'. The top results show a good spread across categories (outerwear, socks, dresses, t‑shirts, underwear, pants, base layers, blouses), which matches user intent for a generic clothing search. Quality of top results is comparable in both: visible items are cleanly photographed, include popular everyday categories and reasonably priced options. There is no clear superiority in relevance, diversity, or user value between the two screenshots.",
+    "key_differences": "No meaningful differences observed in the first viewport — ordering, item types and visual prominence are effectively the same, so neither algorithm shows a distinct advantage in ranking quality.",
+    "duplicate_notes": "No exact identical product images within the first 8 results of either view. Further down the page there appear to be similar underwear/boxer pack images that may repeat across listings, but these repeats are not present in the top‑8 viewport used for this count.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

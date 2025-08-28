@@ -1,0 +1,31 @@
+{
+  "url_index": 180,
+  "original_url": "https://www.beslist.nl/products/fietsen/r/guinness_1-1_pint_glas/",
+  "visits": 42,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/r/guinness_1-1_pint_glas/?opt_seg=5",
+    "screenshot": "url_180_variant_A_e6e05b9a.png",
+    "h1_title": "Guinness 1-1 Pintglas",
+    "product_count": 0,
+    "score": 4,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/r/guinness_1-1_pint_glas/?opt_seg=6",
+    "screenshot": "url_180_variant_B_19678b57.png",
+    "h1_title": "Guinness 1-1 Pintglas",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.78,
+    "reasoning": "Both results sets are poor for the query \"Guinness 1-1 Pintglas\" because the majority of results are bicycle mirrors rather than pint glasses. However B places the only drinking-cup-like item (the metal cup) first (same as A) but follows it with a clearer variety of distinct mirror types (a triangular arm mirror and a round stick mirror) in the top-3, making the top results slightly more useful and visually diverse for the user to scan quickly. Overall both rankings show low relevance, but B's top results are marginally better organized and more useful.",
+    "key_differences": "B orders the top slots to present more visually distinct items in positions 2–3 (triangular mirror then round mirror), improving immediate scan-ability and marginal diversity; A places more near-duplicate packaged mirror images earlier, reducing perceived variety in the top results.",
+    "duplicate_notes": "The yellow/green 'Mirage' packaged mirror image appears multiple times in the first 8 results (same product image from different sellers). There are also repeated black curved diagram-style mirror images across the grid. Duplicates reduce apparent variety and make finding a true pint glass harder.",
+    "duplicates_comparison": "A has 2 duplicates, B has 2 duplicates"
+  }
+}

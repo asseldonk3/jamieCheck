@@ -1,0 +1,31 @@
+{
+  "url_index": 141,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559439_559495/r/bevestigingsset/",
+  "visits": 48,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559439_559495/r/bevestigingsset/?opt_seg=5",
+    "screenshot": "url_141_variant_A_1997309b.png",
+    "h1_title": "Bevestigingsset voor Wc-Brillen",
+    "product_count": 0,
+    "score": 4,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559439_559495/r/bevestigingsset/?opt_seg=6",
+    "screenshot": "url_141_variant_B_03d67e42.png",
+    "h1_title": "Bevestigingsset voor Wc-Brillen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.9,
+    "reasoning": "Algorithm B returns results that are much more relevant to the query 'Bevestigingsset voor Wc-Brillen' (mounting/fastening sets for toilet seats). The top results in B include bolts, fixing kits and replacement fastening parts — the items a user searching for a bevestigingsset would expect. Algorithm A surfaces many complete toilet seats (covers/seats) and branded seats near the top, which are less relevant to a user explicitly looking for fixing/mounting sets. B also provides better product variety within the desired subcategory (different types of fixings, price points and kit compositions), which increases immediate user value.",
+    "key_differences": "Main difference is relevance: B prioritizes actual fastening kits and hardware (high relevance), while A prioritizes full toilet seats and branded seat listings (low relevance). B shows better diversity of fastening parts and sensible top results for this query; A shows many similar product types (toilet seats) up front.",
+    "duplicate_notes": "Within the first 8 results of both screenshots I did not find any exact identical product photos. There are many visually similar white toilet-seat images across the pages (different angles/brands) but no exact image duplicates in the top 8 of either A or B.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

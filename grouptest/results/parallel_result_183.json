@@ -1,0 +1,31 @@
+{
+  "url_index": 183,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_485178/c/geschikt_voor_helm~23588068",
+  "visits": 42,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_485178/c/geschikt_voor_helm~23588068?opt_seg=5",
+    "screenshot": "url_183_variant_A_5fc5faff.png",
+    "h1_title": "E-bike Bidonhouders",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_485178/c/geschikt_voor_helm~23588068?opt_seg=6",
+    "screenshot": "url_183_variant_B_6d23e669.png",
+    "h1_title": "E-bike Bidonhouders",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A surfaces more clearly relevant bottle-holders up front (recognizable brands and a variety of cage styles) and shows best-seller items in top positions. A's top results include multiple distinct holder designs (mounts, traditional cages, brand-name holders) and therefore better satisfy the query intent 'E-bike Bidonhouders'. Algorithm B places a large, irrelevant battery image and some motorbike/mount-style items more prominently, which reduces immediate relevance and user value.",
+    "key_differences": "A prioritizes well-known bottle-cage styles and brand listings in the top slots (better immediate relevance and useful variety). B has more off-topic or accessory items (battery, motorbike holders) ranked higher and fewer high-relevance brand items in the very top results.",
+    "duplicate_notes": "Although no identical images appeared within the first 8 items on either page, identical product photos do repeat elsewhere on the pages (e.g. the SKS 'Anywhere' cage and the multi-grid 'Drink Bidonhouder' images appear multiple times across the full listing). Repeats tend to be the same seller/product shown multiple times or identical images used by different sellers; color variants are present but were not counted as duplicates per instructions.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

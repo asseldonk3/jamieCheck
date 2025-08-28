@@ -1,0 +1,31 @@
+{
+  "url_index": 97,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559436_559995/",
+  "visits": 58,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559436_559995/?opt_seg=5",
+    "screenshot": "url_097_variant_A_c46841e5.png",
+    "h1_title": "Keukenkranen",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559436_559995/?opt_seg=6",
+    "screenshot": "url_097_variant_B_95f32e6e.png",
+    "h1_title": "Keukenkranen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.78,
+    "reasoning": "Both lists are highly relevant for the query 'Keukenkranen' and show common kitchen-faucet types (single-lever, spring/pre-rinse, wall-mounted, Quooker-style). Version B slightly edges out A because it surfaces a clear best-seller/cheap option at the top, shows a broader visual mix (including a lifestyle image) and places several mainstream/recognizable models (and good discounts) earlier — which improves perceived user value and clickability. A is relevant and shows big, eye-catching products (e.g., the spring/pre-rinse model) but B’s ordering better balances popularity, deals and recognizability in the top positions.",
+    "key_differences": "B surfaces a clear best-seller/cheap popular item earlier and includes a lifestyle/context image that improves recognition; A gives more prominence to a large spring/pre-rinse model. B has slightly better mix of popular brands and visible deals in the very top results, improving likely click-through and purchase intent.",
+    "duplicate_notes": "In B the wall-mounted double-handle chrome faucet image appears twice within the top 8 (same photo used by different sellers). No identical product images were repeated within the top 8 of A. Several identical images are shared across the two lists (same items from different sellers) but only B shows an internal duplicate among its first 8.",
+    "duplicates_comparison": "A has 0 duplicates, B has 1 duplicates"
+  }
+}

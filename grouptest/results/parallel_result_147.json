@@ -1,0 +1,31 @@
+{
+  "url_index": 147,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559442/r/ikea_spoelbakken/",
+  "visits": 47,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559442/r/ikea_spoelbakken/?opt_seg=5",
+    "screenshot": "url_147_variant_A_36292549.png",
+    "h1_title": "IKEA Wastafelonderdelen",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 3,
+    "unique_products": 5
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559442/r/ikea_spoelbakken/?opt_seg=6",
+    "screenshot": "url_147_variant_B_a003638f.png",
+    "h1_title": "IKEA Wastafelonderdelen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.85,
+    "reasoning": "Results in B are more aligned with the query 'IKEA Wastafelonderdelen' because the top listings surface Ikea-specific parts (e.g. Afdichting voor Ikea Atlant) and a broader selection of distinct sink parts. B shows more product variety (seals, multi-packs, OEM-style parts and strainers) and places relevant, user-intent matching items higher. A tends to show many near-identical stainless strainers first (less focused on Ikea OEM parts), which reduces relevance and perceived result quality.",
+    "key_differences": "A emphasizes the same stainless sink-strainer image repeatedly (multiple sellers of the same-looking part) which reduces visible variety. B surfaces Ikea-branded/fitment parts and distinct product types near the top (black seals, multi-packs, different drain/plug types), giving more relevant and varied top results.",
+    "duplicate_notes": "A has multiple exact repeats of the same stainless strainer image within the top 8 (the same product image appears 3 times), which reduces diversity. B has one clear duplicate (a two-row repeat of the same strainer image) but otherwise presents distinct images (several black Ikea-fit seals and different pack images). Duplicates in A push repeat sellers/products into prime positions, hurting discovery of different parts.",
+    "duplicates_comparison": "A has 3 duplicates, B has 1 duplicates"
+  }
+}

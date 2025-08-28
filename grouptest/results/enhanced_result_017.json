@@ -1,0 +1,31 @@
+{
+  "url_index": 17,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~488775",
+  "visits": 125,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~488775?opt_seg=5",
+    "screenshot": "url_017_variant_A_934a5b3e.png",
+    "h1_title": "Batavus Elektrische fietsen",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~488775?opt_seg=6",
+    "screenshot": "url_017_variant_B_54205442.png",
+    "h1_title": "Batavus Elektrische fietsen",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Version B gives more on-brand / query-relevant results (the UI shows the 'Batavus' brand filter active) and places more likely matches and recognized city/commuter e-bikes higher. A returns a mixed set of unrelated brands (ENGWE, Windgoo, Decathlon, Touroll, Vogue) up front which reduces relevance to the query. Top results in B are slightly more focused and useful to a user explicitly searching for Batavus electric bikes.",
+    "key_differences": "B applies brand-level filtering/priority so results are more focused on the queried brand and display a more relevant mix of city-style e-bikes and likely Batavus matches; A shows a broader, less-targeted mix of brands and models at top which hurts relevance and user value.",
+    "duplicate_notes": "No exact identical product images repeated within the first 8 results of either view. Some models (ENGWE E26) appear multiple times on the page overall, but those repeats fall outside the first 8 in these screenshots.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

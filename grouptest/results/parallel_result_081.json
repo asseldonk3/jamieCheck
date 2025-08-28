@@ -1,0 +1,31 @@
+{
+  "url_index": 81,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/type_elek_fiets~9241908",
+  "visits": 63,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/type_elek_fiets~9241908?opt_seg=5",
+    "screenshot": "url_081_variant_A_6a250e6b.png",
+    "h1_title": "Elektrische stadsfiets / city e-bikes",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/type_elek_fiets~9241908?opt_seg=6",
+    "screenshot": "url_081_variant_B_0ece49fd.png",
+    "h1_title": "Elektrische stadsfiets / city e-bikes",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 3,
+    "unique_products": 5
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A presents a slightly better mix of relevant city e-bikes in the top positions: it surfaces a variety of frame styles (step-through, low-step, folding), multiple price points and recognizable models/brands in prominent positions. The top results in A look like useful choices for a typical shopper (best-seller and new-badge items, mid-high and budget options), so relevance and user value are higher. Algorithm B is still relevant but shows more repeated visual items early and fewer distinct options, which weakens perceived diversity and choice.",
+    "key_differences": "A surfaces a broader set of distinct models and price points in the top results; B places visually similar/identical product images closer together which reduces perceived variety and the quality of top results.",
+    "duplicate_notes": "The most obvious repeated image is the navy Elops step-through bike appearing more than once (same photo across different sellers). There are also repeated city/Atlanta-style black bikes and a folding-bike image used by multiple sellers. Duplicates are concentrated among the first two rows, reducing perceived variety in B more than in A.",
+    "duplicates_comparison": "A has 2 duplicates, B has 3 duplicates"
+  }
+}

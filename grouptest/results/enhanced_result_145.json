@@ -1,0 +1,31 @@
+{
+  "url_index": 145,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_4982521/r/fietsmand_honden/",
+  "visits": 48,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_4982521/r/fietsmand_honden/?opt_seg=5",
+    "screenshot": "url_145_variant_A_7206ceb2.png",
+    "h1_title": "Fietsmanden en Fietskratten voor Honden",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_4982521/r/fietsmand_honden/?opt_seg=6",
+    "screenshot": "url_145_variant_B_bb6e3b8b.png",
+    "h1_title": "Fietsmanden en Fietskratten voor Honden",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Algorithm A surfaces a more useful mix of product types for the query (front carriers, wicker baskets, foldable/soft baskets) in the top positions. Top results in A include several clearly relevant product formats (sturdy front carriers and wicker dog baskets) and visible price/merchant info, giving users clear choices. Algorithm B is also relevant but shows less variety in the top results and repeats the same product photo multiple times which reduces the perceived selection and makes it harder for users to compare alternatives quickly.",
+    "key_differences": "A presents greater product diversity and higher-quality, varied top results (different styles and use-cases) while B places near-duplicates of the same basket image high in the listing, lowering variety and hurting comparison. A therefore delivers better immediate user value.",
+    "duplicate_notes": "In A the first 8 tiles appear to be unique images (mix of carriers, wicker and soft baskets). In B the lined wicker basket with the black wire dome/liner appears repeatedly in the first 8 (3 occurrences total), resulting in 2 extra duplicate images among the top 8 — this reduces visible variety. No exact-color/size variants were counted as duplicates; only exact same photos were counted.",
+    "duplicates_comparison": "A has 0 duplicates, B has 2 duplicates"
+  }
+}

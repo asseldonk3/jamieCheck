@@ -1,0 +1,31 @@
+{
+  "url_index": 24,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_577380/c/type_scooter~4906803",
+  "visits": 118,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_577380/c/type_scooter~4906803?opt_seg=5",
+    "screenshot": "url_024_variant_A_6062f56e.png",
+    "h1_title": "Elektrische scooters",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_577380/c/type_scooter~4906803?opt_seg=6",
+    "screenshot": "url_024_variant_B_2b8c8135.png",
+    "h1_title": "Elektrische scooters",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A surfaces primarily full-size electric scooters and a popular kick-scooter in the top slots, which matches the user intent for 'Elektrische scooters'. The top results in A are more vehicle-focused (moped-style scooters and a common standing e-scooter), giving better immediate relevance and higher perceived utility. Algorithm B places a non-scooter accessory (a bike/scooter light) among the top 4 results, which reduces relevance for a user searching for electric scooters. Overall A presents higher-quality, more on-topic items up front and a better mix of mainstream scooter types.",
+    "key_differences": "A keeps vehicle listings (mopeds and kick-scooters) in top positions and therefore feels more relevant; B interleaves accessories early, reducing topical relevance and perceived quality of top results.",
+    "duplicate_notes": "No exact-image duplicates were observed within the first 8 results of either screenshot. Identical product photos do appear elsewhere on the page (further down) but not within the top 8 positions shown.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 6,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520/",
+  "visits": 203,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520/?opt_seg=5",
+    "screenshot": "url_006_variant_A_5db43d3e.png",
+    "h1_title": "Fietsen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520/?opt_seg=6",
+    "screenshot": "url_006_variant_B_2f70c69e.png",
+    "h1_title": "Fietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.86,
+    "reasoning": "Version B shows a better mix of actual bicycles in the top results (city/ebike/fatbike/children's bike) and avoids surfacing non-bike accessories among the highest positions. The top rows in B are more directly relevant to the query “Fietsen”, present clearer product variety across use-cases (adult e-bikes, kids' bikes, utility fatbikes) and maintain useful price/brand representation up front. Overall the result set in B gives users quicker access to actual bicycles and a broader selection of likely intents (commuting, family, off-road) which improves perceived ranking quality and user value.",
+    "key_differences": "B prioritizes actual bike products across multiple segments in the top slots (adult e-bikes, kids' bikes, city bikes) while A places a bike accessory (Bosch Purion display) high and repeats the same model image, reducing immediate variety. B therefore provides broader coverage of user intents and more useful top results.",
+    "duplicate_notes": "In A's first 8 results the Vogue Mestengo image appears twice (same product image from different sellers). In B's first 8 there were no exact identical product images. Similar models in different colors (ENGWE black vs ENGWE blue) were treated as distinct and not counted as duplicates.",
+    "duplicates_comparison": "A has 1 duplicates, B has 0 duplicates"
+  }
+}

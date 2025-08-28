@@ -1,0 +1,31 @@
+{
+  "url_index": 113,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_4982521/r/hond/",
+  "visits": 54,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_4982521/r/hond/?opt_seg=5",
+    "screenshot": "url_113_variant_A_8efc4917.png",
+    "h1_title": "Fietskrat Hond",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_4982521/r/hond/?opt_seg=6",
+    "screenshot": "url_113_variant_B_cbcbe474.png",
+    "h1_title": "Fietskrat Hond",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.86,
+    "reasoning": "Both pages return relevant items for the query 'Fietskrat Hond', but B presents a slightly stronger ranking: the top results are practical dog bike carriers (front/handlebar boxes and modern soft carriers) that match typical user intent. B shows a broader mix of carrier styles and more functional options up front, while A surfaces more decorative wicker baskets and repeats one basket image early, reducing perceived relevance and variety. B also highlights items that look like popular, ready-to-buy solutions (structured carriers, insulated/soft carriers) which are high user value for dog transport.",
+    "key_differences": "B emphasizes practical, modern dog carriers and a wider variety of useful types in the top slots (front carriers, structured boxes). A places decorative wicker baskets and similar-looking items higher and contains an early duplicate image, reducing diversity and the usefulness of the top results.",
+    "duplicate_notes": "In A the same wicker/rattan basket image appears twice among the first 8 (positions 2 and 4). Across both pages a few identical seller images of the same black soft carrier appear elsewhere on the pages, but within the first 8 items B shows no exact image duplicates.",
+    "duplicates_comparison": "A has 2 duplicates, B has 0 duplicates"
+  }
+}

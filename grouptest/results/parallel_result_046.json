@@ -1,0 +1,31 @@
+{
+  "url_index": 46,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477~~merk~484584",
+  "visits": 81,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477~~merk~484584?opt_seg=5",
+    "screenshot": "url_046_variant_A_7077965b.png",
+    "h1_title": "Gazelle Dames Elektrische fietsen",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477~~merk~484584?opt_seg=6",
+    "screenshot": "url_046_variant_B_d79026de.png",
+    "h1_title": "Gazelle Dames Elektrische fietsen",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "Tie",
+    "confidence": 0.75,
+    "reasoning": "Both result sets perform poorly for the query 'Gazelle Dames Elektrische fietsen' because they do not prioritize Gazelle-branded women's e-bikes at the top. Top results in both pages mainly show other brands (ENGWE, Vogue, Windgoo, Decathlon/Elops, Touroll) and several fatbikes/city bikes that are not clearly Gazelle models. Neither ranking reliably surfaces the exact brand or the clear category match (Gazelle + dames) first, nor do they consistently surface the most relevant/popular Gazelle items or best deals for Gazelle bikes. Overall relevance, top-result quality and user value are comparable and weak in both versions.",
+    "key_differences": "Practically no meaningful difference in relevance or diversity in the top results — both mixes show the same non-Gazelle brands and similar product-types. Version B shows the left-side Gazelle filter checked in the UI, suggesting a filter was applied but the main grid still contains many non-Gazelle items; version A presents slightly more visible badges (best-seller/discount) in top tiles which can help perceived quality, but this does not improve true brand relevance.",
+    "duplicate_notes": "Within the first 8 items of each screenshot there were no exact-identical product photos repeated. Further down the pages there are repeated product images (same model shown multiple times from different shops), notably for ENGWE models and some city e-bikes, indicating seller-level duplicates outside the top 8.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

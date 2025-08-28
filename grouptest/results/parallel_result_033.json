@@ -1,0 +1,31 @@
+{
+  "url_index": 33,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807883/c/t_bagagedragers~7296080",
+  "visits": 98,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807883/c/t_bagagedragers~7296080?opt_seg=5",
+    "screenshot": "url_033_variant_A_5ef97792.png",
+    "h1_title": "Voordragers",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807883/c/t_bagagedragers~7296080?opt_seg=6",
+    "screenshot": "url_033_variant_B_67e8c679.png",
+    "h1_title": "Voordragers",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.86,
+    "reasoning": "Algorithm A presents a stronger set of top results for the query 'Voordragers': the results are directly relevant (various types of front carriers), the top positions show a good mix of form factors and known models, and images/prices are clear for quick comparison. Algorithm B is relevant as well but the ordering is slightly less useful — visually redundant items appear in prominent positions and the variety in the top slots is lower, reducing immediate user value.",
+    "key_differences": "A provides greater product diversity and a better mix of popular/quality items at the top; B shows repeated visual entries and less variety in the first page, making the top results feel more redundant.",
+    "duplicate_notes": "In B I observed exact image repeats within the first 8 items: the Topeak clamp-style carrier image appears twice and an on-bike mounted front-rack photo appears twice. In A there are no exact image duplicates among the first 8. These duplicates reduce perceived variety and can push distinct, relevant items out of top positions.",
+    "duplicates_comparison": "A has 0 duplicates, B has 2 duplicates"
+  }
+}

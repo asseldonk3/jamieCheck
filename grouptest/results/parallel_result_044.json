@@ -1,0 +1,31 @@
+{
+  "url_index": 44,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/r/pvc_terugslagklep_met_ontstoppingsdeksel/",
+  "visits": 86,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/r/pvc_terugslagklep_met_ontstoppingsdeksel/?opt_seg=5",
+    "screenshot": "url_044_variant_A_7b33e31b.png",
+    "h1_title": "PVC Terugslagklep met Ontstoppingsdeksel",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/r/pvc_terugslagklep_met_ontstoppingsdeksel/?opt_seg=6",
+    "screenshot": "url_044_variant_B_11f9d5ec.png",
+    "h1_title": "PVC Terugslagklep met Ontstoppingsdeksel",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Both results contain the correct product type (PVC terugslagkleppen with inspection/cleaning covers) but version B ranks a highly relevant grey inspection/check-valve image at #1 while offering more visual variety in the immediate results. A places the same grey valve image twice at the very top (positions 1–2), which reduces useful diversity for the shopper and pushes other relevant alternatives slightly down. B's top results provide a better mix of relevant valve types and price points and therefore deliver higher user value.",
+    "key_differences": "Algorithm A repeats the same prominent grey check-valve image at the top (low diversity); Algorithm B spaces similar items out and shows a more varied set of relevant products in the top positions, improving exploration and user value.",
+    "duplicate_notes": "The large grey First Plast inspection/check-valve image appears multiple times across the results (in A at positions 1 and 2; in B at positions 1, 3 and again at 8). This repetition reduces perceived variety; a few other product images (orange backwater valve, shower strips, drains) repeat elsewhere on the page but those repeats are outside or just beyond the first 8 in one list.",
+    "duplicates_comparison": "A has 1 duplicates, B has 2 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 102,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807907/",
+  "visits": 57,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807907/?opt_seg=5",
+    "screenshot": "url_102_variant_A_7ebecbaf.png",
+    "h1_title": "Fietsstandaard",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807907/?opt_seg=6",
+    "screenshot": "url_102_variant_B_24ecacfc.png",
+    "h1_title": "Fietsstandaard",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Algorithm A returns a tighter, more relevant set of actual bicycle kickstands (various common stand types and budget options) at the top, with recognizable popular items and clear price/merchant signals. Results are focused on the user's intent ('Fietsstandaard') and surface good, low-price options and best-sellers early. Algorithm B shows more mixed results (including repair/assembly stands and hanging systems) which reduces precision for a user specifically looking for a kickstand.",
+    "key_differences": "A is more focused and relevant to the query (true kickstands, variety of common models and price points up front). B mixes in less relevant, higher-priced workshop equipment and non-kickstand items, reducing immediate user value and relevance.",
+    "duplicate_notes": "Within the first 8 results on each page I did not find exact identical product photos repeated. Across the wider page there are multiple repeated stock images (same kickstand photos used by different sellers), but these repeats do not appear more than once among the top 8 on either A or B.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

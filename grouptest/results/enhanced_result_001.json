@@ -1,0 +1,31 @@
+{
+  "url_index": 1,
+  "original_url": "https://www.beslist.nl/products/fietsen/",
+  "visits": 0,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/?opt_seg=5",
+    "screenshot": "url_001_variant_A_31779df3.png",
+    "h1_title": "Fietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/?opt_seg=6",
+    "screenshot": "url_001_variant_B_a94e524f.png",
+    "h1_title": "Fietsen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Version A surfaces a higher proportion of bicycles in the top slots (e‑bikes, fatbike, city bikes) which is more relevant for the broad query “Fietsen”. Top results in A include popular models and best‑seller badges and show a good mix of bike types, giving better immediate user value. Version B places several accessories (tire, lock, small electronic sensor) among the highest positions which reduces relevance for users primarily looking for bicycles.",
+    "key_differences": "A prioritizes actual bikes and popular bike models in top positions; B returns more accessories/parts early (tyre, lock, sensor), lowering immediate relevance and perceived ranking quality for the query.",
+    "duplicate_notes": "No exact identical product images were repeated within the first 8 results of either view. There are repeated models across the page (same bike model in different colors and helmets in different color variants), but these are different images and were not counted as duplicates.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

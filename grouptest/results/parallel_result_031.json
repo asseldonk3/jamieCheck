@@ -1,0 +1,31 @@
+{
+  "url_index": 31,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/o_fietsen~19252930",
+  "visits": 102,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/o_fietsen~19252930?opt_seg=5",
+    "screenshot": "url_031_variant_A_11c24956.png",
+    "h1_title": "Elektrische fietsen Dikke banden",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 4,
+    "unique_products": 4
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/o_fietsen~19252930?opt_seg=6",
+    "screenshot": "url_031_variant_B_81ba7fa8.png",
+    "h1_title": "Elektrische fietsen Dikke banden",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 4,
+    "unique_products": 4
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.7,
+    "reasoning": "Both lists surface relevant fat-tire e-bikes (ENGWE E26, Diablo, QM Wheels), but B orders the set slightly better for this query: it places a clear fatbike (Diablo) higher in the grid and shows a slightly broader mix of fatbikes and other e-bike types in the top positions. Both suffer from repeated listings of the same popular models which lowers perceived diversity, but B’s top-eight give marginally better user value by surfacing distinct popular models earlier.",
+    "key_differences": "B places a Diablo fatbike earlier and mixes different fatbike models among the top slots, improving perceived variety and top-result quality. A shows more repeated ENGWE listings near the top which reduces variety and discovery.",
+    "duplicate_notes": "Both results repeat the same ENGWE E26 images (black and blue) within the first 8, causing 2 pairs of identical images per page. Other similar models appear in different colors (not counted). Repetition of the same seller images reduces variety and hurts browsing experience.",
+    "duplicates_comparison": "A has 4 duplicates, B has 4 duplicates"
+  }
+}

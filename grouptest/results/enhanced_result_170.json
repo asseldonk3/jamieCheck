@@ -1,0 +1,31 @@
+{
+  "url_index": 170,
+  "original_url": "https://www.beslist.nl/products/fietsen/r/kinderfiets_met_zijwieltjes_4_jaar/",
+  "visits": 43,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/r/kinderfiets_met_zijwieltjes_4_jaar/?opt_seg=5",
+    "screenshot": "url_170_variant_A_6c42956d.png",
+    "h1_title": "Kinderfiets met Zijwieltjes 4 Jaar",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/r/kinderfiets_met_zijwieltjes_4_jaar/?opt_seg=6",
+    "screenshot": "url_170_variant_B_6144d6ff.png",
+    "h1_title": "Kinderfiets met Zijwieltjes 4 Jaar",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.78,
+    "reasoning": "Algorithm A surfaces multiple clearly age-appropriate children’s bikes with training wheels (including 14\" variants) near the top and shows a broader mix of styles and brands. The top results in A feel more relevant to the query “Kinderfiets met Zijwieltjes 4 Jaar” (targeting bikes suitable for ~4 years). Algorithm B over-emphasizes repeated listings of the same model family (SJOEF/AMIGO/PROMETHEUS variants) and places a 16\" model at the very top (potentially less appropriate for 4-year-olds), reducing immediate relevance and perceived diversity.",
+    "key_differences": "A provides better balance between relevance and variety: it promotes several 14\"/child-oriented bikes and different brands in the top results. B clusters multiple variants of the same model family and shows less size-appropriate prioritization (16\" high in rank), making the top results less tailored to the query.",
+    "duplicate_notes": "Visually identical manufacturer images are reused across multiple listings (notably the SJOEF Dolly image appears for 12\"/14\"/16\" variants). However those represent different sizes/variants, so per instructions they were not counted as duplicates. Overall many repeated brand images occur but they represent different size/model listings rather than duplicate-seller copies.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

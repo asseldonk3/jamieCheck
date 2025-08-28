@@ -1,0 +1,31 @@
+{
+  "url_index": 124,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520/c/doelgroep_fietsen~3413583~~wielmaat_fiets~6129114",
+  "visits": 51,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520/c/doelgroep_fietsen~3413583~~wielmaat_fiets~6129114?opt_seg=5",
+    "screenshot": "url_124_variant_A_112bbb28.png",
+    "h1_title": "Jongens Fietsen 26 inch",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520/c/doelgroep_fietsen~3413583~~wielmaat_fiets~6129114?opt_seg=6",
+    "screenshot": "url_124_variant_B_d22ded29.png",
+    "h1_title": "Jongens Fietsen 26 inch",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.85,
+    "reasoning": "Both pages return relevant results for the query 'Jongens Fietsen 26 inch', but version B gives a clearer mix of distinct models up front and fewer repeated listings. B's top results show a variety of styles (mountain/urban/children's models), recognizable good-value items and fewer near-duplicates, which improves browsing and helps users compare options quickly. A surfaces multiple similar-looking listings and several repeated product photos among the top slots which reduces perceived variety and makes scanning less efficient.",
+    "key_differences": "B ranks a broader set of unique model images higher (better diversity) and avoids repeating the same product photo in the top results, while A shows more repeated images of the same items (less visual variety) and concentrates similar models near the top.",
+    "duplicate_notes": "I observed repeated product photos among the first 8 in A — notably the same Zonix-style and Volare Sportivo-style images appear more than once. B also has one repeated Zonix image in the top 8 but overall shows fewer identical-image repeats.",
+    "duplicates_comparison": "A has 2 duplicates, B has 1 duplicates"
+  }
+}

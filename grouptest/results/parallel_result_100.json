@@ -1,0 +1,31 @@
+{
+  "url_index": 100,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559439_559496/c/merk~349205",
+  "visits": 57,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559439_559496/c/merk~349205?opt_seg=5",
+    "screenshot": "url_100_variant_A_7333fbf5.png",
+    "h1_title": "Geberit Toiletreservoirs",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559439_559496/c/merk~349205?opt_seg=6",
+    "screenshot": "url_100_variant_B_50335643.png",
+    "h1_title": "Geberit Toiletreservoirs",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 3,
+    "unique_products": 5
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Both results sets are relevant to the query 'Geberit Toiletreservoirs' and surface core Geberit cisterns, frames and spare parts. Version A presents a slightly better mix of item types (cistern frames, flush mechanisms and kits) near the top and avoids clustering visually identical frame listings as much as B. The top results in A include clear, recognizable reservoir frames and common spare parts with visible prices and comparison links, which is useful to users evaluating options. B shows relevant items too but places multiple visually-similar frame images and lifestyle/accessory images (flush plate) close together, reducing immediate user clarity and diversity in the top ranks.",
+    "key_differences": "A has more variety in the immediate top results (mix of frames, valves, kits) and better distribution of popular reservoir types. B clusters identical frame images and similar spare parts higher up, reducing diversity and making it harder for users to compare distinct product types at a glance.",
+    "duplicate_notes": "Most duplicates are identical Geberit in-wall frame/duofix product photos repeated by different sellers. A smaller number of identical fill-valve images also repeat. B shows a slightly higher concentration of identical frame images among the top results, lowering visual variety.",
+    "duplicates_comparison": "A has 2 duplicates, B has 3 duplicates"
+  }
+}

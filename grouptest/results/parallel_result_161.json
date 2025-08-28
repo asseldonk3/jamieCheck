@@ -1,0 +1,31 @@
+{
+  "url_index": 161,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520/c/doelgroep_fietsen~484477",
+  "visits": 45,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520/c/doelgroep_fietsen~484477?opt_seg=5",
+    "screenshot": "url_161_variant_A_a5130615.png",
+    "h1_title": "Dames Fietsen",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520/c/doelgroep_fietsen~484477?opt_seg=6",
+    "screenshot": "url_161_variant_B_03736570.png",
+    "h1_title": "Dames Fietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.85,
+    "reasoning": "Both pages surface relevant women’s bikes (city and electric models) and popular brands, but B places more adult bike models in the top slots and avoids a non-bike accessory in the top three. B’s top results show a better mix of bike types (city, mountain, fatbike) and fewer clearly irrelevant items (kids bike / accessory) among the first eight, so it provides slightly better relevance and immediate user value.",
+    "key_differences": "B orders more adult/usable bike models higher and shows greater type diversity among the top results (city, mountain, fatbike). A has an accessory (Bosch display) and a kids bike in the top 8 which reduces immediate relevance for the query.",
+    "duplicate_notes": "While the first 8 results in both variants contain unique images, the broader page shows repeated product images (e.g., ENGWE E26 in different positions, some Elops models and Windgoo entries) — the same product image appears multiple times later on the page (likely same item from different sellers). These repeats occur outside the top-8 region.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

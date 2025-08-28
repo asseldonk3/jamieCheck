@@ -1,0 +1,31 @@
+{
+  "url_index": 110,
+  "original_url": "https://www.beslist.be/products/fietsen/fietsen_484521/",
+  "visits": 54,
+  "variant_a": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484521/?opt_seg=5",
+    "screenshot": "url_110_variant_A_3e58902b.png",
+    "h1_title": "Fietsonderdelen",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484521/?opt_seg=6",
+    "screenshot": "url_110_variant_B_c190ebda.png",
+    "h1_title": "Fietsonderdelen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Both result lists are broadly relevant to the query \"Fietsonderdelen\" (bike parts) and surface common categories (tyres, chargers, lights, saddles, chain guards). Version B edges out A because its top row shows slightly better variety and higher user-value items up front (a best‑seller tyre, then an e-bike charger, a recognizable bike light product, and a chain guard). B places a useful light and a mix of utility parts higher in the grid, improving the chance that a generic parts shopper finds a desirable item quickly. A still shows relevant items but feels a bit more concentrated on tyres/chargers and includes some less immediately useful items in the very top slots.",
+    "key_differences": "B offers marginally better top‑result diversity (tyre + charger + bike light + chain guard) and surfaces a high‑value light product earlier; A emphasizes tyres and chargers in the top slots and has fewer distinct product types among the first row.",
+    "duplicate_notes": "Duplicate patterns are limited in the visible top results. A shows unique images across the first 8 items. B contains one apparent repeated charger image among the first 8 (multiple sellers using the same product photo). Outside the first 8 there are additional repeated tyre and charger images across the pages.",
+    "duplicates_comparison": "A has 0 duplicates, B has 1 duplicates"
+  }
+}

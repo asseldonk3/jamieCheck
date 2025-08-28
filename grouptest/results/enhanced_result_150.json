@@ -1,0 +1,31 @@
+{
+  "url_index": 150,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/wielmaat_fiets~6129114",
+  "visits": 47,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/wielmaat_fiets~6129114?opt_seg=5",
+    "screenshot": "url_150_variant_A_8ec39b9d.png",
+    "h1_title": "Elektrische fietsen 26 inch",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/wielmaat_fiets~6129114?opt_seg=6",
+    "screenshot": "url_150_variant_B_7d7e3860.png",
+    "h1_title": "Elektrische fietsen 26 inch",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Result set A returns a more relevant and useful mix for the query 'Elektrische fietsen 26 inch': clear electric city bikes, a cargo/bakfiets and fatbike appear prominently, giving useful variety and good top results (popular models, visible prices/discounts). B contains mostly relevant items as well but places a non-bike accessory (motor conversion kit) in the top row and shows a less useful ordering for the most common user intent (looking for complete 26\" e-bikes). Overall A better balances relevance, variety and user value.",
+    "key_differences": "A surfaces a clearer mix of bike types (city, cargo, fatbike) and more immediately relevant complete e-bikes in top positions; B has a noisy top row (accessory) and slightly worse ordering of popular complete bikes.",
+    "duplicate_notes": "I did not find any exact identical product photos repeated within the first 8 results of either screenshot. Some very similar bike photos (same model in different colors or the same model repeated elsewhere on the page) appear outside the first 8, but those are different colors or appear beyond the top 8 and were not counted as duplicates here.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

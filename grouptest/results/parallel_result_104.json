@@ -1,0 +1,31 @@
+{
+  "url_index": 104,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_1582509/r/fietslift_elektrisch_tot_100_kg/",
+  "visits": 56,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_1582509/r/fietslift_elektrisch_tot_100_kg/?opt_seg=5",
+    "screenshot": "url_104_variant_A_e79c325b.png",
+    "h1_title": "Elektrische Fietslift tot 100 kg",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_1582509/r/fietslift_elektrisch_tot_100_kg/?opt_seg=6",
+    "screenshot": "url_104_variant_B_8a943a17.png",
+    "h1_title": "Elektrische Fietslift tot 100 kg",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Version A surfaces a clearly relevant electric 230V / 100 kg product at the top and a mix of heavy-duty and manual hoists, which matches the query 'Elektrische Fietslift tot 100 kg' better. Top results in A include an actual motorized, higher-capacity option and a variety of mounting styles; results look more useful for users who explicitly want an electric / high-capacity lift. Version B shows mainly manual pulley lifts and bike-in-image listings, with fewer obviously electric/heavy options and more similar consumer-grade items, so it is less relevant and lower value for this specific query.",
+    "key_differences": "A places an electric 100 kg lift and heavier-duty listings early and shows a wider mix of product types (motorized unit + manual systems). B emphasizes manual pulley systems and consumer bike-hanging photos with less prominence of motorized/heavier-capacity items.",
+    "duplicate_notes": "A shows mostly unique thumbnails in the first 8 (including a distinct motorized unit). B repeats the same red-bike-hanging product image once within the first 8; elsewhere on both pages there are repeated hook/mount images but those fell outside the strict first-8 count or are cropped/overlaid variants rather than exact identical thumbnails.",
+    "duplicates_comparison": "A has 0 duplicates, B has 1 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 20,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484535/",
+  "visits": 123,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484535/?opt_seg=5",
+    "screenshot": "url_020_variant_A_7df99d12.png",
+    "h1_title": "Mountainbikes / MTB & ATB fietsen / bikes",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484535/?opt_seg=6",
+    "screenshot": "url_020_variant_B_013e9ddf.png",
+    "h1_title": "Mountainbikes / MTB & ATB fietsen / bikes",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.82,
+    "reasoning": "Version B produces a more useful ordering for the query. The top results in B show a clearer mix of relevant mountain/MTB products (adult hardtail/trekking bikes and e‑MTBs) and include different price/condition signals (e.g. 'Refurbished' / combi‑deals) that help users quickly compare options. B also avoids repeating the same exact image in the immediate top results, improving perceived variety. Version A puts visually similar/child-oriented items and nearly identical product images higher up, which reduces perceived relevance and variety for a general \"mountainbikes / MTB\" search.",
+    "key_differences": "B shows better product variety and less image repetition in the first page: more distinct adult mountain/e‑bikes and clearer deal badges. A has repetitive images of the same model and more child/road-style thumbnails up front, which lowers topical relevance and diversity.",
+    "duplicate_notes": "In A there is a clear repeated product image (same black/red bike appears twice in the first 8 results). No exact-image duplicates were observed in the first 8 results of B. Duplicates in A reduce variety and make scanning/comparison harder for users.",
+    "duplicates_comparison": "A has 2 duplicates, B has 0 duplicates"
+  }
+}

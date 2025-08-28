@@ -1,0 +1,31 @@
+{
+  "url_index": 90,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/type_fietsen~12033794",
+  "visits": 62,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/type_fietsen~12033794?opt_seg=5",
+    "screenshot": "url_090_variant_A_fc5b45aa.png",
+    "h1_title": "Gazelle Orange C7 Elektrische fietsen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/type_fietsen~12033794?opt_seg=6",
+    "screenshot": "url_090_variant_B_14f7290c.png",
+    "h1_title": "Gazelle Orange C7 Elektrische fietsen",
+    "product_count": 0,
+    "score": 4,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Neither result set returns clear, prominent Gazelle Orange C7 listings despite the query specificity, but A provides a more diverse, useful set of top results (different models, price points and sellers) and avoids obvious repeated listings in the visible top results. A's top results are slightly more relevant for a general user shopping for an electric city bike (more variety, recognizable city-bike photos) and therefore give higher user value. B shows more repetition of the same product image in the top area which reduces variety and user-choice visibility.",
+    "key_differences": "A shows greater product diversity and no obvious identical-image repeats in the first eight results; B repeats the same product image (ENGWE E26 - blue) within the top results and therefore has lower variety and poorer perceived ranking quality.",
+    "duplicate_notes": "B contains a repeated ENGWE E26 (blue) image within the first eight results (same photo shown by different sellers). A shows no exact identical images within its first eight items. Overall both pages surface many non-Gazelle models despite the query.",
+    "duplicates_comparison": "A has 0 duplicates, B has 2 duplicates"
+  }
+}

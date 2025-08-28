@@ -1,0 +1,31 @@
+{
+  "url_index": 85,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559434/",
+  "visits": 62,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559434/?opt_seg=5",
+    "screenshot": "url_085_variant_A_2a948c5e.png",
+    "h1_title": "Douches",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559434/?opt_seg=6",
+    "screenshot": "url_085_variant_B_021609b7.png",
+    "h1_title": "Douches",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A places more clearly relevant shower cabins and typical shower fixtures at the top, with several strong product images showing installed cabins and visible discounts/badges that signal popular or good-value items. The top results in A feel more focused on the user intent 'Douches' (shower cabins and common shower components) and present higher-quality contextual images that aid selection. B contains similar items but surfaces a decorative/gold showerhead earlier and otherwise mixes small accessories among large cabin results more frequently, reducing immediate relevance and perceived value of the top slots.",
+    "key_differences": "A prioritizes full shower cabins with contextual imagery and visible deals/badges in top positions, improving perceived quality and relevance. B interleaves more accessory items (e.g., ornate showerhead) with cabins higher up and shows similar duplicates, leading to slightly lower immediate relevance and variety at the top.",
+    "duplicate_notes": "Both A and B show a repeated identical black-outline 'Linie Cadiz' cabin image within the first 8 results. No other exact image duplicates detected among the first 8 on either page; most repeated product models use different photos.",
+    "duplicates_comparison": "A has 2 duplicates, B has 2 duplicates"
+  }
+}

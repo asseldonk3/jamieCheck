@@ -1,0 +1,31 @@
+{
+  "url_index": 129,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484529/r/bosch_accu/",
+  "visits": 50,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484529/r/bosch_accu/?opt_seg=5",
+    "screenshot": "url_129_variant_A_28790afe.png",
+    "h1_title": "Bosch Accu Fietsslot",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484529/r/bosch_accu/?opt_seg=6",
+    "screenshot": "url_129_variant_B_d7c510f8.png",
+    "h1_title": "Bosch Accu Fietsslot",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.86,
+    "reasoning": "Results in A are more relevant to the query 'Bosch Accu Fietsslot' because Bosch/AXA-compatible battery housing and related Bosch/AXA parts appear prominently near the top. The top results in A show a wider set of brands and product types (battery housings, inserts, ring locks) that match likely user intents (replacement battery lock parts and full ring locks). B surfaces the same product types but places multiple Lockride items higher, which reduces immediate relevance for users specifically searching for Bosch/AXA battery locks and offers less useful variety at the top.",
+    "key_differences": "A surfaces Bosch/AXA-compatible battery parts earlier and has a more diverse mixture of brands and product types in the top ranks. B repeats the same Lockride product images in prime positions, reducing variety and pushing Bosch-specific items slightly lower.",
+    "duplicate_notes": "Observed repeated Lockride product image(s) in B's top 8 (same tall LOCKRIDE bracket appears twice). Across both screenshots there are multiple instances of the same product images (Lockride and some AXA/Bosch mounts) appearing in the page, but A's first 8 appear all unique while B's first 8 contain two identical Lockride tiles, which reduces visible variety.",
+    "duplicates_comparison": "A has 0 duplicates, B has 2 duplicates"
+  }
+}

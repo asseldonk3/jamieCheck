@@ -1,0 +1,31 @@
+{
+  "url_index": 94,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_23808019/r/action/c/type_fietstas~23808152",
+  "visits": 60,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_23808019/r/action/c/type_fietstas~23808152?opt_seg=5",
+    "screenshot": "url_094_variant_A_d0f1bef9.png",
+    "h1_title": "Action Enkele Fietstas",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_23808019/r/action/c/type_fietstas~23808152?opt_seg=6",
+    "screenshot": "url_094_variant_B_ed1e12f2.png",
+    "h1_title": "Action Enkele Fietstas",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Algorithm B returns more directly relevant single (enkele) bike bags up top, matching the query intent. B's top results are focused on single panniers with clearer product photos and recognizable brands, whereas A surfaces many double panniers and backpacks in the highest positions, reducing immediate relevance for someone searching specifically for an 'enkele fietstas'. B also offers better variety of single-bag styles in the top results, improving user choice and likely user satisfaction.",
+    "key_differences": "B emphasizes single panniers (higher relevance to 'enkele') and places better single-bag options near the top. A shows more double panniers and backpacks early, reducing relevance and top-result quality.",
+    "duplicate_notes": "Most identical product images appear elsewhere on the page (same products from different sellers), but within the first 8 results of each version there are no exact-image duplicates. Several products (Anroc double, JONSKA double, Ortlieb Back-Roller) appear on both pages but not repeated among the top 8 of either ranking.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

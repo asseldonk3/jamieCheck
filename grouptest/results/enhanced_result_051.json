@@ -1,0 +1,31 @@
+{
+  "url_index": 51,
+  "original_url": "https://www.beslist.be/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477",
+  "visits": 78,
+  "variant_a": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477?opt_seg=5",
+    "screenshot": "url_051_variant_A_4bb05570.png",
+    "h1_title": "Dames Elektrische fietsen",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477?opt_seg=6",
+    "screenshot": "url_051_variant_B_ea10077f.png",
+    "h1_title": "Dames Elektrische fietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.82,
+    "reasoning": "Both result sets are relevant to the query 'Dames Elektrische fietsen' and primarily show step-through city e-bikes (appropriate for women’s electric bikes). Version B edges out A because the top results mix price points and user-value signals more visibly (a premium model, affordable/basket models, and a clearly marked best-seller) which helps a broader set of user intents (premium searchers, deal-seekers, and practical commuters). A leans more toward several visually similar grey city/commuter bikes in the top positions, reducing perceived variety among the most prominent results.",
+    "key_differences": "B shows more visible variety and user-value cues in the immediate top results (best-seller badge, a bargain/entry model and basket commuter options), while A’s top ranks are more visually and stylistically similar (several grey city/commuter bikes), which can make it harder for users to quickly find distinct options.",
+    "duplicate_notes": "No exact identical product images within the first 8 results of either variant. However, identical images (same product from different sellers) do appear elsewhere on the page outside the top 8 (e.g., the Puch E-Modern and some Puch/Puch-similar city models and basket models appear multiple times across the grid), which can reduce perceived catalog variety and waste result space when present.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

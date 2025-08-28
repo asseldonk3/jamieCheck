@@ -1,0 +1,31 @@
+{
+  "url_index": 62,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807884/c/merk~10243868",
+  "visits": 69,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807884/c/merk~10243868?opt_seg=5",
+    "screenshot": "url_062_variant_A_a6396e3b.png",
+    "h1_title": "Vwp Fietsspiegels",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 4,
+    "unique_products": 4
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807884/c/merk~10243868?opt_seg=6",
+    "screenshot": "url_062_variant_B_5f45bcac.png",
+    "h1_title": "Vwp Fietsspiegels",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Algorithm A returns multiple clearly VWP-branded mirrors and a broader range of mirror types (handlebar, oval, cross-style, bar-end shapes) in the top slots, with visible popularity/badge and price cues that help users choose. The top results in A are more relevant to a user searching for 'Vwp Fietsspiegels' and present a better mix of models and price points. Algorithm B is less effective at surfacing a diverse set of useful options in the highest positions and shows a weaker mix of product types and clear buying signals.",
+    "key_differences": "A emphasizes relevance and variety — more distinct models and VWP-brand items appear early, improving choice and discoverability. B has less model diversity in the top slots and a weaker distribution of price/feature signals, making it less useful for quick comparison.",
+    "duplicate_notes": "In the first 8 results A contains two distinct image repeats (two product images each appearing twice), while B contains one image repeat (one product image appearing twice). Duplicate images are likely the same product offered by different sellers and reduce the number of unique items visible to users in the top results.",
+    "duplicates_comparison": "A has 4 duplicates, B has 2 duplicates"
+  }
+}

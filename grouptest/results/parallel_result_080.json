@@ -1,0 +1,31 @@
+{
+  "url_index": 80,
+  "original_url": "https://www.beslist.nl/products/fietsen/r/dubbele_tas_e-bike/",
+  "visits": 63,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/r/dubbele_tas_e-bike/?opt_seg=5",
+    "screenshot": "url_080_variant_A_c9694612.png",
+    "h1_title": "Dubbele E-Bike Tas Fietsen",
+    "product_count": 0,
+    "score": 4,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/r/dubbele_tas_e-bike/?opt_seg=6",
+    "screenshot": "url_080_variant_B_7f2661ea.png",
+    "h1_title": "Dubbele E-Bike Tas Fietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.9,
+    "reasoning": "Algorithm B returns results that are more tightly focused on the query 'Dubbele E-Bike Tas Fietsen' — the top slots are occupied by double pannier products from recognizable pannier brands (Packaway, New Looxs, Voltano, Greenlands). Results are mostly relevant double bike bags, offering a useful variety of mount types and styles. Algorithm A shows several non-relevant items (single pannier/rolltop, bike crate, an electric pump) and trunk-style bags high in the list, reducing perceived relevance and utility for the user.",
+    "key_differences": "B is more relevant and consistent for the 'double e-bike bag' query with higher-quality top results and fewer unrelated items. A mixes in unrelated categories and single/other accessories early, harming relevance and user experience.",
+    "duplicate_notes": "Within the first 8 results of each page there are no exact identical product images repeated. Identical images do appear elsewhere across the full listings (same product offered by different shops), but not duplicated within the top 8 of either algorithm.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

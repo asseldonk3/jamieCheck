@@ -1,0 +1,31 @@
+{
+  "url_index": 164,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484526/",
+  "visits": 44,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484526/?opt_seg=5",
+    "screenshot": "url_164_variant_A_b476f63b.png",
+    "h1_title": "Fietkarren, Fietskarretjes, Fietsaanhangers",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484526/?opt_seg=6",
+    "screenshot": "url_164_variant_B_33f627e6.png",
+    "h1_title": "Fietkarren, Fietskarretjes, Fietsaanhangers",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A presents a more useful result set for the query (fietkarren / fietsaanhangers). Top results in A include a variety of product types (enclosed child trailers, cargo/utility crates, stroller-style trailers, and box trailers) and recognizable brands, giving users a good spread of popular/high-quality options and price points up front. Relevance to the query is high in both versions, but A surfaces a better mix of buyer-intent items (family trailers and cargo trailers) and clearer price/promotions, which increases immediate user value.",
+    "key_differences": "A prioritizes a broader mix of trailer types and recognizable brands in the top slots, improving discovery for different use cases (child transport vs cargo). B places similar product types close to each other and repeats a model in the upper area, reducing the variety seen by the user and slightly lowering the chance of quickly finding the best-fit item.",
+    "duplicate_notes": "In the first 8 results of B the same Thule Coaster XT (blue) image appears twice; A's first 8 products show no identical-image duplicates. Repeated identical images reduce perceived variety and can push distinct products further down the list.",
+    "duplicates_comparison": "A has 0 duplicates, B has 1 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 186,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/r/glazen_douchewand_schuifdeur/",
+  "visits": 41,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/r/glazen_douchewand_schuifdeur/?opt_seg=5",
+    "screenshot": "url_186_variant_A_ea191ba2.png",
+    "h1_title": "Glazen Douchewand met Schuifdeur",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/r/glazen_douchewand_schuifdeur/?opt_seg=6",
+    "screenshot": "url_186_variant_B_8b7e6d82.png",
+    "h1_title": "Glazen Douchewand met Schuifdeur",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Both algorithms surface a clearly relevant sliding-glass shower as the #1 result, but B orders more panel-style, modern shower-wall solutions higher and keeps fewer clearly irrelevant corner cabins among the very top results. B's top results are slightly more aligned with the query 'Glazen Douchewand met Schuifdeur' and present more visually relevant options to users searching specifically for a sliding glass wall.",
+    "key_differences": "B prioritises panel-style and modern wall/sliding-door variants earlier (better match to the query). A returns several corner/cabine-style enclosures relatively high, reducing immediate relevance and variety for the specific search intent.",
+    "duplicate_notes": "Both result sets repeat the same white two-panel sliding-door product image (appears more than once). B additionally repeats a grey/SONNI enclosure image among its top 8. Duplicates reduce apparent variety and waste valuable top-rank space that could show other distinct models.",
+    "duplicates_comparison": "A has 1 duplicates, B has 2 duplicates"
+  }
+}

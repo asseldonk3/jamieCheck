@@ -1,0 +1,31 @@
+{
+  "url_index": 200,
+  "original_url": "https://www.beslist.be/products/fietsen/fietsen_484521/r/norta/",
+  "visits": 40,
+  "variant_a": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484521/r/norta/?opt_seg=5",
+    "screenshot": "url_200_variant_A_41456f64.png",
+    "h1_title": "Norta Fietsonderdelen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484521/r/norta/?opt_seg=6",
+    "screenshot": "url_200_variant_B_a0f469ff.png",
+    "h1_title": "Norta Fietsonderdelen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Ignoring duplicates: Algorithm A ranks more relevant bike components (predominantly lighting and related parts) at the top, which better matches the 'Norta Fietsonderdelen' intent for bike parts. The top results in A are focused, recognizable component types (rear/front lights, reflectors) and include well-presented product images and price cues that help quick selection. Algorithm B surfaces a mix of chargers and mirrors earlier, reducing immediate relevance and variety for a user looking specifically for Norta bike parts or common replacement components.",
+    "key_differences": "A presents a tighter, more on‑topic set of lighting components and commonly sought parts in top positions; B mixes in less-relevant categories (chargers, accessory mirrors) sooner, decreasing perceived relevance and variety for the core query.",
+    "duplicate_notes": "In B there is a clearly repeated product image (the same boxed mirror photo appears twice within the first 8 results). Across both pages there are repeated product types (red oval rear lights, chargers etc.), but only the boxed mirror image is an exact duplicate within the first 8 of B. Repeated seller listings of identical images reduce perceived variety and can hurt browsing efficiency.",
+    "duplicates_comparison": "A has 0 duplicates, B has 1 duplicates"
+  }
+}

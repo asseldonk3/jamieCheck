@@ -1,0 +1,31 @@
+{
+  "url_index": 59,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559432/c/o_baden~23450978",
+  "visits": 71,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559432/c/o_baden~23450978?opt_seg=5",
+    "screenshot": "url_059_variant_A_acc2a5e1.png",
+    "h1_title": "Opvouwbare baden, inklapbare baden, opvouwbad, opvouwbare badkuipen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559432/c/o_baden~23450978?opt_seg=6",
+    "screenshot": "url_059_variant_B_64a05b1d.png",
+    "h1_title": "Opvouwbare baden, inklapbare baden, opvouwbad, opvouwbare badkuipen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Version B places more clearly relevant 'opvouwbare' (folding) baths higher in the results (HelloBath, Parcura, OUCRIY) while A mixes in inflatable items (Mesa) earlier. B's top results are more tightly aligned with the query intent (folding/inklapbare baden), so users looking specifically for foldable bathtubs see useful options sooner. B also surfaces a broader set of foldable designs within the top positions, improving immediate relevance and user value.",
+    "key_differences": "B prioritizes foldable models in top positions (higher relevance). A shows a less-focused mix early (inflatable and specialty items appear among top slots), reducing immediate relevance to the query.",
+    "duplicate_notes": "No exact identical product images repeat within the first 8 results of either version. I did observe multiple listings of the same model in different colors across the page (e.g. HelloBath variants, Mesa inflatable), but different colors were treated as distinct and not counted as duplicates per instructions.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

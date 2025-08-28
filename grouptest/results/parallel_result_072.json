@@ -1,0 +1,31 @@
+{
+  "url_index": 72,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477~~merk~486577",
+  "visits": 65,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477~~merk~486577?opt_seg=5",
+    "screenshot": "url_072_variant_A_312336d4.png",
+    "h1_title": "Cortina Dames Elektrische fietsen",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477~~merk~486577?opt_seg=6",
+    "screenshot": "url_072_variant_B_fb001973.png",
+    "h1_title": "Cortina Dames Elektrische fietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.85,
+    "reasoning": "Algorithm B is more focused on the user's query (Cortina dames elektrische fietsen) because the UI shows brand and 'Dames' filters applied, and the top results are more typical step-through city e-bikes (higher relevance for Cortina female bikes). Algorithm A surfaces a mix of fatbikes, off-road styles and non-Cortina-looking models near the top, which reduces relevance and user value for this specific query.",
+    "key_differences": "B applies brand/target filtering and returns more city-style step-through bikes suitable for 'Cortina Dames' (better relevance). A returns a more diverse but noisier mix (fatbikes, unrelated models) so the top results are less targeted.",
+    "duplicate_notes": "Within the first 8 results of both screenshots I did not find identical product images. Outside the first 8 there are repeated listings of the same model (e.g. ENGWE E26 in the teal color appears multiple times across the full view), indicating the site lists the same product from different sellers in other positions.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

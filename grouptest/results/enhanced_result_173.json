@@ -1,0 +1,31 @@
+{
+  "url_index": 173,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484806/",
+  "visits": 43,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484806/?opt_seg=5",
+    "screenshot": "url_173_variant_A_52bd4a2c.png",
+    "h1_title": "Handvatten en Stuurlinten",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484806/?opt_seg=6",
+    "screenshot": "url_173_variant_B_520d5794.png",
+    "h1_title": "Handvatten en Stuurlinten",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Both result sets are on-topic for the query 'Handvatten en Stuurlinten', but B delivers a stronger mix at the top: recognised/high-quality items (Ergon) appear prominently, and the top row contains a broader set of product types (grips from a known brand, gel pads, foam covers) which better serves different user intents. A shows many similar-looking grip listings up-front (same product family with color variants), reducing perceived relevance diversity and exploration value. B therefore offers higher top-result quality and better user value (clearer presence of popular/brand items and varied options).",
+    "key_differences": "B ranks a high-quality branded grip (Ergon) at the top and mixes product types (gel pads, covers) earlier, increasing diversity and perceived value. A emphasises multiple visually-similar grip listings from the same product family early, which lowers diversity and the usefulness of the top results.",
+    "duplicate_notes": "I observed many visually similar Propalm grip images with only different end-ring colors, but within the first 8 results of each screenshot there were no exact identical product photos repeated. Identical images of the same model do appear elsewhere in the full list (beyond the first 8) and several near-duplicates (same model, different color/ring) are present.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

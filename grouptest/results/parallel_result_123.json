@@ -1,0 +1,31 @@
+{
+  "url_index": 123,
+  "original_url": "https://www.beslist.nl/products/fietsen/r/elektrische_fietsen_met_mand_voorop/",
+  "visits": 51,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/r/elektrische_fietsen_met_mand_voorop/?opt_seg=5",
+    "screenshot": "url_123_variant_A_4509b8ce.png",
+    "h1_title": "Elektrische Fiets met Mand Voorop",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/r/elektrische_fietsen_met_mand_voorop/?opt_seg=6",
+    "screenshot": "url_123_variant_B_8c794bda.png",
+    "h1_title": "Elektrische Fiets met Mand Voorop",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.82,
+    "reasoning": "Algorithm A returns a more useful mix for the query: results include a range of front-basket styles (rigid baskets, soft carriers, wicker) and different price points/brands, plus visible price badges and discounts that help user value. Top results contain several clearly relevant front bike baskets (including branded Basil options) and a variety of formats so a shopper can compare types quickly. Algorithm B is more narrowly focused on near-identical pet-bike carrier imagery and repeats the same listings, which reduces the overall usefulness despite being centered on dog carriers.",
+    "key_differences": "A surfaces greater product variety (different basket types, brands and price points) and clearer deal/rating signals at the top. B shows tighter topical focus on pet carriers but suffers from repeated identical product images and fewer distinct choices in the visible top results.",
+    "duplicate_notes": "B shows at least one exact repeated product image in the top 8 (the same dog-in-front-basket image appears twice). A's top 8 are all distinct images; B generally has more repeated listings of identical product photos which reduces visible variety.",
+    "duplicates_comparison": "A has 0 duplicates, B has 1 duplicates"
+  }
+}

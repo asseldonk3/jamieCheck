@@ -1,0 +1,31 @@
+{
+  "url_index": 172,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519/r/vogue_elektrische_fietsen/",
+  "visits": 43,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519/r/vogue_elektrische_fietsen/?opt_seg=5",
+    "screenshot": "url_172_variant_A_e6794e06.png",
+    "h1_title": "Vogue Elektrische Fietsaccessoires",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519/r/vogue_elektrische_fietsen/?opt_seg=6",
+    "screenshot": "url_172_variant_B_cf50c584.png",
+    "h1_title": "Vogue Elektrische Fietsaccessoires",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Version B surfaces a clearer mix of relevant Vogue accessories (a Vogue-branded/basic charger, different replacement chargers, and bike covers) near the top, giving users both branded items and useful complementary products. A shows many near-identical charger images clustered at the top which reduces the perceived relevance and variety for the query.",
+    "key_differences": "B has better product diversity in the top results (different chargers, covers and a Vogue-branded item). A repeats the same grey charger photo multiple times in top slots, lowering variety and utility. B's top results include higher perceived user value (brand-specific charger + covers) and clearer visual variety.",
+    "duplicate_notes": "A has a prominent repeated grey rectangular charger image (3 occurrences in the top 8, counted as 2 duplicate occurrences beyond the unique). B has one repeat cover image within the top 8 (one extra duplicate occurrence). Overall A shows more repetition, reducing variety.",
+    "duplicates_comparison": "A has 2 duplicates, B has 1 duplicates"
+  }
+}

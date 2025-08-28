@@ -1,0 +1,31 @@
+{
+  "url_index": 135,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/r/kinderzitje_achterop_fiets/",
+  "visits": 49,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/r/kinderzitje_achterop_fiets/?opt_seg=5",
+    "screenshot": "url_135_variant_A_e08ee391.png",
+    "h1_title": "Kinderzitje Achterop Elektrische Fiets",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/r/kinderzitje_achterop_fiets/?opt_seg=6",
+    "screenshot": "url_135_variant_B_4aea1a2a.png",
+    "h1_title": "Kinderzitje Achterop Elektrische Fiets",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.78,
+    "reasoning": "Algorithm A surfaces more visibly relevant items for the query 'Kinderzitje Achterop Elektrische Fiets' — it includes bikes with explicit rear child seats and family/fatbike models higher in the grid. The top results in A contain clearer child-seat imagery and a mix of family-oriented e-bikes, making it easier for a shopper specifically looking for an electric bike with a rear child seat. A also places varied bike styles (fatbikes, longtails, family models) among the top results rather than many repeated listings of the same visual, which improves perceived relevance and choice.",
+    "key_differences": "A ranks bikes that clearly show rear child seats higher and retains better diversity of bike types in the top positions. B shows a stronger tendency to repeat the same model images and place several generic longtail/cargo listings near the top, reducing immediate visual relevance for a child-seat-focused query.",
+    "duplicate_notes": "Both pages show repeated model images from multiple sellers. Duplicates are mostly the same cargo/longtail models (Vogue/JOBObike/TOMOS) appearing from different shops; A has fewer exact-image repeats in the top 8 than B, where identical product photos appear more often.",
+    "duplicates_comparison": "A has 1 duplicates, B has 2 duplicates"
+  }
+}

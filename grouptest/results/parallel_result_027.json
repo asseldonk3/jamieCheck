@@ -1,0 +1,31 @@
+{
+  "url_index": 27,
+  "original_url": "https://www.beslist.be/products/fietsen/fietsen_484520_484533/c/type_elek_fiets~23791934",
+  "visits": 106,
+  "variant_a": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484520_484533/c/type_elek_fiets~23791934?opt_seg=5",
+    "screenshot": "url_027_variant_A_7ef29bed.png",
+    "h1_title": "Fatbikes",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484520_484533/c/type_elek_fiets~23791934?opt_seg=6",
+    "screenshot": "url_027_variant_B_84166bc6.png",
+    "h1_title": "Fatbikes",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Both lists are relevant to the query 'Fatbikes' and surface legitimate fatbike models, but B produces a slightly better ranking. B's top results show a broader mix of distinct models and body styles in the first positions (folding fatbikes, compact fatbikes, conventional fatbikes), which increases choice for users. A places visually similar products (same model in different color variants) very near the top, reducing perceived variety. Both show competitive prices and some discount badges, but B presents a more balanced and diverse top set that is more useful for general browsing and comparison.",
+    "key_differences": "B prioritizes a wider variety of distinct models in the top positions (more unique silhouettes and types), while A clusters multiple color/variant listings of the same model near the top, reducing diversity. B therefore gives better exploratory value; A emphasizes some discounted/featured items but at cost of top-result variety.",
+    "duplicate_notes": "No exact identical product images were found within the first 8 results on either page. Several listings show the same model in different colors or from different sellers (not counted as duplicates per instructions), and some images/styles repeat elsewhere beyond the top 8.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 155,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/?sortby=price_min",
+  "visits": 46,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/?sortby=price_min&opt_seg=5",
+    "screenshot": "url_155_variant_A_4a7492b5.png",
+    "h1_title": "Elektrische Fiets",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/?sortby=price_min&opt_seg=6",
+    "screenshot": "url_155_variant_B_45312bd3.png",
+    "h1_title": "Elektrische Fiets",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Both views show mostly accessories rather than full electric bicycles, but B provides a broader and more useful mix of bike-related items in the top positions (bike listing + drivetrain parts + lighting + brake pads) whereas A places many near-identical accessory listings (display pouches) prominently. B therefore offers better relevance, more useful variety for a shopper searching “Elektrische Fiets,” and higher practical user value (more varied components and deal/price signals visible near the top).",
+    "key_differences": "B surfaces a wider variety of bike parts and accessories in the top results (increased product diversity) while A repeats similar accessory types near the top (many display/pouch listings), reducing perceived relevance and variety.",
+    "duplicate_notes": "Both pages show repeated identical product images for the same accessory sold by multiple shops. A shows repeated Bosch/ebike display pouches within the top results; B shows a clearly repeated grey kwmobile pouch image in the first eight. Repeats reduce perceived variety and can hurt the browsing experience.",
+    "duplicates_comparison": "A has 2 duplicates, B has 2 duplicates"
+  }
+}

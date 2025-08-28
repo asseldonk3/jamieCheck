@@ -1,0 +1,31 @@
+{
+  "url_index": 15,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520/r/elektrische_fiets_met_middenmotor/",
+  "visits": 131,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520/r/elektrische_fiets_met_middenmotor/?opt_seg=5",
+    "screenshot": "url_015_variant_A_b7afe01a.png",
+    "h1_title": "Elektrische Fiets met Middenmotor",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520/r/elektrische_fiets_met_middenmotor/?opt_seg=6",
+    "screenshot": "url_015_variant_B_85467c0b.png",
+    "h1_title": "Elektrische Fiets met Middenmotor",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.82,
+    "reasoning": "Algorithm A yields more relevant product-level results for the query 'Elektrische Fiets met Middenmotor' by showing full electric bikes prominently in the top results and keeping accessory/kit listings lower on the page. The top rows in A contain a clearer mix of complete e-bikes (different styles and brands) and include recognizable models, which improves immediate user relevance. In contrast, B surfaces a motor kit in the top 3, which is less useful for users explicitly searching for complete mid-motor electric bikes. Overall A has slightly better ordering of complete bikes and higher perceived user value in the top results.",
+    "key_differences": "A prioritizes full e-bikes in the top results and places accessories/parts lower, improving top-result quality and user intent match. B places a motor kit higher (top 3), reducing immediate relevance, and shows slightly less useful ordering for a shopper looking for complete mid-motor bikes.",
+    "duplicate_notes": "Both A and B show the same Vogue/Mestengo bike image repeated within the first 8 results (same product photo from different sellers). Aside from that, the visible duplicates are limited — most other top images are distinct (including a motor kit image and several different bike models).",
+    "duplicates_comparison": "A has 2 duplicates, B has 2 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 140,
+  "original_url": "https://www.beslist.be/products/main_sanitair/",
+  "visits": 48,
+  "variant_a": {
+    "url": "https://www.beslist.be/products/main_sanitair/?opt_seg=5",
+    "screenshot": "url_140_variant_A_0e642a82.png",
+    "h1_title": "Sanitair",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.be/products/main_sanitair/?opt_seg=6",
+    "screenshot": "url_140_variant_B_4b00a3b0.png",
+    "h1_title": "Sanitair",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "For the broad query 'Sanitair' version A provides a better mix of relevant product types (faucets, showers, valves, boilers and toilets) in the top results. Top items include recognizable category leaders and best‑seller items and show price/offer information — giving users quick access to popular and valuable choices. The ranking feels more balanced for a general sanitary-products search.",
+    "key_differences": "A surfaces a more diverse set of categories in the top slots (mix of faucets, showers, toilets, boilers and fittings) while B clusters shower cabins near the top, reducing category variety. A therefore better serves a broad query; B would be reasonable for a user specifically searching for showers but is less useful for general exploration.",
+    "duplicate_notes": "I observed an identical black-framed shower cabin image appearing twice within the first 8 results of A (same product image from different sellers). Overall, the catalogue shows repeated identical images for the same shower cabins and small boilers across sellers, causing visible duplication on the results grid.",
+    "duplicates_comparison": "A has 2 duplicates, B has 0 duplicates"
+  }
+}

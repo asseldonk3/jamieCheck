@@ -1,0 +1,31 @@
+{
+  "url_index": 95,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520/c/o_fietsen~19252930",
+  "visits": 59,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520/c/o_fietsen~19252930?opt_seg=5",
+    "screenshot": "url_095_variant_A_09796d3d.png",
+    "h1_title": "Fiets met dikke / brede banden",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520/c/o_fietsen~19252930?opt_seg=6",
+    "screenshot": "url_095_variant_B_60e205c4.png",
+    "h1_title": "Fiets met dikke / brede banden",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Ignoring duplicate images, A presents a more focused set of results for the query 'Fiets met dikke / brede banden' — the top slots are occupied by fatbikes / e-fatbikes (ENGWE models, Diablo, QM Wheels) which directly match the intent of wide/ thick-tyre bicycles. Top listings in A are relevant and show popular models and clear e-bike/fatbike options first. B still surfaces relevant fatbikes but mixes in more non-fat models (children’s bikes, a regular mountain/hybrid) higher up, making it slightly less targeted for the specific query.",
+    "key_differences": "A is more concentrated on fatbikes/e-fatbikes in the top positions (higher immediate relevance). B is slightly more diverse (children’s bikes, mountain/hybrid appear earlier) but that reduces relevance for this specific query.",
+    "duplicate_notes": "Both pages repeat the ENGWE E26 product image (blue version appears twice in each screenshot; the black ENGWE image appears twice within A's first 8). Duplicates reduce perceived variety — A had two extra identical images among the first 8, B had one.",
+    "duplicates_comparison": "A has 2 duplicates, B has 1 duplicates"
+  }
+}

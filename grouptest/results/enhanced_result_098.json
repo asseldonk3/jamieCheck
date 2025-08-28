@@ -1,0 +1,31 @@
+{
+  "url_index": 98,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~485356",
+  "visits": 58,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~485356?opt_seg=5",
+    "screenshot": "url_098_variant_A_0438109d.png",
+    "h1_title": "Sparta Elektrische fietsen",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~485356?opt_seg=6",
+    "screenshot": "url_098_variant_B_3efdee37.png",
+    "h1_title": "Sparta Elektrische fietsen",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.85,
+    "reasoning": "Version B ranks actual electric bikes higher and shows a broader, more useful mix of bike models and sellers for the query “Sparta Elektrische fietsen.” Version A places a non-bike Sparta-branded cover image in the top positions (and repeats it), which reduces relevance and wastes prime slots. B surfaces more distinct bike models, clearer price/quality cues (badges, discounts) and fewer irrelevant repeats, giving users faster access to relevant options.",
+    "key_differences": "A has a prominent duplicate (Sparta cover) occupying top slots and shows less immediately relevant items; B reduces duplicates in the top results and surfaces more distinct bike models, improving relevance and diversity.",
+    "duplicate_notes": "In A the Sparta cover image appears twice in the top results (identical photo occupying two slots). B shows no identical images within the first 8. Some repeated model images appear further down the page but not within the first 8 in B.",
+    "duplicates_comparison": "A has 2 duplicates, B has 0 duplicates"
+  }
+}

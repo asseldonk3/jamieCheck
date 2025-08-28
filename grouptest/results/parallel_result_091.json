@@ -1,0 +1,31 @@
+{
+  "url_index": 91,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484525/",
+  "visits": 62,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484525/?opt_seg=5",
+    "screenshot": "url_091_variant_A_4eec1c75.png",
+    "h1_title": "Fietshelmen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484525/?opt_seg=6",
+    "screenshot": "url_091_variant_B_bbb17984.png",
+    "h1_title": "Fietshelmen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A surfaces relevant adult city/urban helmets prominently (well-known models/brands) and keeps the top results focused on typical user intent for 'Fietshelmen'. Top results in A are high-quality, popular urban helmets and present clear price badges and seller comparisons. Algorithm B includes more variety but places a child-pattern helmet high in the grid (3rd position) which reduces relevance for a generic search for bike helmets; overall B feels noisier in the top slots.",
+    "key_differences": "A prioritizes adult/urban helmets and popular models in the top slots (better match to generic search intent). B shows slightly more visual variety but includes less relevant items (e.g., a kids-pattern helmet) near the top, lowering perceived ranking quality.",
+    "duplicate_notes": "No exact-identical product photos were repeated within the first 8 items on either page. The same helmet models (Abus Urban 1.3/3.0 family) appear repeatedly across the page, but identical images were not present multiple times within the top 8 — duplicates, when present, occur further down or show different angles/colors rather than exact same photo.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 143,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_485177/c/a_versnelling~11873291~~merk~486577~~wielmaat_fiets~7316545",
+  "visits": 48,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_485177/c/a_versnelling~11873291~~merk~486577~~wielmaat_fiets~7316545?opt_seg=5",
+    "screenshot": "url_143_variant_A_09faf65e.png",
+    "h1_title": "Cortina Transportfietsen 7 versnellingen 28 inch",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_485177/c/a_versnelling~11873291~~merk~486577~~wielmaat_fiets~7316545?opt_seg=6",
+    "screenshot": "url_143_variant_B_e122f857.png",
+    "h1_title": "Cortina Transportfietsen 7 versnellingen 28 inch",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 3,
+    "unique_products": 5
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.85,
+    "reasoning": "Version B better matches the search intent. The query specifically asks for Cortina transport bikes with 7 speeds and 28\" wheels; the results in B are surfaced with the brand filter applied and show Cortina-style transport bikes up front, so precision for the query is higher. Top results in B are more focused on the requested brand/configuration and therefore more relevant and useful to a user specifically looking for a Cortina 7‑speed 28\" transportfiets. Although B is somewhat narrower, the top results provide higher user value for this exact query (brand match and clearly relevant models).",
+    "key_differences": "A returns a wider mix of brands (Crown Holland, Altec, Amigo, Wheelerz etc.) that reduces precision for the Cortina-specific query; B is filtered/narrowed toward Cortina and the requested specs, delivering higher relevance at top positions but slightly less variety.",
+    "duplicate_notes": "I observed repeated identical product photos among top results (popular transport‑bike models listed by multiple sellers). The repeated images are mainly for common models (Altec/Crown Holland style bikes and a plain black transportfiets) and occur across different sellers, which reduces visible variety in the grid and can push truly distinct models further down the page.",
+    "duplicates_comparison": "A has 2 duplicates, B has 3 duplicates"
+  }
+}

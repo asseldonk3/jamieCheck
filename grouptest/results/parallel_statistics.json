@@ -1,0 +1,19 @@
+{
+  "total_urls_analyzed": 398,
+  "variant_a_wins": 147,
+  "variant_b_wins": 230,
+  "ties": 15,
+  "win_percentage_a": 36.9,
+  "win_percentage_b": 57.8,
+  "tie_percentage": 3.8,
+  "average_confidence": 0.814,
+  "average_score_a": 6.4,
+  "average_score_b": 6.91,
+  "average_duplicates_a": 1.12,
+  "average_duplicates_b": 1.1,
+  "total_duplicates_a": 440,
+  "total_duplicates_b": 432,
+  "duplicate_difference": -0.02,
+  "overall_winner": "B (opt_seg=6)",
+  "recommendation": "Strongly recommend opt_seg=6 (better rankings AND fewer duplicates)"
+}

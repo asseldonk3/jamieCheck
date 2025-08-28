@@ -76,7 +76,7 @@ class ProductAnalyzer:
             }
             
             payload = {
-                "model": "gpt-4o",
+                "model": "gpt-5-mini",
                 "messages": [
                     {
                         "role": "system", 
@@ -93,7 +93,7 @@ class ProductAnalyzer:
                 "response_format": {"type": "json_object"}
             }
             
-            print("Sending screenshot to GPT-4o for analysis...")
+            print("Sending screenshot to GPT-5-mini for analysis...")
             response = requests.post(
                 "https://api.openai.com/v1/chat/completions",
                 headers=headers,
@@ -103,19 +103,19 @@ class ProductAnalyzer:
             if response.status_code == 200:
                 result = response.json()
                 ai_response = json.loads(result["choices"][0]["message"]["content"])
-                print(f"GPT-4o analysis result: {ai_response}")
+                print(f"GPT-5-mini analysis result: {ai_response}")
                 return ai_response
             else:
                 print(f"Error calling OpenAI API: {response.status_code} - {response.text}")
                 return {"error": f"API error: {response.status_code}"}
                 
         except Exception as e:
-            print(f"Error using GPT-4o to analyze image: {str(e)}")
+            print(f"Error using GPT-5-mini to analyze image: {str(e)}")
             return {"error": str(e)}
     
     def check_size_in_title_with_gpt(self, title):
         """
-        Use GPT-4o mini to determine if a product title contains size information.
+        Use GPT-5-mini to determine if a product title contains size information.
         
         Args:
             title: The product title to check
@@ -135,7 +135,7 @@ class ProductAnalyzer:
             }
             
             payload = {
-                "model": "gpt-4o-mini",
+                "model": "gpt-5-mini",
                 "messages": [
                     {
                         "role": "system", 

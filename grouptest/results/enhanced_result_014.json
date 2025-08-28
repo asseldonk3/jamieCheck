@@ -1,0 +1,31 @@
+{
+  "url_index": 14,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807884/c/winkel~18050060",
+  "visits": 139,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807884/c/winkel~18050060?opt_seg=5",
+    "screenshot": "url_014_variant_A_4a216293.png",
+    "h1_title": "Fietsspiegels Anwb.nl",
+    "product_count": 0,
+    "score": 4,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807884/c/winkel~18050060?opt_seg=6",
+    "screenshot": "url_014_variant_B_c2e75371.png",
+    "h1_title": "Fietsspiegels Anwb.nl",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.9,
+    "reasoning": "Version B is markedly more relevant to the query “Fietsspiegels Anwb.nl”: the top results are actual bicycle mirrors (handlebar/clamp/bar-end/adjustable mirrors), shown consistently and with clear product photos and popularity badges. B shows better product-type coverage for the user (different mirror styles and mounts) and higher perceived user value (popular/best-seller cues, clear photos of mirror function). Version A contains several unrelated or marginally related items (motorcycle phone mount, car mirror glass, handlebar end plugs) mixed into top positions, reducing relevance and top-result quality for someone searching specifically for bicycle mirrors.",
+    "key_differences": "B ranks relevant bicycle mirrors higher and presents a clearer, more focused mix of mirror types and user-value signals; A mixes non-mirror and car/motorcycle items into top slots, hurting relevance and usefulness.",
+    "duplicate_notes": "Within the first 8 results of both versions I did not find exact identical product images. Outside the top 8 (visible further down), A shows the phone-mount image repeated and several similar mirror images (color variants / same model from different sellers); B also contains some repeated product images across the page for the same model, but those repeats did not fall in the first 8 results.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

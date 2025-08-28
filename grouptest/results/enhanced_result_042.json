@@ -1,0 +1,31 @@
+{
+  "url_index": 42,
+  "original_url": "https://www.beslist.nl/products/fietsen/r/gps-tracker/",
+  "visits": 88,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/r/gps-tracker/?opt_seg=5",
+    "screenshot": "url_042_variant_A_4df9dc2f.png",
+    "h1_title": "Fiets Gps-Trackers",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/r/gps-tracker/?opt_seg=6",
+    "screenshot": "url_042_variant_B_252beeb0.png",
+    "h1_title": "Fiets Gps-Trackers",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.75,
+    "reasoning": "Algorithm A surfaces a dedicated GPS tracker (Knog Tracker & GPS) and a relevant bike computer (Sigma BC 5.0) higher in the results, which is more directly relevant to the query \"Fiets Gps-Trackers.\" Both lists mix in location accessories (AirTag holders), bells and mounts, but A puts higher-value, clearly relevant devices earlier whereas B gives slightly more prominence to accessory items (mounts/holders) at the very top. Overall A's top results are a bit more on-target and useful for users seeking GPS tracking solutions.",
+    "key_differences": "A prioritizes dedicated trackers and a bike computer earlier; B favors accessory items (AirTag holders/mounts) at the top, reducing immediate relevance. A therefore has slightly better top-result quality and relevance.",
+    "duplicate_notes": "There are many similar product types (AirTag holders, bells, mounts) across the listings and the same product images appear elsewhere on the site, but within the first 8 items of each screenshot no identical images repeat. If duplicates increase on later positions it would reduce variety and user choice.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

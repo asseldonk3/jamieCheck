@@ -1,0 +1,31 @@
+{
+  "url_index": 106,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519/r/bagagedrager_racefiets/",
+  "visits": 55,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519/r/bagagedrager_racefiets/?opt_seg=5",
+    "screenshot": "url_106_variant_A_6423bdfe.png",
+    "h1_title": "Bagagedrager Racefiets",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519/r/bagagedrager_racefiets/?opt_seg=6",
+    "screenshot": "url_106_variant_B_a719b71b.png",
+    "h1_title": "Bagagedrager Racefiets",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Algorithm A returns more relevant items for the query 'Bagagedrager Racefiets' near the top (rack/trunk bag/panniers and a recognized rack brand), giving the user useful rack and pannier options first. The top results in A focus on mounting solutions and luggage designed for rear carriers. B shows some relevant items but surfaces less directly relevant products (wire baskets) earlier and includes visually redundant placements, reducing the immediate usefulness for a user looking specifically for a racebike luggage carrier.",
+    "key_differences": "A prioritizes racks and panniers in the top results (higher relevance), while B intermixes baskets and accessories and contains a repeated image in the top set. A's top results are more targeted and diverse within the core intent (rear carriers and panniers); B has lower topical precision and a duplicate that reduces perceived variety.",
+    "duplicate_notes": "In the first 8 results B contains a repeated wire-basket image twice (identical product photo from different sellers). A's top 8 show no exact identical images. Duplicates in B reduce perceived variety and make comparison harder for users.",
+    "duplicates_comparison": "A has 0 duplicates, B has 2 duplicates"
+  }
+}

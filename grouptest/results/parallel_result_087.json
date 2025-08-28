@@ -1,0 +1,31 @@
+{
+  "url_index": 87,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559438_559492/",
+  "visits": 62,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559438_559492/?opt_seg=5",
+    "screenshot": "url_087_variant_A_f4268da0.png",
+    "h1_title": "Bidet wc / toilet",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559438_559492/?opt_seg=6",
+    "screenshot": "url_087_variant_B_9ffbb02a.png",
+    "h1_title": "Bidet wc / toilet",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Ignoring duplicate-image occurrences: Version B presents a slightly better mix of bidet-specific items and toilets near the top — it surfaces bidet attachments, handheld sprayers and a dedicated bidet/toilet seat among the first results, which is more directly relevant to the query \"Bidet wc / toilet\". B also shows a broader range of price points and product types (accessories + full toilets) in the top slots, improving choice for different shoppers. A tends to foreground full stand-alone toilets higher, which is reasonable for the query but gives less immediate coverage of popular bidet accessories and lower-priced options.",
+    "key_differences": "B balances accessories (sprayers, hoses) and bidet seats with toilets earlier, giving more immediate relevance to users seeking bidet solutions. A emphasizes full toilets up front and shows less variety in product type and price spread in the top positions.",
+    "duplicate_notes": "In A's top 8 the same white 'LARA' toilet product image appears twice (same image from different sellers). B's first 8 show no exact image repeats. Across both screenshots there are many similar product photos (bidet sprayers, hoses, white toilets) shared between sellers, but exact identical-image duplication within the top-8 occurs only in A.",
+    "duplicates_comparison": "A has 1 duplicates, B has 0 duplicates"
+  }
+}

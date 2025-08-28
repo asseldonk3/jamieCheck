@@ -1,0 +1,31 @@
+{
+  "url_index": 45,
+  "original_url": "https://www.beslist.be/products/fietsen/fietsen_577380/c/type_scooter~4906803",
+  "visits": 83,
+  "variant_a": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_577380/c/type_scooter~4906803?opt_seg=5",
+    "screenshot": "url_045_variant_A_07c84e6c.png",
+    "h1_title": "Elektrische scooters",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_577380/c/type_scooter~4906803?opt_seg=6",
+    "screenshot": "url_045_variant_B_57a06baa.png",
+    "h1_title": "Elektrische scooters",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Both layouts show many relevant electric scooters (full-size mopeds and kick scooters) but A orders more user-relevant items higher: the top positions in A are dominated by full-size electric scooters and the popular foldable kick scooter appears earlier. B pushes an accessory/tire up into a top-row slot, which reduces immediate relevance for a broad query like \"Elektrische scooters\". Overall A provides slightly better mix of main product types and higher-value items up front.",
+    "key_differences": "A places the main scooter listings (full-size and a foldable kick scooter) higher in the grid, while B surfaces an accessory/tire earlier. B therefore has slightly lower relevance and user-value at the top positions.",
+    "duplicate_notes": "Within the first 8 results of each screenshot there are no exact identical product images. Identical images of the same scooter models do appear elsewhere on the page (beyond the top 8) indicating repeated listings from different sellers, but not in the top-8 windows analyzed.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

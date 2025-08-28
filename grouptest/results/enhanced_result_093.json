@@ -1,0 +1,31 @@
+{
+  "url_index": 93,
+  "original_url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559440_559596/",
+  "visits": 61,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559440_559596/?opt_seg=5",
+    "screenshot": "url_093_variant_A_6adbf6cd.png",
+    "h1_title": "Boilers / warmwaterboilers / water boiler / water heaters",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/main_sanitair/main_sanitair_559440_559596/?opt_seg=6",
+    "screenshot": "url_093_variant_B_fce966db.png",
+    "h1_title": "Boilers / warmwaterboilers / water boiler / water heaters",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Version B provides a more diverse and discoverable set of items across brands, sizes and price points, which helps users explore options and find alternative solutions. Although B includes a few borderline items (faucet-mounted/instant heaters and small accessories) that are not classical bulk boilers, overall the top results are varied and expose different categories and price tiers. Version A shows many very similar-looking models (same brand/style) clustered at the top; that increases apparent relevance to ‘boilers’ but reduces variety and hurts the browsing experience and discoverability. A’s top positions feel repetitive and may prioritize the same SKU(s) or same-supplier listings multiple times rather than surfacing distinct, high-value alternatives.",
+    "key_differences": "A concentrates on multiple visually similar boilers (several instances of the same model/style), producing high topical precision but low diversity. B ranks a broader mix of products and price points, improving discovery and user choice, at the cost of a few slightly less relevant items (accessories/fixtures).",
+    "duplicate_notes": "Screenshot A shows the same black vertical boiler image repeated within the first 8 results (the same SKU/photo appears at least twice). B's first 8 appear visually distinct with no exact image repeats. Duplicates in A reduce perceived variety and can frustrate users comparing options.",
+    "duplicates_comparison": "A has 2 duplicates, B has 0 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 156,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484542/c/merk~3074630",
+  "visits": 46,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484542/c/merk~3074630?opt_seg=5",
+    "screenshot": "url_156_variant_A_018600fc.png",
+    "h1_title": "Hema Buitenbanden",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484542/c/merk~3074630?opt_seg=6",
+    "screenshot": "url_156_variant_B_da71c592.png",
+    "h1_title": "Hema Buitenbanden",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Algorithm B produces a more focused, tyre-centric set of results for the query 'Hema Buitenbanden' and presents higher-quality top results (recognizable tyre models, consistent tyre imagery, and visible price/offer info). Algorithm A returns a more mixed set including clearly unrelated items (e.g. V-belts, a wooden ring) and lower-relevance items in the top positions, which reduces relevance and user value. B also surfaces more recognizable popular tyre models and listings that are likely better for users looking to compare tyres and prices.",
+    "key_differences": "B is more focused on actual bicycle tyres in the top positions with clearer, higher-quality tyre images and best-seller cues; A shows greater noise (non-tyre products) and less relevance at the top. B therefore offers better immediate relevance and shopping value.",
+    "duplicate_notes": "Algorithm B repeats the same product images for Schwalbe tyres — I observed two distinct image duplicates within the first 8 (a curved grey road-tyre image and a vertical black tyre image reused). Algorithm A's top-8 contains no identical images repeated, but it includes several non-tyre items which hurt relevance.",
+    "duplicates_comparison": "A has 0 duplicates, B has 2 duplicates"
+  }
+}

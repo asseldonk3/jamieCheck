@@ -1,0 +1,31 @@
+{
+  "url_index": 197,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484478~~type_elek_fiets~9241903",
+  "visits": 40,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484478~~type_elek_fiets~9241903?opt_seg=5",
+    "screenshot": "url_197_variant_A_7c654750.png",
+    "h1_title": "Heren Elektrische vouwfietsen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484478~~type_elek_fiets~9241903?opt_seg=6",
+    "screenshot": "url_197_variant_B_3ce483c3.png",
+    "h1_title": "Heren Elektrische vouwfietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.86,
+    "reasoning": "Version B produces a more useful ranking for the query 'Heren Elektrische vouwfietsen' because its top results show a broader range of distinct foldable electric bike models (classic folding e-fold, ENGWE, Windgoo) and avoid repeating the exact same product image in the visible top results. B gives better product variety and thus higher user value (more distinct choices and popular models up front). Version A places multiple visually identical listings among the first results and repeats similar Windgoo variants, reducing perceived variety and making it harder for users to compare different models quickly.",
+    "key_differences": "B has greater image-level diversity in the top results (fewer identical images and a wider spread of distinct models). A shows repeated identical images within the top 8 (wasted slots) and clusters similar Windgoo variants, lowering perceived variety and comparison quality.",
+    "duplicate_notes": "In A the ENGWE EP 2 Boost (orange) image appears twice within the first 8 items (exact same photo). Several Windgoo B22/E20 variants appear but in different colors (not counted as duplicates). B shows no exact image repeats in its first 8 results.",
+    "duplicates_comparison": "A has 2 duplicates, B has 0 duplicates"
+  }
+}

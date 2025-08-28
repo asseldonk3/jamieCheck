@@ -1,0 +1,31 @@
+{
+  "url_index": 10,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477",
+  "visits": 175,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477?opt_seg=5",
+    "screenshot": "url_010_variant_A_0b0fce17.png",
+    "h1_title": "Dames Elektrische fietsen",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477?opt_seg=6",
+    "screenshot": "url_010_variant_B_e3251e57.png",
+    "h1_title": "Dames Elektrische fietsen",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Version B shows more relevant items for the query 'Dames Elektrische fietsen' in the top results (actual electric bikes rather than unrelated accessories). Top results in B are focused on bikes and include a stronger mixture of popular city and fatbike models. Version A surfaces irrelevant items (e.g. a Bosch display unit and a kitchen juicer) among the initial results which reduces relevance and perceived quality for a user searching specifically for women's e-bikes.",
+    "key_differences": "A includes non-bike products and accessories high in the ranking which harms relevance and top-result quality. B places actual electric bikes higher and offers better immediate variety of bike models, improving user value.",
+    "duplicate_notes": "Across the visible grid there are repeated models elsewhere on the pages (ENGWE E26 and some Elops listings appear multiple times on the full page), but among the first 8 items in both screenshots the images are unique and no identical photos repeat.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

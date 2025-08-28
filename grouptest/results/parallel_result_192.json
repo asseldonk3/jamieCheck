@@ -1,0 +1,31 @@
+{
+  "url_index": 192,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484529/c/merk~484563",
+  "visits": 41,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484529/c/merk~484563?opt_seg=5",
+    "screenshot": "url_192_variant_A_2e7cf33c.png",
+    "h1_title": "Axa Fietssloten",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484529/c/merk~484563?opt_seg=6",
+    "screenshot": "url_192_variant_B_a2d1c161.png",
+    "h1_title": "Axa Fietssloten",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 4,
+    "unique_products": 4
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.85,
+    "reasoning": "Both lists return highly relevant AXA bike locks, but B places higher-value and more useful items (chain/absolute and foldable high-security locks and bundled sets) higher in the grid and avoids promoting very low-security items (small cable) in the top positions. B's top results feel more useful to a shopper looking for durable AXA fietssloten and show clearer popular/best-seller placement and competitive pricing badges. A is relevant and varied but surfaces a lower-value micro-cable in the top row and repeats a foldable image, reducing perceived quality of the top results.",
+    "key_differences": "B prioritizes higher-security, popular models and bundled sets in top slots; A shows more mixed value (including a micro-cable) and repeats a foldable image earlier, giving slightly worse top-result quality and perceived diversity.",
+    "duplicate_notes": "In A the foldable lock image appears twice within the first 8. In B there are at least two repeated images in the first 8 (the foldable lock appears multiple times and the same cable+ring 'set' image appears twice). These duplicates reduce visible variety and push down unique alternatives in the top results.",
+    "duplicates_comparison": "A has 2 duplicates, B has 4 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 65,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477~~merk~485356",
+  "visits": 67,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477~~merk~485356?opt_seg=5",
+    "screenshot": "url_065_variant_A_f473f906.png",
+    "h1_title": "Sparta Dames Elektrische fietsen",
+    "product_count": 0,
+    "score": 4,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/doelgroep_fietsen~484477~~merk~485356?opt_seg=6",
+    "screenshot": "url_065_variant_B_dd9836b4.png",
+    "h1_title": "Sparta Dames Elektrische fietsen",
+    "product_count": 0,
+    "score": 4,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "Tie",
+    "confidence": 0.78,
+    "reasoning": "Neither ranking set surfaces clear 'Sparta' branded dames elektrische fietsen despite the query. Both pages show many non-Sparta models (Engwe, Vogue, Decathlon, Windgoo, Touroll) and a mix of fatbikes and city bikes rather than prioritising known Sparta dames step-through models. Top results in both are visually clear product photos with prices and sellers, but they are not well aligned with the explicit brand + gender intent. Diversity and price variety are acceptable, but relevance to the query (Sparta brand) is low for both.",
+    "key_differences": "Minor ordering differences only: Algorithm B places some Engwe variants earlier and shows a slightly broader distribution of city vs fatbikes in the top row; Algorithm A shows a slightly different mix (Vogue and fatbikes more prominent). Neither corrects the main relevance miss (lack of Sparta items).",
+    "duplicate_notes": "No exact identical product photos within the first 8 results of either version. There are multiple listings of the same model family across the page (ENGWE E26 variants, Vogue, etc.), but they appear as different images or different colours; exact-image duplicates were not observed in the top 8.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

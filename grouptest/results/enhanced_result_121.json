@@ -1,0 +1,31 @@
+{
+  "url_index": 121,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484529/",
+  "visits": 52,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484529/?opt_seg=5",
+    "screenshot": "url_121_variant_A_e9193705.png",
+    "h1_title": "Fietssloten / sloten tweewielers",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484529/?opt_seg=6",
+    "screenshot": "url_121_variant_B_287f48e1.png",
+    "h1_title": "Fietssloten / sloten tweewielers",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A shows a stronger mix of relevant, higher-quality bike locks up front (recognised ABUS models like the Ivy 9210 and a good mix of ring-, chain- and folding-lock types). The top results in A prioritize recognized/security-focused models and a reasonable variety of form-factors that match the query intent for fietssloten. B is relevant but places more mid/low-tier items and repeated visual listings higher, reducing perceived quality of the top results and user value.",
+    "key_differences": "A prioritizes higher-quality / well-known lock types and more useful variety within the top results (chain, folding and ring locks). B places more similar/less-differentiated items among the first rows and repeats the same product image in the top positions, reducing diversity and the perceived best choices first.",
+    "duplicate_notes": "Both lists show one obvious identical product image repeated among the first 8 (the same ABUS coiled/cord-style lock appears twice). No other exact image duplicates were visible within the first 8 items of either screenshot.",
+    "duplicates_comparison": "A has 1 duplicates, B has 1 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 71,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/framemaat~23589340",
+  "visits": 65,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/framemaat~23589340?opt_seg=5",
+    "screenshot": "url_071_variant_A_17ab48c4.png",
+    "h1_title": "Elektrische fietsen 46 cm",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/framemaat~23589340?opt_seg=6",
+    "screenshot": "url_071_variant_B_1e42c088.png",
+    "h1_title": "Elektrische fietsen 46 cm",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Version B presents a tighter, more useful ordering for the query “Elektrische fietsen 46 cm”: top results are relevant models for the frame size, show a broader range of styles and brands up front, and surface clearly discounted/popular items and recognizable city e-bike types. The top results in B are more informative for a shopper (different-looking models, clear price/promotions and established models), whereas A places visually redundant items high and feels less varied in the first row.",
+    "key_differences": "B shows better visual variety and stronger top results (more distinct models and promotions early). A has visible repetition among the top thumbnails which reduces perceived variety and utility for the user; A’s top slots include duplicated images that push distinct models further down.",
+    "duplicate_notes": "I observed repeated identical product photos in the top results: A repeats the same Villette/Debutant image and another common city-bike image among the first 8. B has fewer exact-image repeats (one repeated image among the first 8). Duplicates appear to be the same product offered by multiple sellers (same photo), reducing immediate product variety in the listing.",
+    "duplicates_comparison": "A has 2 duplicates, B has 1 duplicates"
+  }
+}

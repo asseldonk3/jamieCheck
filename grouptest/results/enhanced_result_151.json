@@ -1,0 +1,31 @@
+{
+  "url_index": 151,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~4257262",
+  "visits": 47,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~4257262?opt_seg=5",
+    "screenshot": "url_151_variant_A_5c63f6e4.png",
+    "h1_title": "Victoria Elektrische fietsen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~4257262?opt_seg=6",
+    "screenshot": "url_151_variant_B_462692f8.png",
+    "h1_title": "Victoria Elektrische fietsen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "Tie",
+    "confidence": 0.8,
+    "reasoning": "Both A and B return largely the same set of bikes with very similar ordering and visual prominence (ENGWE fatbikes, Vogue, Decathlon city bikes, Windgoo, Touroll). Neither ranking is particularly well-aligned with the query intent “Victoria Elektrische fietsen” — many visible top results are non‑Victoria brands. Top results are mid‑quality (recognizable models, some badges and price discounts visible), and both provide similar user value (mix of price points and best‑seller/quality badges). There is no clear advantage in relevance, diversity or deal quality for either algorithm based on the visible top results.",
+    "key_differences": "Differences are minor reordering of the same models: A slightly emphasizes a black ENGWE in the very top positions while B shows nearly the same set but with a slightly different product title phrasing. B displays the Victoria brand filter checked in the UI (suggesting an attempt at brand filtering) but the results still include many other brands — functionally both outputs are equivalent in ranking quality.",
+    "duplicate_notes": "Within the first 8 results of each view there were no products sharing an identical product photo. The ENGWE E26 appears multiple times on the page in different colors/angles (and reappears later), but the images in the first 8 are distinct (different color/angle). Overall there are repeated models across the grid, but not identical product images among the first 8 in either A or B.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

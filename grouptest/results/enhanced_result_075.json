@@ -1,0 +1,31 @@
+{
+  "url_index": 75,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/type_elek_fiets~23791934/page_2/",
+  "visits": 64,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/type_elek_fiets~23791934/page_2/?opt_seg=5",
+    "screenshot": "url_075_variant_A_57ae21cd.png",
+    "h1_title": "Fatbike",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/type_elek_fiets~23791934/page_2/?opt_seg=6",
+    "screenshot": "url_075_variant_B_2257bf56.png",
+    "h1_title": "Fatbike",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Overall B surfaces more fatbike-style products and a broader variety in the top ranks. B's top results include clear fatbike/multi-terrain models earlier, giving higher relevance to the query. A places two visually similar ENGWE models (color variants) very high and includes an accessory among the top results, which reduces perceived relevance and user value. B also shows slightly better mix of popular models and price points in the visible top results.",
+    "key_differences": "B prioritizes actual fatbike-looking models and provides better variety across brands/styles in the first page; A over-represents the same model in different color variants and surfaces non-bike items (accessory) within the first 8, lowering relevance and usefulness.",
+    "duplicate_notes": "No exact identical product images were repeated within the first 8 items of either view. I did observe the same model shown in different colors (ENGWE P275 variants) and a shared accessory image (footrests) appearing on both pages, but these were different images or color variants and thus not counted as duplicates per the instructions.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

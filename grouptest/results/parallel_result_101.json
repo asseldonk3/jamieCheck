@@ -1,0 +1,31 @@
+{
+  "url_index": 101,
+  "original_url": "https://www.beslist.be/products/fietsen/fietsen_484520/",
+  "visits": 57,
+  "variant_a": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484520/?opt_seg=5",
+    "screenshot": "url_101_variant_A_404befcc.png",
+    "h1_title": "Fietsen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484520/?opt_seg=6",
+    "screenshot": "url_101_variant_B_49251abf.png",
+    "h1_title": "Fietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Version B presents a slightly stronger top of results for the query 'Fietsen'. It shows a broader mix of bike types (fat/trike, electric step-through, mountainbike, folding/e-bike) in the first row which improves user discovery. Both pages include relevant e-bikes and family/kids bikes, but A places a small non-bike accessory (cylindrical kurkentrekker) very high in the grid which reduces relevance and perceived quality of top results. B's top results are more diverse and useful for different user intents (commuting, mountain, folding), and show competitive prices and recognizable bike types earlier.",
+    "key_differences": "B has better category diversity and a more useful mix of bike types in the top slots (mountain, folding, fatbike, e-bike) while A emphasizes a similar subset of e/fatbikes and surfaces a non-bike accessory prominently, reducing immediate relevance for a generic 'Fietsen' search.",
+    "duplicate_notes": "Within the first 8 results of each version there are no exact identical product images repeated. Identical product images (same model from different sellers) appear elsewhere on the pages beyond the first 8, but not in the inspected top-8 for either A or B.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

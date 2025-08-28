@@ -1,0 +1,31 @@
+{
+  "url_index": 119,
+  "original_url": "https://www.beslist.nl/products/fietsen/r/bosch_usb-oplaadkabel_micro_a-b_300mm_smartphone/",
+  "visits": 52,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/r/bosch_usb-oplaadkabel_micro_a-b_300mm_smartphone/?opt_seg=5",
+    "screenshot": "url_119_variant_A_02b64f0a.png",
+    "h1_title": "Bosch Micro Usb-Oplaadkabel 300mm",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/r/bosch_usb-oplaadkabel_micro_a-b_300mm_smartphone/?opt_seg=6",
+    "screenshot": "url_119_variant_B_aa6408f8.png",
+    "h1_title": "Bosch Micro Usb-Oplaadkabel 300mm",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Algorithm A ranks actual USB/micro-USB cables higher in the top results (a short angled micro-USB cable and a vertical USB cable appear within the first 8), which is more relevant to the query 'Bosch Micro Usb-Oplaadkabel 300mm'. A's top results therefore include at least one clearly relevant charging cable and a second cable-like item, giving users quicker access to likely matches. Algorithm B surfaces more unrelated Bosch accessories (pumps, displays, locks, lights) within the top results, which reduces immediate relevance for a user specifically looking for a Bosch micro USB charging cable.",
+    "key_differences": "A places cable-type products higher (better lexical/intent match), B emphasizes Bosch accessories and bike electronics (brand-related but not the requested cable), so A has higher immediate relevance and utility for this specific query.",
+    "duplicate_notes": "No identical product images were repeated within the first 8 results on either page. I do observe identical images elsewhere on the pages (e.g. an Accuslot/metal lock image appears multiple times further down, and some Bosch accessory images recur), but those repeats fall outside the first 8 positions.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

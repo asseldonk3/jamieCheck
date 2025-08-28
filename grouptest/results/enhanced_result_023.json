@@ -1,0 +1,31 @@
+{
+  "url_index": 23,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807884/r/action/",
+  "visits": 120,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807884/r/action/?opt_seg=5",
+    "screenshot": "url_023_variant_A_bf1b6584.png",
+    "h1_title": "Action Fietsspiegels",
+    "product_count": 0,
+    "score": 3,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_23807884/r/action/?opt_seg=6",
+    "screenshot": "url_023_variant_B_7b746734.png",
+    "h1_title": "Action Fietsspiegels",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.85,
+    "reasoning": "Page A surfaces several non-relevant items high in the list (a motorcycle phone mount, car mirror glass, generic handlebar-end parts) instead of bicycle rear-view mirrors. That reduces relevance to the query \"Action Fietsspiegels\" and harms top-result quality. Page B’s top results are clearly bicycle mirrors of various common mounting styles (handlebar-mounted, bar-end, adjustable stalk), include price/discount/best-seller signals, and present items a shopper searching for bike mirrors would expect. Overall B is more relevant, higher quality at the top, and more useful for users looking for bicycle mirrors.",
+    "key_differences": "A includes several unrelated or marginal items in top positions (phone mount, car mirror glass, generic parts), hurting relevance and user value. B focuses the top ranks on actual bicycle mirrors, shows a wider set of mounting types and clearer shopping signals (badges/pricing), improving relevance and decision value.",
+    "duplicate_notes": "Within the first 8 items of both screenshots there are no exact identical product images. A does show visually similar mirror listings (same model in different colors) and the phone-mount image repeats further down the page, but these are not identical within the first 8 and/or are different colors so not counted as duplicates per the rules.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

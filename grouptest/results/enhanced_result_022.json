@@ -1,0 +1,31 @@
+{
+  "url_index": 22,
+  "original_url": "https://www.beslist.be/products/fietsen/fietsen_484520_484533/",
+  "visits": 121,
+  "variant_a": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484520_484533/?opt_seg=5",
+    "screenshot": "url_022_variant_A_5e2a9b93.png",
+    "h1_title": "Elektrische Fiets",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484520_484533/?opt_seg=6",
+    "screenshot": "url_022_variant_B_f2fb75ef.png",
+    "h1_title": "Elektrische Fiets",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A returns more directly relevant electric bikes in the top results and places higher-quality, full-size city and fatbikes prominently. The top positions in A include recognizable adult electric models (Puch, Vogue, Diabolo) whereas B places more non-bicycle items (kitchen appliances, corkscrew) among the top slots, reducing immediate query relevance. Overall A gives better user value by surfacing meaningful electric-bike options earlier and showing a clearer variety of bike types.",
+    "key_differences": "A prioritizes full-size electric bikes and bike-relevant variants in the top results; B surfaces more non-bike items and small/novelty items higher, creating noise and lower immediate relevance.",
+    "duplicate_notes": "Within the visible page there are repeated product images elsewhere (the same bike images appear multiple times further down the grid across different sellers), but none of the first 8 items in either view use identical product photos. Duplicates are present beyond the top-8 positions (e.g., some Vogue and Diabolo listings repeat later).",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

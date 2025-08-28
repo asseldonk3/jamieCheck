@@ -1,0 +1,31 @@
+{
+  "url_index": 19,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_23807963_23807978/c/t_fietspompen~23588101",
+  "visits": 123,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_23807963_23807978/c/t_fietspompen~23588101?opt_seg=5",
+    "screenshot": "url_019_variant_A_504ab8ca.png",
+    "h1_title": "Elektrische fietspompen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_23807963_23807978/c/t_fietspompen~23588101?opt_seg=6",
+    "screenshot": "url_019_variant_B_568b9438.png",
+    "h1_title": "Elektrische fietspompen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Both pages return relevant items for the query 'Elektrische fietspompen' (portable electric pumps with digital displays and accessories). Version A provides a broader, better-balanced mix of brands, form factors (compact vertical units, cartridge-like slim pumps, small boxy compressors) and visible deals/badges in the top slots, which increases the chance a user finds a suitable option quickly. Version B contains relevant items as well but surfaces a duplicate product image in the top results which reduces perceived variety and wastes valuable top-rank real estate. Overall A's top results are more useful and diverse for typical users (different price points, recognizable designs and deals shown).",
+    "key_differences": "A shows greater product variety and more distinct top items; B repeats an identical product image in the top results (reducing diversity) and therefore offers lower perceived value at the very top of the list.",
+    "duplicate_notes": "In version B the Woowind BP188 (black slender pump) image appears twice within the first 8 results. No exact image duplicates were observed within the first 8 items of version A.",
+    "duplicates_comparison": "A has 0 duplicates, B has 1 duplicates"
+  }
+}

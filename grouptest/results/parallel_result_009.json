@@ -1,0 +1,31 @@
+{
+  "url_index": 9,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~484584",
+  "visits": 178,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~484584?opt_seg=5",
+    "screenshot": "url_009_variant_A_7095c20f.png",
+    "h1_title": "Gazelle Elektrische fietsen",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~484584?opt_seg=6",
+    "screenshot": "url_009_variant_B_bc427fd9.png",
+    "h1_title": "Gazelle Elektrische fietsen",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "Tie",
+    "confidence": 0.75,
+    "reasoning": "Both A and B return a similar mix of electric-bike listings (ENGWE, Vogue, Decathlon, Windgoo, etc.) rather than prioritizing Gazelle models for the query “Gazelle Elektrische fietsen”. Top results in both sets are recognizable, visually clear and show competitive prices, but neither ranking strongly surfaces Gazelle-branded bikes or an obvious set of the most relevant Gazelle models. Both provide reasonable variety across styles (city, fatbike, compact) and prominent commercial items, but relevance to the explicit Gazelle query is weak in both.",
+    "key_differences": "Visually the two rankings are nearly identical in product order and diversity. The main operational difference is that B shows the Gazelle brand filter active in the sidebar (better for navigation), while A shows a slightly broader mix without the filter emphasis. That UI/filters advantage in B helps users refine, but neither list ranks Gazelle items clearly at the top.",
+    "duplicate_notes": "Within the first 8 results of both screenshots I found no exact identical product images repeated. There are several repeated models elsewhere on the pages (ENGWE and some city-bike listings appear multiple times in later positions), and many visually similar listings differ only by color or seller — those were not counted as duplicates per instruction.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

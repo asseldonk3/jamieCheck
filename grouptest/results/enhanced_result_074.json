@@ -1,0 +1,31 @@
+{
+  "url_index": 74,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520/c/doelgroep_fietsen~3413584~~wielmaat_fiets~8532860",
+  "visits": 64,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520/c/doelgroep_fietsen~3413584~~wielmaat_fiets~8532860?opt_seg=5",
+    "screenshot": "url_074_variant_A_88bb8ae0.png",
+    "h1_title": "Meisjes Fietsen 18 inch",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 3,
+    "unique_products": 5
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520/c/doelgroep_fietsen~3413584~~wielmaat_fiets~8532860?opt_seg=6",
+    "screenshot": "url_074_variant_B_11921304.png",
+    "h1_title": "Meisjes Fietsen 18 inch",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A returns more immediately relevant results for the query \"Meisjes Fietsen 18 inch\": top positions are dominated by girls' 18\" bikes (pink/child models) and recognizable child-bike models, which match user intent. The top results are high-quality product photos and include popular styles and brands. Algorithm B shows more variety but places less relevant items (notably a black BMX-style bike) prominently, reducing immediate relevance and user value for someone specifically looking for girls' 18\" bicycles.",
+    "key_differences": "A prioritizes query relevance and typical girls' 18\" models in the top slots; B surfaces more stylistic variety (and a BMX) earlier, harming relevance. A's top results give better user value for the stated intent, while B trades some relevance for variety.",
+    "duplicate_notes": "A shows multiple identical product photos among the first 8 (several pink/AMIGO-style images repeat), reducing visible variety. B also has repeats but fewer in the top 8; duplicates are mostly the same model shown from different sellers (same image).",
+    "duplicates_comparison": "A has 3 duplicates, B has 2 duplicates"
+  }
+}

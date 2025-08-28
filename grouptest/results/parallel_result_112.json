@@ -1,0 +1,31 @@
+{
+  "url_index": 112,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519/r/rugzak_drager_op_fiets/",
+  "visits": 54,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519/r/rugzak_drager_op_fiets/?opt_seg=5",
+    "screenshot": "url_112_variant_A_a6848b8f.png",
+    "h1_title": "Fiets Rugzakdrager",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519/r/rugzak_drager_op_fiets/?opt_seg=6",
+    "screenshot": "url_112_variant_B_71de9c59.png",
+    "h1_title": "Fiets Rugzakdrager",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Results in A are more relevant and useful for the query: they show a broader mix of brands and form-factors (roll-top bike backpacks, panniers, an accessory) and surface recognizable best-sellers and price options near the top. B is more heavily populated by the same roll-top model in multiple color variants which reduces perceived variety and makes the top results less informative for users deciding between different types of 'fiets rugzakdrager'. Overall A gives better diversity and higher immediate user value.",
+    "key_differences": "A presents a wider variety of brands and product types (multiple backpack styles, panniers and an accessory) in the top slots; B emphasizes the same roll-top backpack model across several color variants, lowering diversity and exploratory value.",
+    "duplicate_notes": "No exact identical product images were found among the first 8 results on either page. Both pages show multiple color variants and the same model across sellers (e.g., Fastrider and Larkson roll-tops), which can look similar but are different colors/variants and were not counted as duplicates per instructions.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

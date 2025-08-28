@@ -1,0 +1,31 @@
+{
+  "url_index": 130,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484525/c/doelgroep_fietsen~484477",
+  "visits": 50,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484525/c/doelgroep_fietsen~484477?opt_seg=5",
+    "screenshot": "url_130_variant_A_c43d68db.png",
+    "h1_title": "Dames Fietshelmen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_484525/c/doelgroep_fietsen~484477?opt_seg=6",
+    "screenshot": "url_130_variant_B_0748cc62.png",
+    "h1_title": "Dames Fietshelmen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A produces more relevant top results for the query 'Dames Fietshelmen' — it prioritizes common women's/urban helmets (popular ABUS commuter models and other city helmets) and shows recognizable best-seller items and deals up top. The results look more focused on everyday women’s helmets rather than mixing in unrelated segments. Algorithm B shows a few high-end or niche sport helmets and even a clearly child-themed helmet in the top results, which reduces relevance for a women's helmet search. Overall A gives better immediate user value and relevance.",
+    "key_differences": "A concentrates on popular city/commuter helmets and best-sellers (higher immediate relevance and perceived value). B has more model variety but includes some less-relevant items (child helmet, premium sport helmets) near the top, reducing precision for the query.",
+    "duplicate_notes": "Multiple listings reuse the same ABUS product images (the Abus Urban/I3.0 style appears more than once). Duplicates are moderate in the top 8 for both variants, reducing visible variety and occupying valuable prime result space.",
+    "duplicates_comparison": "A has 2 duplicates, B has 2 duplicates"
+  }
+}

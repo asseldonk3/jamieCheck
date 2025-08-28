@@ -1,0 +1,31 @@
+{
+  "url_index": 52,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484519_23808019/c/bevestiging_fietstas~23808237~~soort_fietstas~23808149",
+  "visits": 78,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_23808019/c/bevestiging_fietstas~23808237~~soort_fietstas~23808149?opt_seg=5",
+    "screenshot": "url_052_variant_A_691ec8a0.png",
+    "h1_title": "Kliksysteem Stuurtas",
+    "product_count": 0,
+    "score": 5,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484519_23808019/c/bevestiging_fietstas~23808237~~soort_fietstas~23808149?opt_seg=6",
+    "screenshot": "url_052_variant_B_d4a3a751.png",
+    "h1_title": "Kliksysteem Stuurtas",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Version B presents more relevant and useful results for the query 'Kliksysteem Stuurtas': the top row includes an explicitly labelled 'klickfix' stuurtas and a broader mix of recognised brands and styles (Ortlieb, Vaude, dedicated handlebar bags). B's top results surface higher-quality and more clearly relevant products, whereas A surfaces a repeated product image at the top and several items that are less clearly related to a klik-/Klickfix handlebar mounting system. B therefore delivers better immediate relevance, diversity and user value.",
+    "key_differences": "B places explicitly labelled klickfix/handlebar-mount bags and known-brand models higher and shows a broader variety of distinct products. A repeats the same product image at the top (reducing variety) and surfaces more generic/less clearly click-system-specific items among the highest positions.",
+    "duplicate_notes": "In A the first two slots show the exact same product image (same bag shown twice), which wastes prominent real estate and reduces perceived variety. No exact-image duplicates were observed among the first 8 results in B. Both lists still include some items that may not explicitly advertise a klik/Klickfix system, lowering precision overall.",
+    "duplicates_comparison": "A has 2 duplicates, B has 0 duplicates"
+  }
+}

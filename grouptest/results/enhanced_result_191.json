@@ -1,0 +1,31 @@
+{
+  "url_index": 191,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484542/",
+  "visits": 41,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484542/?opt_seg=5",
+    "screenshot": "url_191_variant_A_7c5d880f.png",
+    "h1_title": "Fietsbanden",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484542/?opt_seg=6",
+    "screenshot": "url_191_variant_B_e1e4d916.png",
+    "h1_title": "Fietsbanden",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Both pages are clearly relevant for the query 'Fietsbanden' (bike tyres). Version A presents a broader mix of tyre types and brands in the top ranks (foldable/road/MTB/budget examples visible), giving users more variety up-front and exposing different use-cases. Version B pushes several Schwalbe Marathon-style items to the very top, which are popular but results in a tighter, less diverse top set. Overall A better balances popularity and variety, making it more useful for different user intents.",
+    "key_differences": "A surfaces more diverse tyre types and brands in the top results (better coverage of user intents). B is more concentrated on similar Schwalbe Marathon variants at the top — good for popularity but worse for variety and discovery.",
+    "duplicate_notes": "I found no exact identical product images among the first 8 results on either page. There are many visually similar Schwalbe Marathon images across the grid (and the same images repeat outside the top 8), which can give the impression of duplication, but within each top-8 block every image is unique.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

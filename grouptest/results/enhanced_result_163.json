@@ -1,0 +1,31 @@
+{
+  "url_index": 163,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484548/",
+  "visits": 44,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484548/?opt_seg=5",
+    "screenshot": "url_163_variant_A_fa47154d.png",
+    "h1_title": "Kettingkasten",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484548/?opt_seg=6",
+    "screenshot": "url_163_variant_B_23fb2336.png",
+    "h1_title": "Kettingkasten",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.82,
+    "reasoning": "Version B provides a clearer, more useful ordering for the query 'Kettingkasten'. The top results in B show a broader mix of recognizable brands and product styles (AXA, SKS, Falkx, Ouxi, plastic guards), a better spread of price points and product types, and generally higher perceived user value in the first screenful. That makes it easier for users to scan and find the right chain guard quickly. Version A is relevant but the top slots feel less varied and give less breadth of choice among popular models.",
+    "key_differences": "B surfaces a wider variety of brands and guard styles in the top slots and balances price/quality choices better. A places similar-styled items closer together and shows fewer distinct product appearances at the top, reducing the perceived variety.",
+    "duplicate_notes": "In the first 8 items of A the same AXA rear-wheel product image appears three times (counts as 2 duplicate occurrences beyond the original). In B the AXA rear-wheel image appears twice within the first 8 (1 duplicate occurrence). Other items in both lists are visually distinct in the top 8.",
+    "duplicates_comparison": "A has 2 duplicates, B has 1 duplicates"
+  }
+}

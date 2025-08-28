@@ -1,0 +1,31 @@
+{
+  "url_index": 198,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/wielmaat_fiets~6129113",
+  "visits": 40,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/wielmaat_fiets~6129113?opt_seg=5",
+    "screenshot": "url_198_variant_A_ee7dc3d9.png",
+    "h1_title": "Elektrische fietsen 24 inch",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 4,
+    "unique_products": 4
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/wielmaat_fiets~6129113?opt_seg=6",
+    "screenshot": "url_198_variant_B_911d40ce.png",
+    "h1_title": "Elektrische fietsen 24 inch",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 5,
+    "unique_products": 3
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.8,
+    "reasoning": "Algorithm A produces a more useful top set for the query 'Elektrische fietsen 24 inch'. The top results in A show a better mix of product types (a visible fatbike/kids e‑bike plus several step‑through models), which increases the chance a user will immediately find a relevant 24\" electric bike. A's top tiles also include clearer price badges and recognizable popular items, improving perceived quality. Algorithm B feels more repetitive in the top slots and gives less immediate variety; several visible top tiles look like the same model family repeated, which reduces the chance a diverse set of user intents (kids bikes, step‑through commuters, fatbikes) is satisfied quickly.",
+    "key_differences": "A offers more variety in the top results (different styles and at least one distinct fatbike/kids e‑bike), while B surfaces more of the same model family/images up front. A prioritizes a broader product mix and stronger top‑of‑page candidates; B emphasizes similar listings, which hurts discovery and user value.",
+    "duplicate_notes": "Both pages show repeated product photos from the same model family (Avon Bx1 step‑through images in the same color and a red fatbike image). Duplicates are concentrated among Avon Bx1 step‑through photos and the red fatbike; B shows slightly more identical-image repeats in its first eight tiles than A.",
+    "duplicates_comparison": "A has 4 duplicates, B has 5 duplicates"
+  }
+}

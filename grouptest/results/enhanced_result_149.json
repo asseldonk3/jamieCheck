@@ -1,0 +1,31 @@
+{
+  "url_index": 149,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~9315265",
+  "visits": 47,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~9315265?opt_seg=5",
+    "screenshot": "url_149_variant_A_e3c872a4.png",
+    "h1_title": "Koga Elektrische fietsen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/c/merk~9315265?opt_seg=6",
+    "screenshot": "url_149_variant_B_24563bdc.png",
+    "h1_title": "Koga Elektrische fietsen",
+    "product_count": 0,
+    "score": 4,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.78,
+    "reasoning": "Overall A provides a slightly better shopping experience: the top results show visible best‑seller badges, a mix of popular models (fatbikes and city e‑bikes) and price information which helps users quickly evaluate options. Both pages suffer from very poor relevance to the query “Koga Elektrische fietsen” — Koga bikes are not visible in the main grid — but B is weaker because it appears to have a Koga brand filter active (left column) while still showing many non‑Koga items, indicating incorrect filtering or relevance handling. A’s top results are marginally more useful (clear badges, variety of common shopper choices) and the sort by popularity yields recognizable popular items and deals higher up.",
+    "key_differences": "A ranks visibly popular/badged items and a greater immediate variety at the top; B shows similar items but displays an active brand filter (Koga) that is not respected properly, reducing relevance and user trust. In short, A gives slightly better top‑result utility and credibility; B has a filter/relevance mismatch.",
+    "duplicate_notes": "Within the first 8 results of each view I did not find any identical product photos. Across the full grids there are duplicated models (e.g., the ENGWE E26 blue appears multiple times from different sellers), indicating some repeated identical images further down the listings, but top‑8 areas are unique.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

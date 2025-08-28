@@ -1,0 +1,31 @@
+{
+  "url_index": 117,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/page_2/",
+  "visits": 53,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/page_2/?opt_seg=5",
+    "screenshot": "url_117_variant_A_5ba66a27.png",
+    "h1_title": "Elektrische Fietsen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484520_484533/page_2/?opt_seg=6",
+    "screenshot": "url_117_variant_B_6449ed0f.png",
+    "h1_title": "Elektrische Fietsen",
+    "product_count": 0,
+    "score": 7,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Version B returns more clearly relevant electric bicycles in the highest positions (e‑mountainbike, city e-bike, folding and fatbikes) and therefore better matches the broad query “Elektrische Fietsen”. A contains more noisy items mixed into the top slots (an accessory and a clearly unrelated kitchen appliance appear prominently), which reduces immediate relevance and trust. Both pages show a reasonable variety of bike types, but B’s top results are higher quality and more useful to a user seeking an e‑bike.",
+    "key_differences": "B ranks full-size, clearly relevant e‑bikes higher (including an e‑mountainbike at top) while A surfaces accessory and non-bike items among the first page results. This makes B slightly more relevant and user‑friendly for the search intent.",
+    "duplicate_notes": "No exact identical product images were observed among the first 8 results on either page. Both lists include some non-bike items (kitchen juicers) and accessories mixed into the results, but image duplicates within the top 8 were not found.",
+    "duplicates_comparison": "A has 0 duplicates, B has 0 duplicates"
+  }
+}

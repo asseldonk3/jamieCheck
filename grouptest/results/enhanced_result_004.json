@@ -1,0 +1,31 @@
+{
+  "url_index": 4,
+  "original_url": "https://www.beslist.nl/products/fietsen/",
+  "visits": 248,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/?opt_seg=5",
+    "screenshot": "url_004_variant_A_31779df3.png",
+    "h1_title": "Fietsen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/?opt_seg=6",
+    "screenshot": "url_004_variant_B_a94e524f.png",
+    "h1_title": "Fietsen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Algorithm A returns more bike-focused results at the top (multiple e-bikes, city bikes and popular models), which better matches the query 'Fietsen'. Top results in A surface relevant, high-value items (e-bikes, recognizable models and visible deals) that a typical shopper searching for bikes would expect. Algorithm B shows more accessories (locks, tires, sensors) and a less bike-centric mix in the top slots, which reduces relevance for the broad query.",
+    "key_differences": "A prioritizes actual bikes and prominent bike models/deals in top positions (higher relevance). B produces greater product-type diversity (accessories included) but at the cost of query relevance and perceived top-result quality.",
+    "duplicate_notes": "In A the Vogue Mestengo bike image appears twice within the first 8 items (repeat listing). Otherwise the first 8 in both pages show mostly unique photos; B's top 8 contain no exact identical images. Some identical helmet and bike images appear across the two pages but not duplicated within B's top 8.",
+    "duplicates_comparison": "A has 1 duplicates, B has 0 duplicates"
+  }
+}

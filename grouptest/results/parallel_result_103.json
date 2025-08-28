@@ -1,0 +1,31 @@
+{
+  "url_index": 103,
+  "original_url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484542/c/t_fietsband~23755401",
+  "visits": 56,
+  "variant_a": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484542/c/t_fietsband~23755401?opt_seg=5",
+    "screenshot": "url_103_variant_A_efff9bc1.png",
+    "h1_title": "Anti-lek banden",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 1,
+    "unique_products": 7
+  },
+  "variant_b": {
+    "url": "https://www.beslist.nl/products/fietsen/fietsen_484521_484542/c/t_fietsband~23755401?opt_seg=6",
+    "screenshot": "url_103_variant_B_0b5e3d31.png",
+    "h1_title": "Anti-lek banden",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 0,
+    "unique_products": 8
+  },
+  "analysis": {
+    "winner": "A",
+    "confidence": 0.85,
+    "reasoning": "Algorithm A returns more relevant, on-topic results for the query 'Anti-lek banden' (well-known puncture-resistant models like Schwalbe Marathon and CST Breaker appear high). The top results in A are higher quality and more useful to users (recognised anti-puncture models, good visibility of price/badges). Algorithm B contains a non-tire item (pump hose) in the top results and mixes in some less relevant items, reducing precision and immediate user value.",
+    "key_differences": "A prioritises recognised anti-puncture tyre models and presents stronger top results; B shows noisier top positions (including an irrelevant pump hose) and less consistent relevance/quality.",
+    "duplicate_notes": "In A one image (a vertical smooth Schwalbe Marathon-style tyre) appears twice within the first 8 results (same product image from different sellers). No identical-image duplicates were observed among the first 8 in B.",
+    "duplicates_comparison": "A has 1 duplicates, B has 0 duplicates"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url_index": 185,
+  "original_url": "https://www.beslist.be/products/fietsen/fietsen_484519_23808019/c/merk~484601",
+  "visits": 42,
+  "variant_a": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484519_23808019/c/merk~484601?opt_seg=5",
+    "screenshot": "url_185_variant_A_dd043dfe.png",
+    "h1_title": "Ortlieb Fietstassen",
+    "product_count": 0,
+    "score": 6,
+    "duplicates": 3,
+    "unique_products": 5
+  },
+  "variant_b": {
+    "url": "https://www.beslist.be/products/fietsen/fietsen_484519_23808019/c/merk~484601?opt_seg=6",
+    "screenshot": "url_185_variant_B_0a10c2b9.png",
+    "h1_title": "Ortlieb Fietstassen",
+    "product_count": 0,
+    "score": 8,
+    "duplicates": 2,
+    "unique_products": 6
+  },
+  "analysis": {
+    "winner": "B",
+    "confidence": 0.8,
+    "reasoning": "Version B presents a slightly stronger result set for the query \"Ortlieb Fietstassen\": the top results are highly relevant (well-known Ortlieb models are shown), the result set in B contains a wider spread of different Ortlieb models and styles among the highest-ranked items (different shapes and use-cases), and the top positions in B include clear bestseller/quality signals and a mix of price points which improves user value. A is relevant as well but its top results feel less balanced across model types and price/feature variations compared with B.",
+    "key_differences": "B surfaces a broader variety of Ortlieb models and more useful top-positions (different form-factors, clearer bestseller/quality cues and a better spread of price points). A tends to cluster similar product types higher up, reducing immediate exposure to other popular Ortlieb models.",
+    "duplicate_notes": "In A the yellow Ortlieb Sport-Roller image appears multiple times in the top 8 (same product photo repeated) and the red Back-Roller style also repeats. In B there are still some repeated Ortlieb images but fewer in the first 8; repeats mainly involve the yellow Sport-Roller and a common black Back-Roller photo.",
+    "duplicates_comparison": "A has 3 duplicates, B has 2 duplicates"
+  }
+}
